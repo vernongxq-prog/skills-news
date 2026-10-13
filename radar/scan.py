@@ -186,8 +186,11 @@ def write_summary(c, now, watch):
         days = [c.execute("SELECT COUNT(*) FROM kw_hits WHERE kw=? AND published>=? AND published<?",
                           (kw, (now - timedelta(days=i + 1)).isoformat(), (now - timedelta(days=i)).isoformat())).fetchone()[0] for i in range(6, -1, -1)]
         base = sum(days[:-1]) / 6.0
-        top = c.execute("SELECT e.title,e.url FROM kw_hits k JOIN events e ON e.id=k.event_id WHERE k.kw=? ORDER BY k.published DESC LIMIT 1", (kw,)).fetchone()
-        rows.append(dict(kw=kw, level=level, d24=d24, baseline=round(base, 1), ratio=round(d24 / max(base, 0.5), 1), consecutive=cons, days=days, latest=top, watch=kw in watch, alerted_at=al_at))
+        samples = [dict(title=t, url=u, source=s, published=p) for t, u, s, p in c.execute(
+            "SELECT e.title,e.url,e.source,e.published FROM kw_hits k JOIN events e ON e.id=k.event_id WHERE k.kw=? ORDER BY k.published DESC LIMIT 3", (kw,))]
+        top = [samples[0]["title"], samples[0]["url"]] if samples else None
+        rows.append(dict(kw=kw, level=level, d24=d24, baseline=round(base, 1), ratio=round(d24 / max(base, 0.5), 1), consecutive=cons, days=days,
+                         latest=top, samples=samples, watch=kw in watch, alerted_at=al_at))
     rows.sort(key=lambda r: (LEVELS[r["level"]], r["ratio"], r["d24"]), reverse=True)
     rows = rows[: config.TOP_N]
     md = [f"# Risk Radar JP — 热词 {now.strftime('%Y-%m-%d %H:%M')} JST", "",
@@ -196,7 +199,14 @@ def write_summary(c, now, watch):
         spark = "".join(" ▁▂▃▄▅▆▇█"[min(8, round(d / max(max(r["days"]), 1) * 8))] for d in r["days"])
         md.append(f"| {r['level']}{' ⭐' if r['watch'] else ''} | {r['kw']} | {r['d24']} | {r['baseline']} | ×{r['ratio']} | {r['consecutive']} | `{spark}` | [{r['latest'][0][:36] if r['latest'] else ''}]({r['latest'][1] if r['latest'] else ''}) |")
     (STATE / "summary.md").write_text("\n".join(md) + "\n", encoding="utf-8")
-    (STATE / "latest.json").write_text(json.dumps(dict(generated=now.isoformat(), keywords=rows), ensure_ascii=False, indent=1), encoding="utf-8")
+    shown = {r["kw"] for r in rows}
+    events = []
+    for eid, title, url, src, pub in c.execute("SELECT id,title,url,source,published FROM events WHERE published>=? ORDER BY published DESC LIMIT 150", (t24,)):
+        kws = [k for (k,) in c.execute("SELECT kw FROM kw_hits WHERE event_id=?", (eid,)) if k in shown]
+        events.append(dict(id=eid, title=title, url=url, source=src, published=pub, keywords=kws))
+    last = c.execute("SELECT ts,new_events FROM runs ORDER BY ts DESC LIMIT 1").fetchone()
+    (STATE / "latest.json").write_text(json.dumps(dict(generated=now.isoformat(), new_events=last[1] if last else 0,
+                                                       keywords=rows, events=events), ensure_ascii=False, indent=1), encoding="utf-8")
 
 if __name__ == "__main__":
     main()

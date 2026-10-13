@@ -2,7 +2,7 @@ name: risk radar scan
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # 每 15 分钟（GitHub 可能延迟几分钟）
+    - cron: "*/15 * * * *"   # 每 15 分钟（GitHub 繁忙时会延迟）
   workflow_dispatch:
 
 permissions:
@@ -23,16 +23,34 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+
+      # radar.db（历史与基线）放 Actions 缓存，不进 git 历史，避免仓库膨胀
+      - name: restore db
+        uses: actions/cache/restore@v4
+        with:
+          path: state/radar.db
+          key: radar-db-${{ github.run_id }}
+          restore-keys: radar-db-
+
       - name: scan
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m radar.scan
-      - name: commit state
+
+      - name: save db
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: state/radar.db
+          key: radar-db-${{ github.run_id }}
+
+      - name: commit summary
         run: |
           git config user.name "risk-radar-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state/
+          git add state/summary.md state/latest.json
           git diff --cached --quiet || git commit -m "scan $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -q || true
           git push
