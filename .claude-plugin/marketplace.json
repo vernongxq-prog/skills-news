@@ -1,0 +1,12 @@
+{
+  "name": "jp-risk-radar",
+  "description": "日本企業リスクニュース → 関連銘柄。tepgu consulting 内部ツール",
+  "owner": { "name": "tepgu consulting K.K." },
+  "plugins": [
+    {
+      "name": "jp-risk-radar",
+      "source": "./plugins/jp-risk-radar",
+      "description": "リスクニュースの扫描・深挖・radar 読取（/jp-risk-radar:jp-risk-radar）"
+    }
+  ]
+}
