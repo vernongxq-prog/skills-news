@@ -1,265 +1,7 @@
 {
- "generated": "2026-10-17T10:33:59.474421+09:00",
- "new_events": 64,
+ "generated": "2026-10-17T15:13:48.744681+09:00",
+ "new_events": 142,
  "keywords": [
-  {
-   "kw": "緊急地震速報",
-   "level": "high",
-   "d24": 46,
-   "baseline": 0.0,
-   "ratio": 92.0,
-   "consecutive": 7,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    46
-   ],
-   "latest": [
-    "緊急地震速報“取り消し” 誤報防止の機能動作せず（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVzZuYnZUSEpfY2ZwQlpqcVNmVktrY2RKdko3TzV5SXVCY3RuemxmcmNraUZOZHlGS0hmRW1XLUpLcVMxNkF3Y0JuVzBkRnRGVHJzZFAzUHZ4SEFyVlBWV0JyVkxreEhNY2l6WTRhdE5nYy1tcUtCUDhaU0M4N00?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "緊急地震速報“取り消し” 誤報防止の機能動作せず（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVzZuYnZUSEpfY2ZwQlpqcVNmVktrY2RKdko3TzV5SXVCY3RuemxmcmNraUZOZHlGS0hmRW1XLUpLcVMxNkF3Y0JuVzBkRnRGVHJzZFAzUHZ4SEFyVlBWV0JyVkxreEhNY2l6WTRhdE5nYy1tcUtCUDhaU0M4N00?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T07:55:29+09:00"
-    },
-    {
-     "title": "「緊急地震速報」取り消し マグニチュードの計算に震源から遠く離れた観測点データを使用（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQXJralZncEFlYmhyOXhTaU5oLXlhWXRCYTF0bjkwdm5DMEdTUjBNbWZ4YWNHR1E0aVZ5MzhEQ0tBb3FhWmFRNjJXUmwwNm5ndFl2bi02dXdrNDhIcjlfNlpsLWFPa3VRaVdzOEdCQ0d2dkhOb3YxMXFPNTgxSmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T05:48:31+09:00"
-    },
-    {
-     "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797",
-     "source": "NHK 主要",
-     "published": "2026-10-17T05:29:02+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T13:32:27.978914+09:00"
-  },
-  {
-   "kw": "取り消し",
-   "level": "high",
-   "d24": 39,
-   "baseline": 0.3,
-   "ratio": 78.0,
-   "consecutive": 7,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    0,
-    1,
-    39
-   ],
-   "latest": [
-    "緊急地震速報“取り消し” 誤報防止の機能動作せず（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVzZuYnZUSEpfY2ZwQlpqcVNmVktrY2RKdko3TzV5SXVCY3RuemxmcmNraUZOZHlGS0hmRW1XLUpLcVMxNkF3Y0JuVzBkRnRGVHJzZFAzUHZ4SEFyVlBWV0JyVkxreEhNY2l6WTRhdE5nYy1tcUtCUDhaU0M4N00?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "緊急地震速報“取り消し” 誤報防止の機能動作せず（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVzZuYnZUSEpfY2ZwQlpqcVNmVktrY2RKdko3TzV5SXVCY3RuemxmcmNraUZOZHlGS0hmRW1XLUpLcVMxNkF3Y0JuVzBkRnRGVHJzZFAzUHZ4SEFyVlBWV0JyVkxreEhNY2l6WTRhdE5nYy1tcUtCUDhaU0M4N00?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T07:55:29+09:00"
-    },
-    {
-     "title": "「緊急地震速報」取り消し マグニチュードの計算に震源から遠く離れた観測点データを使用（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQXJralZncEFlYmhyOXhTaU5oLXlhWXRCYTF0bjkwdm5DMEdTUjBNbWZ4YWNHR1E0aVZ5MzhEQ0tBb3FhWmFRNjJXUmwwNm5ndFl2bi02dXdrNDhIcjlfNlpsLWFPa3VRaVdzOEdCQ0d2dkhOb3YxMXFPNTgxSmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T05:48:31+09:00"
-    },
-    {
-     "title": "緊急地震速報 誤発表で初の取り消し 気象庁は謝罪 各地に影響（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CM3BMMkdlemhwVEs1SGMwYnBrWDJYRTdaOEhkajlta0VZZ3lqN3RmczlLXzJyaS1ndmtIOGdocTY3bDBQbEx4OU9VbUk3Y0RZV3Eya1AwSnQ3OGVqZDFZUGtHYVpJWDExbld6SjFxaFV2VkY1dWdYVlpmdzhLSVE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T00:49:14+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T13:32:27.978914+09:00"
-  },
-  {
-   "kw": "過大",
-   "level": "high",
-   "d24": 13,
-   "baseline": 0.0,
-   "ratio": 26.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    13
-   ],
-   "latest": [
-    "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60797"
-   ],
-   "samples": [
-    {
-     "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797",
-     "source": "NHK 主要",
-     "published": "2026-10-17T05:29:02+09:00"
-    },
-    {
-     "title": "原因は異なる震源で計算…M9.9と過大に推定『緊急地震速報』発表直後に取り消し",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTlUwZ2FDTWpXeURXT2Yzc2EzU3piTndWOWhjMU0wa2djVVNHVlhrXzlJWXJGRFl3RFNFOGVGdE1ldmU3UXJWcnY0QTNKME9ZWXFuOEJlQ3ZNeGZlck9hM1hubzNRLUt2YUs4a20yTWZDUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-17T00:11:00+09:00"
-    },
-    {
-     "title": "「誤った緊急地震速報」揺れを過大に推定する2つの誤りが要因",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUdF9oWkNIWG1ZbzVoVmt1U2tJTzFvTmRieHhoUWxQeU8tME9LdllhODBuWHd0YnhMSFVQNzRGWEM4aDg2Q2YzRkNOaUtBNkYtYndwTVJWb2FVWWNsZGZ6Q1BRZk9SdVJIa25sWVlUWWYzUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-16T22:22:20+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
-  },
-  {
-   "kw": "無罪",
-   "level": "high",
-   "d24": 13,
-   "baseline": 0.3,
-   "ratio": 26.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    1,
-    13
-   ],
-   "latest": [
-    "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60800"
-   ],
-   "samples": [
-    {
-     "title": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60800",
-     "source": "NHK 主要",
-     "published": "2026-10-17T06:00:03+09:00"
-    },
-    {
-     "title": "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-17T01:52:00+09:00"
-    },
-    {
-     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLXRUMkVXcGt2dEtteF9EdDhxU1paYURhbzV0RjNGWWxGR0NwVFU5Qi1ITFllOGh2MVhGZEl4R3dWT2xOX2I3SWJyQlFnX0I1ZUdVMy1QWUM2amhpVHdvOHQ2UFJRQ2k4bWtNLTVaYVA0YW94bmxLRGNNQWFKZUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T00:56:58+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
-  },
-  {
-   "kw": "気象庁",
-   "level": "high",
-   "d24": 45,
-   "baseline": 1.8,
-   "ratio": 24.5,
-   "consecutive": 7,
-   "days": [
-    0,
-    0,
-    0,
-    3,
-    4,
-    4,
-    45
-   ],
-   "latest": [
-    "気象庁によりますと、強い「台風30号(チャンパー)」は、マリアナ諸島を時速25kmの速さで西北西へ進んでいます。",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyZmFLcEZrclN0VndqZHNScjFIQ2Mtdnh5ZVQtWWg1TG80dkJ4NlVxZnltMkZ0cXJYV2FaTHBnUGpyeUhpOEl5LW1RRWhsUlR3dl9KZUhKcnFRUXFieEJvRlNBS2s?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "気象庁によりますと、強い「台風30号(チャンパー)」は、マリアナ諸島を時速25kmの速さで西北西へ進んでいます。",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyZmFLcEZrclN0VndqZHNScjFIQ2Mtdnh5ZVQtWWg1TG80dkJ4NlVxZnltMkZ0cXJYV2FaTHBnUGpyeUhpOEl5LW1RRWhsUlR3dl9KZUhKcnFRUXFieEJvRlNBS2s?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-17T09:33:00+09:00"
-    },
-    {
-     "title": "【台風情報】最大瞬間風速70m/s・中心気圧935hPa、非常に強い勢力に発達予想「台風30号（チャンパー）」今後の進路予測は？【気象庁17日06時45分発表】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15dldOLUxJMmlrMFNUXzdjbVRWS3l2ZTBfSVJQcFk3cDVXLS1LeGdrSkMxM2RrRDR3OFluQTMyLUdxMEN2cHJCY1kzbEx6Q3V3TC1MOVlXaw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-17T07:53:00+09:00"
-    },
-    {
-     "title": "【台風情報】強い台風30号（チャンパー）今後の進路は？日本への影響は？22日（木）には「非常に強い」勢力で「沖縄の南」に達する見込み（17日午前6時45分・気象庁発表）【27日（火）までの雨風シミュレーション】 | SBC NEWS | 長野のニュース | SBC信越放送",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdFdrM29sQVNKSzFFeTBxWTc3WEpFdlVkNVlRTkYwdFBMUnpiQmJoYzBSRzhJZzl3R1hmWWU1TkJSY0pFUEpYRFktNy1iOVFLSzg0ZmtjTl9ndw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-17T07:18:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T16:08:34.892553+09:00"
-  },
-  {
-   "kw": "東海道新幹線",
-   "level": "high",
-   "d24": 12,
-   "baseline": 0.2,
-   "ratio": 24.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    12
-   ],
-   "latest": [
-    "東海道新幹線「のぞみ」東京～新大阪間で約700円の値上げへ 来年7月の購入分から（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQ1pybENNY2RpZ0hpbzRCR3RVVmkyYllmY3AyT2RhRWxSQVlGZEZoS3hZRE5ZQ3hkakFXdVFjUm01R05GSGYwZjIzTGtUT045c2tCWC1qdjFpSGk2Ym5sak1aOXJhbFV4eDQzMEJWb1czN0VSckJsdk1hR1h6bFU?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "東海道新幹線「のぞみ」東京～新大阪間で約700円の値上げへ 来年7月の購入分から（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQ1pybENNY2RpZ0hpbzRCR3RVVmkyYllmY3AyT2RhRWxSQVlGZEZoS3hZRE5ZQ3hkakFXdVFjUm01R05GSGYwZjIzTGtUT045c2tCWC1qdjFpSGk2Ym5sak1aOXJhbFV4eDQzMEJWb1czN0VSckJsdk1hR1h6bFU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T01:35:06+09:00"
-    },
-    {
-     "title": "東海道新幹線「のぞみ」指定席特急券を値上げへ 東京-新大阪間は700円アップの6510円に 2027年7月から",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUXhHMnJIX0dhamdlZ2daM3lqSzg3Y0ZtcEJhNkhwenFmRkI3SU9lb3VqUldValVMSzB3cGcwb3JtcVdYSmE4Sy1ldjZKd0RkejdJd1VFM1RLbFYxcVAyeGFocTJkVVZmSmdvMllQQWE1TUVlUHozNUpiem5ROU0?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T19:04:19+09:00"
-    },
-    {
-     "title": "東海道新幹線、新型車両はS0系 29年7月の営業運転開始目指す",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aVlkyeGNyNkY2UlAtUVRuNEJCUFdnbjI3dUJMQmVuWlRrNGluRU4xRkRCVlcxc0tKNGlvTmlxT19aQWxpTnBvb05qRQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-16T16:56:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
-  },
   {
    "kw": "日経新聞",
    "level": "high",
@@ -306,9 +48,9 @@
   {
    "kw": "推定",
    "level": "high",
-   "d24": 11,
-   "baseline": 0.0,
-   "ratio": 22.0,
+   "d24": 10,
+   "baseline": 0.3,
+   "ratio": 20.0,
    "consecutive": 1,
    "days": [
     0,
@@ -316,14 +58,20 @@
     0,
     0,
     0,
-    0,
-    11
+    2,
+    10
    ],
    "latest": [
-    "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60797"
+    "緊急地震速報 異例の取り消し マグニチュード6.9→9.9「過大に推定」 気象庁は3度の会見で謝罪 原因は2つの誤り【news23】",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb3NRcWpiNy1jVnhONnFkakk2Zk02bUFmYnJ5UHhhY25OcEVGMWozWllVX0FQZEF2d3M2U2dibW5DWmExbmZTWThtMXRoOEFOZ0tpVWdNR3otaVJrWDA0WENuTmxSNVF4UHFUa3N1NVdIblRoM0pkZEVRUGxiQ0E?oc=5"
    ],
    "samples": [
+    {
+     "title": "緊急地震速報 異例の取り消し マグニチュード6.9→9.9「過大に推定」 気象庁は3度の会見で謝罪 原因は2つの誤り【news23】",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb3NRcWpiNy1jVnhONnFkakk2Zk02bUFmYnJ5UHhhY25OcEVGMWozWllVX0FQZEF2d3M2U2dibW5DWmExbmZTWThtMXRoOEFOZ0tpVWdNR3otaVJrWDA0WENuTmxSNVF4UHFUa3N1NVdIblRoM0pkZEVRUGxiQ0E?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T14:20:25+09:00"
+    },
     {
      "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797",
@@ -335,12 +83,6 @@
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTlUwZ2FDTWpXeURXT2Yzc2EzU3piTndWOWhjMU0wa2djVVNHVlhrXzlJWXJGRFl3RFNFOGVGdE1ldmU3UXJWcnY0QTNKME9ZWXFuOEJlQ3ZNeGZlck9hM1hubzNRLUt2YUs4a20yTWZDUQ?oc=5",
      "source": "テレ朝NEWS",
      "published": "2026-10-17T00:11:00+09:00"
-    },
-    {
-     "title": "「誤った緊急地震速報」揺れを過大に推定する2つの誤りが要因",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUdF9oWkNIWG1ZbzVoVmt1U2tJTzFvTmRieHhoUWxQeU8tME9LdllhODBuWHd0YnhMSFVQNzRGWEM4aDg2Q2YzRkNOaUtBNkYtYndwTVJWb2FVWWNsZGZ6Q1BRZk9SdVJIa25sWVlUWWYzUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-16T22:22:20+09:00"
     }
    ],
    "watch": false,
@@ -349,9 +91,9 @@
   {
    "kw": "弁護士資格",
    "level": "high",
-   "d24": 10,
-   "baseline": 0.0,
-   "ratio": 20.0,
+   "d24": 9,
+   "baseline": 0.2,
+   "ratio": 18.0,
    "consecutive": 4,
    "days": [
     0,
@@ -359,8 +101,8 @@
     0,
     0,
     0,
-    0,
-    10
+    1,
+    9
    ],
    "latest": [
     "アメリカ ホワイトハウス報道官が就任わずか5日で退任 事実上の解任か 弁護士資格めぐり疑惑",
@@ -390,55 +132,12 @@
    "alerted_at": "2026-10-17T06:08:48.577379+09:00"
   },
   {
-   "kw": "マグニチュード",
-   "level": "high",
-   "d24": 10,
-   "baseline": 0.0,
-   "ratio": 20.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    10
-   ],
-   "latest": [
-    "「緊急地震速報」取り消し マグニチュードの計算に震源から遠く離れた観測点データを使用（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQXJralZncEFlYmhyOXhTaU5oLXlhWXRCYTF0bjkwdm5DMEdTUjBNbWZ4YWNHR1E0aVZ5MzhEQ0tBb3FhWmFRNjJXUmwwNm5ndFl2bi02dXdrNDhIcjlfNlpsLWFPa3VRaVdzOEdCQ0d2dkhOb3YxMXFPNTgxSmM?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「緊急地震速報」取り消し マグニチュードの計算に震源から遠く離れた観測点データを使用（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQXJralZncEFlYmhyOXhTaU5oLXlhWXRCYTF0bjkwdm5DMEdTUjBNbWZ4YWNHR1E0aVZ5MzhEQ0tBb3FhWmFRNjJXUmwwNm5ndFl2bi02dXdrNDhIcjlfNlpsLWFPa3VRaVdzOEdCQ0d2dkhOb3YxMXFPNTgxSmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T05:48:31+09:00"
-    },
-    {
-     "title": "気象庁2度目の会見で“誤報”原因「マグニチュード計算と震度予測で異なる震源もとに計算」 詳細な調査続ける サイバー攻撃は否定（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWFZrWW1qaF9UWjVvaHBhRVEtM1dkb25GRDNiellpTHlQa3puM3lVcVFyZUYyUHowOUhDOENxaUFDQ0FIMDN5NmxmVko0aHVGNGtlSFNydVJjcEttTHlpRUlOT3dLdUFKSW52ZmNzUkw4RlppcVFINlZFUEJ5MDg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T20:50:31+09:00"
-    },
-    {
-     "title": "マグニチュード計算と震度予測に用いた震源が別々… 緊急地震速報取り消しの原因",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRTGV4V3VrLWlyNmwtSWMxS2JkdENPRlRMdGVyZkd2UFNFampmNC05Y1psWDdVLVZFMjMtZnRPM0tRelNPMjFWbkJsYTB0WHpTZFVJV1hsSkNJcEszSjBnSDg5azZaQ00wZmdwNFVRcG00UQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-16T18:26:56+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
-  },
-  {
-   "kw": "テスラ",
+   "kw": "削除",
    "level": "high",
    "d24": 9,
    "baseline": 0.0,
    "ratio": 18.0,
-   "consecutive": 4,
+   "consecutive": 2,
    "days": [
     0,
     0,
@@ -449,39 +148,39 @@
     9
    ],
    "latest": [
-    "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60784"
+    "インドで「ゴキブリ運動」創設者を逮捕 有権者1億3000万人超の名簿削除に抗議 （FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQWh6c0s1ajhNSlk3TmV4V1lzVHJlNHhzeDVaSjVLNTQtR3dabFZMUUVySzBIaHAwYkJDSVZUY0M0WWxnLWVncWI0ekZvSGRYSVdTLUFaV3B2OHIxbDBNVVVnaXVoQzczeVpObUVSQ1hKNGtwN2lwdGFMaXVSZWc?oc=5"
    ],
    "samples": [
     {
-     "title": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60784",
-     "source": "NHK 経済",
-     "published": "2026-10-17T05:53:28+09:00"
+     "title": "インドで「ゴキブリ運動」創設者を逮捕 有権者1億3000万人超の名簿削除に抗議 （FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQWh6c0s1ajhNSlk3TmV4V1lzVHJlNHhzeDVaSjVLNTQtR3dabFZMUUVySzBIaHAwYkJDSVZUY0M0WWxnLWVncWI0ekZvSGRYSVdTLUFaV3B2OHIxbDBNVVVnaXVoQzczeVpObUVSQ1hKNGtwN2lwdGFMaXVSZWc?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T14:39:23+09:00"
     },
     {
-     "title": "テスラ新型車 空を飛び宙返り実演",
-     "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
+     "title": "タイムズカー 免許画像すぐ削除へ",
+     "url": "https://news.yahoo.co.jp/pickup/6599073?source=rss",
      "source": "Yahoo 経済",
-     "published": "2026-10-17T00:17:22+09:00"
+     "published": "2026-10-17T09:53:22+09:00"
     },
     {
-     "title": "“空飛ぶ新型スポーツカー”をテスラが公開 「スペースX」と共同開発 停止状態から時速約97kmまで1秒未満 2028年生産開始",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RV3E2UzgwdUlPT3NsbDBZd3hrUWd1MnJCdVNuV1ZycnhLMVBkTnY0dGJjc3hNejNWZU4zakdXaFM1MnFyNzZjVHNCVkdMdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-16T20:11:00+09:00"
+     "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け",
+     "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+     "source": "ITmedia",
+     "published": "2026-10-16T19:09:01+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
-   "kw": "倖田來",
+   "kw": "ニデック",
    "level": "high",
-   "d24": 8,
+   "d24": 9,
    "baseline": 0.0,
-   "ratio": 16.0,
-   "consecutive": 3,
+   "ratio": 18.0,
+   "consecutive": 1,
    "days": [
     0,
     0,
@@ -489,120 +188,77 @@
     0,
     0,
     0,
-    8
+    9
    ],
    "latest": [
-    "倖田來未（43） “14年ぶり”の出産を報告「女の子だ！」「くぅちゃんの体が心配です…」など反響",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xckpfeXAwNEp6VUV4THpFeS1JaFB4bzQxQjZXbWtheU01NFNKd0ZPMF9abndJMWE4NTFkTG5rcE5jTDM0Z2FIak1ab2FuMk16YkxHM2pBUkh4YVlFNW1fbF9nTTVtd1BYNGFpWHY1enQ?oc=5"
+    "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60817"
    ],
    "samples": [
     {
-     "title": "倖田來未（43） “14年ぶり”の出産を報告「女の子だ！」「くぅちゃんの体が心配です…」など反響",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xckpfeXAwNEp6VUV4THpFeS1JaFB4bzQxQjZXbWtheU01NFNKd0ZPMF9abndJMWE4NTFkTG5rcE5jTDM0Z2FIak1ab2FuMk16YkxHM2pBUkh4YVlFNW1fbF9nTTVtd1BYNGFpWHY1enQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-16T19:32:31+09:00"
+     "title": "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60817",
+     "source": "NHK 社会",
+     "published": "2026-10-17T07:22:08+09:00"
     },
     {
-     "title": "倖田來未に第2子 出産は14年ぶり",
-     "url": "https://news.yahoo.co.jp/pickup/6599002?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-16T17:02:38+09:00"
+     "title": "ニデック 永守氏らへの訴訟を検討",
+     "url": "https://news.yahoo.co.jp/pickup/6599040?source=rss",
+     "source": "Yahoo 経済",
+     "published": "2026-10-16T22:20:06+09:00"
     },
     {
-     "title": "倖田來未第2子出産で夫KENJI03も幸せ報告「ママが頑張ってくれたおかげ」と感謝",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zN0hQaGI4RWRXN05EaDVaT0JBb3NOeENHOGdxYVV0TV9aVG1pNkhWQlljbGc0VFZIdkk0WjhFcjR4WjJ1Zms3TUhMano4VWo3Z3BvWmlkN28wbzROb2VIbnU4N0x0eW44WUp6eVZTNkk?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-16T15:51:00+09:00"
+     "title": "ニデック不正会計、永守氏に責任 調査委が報告書",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EUWl3bzZZbUNpTGhNUjcwYS1Gc2xMT2hwMWVQZ0FLYmxhTlY3b1ltSEcxU2ROLUQ3T3pNbVJ3Y3doUnVUN0FWNWtTcw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-16T21:36:23+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
+   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
   },
   {
-   "kw": "木原官房長官",
+   "kw": "無罪",
    "level": "high",
-   "d24": 8,
-   "baseline": 0.3,
-   "ratio": 16.0,
-   "consecutive": 3,
+   "d24": 11,
+   "baseline": 0.7,
+   "ratio": 16.5,
+   "consecutive": 5,
    "days": [
     0,
     0,
     0,
-    0,
-    0,
-    2,
-    8
-   ],
-   "latest": [
-    "木原官房長官 「政府として重く受け止めている」 気象庁が緊急地震速報を取り消し（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xMVpkODlQWUkyNkRIaHpHYUZrQm41bHAtSTg1RDdBZHB1VzVKS3dGSGxibllPN1NZZzlod050R1ZfU29iS2pmd2V4ZGJHREo4ZWJXaVlnN2trdE5BdmFPenpvdGE2RjcteWcwVFprOXo3MFI1VVlfNEF2R01SOUk?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "木原官房長官 「政府として重く受け止めている」 気象庁が緊急地震速報を取り消し（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xMVpkODlQWUkyNkRIaHpHYUZrQm41bHAtSTg1RDdBZHB1VzVKS3dGSGxibllPN1NZZzlod050R1ZfU29iS2pmd2V4ZGJHREo4ZWJXaVlnN2trdE5BdmFPenpvdGE2RjcteWcwVFprOXo3MFI1VVlfNEF2R01SOUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T18:09:07+09:00"
-    },
-    {
-     "title": "日本人記者拘束で木原官房長官 ロシアが「領事通報」 面会できず「一刻も早く実現へ」（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SS05WYkVYb3NhSk16TGZZYU1Ielg2aWsydGI0cmR6b0prM2FFRnduYmNhZUNabU1GOHdSV0tHMXlTdGVMWndqTmxVU3JIc0pycGtYQlNQRmx4bVRzZXJ0aUN1SFlLSWtndnFwMlhGRF9WZVlvSXNmUlY2bjdueDA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T17:17:19+09:00"
-    },
-    {
-     "title": "緊急地震速報取り消し「多大な心配と負担。政府として重く受け止める」木原官房長官「再発防止に万全期す」",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zM19VRnhmYW9Wa3Fmd2V5ZlhnS2E2TExyWktNLWd2RUFaaDd1RzhIcFhQTHk3dmhKOXRVeFBTb1NtZzdFUmRrUkRlWFhpWlhSU1duZEViWUZ6eXRORzd5X3dpZkNfVngtSlduaUNTYUJ3MWRwUl9QbE5tSFJRNWc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T16:54:23+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T13:32:27.978914+09:00"
-  },
-  {
-   "kw": "ヤマト運輸",
-   "level": "high",
-   "d24": 8,
-   "baseline": 0.5,
-   "ratio": 16.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    2,
     0,
     1,
-    8
+    3,
+    11
    ],
    "latest": [
-    "個人情報“漏えいラッシュ”止まらず ヤマト運輸や日経新聞など大企業で相次ぐ…専門家は「二次被害」懸念 流出情報数千万件が闇サイトで売買か【news23】",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15aGZxZFRfUTFGdjJ2cFc3V25nRVVNdUZxQXdJTnJWWjYzcmF4QXdQcUV5NDJmR2ttOVJJQU9oTzJCbHY0aE1GdVVBUWtMczFoTmVaQUl6cw?oc=5"
+    "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60800"
    ],
    "samples": [
     {
-     "title": "個人情報“漏えいラッシュ”止まらず ヤマト運輸や日経新聞など大企業で相次ぐ…専門家は「二次被害」懸念 流出情報数千万件が闇サイトで売買か【news23】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15aGZxZFRfUTFGdjJ2cFc3V25nRVVNdUZxQXdJTnJWWjYzcmF4QXdQcUV5NDJmR2ttOVJJQU9oTzJCbHY0aE1GdVVBUWtMczFoTmVaQUl6cw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-17T02:00:43+09:00"
+     "title": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60800",
+     "source": "NHK 主要",
+     "published": "2026-10-17T06:00:03+09:00"
     },
     {
-     "title": "「またか」ヤマト運輸や日経新聞でも流出 “免許証1枚で17万円”も…個人情報どう売られる？「闇サイト」の実態",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xTGd3d2hhejJnU1o3OFdBaUp1dWdMN0xUUUNnNWo1a0RialpiUmNMOTd1UHJ2RzdHeldCaXFiNEE5MFRlQWNjX2RhczlLTmsyeUtNTjd3R1hUMXRz?oc=5",
-     "source": "Infoseek",
-     "published": "2026-10-16T18:44:23+09:00"
+     "title": "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T01:52:00+09:00"
     },
     {
-     "title": "ヤマト運輸、氏名や住所など計530万件超が漏えい　「クロネコ代金後払い」不正アクセスで",
-     "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002339/",
-     "source": "ITmedia",
-     "published": "2026-10-16T17:15:35+09:00"
+     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLXRUMkVXcGt2dEtteF9EdDhxU1paYURhbzV0RjNGWWxGR0NwVFU5Qi1ITFllOGh2MVhGZEl4R3dWT2xOX2I3SWJyQlFnX0I1ZUdVMy1QWUM2amhpVHdvOHQ2UFJRQ2k4bWtNLTVaYVA0YW94bmxLRGNNQWFKZUU?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T00:56:58+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
+   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
    "kw": "緊急地震速報取り消し",
@@ -648,93 +304,50 @@
    "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
-   "kw": "王将",
+   "kw": "車種",
    "level": "high",
    "d24": 8,
    "baseline": 0.2,
    "ratio": 16.0,
-   "consecutive": 5,
+   "consecutive": 1,
    "days": [
-    0,
     0,
     0,
     0,
     0,
     1,
-    8
-   ],
-   "latest": [
-    "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60800"
-   ],
-   "samples": [
-    {
-     "title": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60800",
-     "source": "NHK 主要",
-     "published": "2026-10-17T06:00:03+09:00"
-    },
-    {
-     "title": "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-17T01:52:00+09:00"
-    },
-    {
-     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLXRUMkVXcGt2dEtteF9EdDhxU1paYURhbzV0RjNGWWxGR0NwVFU5Qi1ITFllOGh2MVhGZEl4R3dWT2xOX2I3SWJyQlFnX0I1ZUdVMy1QWUM2amhpVHdvOHQ2UFJRQ2k4bWtNLTVaYVA0YW94bmxLRGNNQWFKZUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T00:56:58+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
-  },
-  {
-   "kw": "餃子",
-   "level": "high",
-   "d24": 8,
-   "baseline": 0.0,
-   "ratio": 16.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     8
    ],
    "latest": [
-    "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60800"
+    "トヨタ すべての車種をSDVにする方針 2030年までに",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60779"
    ],
    "samples": [
     {
-     "title": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60800",
-     "source": "NHK 主要",
-     "published": "2026-10-17T06:00:03+09:00"
+     "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
+     "source": "NHK 経済",
+     "published": "2026-10-17T05:01:59+09:00"
     },
     {
-     "title": "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-17T01:52:00+09:00"
+     "title": "トヨタ全車種「SDV」に 高度なソフト、30年までに",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX3Q2OGVraWdHTE40WHp6YzVFUUo5c0lqbkhiOEVuckYyMWZaMnZ6M2RmSVV5YXZRV2JWdU1OdFpGaU5GUWgyYmV3SQ?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-16T20:43:00+09:00"
     },
     {
-     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLXRUMkVXcGt2dEtteF9EdDhxU1paYURhbzV0RjNGWWxGR0NwVFU5Qi1ITFllOGh2MVhGZEl4R3dWT2xOX2I3SWJyQlFnX0I1ZUdVMy1QWUM2amhpVHdvOHQ2UFJRQ2k4bWtNLTVaYVA0YW94bmxLRGNNQWFKZUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T00:56:58+09:00"
+     "title": "トヨタ、全車種をＳＤＶに",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOdIBgAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-16T20:07:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
+   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
   },
   {
-   "kw": "削除",
+   "kw": "ファンケル",
    "level": "high",
    "d24": 8,
    "baseline": 0.0,
@@ -750,113 +363,242 @@
     8
    ],
    "latest": [
-    "タイムズカー 免許画像すぐ削除へ",
-    "https://news.yahoo.co.jp/pickup/6599073?source=rss"
+    "個人情報ヤマト 531万件流出、うち5万件は「届け先」情報 ファンケルはグループ会社含むEC会員83万件",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBIeVBLWklyYUJ4N1BleVhWdXVuWmkyM2FFQXFDMXpGUFF5Uk81dm8wb1JSekpsYl9RY1dXVVQ4eDlMVVdUT0lvdU1xamJEWEJTbVNtZ0xodW5TZEFsazB2TFFDbHZDOFJXb1hkNmRRY2ptdw?oc=5"
    ],
    "samples": [
     {
-     "title": "タイムズカー 免許画像すぐ削除へ",
-     "url": "https://news.yahoo.co.jp/pickup/6599073?source=rss",
-     "source": "Yahoo 経済",
-     "published": "2026-10-17T09:53:22+09:00"
+     "title": "個人情報ヤマト 531万件流出、うち5万件は「届け先」情報 ファンケルはグループ会社含むEC会員83万件",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIeVBLWklyYUJ4N1BleVhWdXVuWmkyM2FFQXFDMXpGUFF5Uk81dm8wb1JSekpsYl9RY1dXVVQ4eDlMVVdUT0lvdU1xamJEWEJTbVNtZ0xodW5TZEFsazB2TFFDbHZDOFJXb1hkNmRRY2ptdw?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-16T20:04:00+09:00"
     },
     {
-     "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け",
-     "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
-     "source": "ITmedia",
-     "published": "2026-10-16T19:09:01+09:00"
+     "title": "ファンケルグループ 不正アクセスで83万件個人情報流出",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PSmd6QmZuQUhwMi1qbFVjSEpzSHM3UGFrbnlHbnY5N2lPb3J4bDhEMHRaWXVmTm54TmFaWGswN19EUEt4eHBWMjgtYVdTU3JPMzRHbV9LOA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-16T19:45:54+09:00"
     },
     {
-     "title": "タイムズ、免許画像すぐ削除 情報流出でルール変更",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jN29XX0tuc0NLaGJXUlBiSUdxbXdnbE5JV3gyakdjR3ZIdzF1d0NSZS1oMENYUDR0MWJRNWxjYlpDWTRKREhUTlppOA?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-16T18:32:00+09:00"
+     "title": "ファンケル 不正アクセスで個人情報78万人余が外部流出",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60600",
+     "source": "NHK 主要",
+     "published": "2026-10-16T18:00:59+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
+   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
   },
   {
-   "kw": "出産",
+   "kw": "靖国神社",
    "level": "high",
-   "d24": 7,
-   "baseline": 0.3,
-   "ratio": 14.0,
+   "d24": 8,
+   "baseline": 0.2,
+   "ratio": 16.0,
    "consecutive": 3,
    "days": [
     0,
     0,
     0,
-    1,
-    1,
     0,
-    7
+    0,
+    1,
+    8
    ],
    "latest": [
-    "倖田來未（43） “14年ぶり”の出産を報告「女の子だ！」「くぅちゃんの体が心配です…」など反響",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xckpfeXAwNEp6VUV4THpFeS1JaFB4bzQxQjZXbWtheU01NFNKd0ZPMF9abndJMWE4NTFkTG5rcE5jTDM0Z2FIak1ab2FuMk16YkxHM2pBUkh4YVlFNW1fbF9nTTVtd1BYNGFpWHY1enQ?oc=5"
+    "高市総理「真榊」奉納 参拝は見送る方向 靖国神社 秋の例大祭始まる",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdTBpdmFQREk2Vk1WT3d6eWFfaTloOXJreFE3c2hnZlNhODlha2RFbnp5cW9OTFdRcVNBbndJaTZ5WEU2OElfQXg4b3lYRGUxYmJERlZabUJtbXZMYnlUb2tPTFBvbzhjY1lhVVJ6clR0dFU?oc=5"
    ],
    "samples": [
     {
-     "title": "倖田來未（43） “14年ぶり”の出産を報告「女の子だ！」「くぅちゃんの体が心配です…」など反響",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xckpfeXAwNEp6VUV4THpFeS1JaFB4bzQxQjZXbWtheU01NFNKd0ZPMF9abndJMWE4NTFkTG5rcE5jTDM0Z2FIak1ab2FuMk16YkxHM2pBUkh4YVlFNW1fbF9nTTVtd1BYNGFpWHY1enQ?oc=5",
+     "title": "高市総理「真榊」奉納 参拝は見送る方向 靖国神社 秋の例大祭始まる",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdTBpdmFQREk2Vk1WT3d6eWFfaTloOXJreFE3c2hnZlNhODlha2RFbnp5cW9OTFdRcVNBbndJaTZ5WEU2OElfQXg4b3lYRGUxYmJERlZabUJtbXZMYnlUb2tPTFBvbzhjY1lhVVJ6clR0dFU?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-16T19:32:31+09:00"
+     "published": "2026-10-17T13:15:05+09:00"
     },
     {
-     "title": "倖田來未に第2子 出産は14年ぶり",
-     "url": "https://news.yahoo.co.jp/pickup/6599002?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-16T17:02:38+09:00"
+     "title": "靖国神社 秋の例大祭 高市総理 参拝は見送る方向 「真榊」奉納",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SbUJkRy1lOHp1QmQ0ZTVSUFR4UnFSdC1wRFU3T3NNdmtpZnhKWU1Ec085ODN3NDIzeVVsQnpmelVHb3BoVEhzLW5uMUUxQ1ZmUEpqM0VNLV9lWWhpbk1zT0FlLU5PVWlWMzBOcnp2bWIxR00?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T12:05:04+09:00"
     },
     {
-     "title": "倖田來未第2子出産で夫KENJI03も幸せ報告「ママが頑張ってくれたおかげ」と感謝",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zN0hQaGI4RWRXN05EaDVaT0JBb3NOeENHOGdxYVV0TV9aVG1pNkhWQlljbGc0VFZIdkk0WjhFcjR4WjJ1Zms3TUhMano4VWo3Z3BvWmlkN28wbzROb2VIbnU4N0x0eW44WUp6eVZTNkk?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-16T15:51:00+09:00"
+     "title": "【速報】城内経済財政担当相が靖国神社を参拝",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdlRXVWVuaG9ONmN0eEFobm1DYVBKNEswdmdyRWdmODFIXy03bXFqS1VRcDB2SDE2OUxwSlFNZVB4Y01PU2VKYWhJZw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-17T12:04:47+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "テスラ",
+   "level": "high",
+   "d24": 8,
+   "baseline": 0.3,
+   "ratio": 16.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    8
+   ],
+   "latest": [
+    "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60784"
+   ],
+   "samples": [
+    {
+     "title": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60784",
+     "source": "NHK 経済",
+     "published": "2026-10-17T05:53:28+09:00"
+    },
+    {
+     "title": "テスラ新型車 空を飛び宙返り実演",
+     "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
+     "source": "Yahoo 経済",
+     "published": "2026-10-17T00:17:22+09:00"
+    },
+    {
+     "title": "“空飛ぶ新型スポーツカー”をテスラが公開 「スペースX」と共同開発 停止状態から時速約97kmまで1秒未満 2028年生産開始",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RV3E2UzgwdUlPT3NsbDBZd3hrUWd1MnJCdVNuV1ZycnhLMVBkTnY0dGJjc3hNejNWZU4zakdXaFM1MnFyNzZjVHNCVkdMdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-16T20:11:00+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
-   "kw": "優遇",
+   "kw": "SDV",
    "level": "high",
-   "d24": 7,
-   "baseline": 0.3,
-   "ratio": 14.0,
-   "consecutive": 4,
+   "d24": 8,
+   "baseline": 0.0,
+   "ratio": 16.0,
+   "consecutive": 1,
    "days": [
     0,
     0,
     0,
-    1,
     0,
-    1,
-    7
+    0,
+    0,
+    8
    ],
    "latest": [
-    "中国、ＡＩ技術の輸出規制強化へ＝１４項目禁止、国際協力は優遇",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzaEtEZmVRcHNDcGc5WFBSdmtnbVk3bHpKQ2xDRldyWVhHNko5YlBScVN4SU4tM0YySnhYdm1TU3ZVbEFxNHMzQkVjSlRITnFFeXdMS0JHWUpzWXZYa0RjQnNrQmdCUklKWVBWclZtQms3a2dXUE8yQzNUS3jSAYIBQVVfeXFMTjBxMXlGNVdBVHN0ZEpPS094SzBIM0F2UllzYzl2V2FLS3BXUi1LNDNxZmZ3LU1CNEg4VUZWX2k5SEt3Y25VMnQtckE2OVFLbVJUNGQ3Z0xfNGVpSUxSN0UweF9BSW5lZUY5YXY0YV9uYzRXQ19tUW93YV80SXczbWppZw?oc=5"
+    "トヨタ すべての車種をSDVにする方針 2030年までに",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60779"
    ],
    "samples": [
     {
-     "title": "中国、ＡＩ技術の輸出規制強化へ＝１４項目禁止、国際協力は優遇",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzaEtEZmVRcHNDcGc5WFBSdmtnbVk3bHpKQ2xDRldyWVhHNko5YlBScVN4SU4tM0YySnhYdm1TU3ZVbEFxNHMzQkVjSlRITnFFeXdMS0JHWUpzWXZYa0RjQnNrQmdCUklKWVBWclZtQms3a2dXUE8yQzNUS3jSAYIBQVVfeXFMTjBxMXlGNVdBVHN0ZEpPS094SzBIM0F2UllzYzl2V2FLS3BXUi1LNDNxZmZ3LU1CNEg4VUZWX2k5SEt3Y25VMnQtckE2OVFLbVJUNGQ3Z0xfNGVpSUxSN0UweF9BSW5lZUY5YXY0YV9uYzRXQ19tUW93YV80SXczbWppZw?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-16T17:47:00+09:00"
+     "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
+     "source": "NHK 経済",
+     "published": "2026-10-17T05:01:59+09:00"
     },
     {
-     "title": "トヨタ、欧州EV優遇を懸念 競争「不利に」、貢献強調",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYYXFWeHRadVZWN2I4S1RKemJ1dXd2c3I0T1JqUEx5cFpjZlAyaGxhWVEtNkpLSzZPU1UzcnROUnpxdFJ2MjhNSUNDYw?oc=5",
+     "title": "トヨタ全車種「SDV」に 高度なソフト、30年までに",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX3Q2OGVraWdHTE40WHp6YzVFUUo5c0lqbkhiOEVuckYyMWZaMnZ6M2RmSVV5YXZRV2JWdU1OdFpGaU5GUWgyYmV3SQ?oc=5",
      "source": "47NEWS",
-     "published": "2026-10-16T16:48:00+09:00"
+     "published": "2026-10-16T20:43:00+09:00"
     },
     {
-     "title": "「欧州製車」優遇、日本も対象に＝トヨタ、ＥＵに訴え",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3VaS0xUOHRqTVVIbmYtTFpROVR4eEt4cm9VLWY0NUp6MlRveWhFUjBxTldkSTl4UE9HQ2U3T2xTUk1jM1g3bjVvaXdYOUNfSVRqZHBzV0pwRHBQcnMtcl9HWFpuRWdSTHR2X1Qxdzh5dVFKMlcxWGM1cXBuLUxaMmpR0gGCAUFVX3lxTE1ndVpLTFQ4dGpNVUhuZi1MWlE5VHh4S3hyb1UtZjQ1SnoyVG95aEVSMHFOV2RJOXhQT0dDZTdPbFNSTWMzWDduNW9pd1g5Q19JVGpkcHNXSnBEcFBycy1yX0dYWm5FZ1JMdHZfVDF3OHl1UUoyVzFYYzVxcG4tTFoyalE?oc=5",
+     "title": "トヨタ、全車種をＳＤＶに",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOdIBgAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOQ?oc=5",
      "source": "ｄメニューニュース",
-     "published": "2026-10-16T16:05:00+09:00"
+     "published": "2026-10-16T20:07:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
+  },
+  {
+   "kw": "過大",
+   "level": "high",
+   "d24": 10,
+   "baseline": 0.7,
+   "ratio": 15.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    10
+   ],
+   "latest": [
+    "緊急地震速報 異例の取り消し マグニチュード6.9→9.9「過大に推定」 気象庁は3度の会見で謝罪 原因は2つの誤り【news23】",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb3NRcWpiNy1jVnhONnFkakk2Zk02bUFmYnJ5UHhhY25OcEVGMWozWllVX0FQZEF2d3M2U2dibW5DWmExbmZTWThtMXRoOEFOZ0tpVWdNR3otaVJrWDA0WENuTmxSNVF4UHFUa3N1NVdIblRoM0pkZEVRUGxiQ0E?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "緊急地震速報 異例の取り消し マグニチュード6.9→9.9「過大に推定」 気象庁は3度の会見で謝罪 原因は2つの誤り【news23】",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb3NRcWpiNy1jVnhONnFkakk2Zk02bUFmYnJ5UHhhY25OcEVGMWozWllVX0FQZEF2d3M2U2dibW5DWmExbmZTWThtMXRoOEFOZ0tpVWdNR3otaVJrWDA0WENuTmxSNVF4UHFUa3N1NVdIblRoM0pkZEVRUGxiQ0E?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T14:20:25+09:00"
+    },
+    {
+     "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797",
+     "source": "NHK 主要",
+     "published": "2026-10-17T05:29:02+09:00"
+    },
+    {
+     "title": "原因は異なる震源で計算…M9.9と過大に推定『緊急地震速報』発表直後に取り消し",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTlUwZ2FDTWpXeURXT2Yzc2EzU3piTndWOWhjMU0wa2djVVNHVlhrXzlJWXJGRFl3RFNFOGVGdE1ldmU3UXJWcnY0QTNKME9ZWXFuOEJlQ3ZNeGZlck9hM1hubzNRLUt2YUs4a20yTWZDUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T00:11:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
+  },
+  {
+   "kw": "トヨタ",
+   "level": "high",
+   "d24": 10,
+   "baseline": 0.7,
+   "ratio": 15.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    2,
+    10
+   ],
+   "latest": [
+    "トヨタ すべての車種をSDVにする方針 2030年までに",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60779"
+   ],
+   "samples": [
+    {
+     "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
+     "source": "NHK 経済",
+     "published": "2026-10-17T05:01:59+09:00"
+    },
+    {
+     "title": "トヨタ全車種「SDV」に 高度なソフト、30年までに",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX3Q2OGVraWdHTE40WHp6YzVFUUo5c0lqbkhiOEVuckYyMWZaMnZ6M2RmSVV5YXZRV2JWdU1OdFpGaU5GUWgyYmV3SQ?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-16T20:43:00+09:00"
+    },
+    {
+     "title": "トヨタ、全車種をＳＤＶに",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOdIBgAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-16T20:07:00+09:00"
     }
    ],
    "watch": false,
@@ -906,520 +648,90 @@
    "alerted_at": "2026-10-17T03:03:48.444566+09:00"
   },
   {
-   "kw": "ファンケル",
+   "kw": "永守",
    "level": "high",
    "d24": 7,
    "baseline": 0.0,
    "ratio": 14.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    7
-   ],
-   "latest": [
-    "個人情報ヤマト 531万件流出、うち5万件は「届け先」情報 ファンケルはグループ会社含むEC会員83万件",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBIeVBLWklyYUJ4N1BleVhWdXVuWmkyM2FFQXFDMXpGUFF5Uk81dm8wb1JSekpsYl9RY1dXVVQ4eDlMVVdUT0lvdU1xamJEWEJTbVNtZ0xodW5TZEFsazB2TFFDbHZDOFJXb1hkNmRRY2ptdw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "個人情報ヤマト 531万件流出、うち5万件は「届け先」情報 ファンケルはグループ会社含むEC会員83万件",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIeVBLWklyYUJ4N1BleVhWdXVuWmkyM2FFQXFDMXpGUFF5Uk81dm8wb1JSekpsYl9RY1dXVVQ4eDlMVVdUT0lvdU1xamJEWEJTbVNtZ0xodW5TZEFsazB2TFFDbHZDOFJXb1hkNmRRY2ptdw?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-16T20:04:00+09:00"
-    },
-    {
-     "title": "ファンケルグループ 不正アクセスで83万件個人情報流出",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PSmd6QmZuQUhwMi1qbFVjSEpzSHM3UGFrbnlHbnY5N2lPb3J4bDhEMHRaWXVmTm54TmFaWGswN19EUEt4eHBWMjgtYVdTU3JPMzRHbV9LOA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-16T19:45:54+09:00"
-    },
-    {
-     "title": "ファンケル 不正アクセスで個人情報78万人余が外部流出",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60600",
-     "source": "NHK 主要",
-     "published": "2026-10-16T18:00:59+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
-  },
-  {
-   "kw": "ドコモ",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.3,
-   "ratio": 14.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    1,
-    0,
-    7
-   ],
-   "latest": [
-    "NTTドコモ 緊急地震速報配信されず システム不具合で",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM2pBemJUZ3BmSnpFRExPRGxIenlMN3FsZENyYkhFQXFUWVRxai1vN2Zid3J4aUZ5amp5UWdJck5pN29hQmkyTkdLSncyRVh0OVZrVG1Ma2pSeC11dGNnQVZnOTQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "NTTドコモ 緊急地震速報配信されず システム不具合で",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM2pBemJUZ3BmSnpFRExPRGxIenlMN3FsZENyYkhFQXFUWVRxai1vN2Zid3J4aUZ5amp5UWdJck5pN29hQmkyTkdLSncyRVh0OVZrVG1Ma2pSeC11dGNnQVZnOTQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-16T21:44:20+09:00"
-    },
-    {
-     "title": "NTTドコモ 緊急地震速報配信されず システム不具合で (TBS NEWS DIG Powered by JNN)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEVYeXdQRXpDWGF2bkU0bzRaUU13U2s3Y3RfeGxFYm80WVMzdXNFclMxS2ZEUUpZbGFyREtzN1F3dWtlelBvOXFTb09qLV9lbTJKZnNycEZzTnJ0VGstZWVVYUJlZHZTamMxeUV6dGhPYlVtSFJ4U1NPOExVLUl2aGNjM2o2bEZOS3RFRkxn?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T21:43:10+09:00"
-    },
-    {
-     "title": "NTTドコモ 緊急地震速報配信されず システム不具合で（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSXhHZXhmU1NqUDJmQkttaEVZVXJtc0FqWTFrMWw2OUhnSlpUTFluTnRYVmxIUHFMQW5fRTE3TGN2UXVUb2M3VDVqNUU4T0s0VEU2NGQyVUJ5Y1V5OUEzOWZFOGNkRHlZWGNNWU1pc2kxeFlGcGpMT01VVHd6akk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T21:43:10+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T06:08:48.577379+09:00"
-  },
-  {
-   "kw": "車種",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.2,
-   "ratio": 14.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    7
-   ],
-   "latest": [
-    "トヨタ すべての車種をSDVにする方針 2030年までに",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60779"
-   ],
-   "samples": [
-    {
-     "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
-     "source": "NHK 経済",
-     "published": "2026-10-17T05:01:59+09:00"
-    },
-    {
-     "title": "トヨタ全車種「SDV」に 高度なソフト、30年までに",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX3Q2OGVraWdHTE40WHp6YzVFUUo5c0lqbkhiOEVuckYyMWZaMnZ6M2RmSVV5YXZRV2JWdU1OdFpGaU5GUWgyYmV3SQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-16T20:43:00+09:00"
-    },
-    {
-     "title": "トヨタ、全車種をＳＤＶに",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOdIBgAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-16T20:07:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
-  },
-  {
-   "kw": "SDV",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.0,
-   "ratio": 14.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    7
-   ],
-   "latest": [
-    "トヨタ すべての車種をSDVにする方針 2030年までに",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60779"
-   ],
-   "samples": [
-    {
-     "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
-     "source": "NHK 経済",
-     "published": "2026-10-17T05:01:59+09:00"
-    },
-    {
-     "title": "トヨタ全車種「SDV」に 高度なソフト、30年までに",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX3Q2OGVraWdHTE40WHp6YzVFUUo5c0lqbkhiOEVuckYyMWZaMnZ6M2RmSVV5YXZRV2JWdU1OdFpGaU5GUWgyYmV3SQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-16T20:43:00+09:00"
-    },
-    {
-     "title": "トヨタ、全車種をＳＤＶに",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOdIBgAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-16T20:07:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
-  },
-  {
-   "kw": "トヨタ",
-   "level": "high",
-   "d24": 9,
-   "baseline": 0.7,
-   "ratio": 13.5,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    1,
-    2,
-    9
-   ],
-   "latest": [
-    "トヨタ すべての車種をSDVにする方針 2030年までに",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60779"
-   ],
-   "samples": [
-    {
-     "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
-     "source": "NHK 経済",
-     "published": "2026-10-17T05:01:59+09:00"
-    },
-    {
-     "title": "トヨタ全車種「SDV」に 高度なソフト、30年までに",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX3Q2OGVraWdHTE40WHp6YzVFUUo5c0lqbkhiOEVuckYyMWZaMnZ6M2RmSVV5YXZRV2JWdU1OdFpGaU5GUWgyYmV3SQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-16T20:43:00+09:00"
-    },
-    {
-     "title": "トヨタ、全車種をＳＤＶに",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOdIBgAFBVV95cUxQcHRWU2QzTGRsWmx1dV9iZ2xTYTBwdkVSekhwTEtvWWlqeUk1dHVVeXRIYzVyUzdDcXU4N3pwWU1hVUFtX0F6X1dnLU1JT2FlMWNaRVp3Ul9icTc3alB0X1BYbVZKOC1vVVBRU1ZhUEJHYjBQWFNIUUJTWjBsenhkOQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-16T20:07:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
-  },
-  {
-   "kw": "県議会",
-   "level": "high",
-   "d24": 9,
-   "baseline": 0.7,
-   "ratio": 13.5,
    "consecutive": 1,
    "days": [
     0,
     0,
     0,
-    2,
-    2,
     0,
-    9
+    0,
+    0,
+    7
    ],
    "latest": [
-    "埼玉県議会「ばか」発言 双方が陳謝する事態に 翌朝閉会",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60837"
+    "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60817"
    ],
    "samples": [
     {
-     "title": "埼玉県議会「ばか」発言 双方が陳謝する事態に 翌朝閉会",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60837",
-     "source": "NHK 政治",
-     "published": "2026-10-17T10:31:49+09:00"
+     "title": "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60817",
+     "source": "NHK 社会",
+     "published": "2026-10-17T07:22:08+09:00"
     },
     {
-     "title": "福岡県議会「百条委」議案可決 金銭授受問題や海外視察調査へ",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60805",
-     "source": "NHK 主要",
-     "published": "2026-10-17T06:03:23+09:00"
-    },
-    {
-     "title": "福岡県議会の「百条委員会」設置決まる ９月定例会は会期延長し未明に閉会",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PQjdQamF4SG03T1F1TFc4aldqalZGLVVKVC13c3NIWGFBU2h0eGxQQTNfOHdJRk1pdWJDS3h4bTB0a29QTkNndXZRbGRkNl9UbVZCdU5pYw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-17T04:30:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
-  },
-  {
-   "kw": "陳謝",
-   "level": "high",
-   "d24": 9,
-   "baseline": 0.7,
-   "ratio": 13.5,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    0,
-    3,
-    9
-   ],
-   "latest": [
-    "埼玉県議会「ばか」発言 双方が陳謝する事態に 翌朝閉会",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60837"
-   ],
-   "samples": [
-    {
-     "title": "埼玉県議会「ばか」発言 双方が陳謝する事態に 翌朝閉会",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60837",
-     "source": "NHK 政治",
-     "published": "2026-10-17T10:31:49+09:00"
-    },
-    {
-     "title": "簗氏の辞任巡り野党側追及 「任命責任重く受け止めている」高市総理は陳謝 参院予算委",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZTJaVGd3eEYzZ2lEdWdQZ0hPeXQ3M3UzTDhic3VUWHBjYXFSY2REeUNmZXl3NmVTRGJLVGdkOWZMZzd4bmhuNjk2UmNEajJPLVkwVW5wZWR1X3pzZ3VFcHRxZWRtdi1BT0lDN1huZkdNS1pkbS1iLXo3QmZ1VUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T01:24:47+09:00"
-    },
-    {
-     "title": "簗氏の辞任めぐり与野党攻防 参院予算委 高市総理は陳謝（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTkxNVGtheEY5ZG16MEFKSDJXdm9oY3lOV2FjTHpGTjVaS1drVGVrT3BDblNiY3J1X0hyTWhYWmVEaS02R1hzRF9wdDdYNG9MclVFUW5aQWN5OVVmV2Vad0FTd0NRdjVseENrUjZ0Q0V0TzZvMG4zclFUYnFSSmc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T20:27:23+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T13:32:27.978914+09:00"
-  },
-  {
-   "kw": "新型",
-   "level": "high",
-   "d24": 11,
-   "baseline": 0.8,
-   "ratio": 13.2,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    1,
-    3,
-    0,
-    1,
-    11
-   ],
-   "latest": [
-    "新型「ウォークマン」来月27日発売 65万円 金メッキ施した銅で音にこだわる ソニー",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZbldyUUxoZG1QbGhnSzZKYzBkOFI0ZVpTdUZ5U2pHa3FjdVhqZFRvb1VFSnRFOHB6MC1WNUl6b2R1a1Z2OWlNcjI3NjU0QXNRZzJaZWtCMmtRMEdyNy13U1RYVmRYQm9SdDN0YVpFamRfdw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "新型「ウォークマン」来月27日発売 65万円 金メッキ施した銅で音にこだわる ソニー",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZbldyUUxoZG1QbGhnSzZKYzBkOFI0ZVpTdUZ5U2pHa3FjdVhqZFRvb1VFSnRFOHB6MC1WNUl6b2R1a1Z2OWlNcjI3NjU0QXNRZzJaZWtCMmtRMEdyNy13U1RYVmRYQm9SdDN0YVpFamRfdw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-17T09:28:58+09:00"
-    },
-    {
-     "title": "テスラ新型車 空を飛び宙返り実演",
-     "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
+     "title": "ニデック 永守氏らへの訴訟を検討",
+     "url": "https://news.yahoo.co.jp/pickup/6599040?source=rss",
      "source": "Yahoo 経済",
-     "published": "2026-10-17T00:17:22+09:00"
+     "published": "2026-10-16T22:20:06+09:00"
     },
     {
-     "title": "“空飛ぶ新型スポーツカー”をテスラが公開 「スペースX」と共同開発 停止状態から時速約97kmまで1秒未満 2028年生産開始",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RV3E2UzgwdUlPT3NsbDBZd3hrUWd1MnJCdVNuV1ZycnhLMVBkTnY0dGJjc3hNejNWZU4zakdXaFM1MnFyNzZjVHNCVkdMdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-16T20:11:00+09:00"
+     "title": "ニデック不正会計、永守氏に責任 調査委が報告書",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EUWl3bzZZbUNpTGhNUjcwYS1Gc2xMT2hwMWVQZ0FLYmxhTlY3b1ltSEcxU2ROLUQ3T3pNbVJ3Y3doUnVUN0FWNWtTcw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-16T21:36:23+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
   },
   {
-   "kw": "震源",
+   "kw": "スター",
    "level": "high",
-   "d24": 8,
-   "baseline": 0.7,
-   "ratio": 12.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    2,
-    2,
-    0,
-    8
-   ],
-   "latest": [
-    "「緊急地震速報」取り消し マグニチュードの計算に震源から遠く離れた観測点データを使用（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQXJralZncEFlYmhyOXhTaU5oLXlhWXRCYTF0bjkwdm5DMEdTUjBNbWZ4YWNHR1E0aVZ5MzhEQ0tBb3FhWmFRNjJXUmwwNm5ndFl2bi02dXdrNDhIcjlfNlpsLWFPa3VRaVdzOEdCQ0d2dkhOb3YxMXFPNTgxSmM?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「緊急地震速報」取り消し マグニチュードの計算に震源から遠く離れた観測点データを使用（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQXJralZncEFlYmhyOXhTaU5oLXlhWXRCYTF0bjkwdm5DMEdTUjBNbWZ4YWNHR1E0aVZ5MzhEQ0tBb3FhWmFRNjJXUmwwNm5ndFl2bi02dXdrNDhIcjlfNlpsLWFPa3VRaVdzOEdCQ0d2dkhOb3YxMXFPNTgxSmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T05:48:31+09:00"
-    },
-    {
-     "title": "原因は異なる震源で計算…M9.9と過大に推定『緊急地震速報』発表直後に取り消し",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTlUwZ2FDTWpXeURXT2Yzc2EzU3piTndWOWhjMU0wa2djVVNHVlhrXzlJWXJGRFl3RFNFOGVGdE1ldmU3UXJWcnY0QTNKME9ZWXFuOEJlQ3ZNeGZlck9hM1hubzNRLUt2YUs4a20yTWZDUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-17T00:11:00+09:00"
-    },
-    {
-     "title": "気象庁2度目の会見で“誤報”原因「マグニチュード計算と震度予測で異なる震源もとに計算」 詳細な調査続ける サイバー攻撃は否定（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWFZrWW1qaF9UWjVvaHBhRVEtM1dkb25GRDNiellpTHlQa3puM3lVcVFyZUYyUHowOUhDOENxaUFDQ0FIMDN5NmxmVko0aHVGNGtlSFNydVJjcEttTHlpRUlOT3dLdUFKSW52ZmNzUkw4RlppcVFINlZFUEJ5MDg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-16T20:50:31+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
-  },
-  {
-   "kw": "総務",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.3,
-   "ratio": 12.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    2,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "自民 林前総務相 美容産業振興の議連設立 \"海外展開後押しを\"",
-    "https://news.web.nhk/newsweb/na/nd-20261016de60670"
-   ],
-   "samples": [
-    {
-     "title": "自民 林前総務相 美容産業振興の議連設立 \"海外展開後押しを\"",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60670",
-     "source": "NHK 政治",
-     "published": "2026-10-16T19:10:00+09:00"
-    },
-    {
-     "title": "不正アクセス問題“災害情報の伝達手段の多重化を”藤井総務相",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60419",
-     "source": "NHK 政治",
-     "published": "2026-10-16T16:07:00+09:00"
-    },
-    {
-     "title": "総務省、通信事業者のデータ保護強化へ 情報漏えい相次ぎ、検討会設置",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02TjhsNHZqX1JFN29ORjZqcGQzSzRud3pqSnhEV1hTWWQyNHdxTDdyQ2oxaTRGSEt1OGdmMDVyc1pWWE1ZWG5va2R4am5vcDY4OXhfMEFza2gwM0hXY0hKX2Nyaw?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-16T16:05:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
-  },
-  {
-   "kw": "逆転",
-   "level": "high",
-   "d24": 6,
+   "d24": 7,
    "baseline": 0.5,
-   "ratio": 12.0,
-   "consecutive": 3,
+   "ratio": 14.0,
+   "consecutive": 2,
    "days": [
+    0,
     0,
     0,
     0,
     2,
-    0,
     1,
-    6
+    7
    ],
    "latest": [
-    "最高裁 逆転有罪判決で実刑が確定 猪苗代湖ボート事故（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIT2VfTHVYamRBa0JyQ3Q2SDNZVURSbWs1X2cxc1hvTlZkSFZOVjBWRnkzZkNfODNCeVh5S0RHc1RGMW9lQzdJdFRpa2NqNmg0d0FkbE5ZT1I5TDlROW1EeDhwZUt6alhDWXdiSW0zS2diXzhRR0JscHB4SzBwRUE?oc=5"
+    "米「スターリンク」通信制限 ゼレンスキー大統領「迎撃に支障」",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oN1BhVkFMQV9BQkZ4VWlCem83X29TOXBhVjFjODQzRTVEamJrSjU4cTdJeXFtRFUxcnJPY0Q2SFdrdXAwcHpacTIzd3Y4RW1UY0VScXBlcWJXREdhT0w5cjFSN0dVMlI5cUxtY3B0a3BfaVd2TFZtY21B?oc=5"
    ],
    "samples": [
     {
-     "title": "最高裁 逆転有罪判決で実刑が確定 猪苗代湖ボート事故（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIT2VfTHVYamRBa0JyQ3Q2SDNZVURSbWs1X2cxc1hvTlZkSFZOVjBWRnkzZkNfODNCeVh5S0RHc1RGMW9lQzdJdFRpa2NqNmg0d0FkbE5ZT1I5TDlROW1EeDhwZUt6alhDWXdiSW0zS2diXzhRR0JscHB4SzBwRUE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T00:28:31+09:00"
-    },
-    {
-     "title": "2審で無罪も…最高裁で逆転有罪 判断分けた争点は？猪苗代湖・ボート事故",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wWXJkQVUzQlBBSXBKQ09nQ2xwQzZrLUNxMzl3eHpHZHBCZm1pUFRtR01nVl8tSGRldkNiSHFkV0JIdTJDQTNYeHdqNGVVTW9yQzI0NDR4QXBUNE5sMzAwS090MDhyaFE1aGhabnluX0N0Zw?oc=5",
+     "title": "米「スターリンク」通信制限 ゼレンスキー大統領「迎撃に支障」",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oN1BhVkFMQV9BQkZ4VWlCem83X29TOXBhVjFjODQzRTVEamJrSjU4cTdJeXFtRFUxcnJPY0Q2SFdrdXAwcHpacTIzd3Y4RW1UY0VScXBlcWJXREdhT0w5cjFSN0dVMlI5cUxtY3B0a3BfaVd2TFZtY21B?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-17T00:03:00+09:00"
+     "published": "2026-10-17T12:03:03+09:00"
     },
     {
-     "title": "AIに仕事を奪われる?人員削減進むアメリカで84％が「雇用の脅威」…年収1700万超“技能職”逆転の波 日本も数年内に配置転換か【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVUlkQUQtUk1TZGN6YThBTXB2bjJhSjlyTDdxLWVDMHk4a2NwQ2VFMEdKVzZDZ0U5aU54UUs1NzAxTzE5OGVYRVFuRXpCNkwtUVgtUDkxUTdjOHZGd3FSVGRNX05kN3VkOGNkYTFkLWJiek5taV9QRDJqbjEwc00?oc=5",
+     "title": "ゼレンスキー大統領「ロシアのドローンを迎撃できなくなった」アメリカ衛星通信「スターリンク」の利用制限で民間人保護に支障 完全復旧せず (FNNプライムオンライン（フジテレビ系）)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVlzT19DVkl0YmJDeHN3dXZzMk82TFhIRWQ4VjdUTnd2SjN4T0cwZ2pWQUdycmV1eGdXTy1lbS1TeXZVb25TM1lmVnkyVzdGT1F0TzRWaHZnbHE2eUR3bTMxSERNWmYyUHNZVkNTOG9DOU9uVmhZN2dQSE9sZDhBWmgzR0o2QnBIQjBWbm9B?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-16T21:44:13+09:00"
+     "published": "2026-10-17T09:28:17+09:00"
+    },
+    {
+     "title": "ゼレンスキー大統領「ロシアのドローンを迎撃できなくなった」アメリカ衛星通信「スターリンク」の利用制限で民間人保護に支障 完全復旧せず（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tR3REdW9lamFLSWQyY3JEQlNLb0R2NFIwSjE2bU9zcDAtWTdMWkRrZmJZZTBsWVVXdTItR2tiZkd3M0FtbW5lTzlPeS1kOTV5T2RCOWFLX2E2bk5LLTVWVTFwamNvMTl1SnBrT0RPSUplbUFRVk0xQ25udk44M0k?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T09:28:17+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
-  },
-  {
-   "kw": "ホスト",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.3,
-   "ratio": 12.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    1,
-    6
-   ],
-   "latest": [
-    "「エレン」名乗る歌舞伎町の元ホスト逮捕 マチアプで知り合った女性客を風俗店で働かせた疑い 「売り上げ上がれば2人で旅行」【news23】（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbzR4dlJZb3JQc3BPWWFYTjhqc21UTE9YTGdxbzBQNVgtQnprdFNPNllLaWF4UXB4UVBieDRCVFVlY0IzZ0M0eFdyZFE5QXNvTWFUQnVqbFl4akg2VGcyOV90NnRkc3I4OGZqOVJhSzEzVk93R24xMnNPOGJndFU?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「エレン」名乗る歌舞伎町の元ホスト逮捕 マチアプで知り合った女性客を風俗店で働かせた疑い 「売り上げ上がれば2人で旅行」【news23】（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbzR4dlJZb3JQc3BPWWFYTjhqc21UTE9YTGdxbzBQNVgtQnprdFNPNllLaWF4UXB4UVBieDRCVFVlY0IzZ0M0eFdyZFE5QXNvTWFUQnVqbFl4akg2VGcyOV90NnRkc3I4OGZqOVJhSzEzVk93R24xMnNPOGJndFU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T02:02:31+09:00"
-    },
-    {
-     "title": "「エレン」名乗る歌舞伎町の元ホスト逮捕 マチアプで知り合った女性客を風俗店で働かせた疑い 「売り上げ上がれば2人で旅行」【news23】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xdmNpNlpTYW8wRFhJTW5fbERVWnNHclA3STI4Z3VtUElRZVBJd0tuWkN5ZGdrX3dGbTRtOUtaQS15OWtZYWpucUd4dVVybE9fUkxIME9uQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-17T02:02:19+09:00"
-    },
-    {
-     "title": "被害証言「毎日行けと言われた」東京・歌舞伎町の元ホスト“エレン”がマチアプの女性客に性風俗店勤務を要求か 1000万円近く支払った女性も 警視庁",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNjJDVC1TZ2dmWGVmWDJHQUhVUEMtWkVjeVJhTFluSWJ2LUZXSzlCeDBiLVptdml3d0dqQlFkT0c4MXJDN3EyZlJvakFJNzQ4WjZvOFVZTQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-16T17:13:38+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
   },
   {
    "kw": "ボート",
@@ -1465,49 +777,6 @@
    "alerted_at": "2026-10-17T03:03:48.444566+09:00"
   },
   {
-   "kw": "無罪判決",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.0,
-   "ratio": 12.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-17T01:52:00+09:00"
-    },
-    {
-     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLXRUMkVXcGt2dEtteF9EdDhxU1paYURhbzV0RjNGWWxGR0NwVFU5Qi1ITFllOGh2MVhGZEl4R3dWT2xOX2I3SWJyQlFnX0I1ZUdVMy1QWUM2amhpVHdvOHQ2UFJRQ2k4bWtNLTVaYVA0YW94bmxLRGNNQWFKZUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T00:56:58+09:00"
-    },
-    {
-     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NQlhUWk9jZkpiSUhUa3J2V3FMZ2R6R3VZaVE0SnREM1dZREFuNEwwb1Y3Y2Itc25LT3NZdmMzVnRIdGRxQ1NRYjcyU1lWdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-17T00:48:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T06:08:48.577379+09:00"
-  },
-  {
    "kw": "プレミアム商品",
    "level": "high",
    "d24": 6,
@@ -1551,133 +820,47 @@
    "alerted_at": "2026-10-17T06:08:48.577379+09:00"
   },
   {
-   "kw": "スカイ",
+   "kw": "ドコモ",
    "level": "high",
    "d24": 6,
-   "baseline": 0.2,
-   "ratio": 12.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "スカイチケット運営会社 新たに「一部の顧客のクレジットカード情報流出」 Eストアーもカード情報の一部漏洩",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taTVvX0RJU0VLVzhfbEVROUh6d3JMUl9sS2FnOUd5cWpIS3lOREQxUFoxeTBYNjRZT3hJUU5sVnNyREV5WE5tLUp0SDgyY0VsdnF0MWhGR01IRHpMd3l4djBDSTNHWmRvUnJXTWc4RnVicW1HVXBOcjl1Y2E4QWc?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "スカイチケット運営会社 新たに「一部の顧客のクレジットカード情報流出」 Eストアーもカード情報の一部漏洩",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taTVvX0RJU0VLVzhfbEVROUh6d3JMUl9sS2FnOUd5cWpIS3lOREQxUFoxeTBYNjRZT3hJUU5sVnNyREV5WE5tLUp0SDgyY0VsdnF0MWhGR01IRHpMd3l4djBDSTNHWmRvUnJXTWc4RnVicW1HVXBOcjl1Y2E4QWc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-17T05:39:48+09:00"
-    },
-    {
-     "title": "旅行予約サイトのスカイチケット、クレカ情報流出",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekRNSTNnRXUxWXJFbm9iWjZYbHhaQ3ZlbExIUXYtTUxEQThVMVhHNkVtLUVNb0JnVnF5anRLRy1aMGlfQjNoY2k3SkhmczUwX1F5SkZQbk9URVZmWkZYNU1COFZzTzN3Q0hpT2oydWRJYmJKZ084bWllZTB2bXd6WdIBgAFBVV95cUxPekRNSTNnRXUxWXJFbm9iWjZYbHhaQ3ZlbExIUXYtTUxEQThVMVhHNkVtLUVNb0JnVnF5anRLRy1aMGlfQjNoY2k3SkhmczUwX1F5SkZQbk9URVZmWkZYNU1COFZzTzN3Q0hpT2oydWRJYmJKZ084bWllZTB2bXd6WQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-16T21:23:00+09:00"
-    },
-    {
-     "title": "スカイチケットの個人情報流出「クレジットカード情報も」新たに発表",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LUENIUzhJc1hGaEREaU5hQXZ6LUpUMm4yOEF6QUlfYWdETnhzZHVPUDk5SE9fNzBVZW9nWnBrSzk1QW95Nm1NWmVrZG5obEtLdXJpazhoNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-16T20:38:20+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
-  },
-  {
-   "kw": "ニデック",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.0,
+   "baseline": 0.5,
    "ratio": 12.0,
    "consecutive": 2,
    "days": [
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
-    "https://news.web.nhk/newsweb/na/nd-20261017de60817"
-   ],
-   "samples": [
-    {
-     "title": "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60817",
-     "source": "NHK 社会",
-     "published": "2026-10-17T07:22:08+09:00"
-    },
-    {
-     "title": "ニデック 永守氏らへの訴訟を検討",
-     "url": "https://news.yahoo.co.jp/pickup/6599040?source=rss",
-     "source": "Yahoo 経済",
-     "published": "2026-10-16T22:20:06+09:00"
-    },
-    {
-     "title": "ニデック不正会計、永守氏に責任 調査委が報告書",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EUWl3bzZZbUNpTGhNUjcwYS1Gc2xMT2hwMWVQZ0FLYmxhTlY3b1ltSEcxU2ROLUQ3T3pNbVJ3Y3doUnVUN0FWNWtTcw?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-16T21:36:23+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
-  },
-  {
-   "kw": "市民",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.5,
-   "ratio": 12.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
+    1,
     1,
     0,
-    2,
+    1,
     6
    ],
    "latest": [
-    "9歳で失明、61歳で初当選 全盲の千歳市議 落野章一さん5期目の現在地【前編】「党の枠にはまらない」無所属で問い続けた市民目線と覚悟",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zOVlFMmVvc21nbWNhWDRTZF9OTUJPR3NCN3gwb1lTQ1U0UkQzRkV5NTBEcWZaQXZWdEo3M2RfSjc4N0d2MVdualc4Ym1NWC1MVHVlN0lYTlNhVHRBYWc2UjZpNXc?oc=5"
+    "NTTドコモ 緊急地震速報配信されず システム不具合で",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM2pBemJUZ3BmSnpFRExPRGxIenlMN3FsZENyYkhFQXFUWVRxai1vN2Zid3J4aUZ5amp5UWdJck5pN29hQmkyTkdLSncyRVh0OVZrVG1Ma2pSeC11dGNnQVZnOTQ?oc=5"
    ],
    "samples": [
     {
-     "title": "9歳で失明、61歳で初当選 全盲の千歳市議 落野章一さん5期目の現在地【前編】「党の枠にはまらない」無所属で問い続けた市民目線と覚悟",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zOVlFMmVvc21nbWNhWDRTZF9OTUJPR3NCN3gwb1lTQ1U0UkQzRkV5NTBEcWZaQXZWdEo3M2RfSjc4N0d2MVdualc4Ym1NWC1MVHVlN0lYTlNhVHRBYWc2UjZpNXc?oc=5",
+     "title": "NTTドコモ 緊急地震速報配信されず システム不具合で",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM2pBemJUZ3BmSnpFRExPRGxIenlMN3FsZENyYkhFQXFUWVRxai1vN2Zid3J4aUZ5amp5UWdJck5pN29hQmkyTkdLSncyRVh0OVZrVG1Ma2pSeC11dGNnQVZnOTQ?oc=5",
      "source": "TBS NEWS DIG",
-     "published": "2026-10-17T08:00:00+09:00"
+     "published": "2026-10-16T21:44:20+09:00"
     },
     {
-     "title": "富山市の人口水増し問題、市民から延べ180件の意見や苦情 市長「非常に多くのお叱りを受けている」 幹部関与は否定「100％信じている」 (FNNプライムオンライン)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUZ5ekRrRTBiWjVoX0huajFLM2ZlTmRHaWJNYm5tNHB1RGNIRnYxQnRxNEhyMkNTQjV0N0xqVFpGWEMweDV4anJCRVdodHI5MTB3eVlTRWJKY0doMkxpZnRTa19GUEF4ZXFCQjdGM2ZmWDg5Y1NBR2ZETnBxV2M4TnpLOEhCc1ZXcTM3THFR?oc=5",
+     "title": "NTTドコモ 緊急地震速報配信されず システム不具合で (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEVYeXdQRXpDWGF2bkU0bzRaUU13U2s3Y3RfeGxFYm80WVMzdXNFclMxS2ZEUUpZbGFyREtzN1F3dWtlelBvOXFTb09qLV9lbTJKZnNycEZzTnJ0VGstZWVVYUJlZHZTamMxeUV6dGhPYlVtSFJ4U1NPOExVLUl2aGNjM2o2bEZOS3RFRkxn?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-16T20:58:20+09:00"
+     "published": "2026-10-16T21:43:10+09:00"
     },
     {
-     "title": "富山市の人口水増し問題、市民から延べ180件の意見や苦情 市長「非常に多くのお叱りを受けている」 幹部関与は否定「100％信じている」（FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZmtoR3Fna2ZvbU5yOW5xVVIwTmVEZEV1RjNCUkNEV0UzLThJSWd1VzdXeGM5N0R5ekxJdDJ0OF9aQ3dTRjAwYkV4a3F0SVpqTjNrRm0ySHJ4MTJGc2FnOWY3Q0VuOElsR29yeVRDUGFQbDd5VWFlTVRFZjQxNWc?oc=5",
+     "title": "NTTドコモ 緊急地震速報配信されず システム不具合で（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSXhHZXhmU1NqUDJmQkttaEVZVXJtc0FqWTFrMWw2OUhnSlpUTFluTnRYVmxIUHFMQW5fRTE3TGN2UXVUb2M3VDVqNUU4T0s0VEU2NGQyVUJ5Y1V5OUEzOWZFOGNkRHlZWGNNWU1pc2kxeFlGcGpMT01VVHd6akk?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-16T20:58:20+09:00"
+     "published": "2026-10-16T21:43:10+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
+   "alerted_at": "2026-10-17T06:08:48.577379+09:00"
   },
   {
    "kw": "誤報",
@@ -1721,19 +904,1674 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-17T10:33:59.474421+09:00"
+  },
+  {
+   "kw": "実現",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.5,
+   "ratio": 12.0,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    6
+   ],
+   "latest": [
+    "ロシア日本人記者“拘束” 訪問も領事面会実現せず（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KeUs5Q0FIY3VHUHE3QWlzU0JUVGZOVUNFTm5jNmhFd2VPby01bV9yRTliWDhmSVV3ZmRKZW5nTWc0aVBITmh2VlJCNFFKcGpQcldkSThCb3NDeXcwVEMwOU5VRnhKM29pcUVQdmtFaDFZN2ZtWE5pbjhsWXlBR1U?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "ロシア日本人記者“拘束” 訪問も領事面会実現せず（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KeUs5Q0FIY3VHUHE3QWlzU0JUVGZOVUNFTm5jNmhFd2VPby01bV9yRTliWDhmSVV3ZmRKZW5nTWc0aVBITmh2VlJCNFFKcGpQcldkSThCb3NDeXcwVEMwOU5VRnhKM29pcUVQdmtFaDFZN2ZtWE5pbjhsWXlBR1U?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T07:58:19+09:00"
+    },
+    {
+     "title": "ロシア日本人記者“拘束” 訪問も領事面会実現せず",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XSlYyeS1TdXRuT1hNT0pFbU14SVZYYUcxNVBaNmFOVUFyakNTMWtPOThGekZvQlI5dlVMdGZEQkYxOU1kNEhRT1ZFMzlWQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-17T07:55:00+09:00"
+    },
+    {
+     "title": "ロシアが拘束した北海道新聞記者への領事面会は実現せず",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60807",
+     "source": "NHK 主要",
+     "published": "2026-10-17T06:21:47+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T10:33:59.474421+09:00"
+  },
+  {
+   "kw": "日銀総裁",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.0,
+   "ratio": 12.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "日銀総裁、利上げ姿勢維持 エネルギー価格、AI需要を注視（共同通信）",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2JvTEhYOUliQk5kX0RrZ1o1ZENhZGdoSkVrZlY2b09oczBqVGtxQUxUMDh6bHFyUmZHNEU2YjEyaHB4Qmd3VkhtS0ZBcU5ZNmxKa1BRY0IzR0ZhaEFXR3Z4ZjZaNTZSOVlVRVlBM1p4aHZhdjhOcFBzcEY5S1JTT18yb3NNamo4UWdNcG13?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "日銀総裁、利上げ姿勢維持 エネルギー価格、AI需要を注視（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2JvTEhYOUliQk5kX0RrZ1o1ZENhZGdoSkVrZlY2b09oczBqVGtxQUxUMDh6bHFyUmZHNEU2YjEyaHB4Qmd3VkhtS0ZBcU5ZNmxKa1BRY0IzR0ZhaEFXR3Z4ZjZaNTZSOVlVRVlBM1p4aHZhdjhOcFBzcEY5S1JTT18yb3NNamo4UWdNcG13?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-16T22:49:26+09:00"
+    },
+    {
+     "title": "日本経済は見通し通りに推移と日銀総裁",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QbWk3VmZkV0FJVm9BSVpfVTVVc3FVVVdIZEI3cUpQdFliVVBGbUJrVW9PZ1ZSd0JBNVpIQ0txN2JvZ1ZfczdJTy1JeTNtTGdBQXZuRUVTcVJmRHRwQVE?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-10-16T21:04:50+09:00"
+    },
+    {
+     "title": "【速報】日本経済は見通し通りに推移と日銀総裁",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtQUFxNklEOWotVE11TTRUNTlfQ1NJVlhoY0ltUXRqYkZzX1FhRDlKSHlQcFR1Z3ZFVzQtVE5QUXpxSVpjbzAyWEVkNA?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-16T21:04:50+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "奉納",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.0,
+   "ratio": 12.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "高市総理「真榊」奉納 参拝は見送る方向 靖国神社 秋の例大祭始まる",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdTBpdmFQREk2Vk1WT3d6eWFfaTloOXJreFE3c2hnZlNhODlha2RFbnp5cW9OTFdRcVNBbndJaTZ5WEU2OElfQXg4b3lYRGUxYmJERlZabUJtbXZMYnlUb2tPTFBvbzhjY1lhVVJ6clR0dFU?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "高市総理「真榊」奉納 参拝は見送る方向 靖国神社 秋の例大祭始まる",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdTBpdmFQREk2Vk1WT3d6eWFfaTloOXJreFE3c2hnZlNhODlha2RFbnp5cW9OTFdRcVNBbndJaTZ5WEU2OElfQXg4b3lYRGUxYmJERlZabUJtbXZMYnlUb2tPTFBvbzhjY1lhVVJ6clR0dFU?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T13:15:05+09:00"
+    },
+    {
+     "title": "靖国神社 秋の例大祭 高市総理 参拝は見送る方向 「真榊」奉納",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SbUJkRy1lOHp1QmQ0ZTVSUFR4UnFSdC1wRFU3T3NNdmtpZnhKWU1Ec085ODN3NDIzeVVsQnpmelVHb3BoVEhzLW5uMUUxQ1ZmUEpqM0VNLV9lWWhpbk1zT0FlLU5PVWlWMzBOcnp2bWIxR00?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T12:05:04+09:00"
+    },
+    {
+     "title": "高市総理 靖国神社に「真榊」奉納も参拝は見送りへ 秋の例大祭はじまる 19日には超党派の議員連盟が参拝予定",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mOVk3bFc4VmlSN1hsd2pIajRjbDBtNE8ydUVxWUU1MXpqTjB2dXFnNXVxVk84YkhPQkkyYWdiN2ZHU3BwOUJKVC0wYVk5ODdjLUpQSGV0TQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-17T11:53:20+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "チケット",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.2,
+   "ratio": 12.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60862"
+   ],
+   "samples": [
+    {
+     "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60862",
+     "source": "NHK 主要",
+     "published": "2026-10-17T11:58:00+09:00"
+    },
+    {
+     "title": "スカイチケット運営会社 新たに「一部の顧客のクレジットカード情報流出」 Eストアーもカード情報の一部漏洩",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taTVvX0RJU0VLVzhfbEVROUh6d3JMUl9sS2FnOUd5cWpIS3lOREQxUFoxeTBYNjRZT3hJUU5sVnNyREV5WE5tLUp0SDgyY0VsdnF0MWhGR01IRHpMd3l4djBDSTNHWmRvUnJXTWc4RnVicW1HVXBOcjl1Y2E4QWc?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T05:39:48+09:00"
+    },
+    {
+     "title": "旅行予約サイトのスカイチケット、クレカ情報流出",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekRNSTNnRXUxWXJFbm9iWjZYbHhaQ3ZlbExIUXYtTUxEQThVMVhHNkVtLUVNb0JnVnF5anRLRy1aMGlfQjNoY2k3SkhmczUwX1F5SkZQbk9URVZmWkZYNU1COFZzTzN3Q0hpT2oydWRJYmJKZ084bWllZTB2bXd6WdIBgAFBVV95cUxPekRNSTNnRXUxWXJFbm9iWjZYbHhaQ3ZlbExIUXYtTUxEQThVMVhHNkVtLUVNb0JnVnF5anRLRy1aMGlfQjNoY2k3SkhmczUwX1F5SkZQbk9URVZmWkZYNU1COFZzTzN3Q0hpT2oydWRJYmJKZ084bWllZTB2bXd6WQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-16T21:23:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "スカイ",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.3,
+   "ratio": 12.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    6
+   ],
+   "latest": [
+    "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60862"
+   ],
+   "samples": [
+    {
+     "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60862",
+     "source": "NHK 主要",
+     "published": "2026-10-17T11:58:00+09:00"
+    },
+    {
+     "title": "スカイチケット運営会社 新たに「一部の顧客のクレジットカード情報流出」 Eストアーもカード情報の一部漏洩",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taTVvX0RJU0VLVzhfbEVROUh6d3JMUl9sS2FnOUd5cWpIS3lOREQxUFoxeTBYNjRZT3hJUU5sVnNyREV5WE5tLUp0SDgyY0VsdnF0MWhGR01IRHpMd3l4djBDSTNHWmRvUnJXTWc4RnVicW1HVXBOcjl1Y2E4QWc?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T05:39:48+09:00"
+    },
+    {
+     "title": "旅行予約サイトのスカイチケット、クレカ情報流出",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekRNSTNnRXUxWXJFbm9iWjZYbHhaQ3ZlbExIUXYtTUxEQThVMVhHNkVtLUVNb0JnVnF5anRLRy1aMGlfQjNoY2k3SkhmczUwX1F5SkZQbk9URVZmWkZYNU1COFZzTzN3Q0hpT2oydWRJYmJKZ084bWllZTB2bXd6WdIBgAFBVV95cUxPekRNSTNnRXUxWXJFbm9iWjZYbHhaQ3ZlbExIUXYtTUxEQThVMVhHNkVtLUVNb0JnVnF5anRLRy1aMGlfQjNoY2k3SkhmczUwX1F5SkZQbk9URVZmWkZYNU1COFZzTzN3Q0hpT2oydWRJYmJKZ084bWllZTB2bXd6WQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-16T21:23:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
+  },
+  {
+   "kw": "参拝",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.2,
+   "ratio": 12.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    6
+   ],
+   "latest": [
+    "高市総理「真榊」奉納 参拝は見送る方向 靖国神社 秋の例大祭始まる",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdTBpdmFQREk2Vk1WT3d6eWFfaTloOXJreFE3c2hnZlNhODlha2RFbnp5cW9OTFdRcVNBbndJaTZ5WEU2OElfQXg4b3lYRGUxYmJERlZabUJtbXZMYnlUb2tPTFBvbzhjY1lhVVJ6clR0dFU?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "高市総理「真榊」奉納 参拝は見送る方向 靖国神社 秋の例大祭始まる",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdTBpdmFQREk2Vk1WT3d6eWFfaTloOXJreFE3c2hnZlNhODlha2RFbnp5cW9OTFdRcVNBbndJaTZ5WEU2OElfQXg4b3lYRGUxYmJERlZabUJtbXZMYnlUb2tPTFBvbzhjY1lhVVJ6clR0dFU?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T13:15:05+09:00"
+    },
+    {
+     "title": "靖国神社 秋の例大祭 高市総理 参拝は見送る方向 「真榊」奉納",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SbUJkRy1lOHp1QmQ0ZTVSUFR4UnFSdC1wRFU3T3NNdmtpZnhKWU1Ec085ODN3NDIzeVVsQnpmelVHb3BoVEhzLW5uMUUxQ1ZmUEpqM0VNLV9lWWhpbk1zT0FlLU5PVWlWMzBOcnp2bWIxR00?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T12:05:04+09:00"
+    },
+    {
+     "title": "【速報】城内経済財政担当相が靖国神社を参拝",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdlRXVWVuaG9ONmN0eEFobm1DYVBKNEswdmdyRWdmODFIXy03bXFqS1VRcDB2SDE2OUxwSlFNZVB4Y01PU2VKYWhJZw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-17T12:04:47+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "財政",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.8,
+   "ratio": 10.8,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    9
+   ],
+   "latest": [
+    "【速報】城内経済財政担当相が靖国神社を参拝",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdlRXVWVuaG9ONmN0eEFobm1DYVBKNEswdmdyRWdmODFIXy03bXFqS1VRcDB2SDE2OUxwSlFNZVB4Y01PU2VKYWhJZw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【速報】城内経済財政担当相が靖国神社を参拝",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdlRXVWVuaG9ONmN0eEFobm1DYVBKNEswdmdyRWdmODFIXy03bXFqS1VRcDB2SDE2OUxwSlFNZVB4Y01PU2VKYWhJZw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-17T12:04:47+09:00"
+    },
+    {
+     "title": "城内経済財政担当相が靖国神社を参拝",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDFxUGY5clJxQkMxbmZFRWZVYjlBM1pESm9LTURlZkx3eDlkZk9CUU11QUcwUlB0dS0xTUJlMldMSy1QVS1ObGtyNVRjOTJnNHFPeDhOZ3czTVJuNE5pWGdFSzBtRy1jT0dwT3NyRWtBSW8tdVo0ZndBZDc4dlNqMHRHVUJOUmROX2ZVbjlB0gGTAUFVX3lxTE10aEdlMjFkdGNJVHZPNDdvVE04R013OV8tRGtoN0FqTzdzWjVDci1aOFJKQl9xSDJJS3B3bzFTc2dEek1MVDZsMnR0ekswN29lcDRpVmx1aE1hRTJqbWFfSjN0c3ZYOV9CaFU1bFBDQ042SWlCeEpEWGVPS05HWGJDeHhFSkdVR2RLOFpMSGdEcTM4TQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-17T12:04:00+09:00"
+    },
+    {
+     "title": "アメリカの財政赤字314兆円 過去3番目 利払い費増加などで",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60820",
+     "source": "NHK 経済",
+     "published": "2026-10-17T08:41:09+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T10:33:59.474421+09:00"
+  },
+  {
+   "kw": "最高裁",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    7
+   ],
+   "latest": [
+    "最高裁 逆転有罪判決で実刑が確定 猪苗代湖ボート事故（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIT2VfTHVYamRBa0JyQ3Q2SDNZVURSbWs1X2cxc1hvTlZkSFZOVjBWRnkzZkNfODNCeVh5S0RHc1RGMW9lQzdJdFRpa2NqNmg0d0FkbE5ZT1I5TDlROW1EeDhwZUt6alhDWXdiSW0zS2diXzhRR0JscHB4SzBwRUE?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "最高裁 逆転有罪判決で実刑が確定 猪苗代湖ボート事故（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIT2VfTHVYamRBa0JyQ3Q2SDNZVURSbWs1X2cxc1hvTlZkSFZOVjBWRnkzZkNfODNCeVh5S0RHc1RGMW9lQzdJdFRpa2NqNmg0d0FkbE5ZT1I5TDlROW1EeDhwZUt6alhDWXdiSW0zS2diXzhRR0JscHB4SzBwRUE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T00:28:31+09:00"
+    },
+    {
+     "title": "2審で無罪も…最高裁で逆転有罪 判断分けた争点は？猪苗代湖・ボート事故",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wWXJkQVUzQlBBSXBKQ09nQ2xwQzZrLUNxMzl3eHpHZHBCZm1pUFRtR01nVl8tSGRldkNiSHFkV0JIdTJDQTNYeHdqNGVVTW9yQzI0NDR4QXBUNE5sMzAwS090MDhyaFE1aGhabnluX0N0Zw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T00:03:00+09:00"
+    },
+    {
+     "title": "“僕は無罪”北陸道を時速190キロで走行し72歳男が初公判で主張「最高裁まで行きます」",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZVVhrTGowbTM0UlVPdjNpTURJNm9qSVFBT0lLRTA0NjBFZU1UbjYwdVlFT1ptWWk3Z2N6Zng1elFZZFJ2bUlpaEhVVXdsV3RDQTdsTl9TYlpzSEF3d3NZ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-16T18:49:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
+  },
+  {
+   "kw": "担当",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    1,
+    3,
+    0,
+    0,
+    7
+   ],
+   "latest": [
+    "【速報】城内経済財政担当相が靖国神社を参拝",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdlRXVWVuaG9ONmN0eEFobm1DYVBKNEswdmdyRWdmODFIXy03bXFqS1VRcDB2SDE2OUxwSlFNZVB4Y01PU2VKYWhJZw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【速報】城内経済財政担当相が靖国神社を参拝",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdlRXVWVuaG9ONmN0eEFobm1DYVBKNEswdmdyRWdmODFIXy03bXFqS1VRcDB2SDE2OUxwSlFNZVB4Y01PU2VKYWhJZw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-17T12:04:47+09:00"
+    },
+    {
+     "title": "城内経済財政担当相が靖国神社を参拝",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDFxUGY5clJxQkMxbmZFRWZVYjlBM1pESm9LTURlZkx3eDlkZk9CUU11QUcwUlB0dS0xTUJlMldMSy1QVS1ObGtyNVRjOTJnNHFPeDhOZ3czTVJuNE5pWGdFSzBtRy1jT0dwT3NyRWtBSW8tdVo0ZndBZDc4dlNqMHRHVUJOUmROX2ZVbjlB0gGTAUFVX3lxTE10aEdlMjFkdGNJVHZPNDdvVE04R013OV8tRGtoN0FqTzdzWjVDci1aOFJKQl9xSDJJS3B3bzFTc2dEek1MVDZsMnR0ekswN29lcDRpVmx1aE1hRTJqbWFfSjN0c3ZYOV9CaFU1bFBDQ042SWlCeEpEWGVPS05HWGJDeHhFSkdVR2RLOFpMSGdEcTM4TQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-17T12:04:00+09:00"
+    },
+    {
+     "title": "【代表取締役の立場悪用し横領】代表取締役を務めていた会社から約270万円を着服し家賃や買い物に充当…”唯一の経理担当”だった51歳男性を業務上横領の疑いで逮捕－容疑は否認〈北海道札幌市〉",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15MEZUZUoycnRVQXRqbnJJWmJFV2lSLTNjbndYWkFmX2ZRMnhFSlpoMGxIUG1VWUpDMGRwblQzWFQ5YVJnRzdEZkFwcWZRZw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-17T09:19:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "新型",
+   "level": "high",
+   "d24": 12,
+   "baseline": 1.2,
+   "ratio": 10.3,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    1,
+    3,
+    1,
+    2,
+    12
+   ],
+   "latest": [
+    "北朝鮮がAI魚雷の発射実験 海軍強化に向け新型兵器の開発進める",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc1BHU3gwQS1WOW1ONlFYTm5xcVc4WFRFelhXVWU5Q0JRM3dLOGp0clhSaG1tanB2X0NNNmVmU0R1VWRZVzZiNy1ZSG9IMGc5SHcxaW5xYjhfN0Q2cUdhN18xNmVXWFFJcVU1a1g5aHE3RV8zc3lXTkxn?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "北朝鮮がAI魚雷の発射実験 海軍強化に向け新型兵器の開発進める",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc1BHU3gwQS1WOW1ONlFYTm5xcVc4WFRFelhXVWU5Q0JRM3dLOGp0clhSaG1tanB2X0NNNmVmU0R1VWRZVzZiNy1ZSG9IMGc5SHcxaW5xYjhfN0Q2cUdhN18xNmVXWFFJcVU1a1g5aHE3RV8zc3lXTkxn?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T10:34:25+09:00"
+    },
+    {
+     "title": "新型「ウォークマン」来月27日発売 65万円 金メッキ施した銅で音にこだわる ソニー",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZbldyUUxoZG1QbGhnSzZKYzBkOFI0ZVpTdUZ5U2pHa3FjdVhqZFRvb1VFSnRFOHB6MC1WNUl6b2R1a1Z2OWlNcjI3NjU0QXNRZzJaZWtCMmtRMEdyNy13U1RYVmRYQm9SdDN0YVpFamRfdw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T09:28:58+09:00"
+    },
+    {
+     "title": "テスラ新型車 空を飛び宙返り実演",
+     "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
+     "source": "Yahoo 経済",
+     "published": "2026-10-17T00:17:22+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-16T18:18:50.186088+09:00"
+  },
+  {
+   "kw": "認定",
+   "level": "high",
+   "d24": 10,
+   "baseline": 1.0,
+   "ratio": 10.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    3,
+    2,
+    1,
+    10
+   ],
+   "latest": [
+    "TSMCが熊本で3ナノ半導体生産計画 国が認定",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60777"
+   ],
+   "samples": [
+    {
+     "title": "TSMCが熊本で3ナノ半導体生産計画 国が認定",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60777",
+     "source": "NHK 経済",
+     "published": "2026-10-17T01:21:56+09:00"
+    },
+    {
+     "title": "「新宿逸品」55品がブランド認定！8時間煮込んだ“とろけるゆでたん”、炭酸で割る“魔法のシロップ”も…魅力の区認定グルメ【Nスタ】",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44ZFVTWkt3SWFTMkh2eHRpcmFPS0NzRDkzelp3Tm1QNGpGUm94aGdhdzQwejZ0NTlwaFA3VTNXaHR1SEtCVUFqZmtyTDhVUHp2ckc4WWduWQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-16T21:25:32+09:00"
+    },
+    {
+     "title": "TSMCの熊本第2計画を認定 経産省、先端3ナノ半導体（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50bTdNa2FOZk5aY1Z0cTVWcXNmWFRBamhIOVluLVpKcm1zQ2YzR1ZnMXFTTnNNdHJoeHBkT1dlSFBUWlpZVzJ4eG45aG9NMVVlREFjSXBwV3FMUmF2enh1U004ckVqOEJseUlrSjBROTBZb2xEUjVNbnZoX2s5QXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-16T21:03:46+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
+  },
+  {
+   "kw": "総務",
+   "level": "high",
+   "d24": 5,
+   "baseline": 0.5,
+   "ratio": 10.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    5
+   ],
+   "latest": [
+    "自民 林前総務相 美容産業振興の議連設立 \"海外展開後押しを\"",
+    "https://news.web.nhk/newsweb/na/nd-20261016de60670"
+   ],
+   "samples": [
+    {
+     "title": "自民 林前総務相 美容産業振興の議連設立 \"海外展開後押しを\"",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60670",
+     "source": "NHK 政治",
+     "published": "2026-10-16T19:10:00+09:00"
+    },
+    {
+     "title": "不正アクセス問題“災害情報の伝達手段の多重化を”藤井総務相",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60419",
+     "source": "NHK 政治",
+     "published": "2026-10-16T16:07:00+09:00"
+    },
+    {
+     "title": "総務省、通信事業者のデータ保護強化へ 情報漏えい相次ぎ、検討会設置",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02TjhsNHZqX1JFN29ORjZqcGQzSzRud3pqSnhEV1hTWWQyNHdxTDdyQ2oxaTRGSEt1OGdmMDVyc1pWWE1ZWG5va2R4am5vcDY4OXhfMEFza2gwM0hXY0hKX2Nyaw?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-16T16:05:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
+  },
+  {
+   "kw": "容認",
+   "level": "high",
+   "d24": 5,
+   "baseline": 0.2,
+   "ratio": 10.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    5
+   ],
+   "latest": [
+    "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60794"
+   ],
+   "samples": [
+    {
+     "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60794",
+     "source": "NHK 経済",
+     "published": "2026-10-17T05:01:00+09:00"
+    },
+    {
+     "title": "スターリンク問題「迎撃に支障」影響は食料補給にも…ゼレンスキー氏「容認できない」",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nT2g5UDdpRVNhcjd4MEU1Y18tLWVQTlpibTJBTjY3blFUT0ZCMkhHSTBRVVRaT1NiMzJaOEthU0JwYmNRQUNvVk5ZYjZ5SGY4aEtYd0FCM2FtOXZfZGZpel81b0xFZkNTTHl5Qk42SDI1V3YyT0dndkRR?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-16T23:58:21+09:00"
+    },
+    {
+     "title": "日銀・植田総裁 基調物価「これ以上上がること容認できない」 利上げを継続する姿勢強調（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QYlF2RXpseDVYMFZ2STJVR1E1TTJoYnZpb0RiVlpZcnVrWU9GR09rTW13aXFMb1B4aVJDbW12bHBhdkIxLWhCbzZmTjJETDRINDRmMmFyUFVuTmxDVlFBazJtMGlxODI3NUZEWkxMUVNJa1FJeTJUMlBYSEMwWW8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-16T22:16:03+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T06:08:48.577379+09:00"
+  },
+  {
+   "kw": "餃子",
+   "level": "high",
+   "d24": 5,
+   "baseline": 0.5,
+   "ratio": 10.0,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    5
+   ],
+   "latest": [
+    "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
+    "https://news.web.nhk/newsweb/na/nd-20261017de60800"
+   ],
+   "samples": [
+    {
+     "title": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60800",
+     "source": "NHK 主要",
+     "published": "2026-10-17T06:00:03+09:00"
+    },
+    {
+     "title": "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T01:52:00+09:00"
+    },
+    {
+     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLXRUMkVXcGt2dEtteF9EdDhxU1paYURhbzV0RjNGWWxGR0NwVFU5Qi1ITFllOGh2MVhGZEl4R3dWT2xOX2I3SWJyQlFnX0I1ZUdVMy1QWUM2amhpVHdvOHQ2UFJRQ2k4bWtNLTVaYVA0YW94bmxLRGNNQWFKZUU?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T00:56:58+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
+  },
+  {
+   "kw": "?」",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.7,
+   "ratio": 9.0,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    6
+   ],
+   "latest": [
+    "時給850円で「投票依頼の電話」 辞任の簗前大臣「買収疑惑」に新証言 「なぜかばい続けた?」高市総理へ追及続く【news23】",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3eWV4S0twemx0bnBtQ1VyYVZLeUJIaXJWVE5iNW0wT0p0dmx6N0lsaENzWmxOQW1LenZZZGMtYjNFMzBsMTN3U1VPRGotV1E2MXFlZlRuRGN0WjZKaTdTVzIzLWFpN1FveVA4elZ3VjJsQlh6b1FZbmJuellEOEk?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "時給850円で「投票依頼の電話」 辞任の簗前大臣「買収疑惑」に新証言 「なぜかばい続けた?」高市総理へ追及続く【news23】",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3eWV4S0twemx0bnBtQ1VyYVZLeUJIaXJWVE5iNW0wT0p0dmx6N0lsaENzWmxOQW1LenZZZGMtYjNFMzBsMTN3U1VPRGotV1E2MXFlZlRuRGN0WjZKaTdTVzIzLWFpN1FveVA4elZ3VjJsQlh6b1FZbmJuellEOEk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T14:32:14+09:00"
+    },
+    {
+     "title": "「イッシーに会える?」鹿児島・池田湖に観光遊覧船が誕生へ 年内運航めざし許可申請中 (FNNプライムオンライン)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGtrSnNydDFrX2ZEVW5TZTltODhLRXlVUGNrOWZrell3cEg0UGFMNXZ1ZGFFeG5HbHkyUktGTHJxOFp2M1hHdXlkRkhXWDN0amh5MU5SdDVhOXJaMkd4VVllZ2VZckVPQnQzWFppUnlsejUxYU1nVFNBNmJmLWNxVnpRaV8xMlVBNmg5ZEpR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T09:12:23+09:00"
+    },
+    {
+     "title": "「上手すぎん？」堂安律、相手DF2人の間をぶち抜く“超絶パス”「そこ通すんかい！」守備陣を無力化→意表を突いた一撃【日本人選手ハイライト】",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80eGVqNFhFd2gzb3lOc01ST3JSWmN0YlE3V3RLeDAwbVNEbEVWcm4wTzRtZnI2Z0VSeW40dHRXQ1ZmOWdQb2NRYkdLNEtfT0VOc0JuMGw5bDJYZDZMZWtDczBrQ0VkZnlDZW41a2hPUEw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T08:45:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "クレカ",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.8,
+   "ratio": 8.4,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    3,
+    7
+   ],
+   "latest": [
+    "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNG42dTJycF9nRWxxMlJJOENuMTVXWElHQ0hDOHJhMHBnS2hGWFlCX2JPSE4wR1E3QlpKQ2pPUGNDMUJaZEtpSFR6M0tOOWxRYl9hTVlOQ2xkR2l5QzNvOF9uX3p0ZEJON2IwT2RWX2txZw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNG42dTJycF9nRWxxMlJJOENuMTVXWElHQ0hDOHJhMHBnS2hGWFlCX2JPSE4wR1E3QlpKQ2pPUGNDMUJaZEtpSFR6M0tOOWxRYl9hTVlOQ2xkR2l5QzNvOF9uX3p0ZEJON2IwT2RWX2txZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T13:51:04+09:00"
+    },
+    {
+     "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60862",
+     "source": "NHK 主要",
+     "published": "2026-10-17T11:58:00+09:00"
+    },
+    {
+     "title": "「skyticket」クレカ情報も流出、カード番号など最大6140人分　「流出なし」の初報を訂正",
+     "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002350/",
+     "source": "ITmedia",
+     "published": "2026-10-17T10:42:34+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
+  },
+  {
+   "kw": "無罪判決",
+   "level": "high",
+   "d24": 4,
+   "baseline": 0.3,
+   "ratio": 8.0,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    4
+   ],
+   "latest": [
+    "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「私は本当に犯人ではない」暴力団幹部に無罪判決『餃子の王将』社長射殺事件",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RUVJTWFZEdDg3ejh3blpNWWZjTXBwNTNfTGNNeXVSRzdXRW5HODJUM2Y0ZU00TlVTYWZOU3QzMTM4SHhSeWJEYWJTdXg0WUhVWFZpaF9SSVRGUm1ld3h3b1ZNbmRWUzZHZkhyZVJTX3RFUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T01:52:00+09:00"
+    },
+    {
+     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLXRUMkVXcGt2dEtteF9EdDhxU1paYURhbzV0RjNGWWxGR0NwVFU5Qi1ITFllOGh2MVhGZEl4R3dWT2xOX2I3SWJyQlFnX0I1ZUdVMy1QWUM2amhpVHdvOHQ2UFJRQ2k4bWtNLTVaYVA0YW94bmxLRGNNQWFKZUU?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T00:56:58+09:00"
+    },
+    {
+     "title": "“餃子の王将”社長射殺 被告に無罪判決 京都地裁",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NQlhUWk9jZkpiSUhUa3J2V3FMZ2R6R3VZaVE0SnREM1dZREFuNEwwb1Y3Y2Itc25LT3NZdmMzVnRIdGRxQ1NRYjcyU1lWdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-17T00:48:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T06:08:48.577379+09:00"
+  },
+  {
+   "kw": "否定",
+   "level": "high",
+   "d24": 10,
+   "baseline": 1.3,
+   "ratio": 7.5,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    0,
+    5,
+    2,
+    1,
+    10
+   ],
+   "latest": [
+    "ウクライナ軍の衛星通信制限「私ではない」 トランプ大統領が指示否定（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZVEzNVNMM0lWWXBpXzZ3cTQ5a1dKSFQ3MktfRjJVc3c4ZkRkRGNEZkxYWXF2VTNjT0J4ZmlmSXhocjdoMHVfWWdvUmpuMjZVeEFRYzBuaUR1UldnXzM0bmk5ZGswN0hQdnNEYkljWk0ycnp1YVFFUUlkVmo2eG8?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "ウクライナ軍の衛星通信制限「私ではない」 トランプ大統領が指示否定（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZVEzNVNMM0lWWXBpXzZ3cTQ5a1dKSFQ3MktfRjJVc3c4ZkRkRGNEZkxYWXF2VTNjT0J4ZmlmSXhocjdoMHVfWWdvUmpuMjZVeEFRYzBuaUR1UldnXzM0bmk5ZGswN0hQdnNEYkljWk0ycnp1YVFFUUlkVmo2eG8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T09:52:18+09:00"
+    },
+    {
+     "title": "ウクライナ軍の衛星通信制限「私ではない」 トランプ大統領が指示否定",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BUnB3UER2Z3pOUWNaY0tMMUt0dmp3LWFyZ1ctVFNFNnVIREFOb1JsdjJSQnpoYU1qOXgxdXNTNlhkc3p5UTI3ZXc4ZjZnZw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-17T09:49:00+09:00"
+    },
+    {
+     "title": "市の“肝いり事業”めぐり…贈収賄の疑いで南魚沼市職員ら3人逮捕「仕事できる人だった」 業務委託業者は会社ぐるみの関与否定「容疑者に依存していた」新潟",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YY1BMdkJYcHFyWERYTEZPX2tSZXEwemUwUVZvTHRQZG9qbG1ncnRRbzZ2WlB0MWdQX0IwV2dZUmRoalNKd2JvZmFVWjZjUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-17T05:00:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
+  },
+  {
+   "kw": "逆転",
+   "level": "high",
+   "d24": 5,
+   "baseline": 0.7,
+   "ratio": 7.5,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    2,
+    5
+   ],
+   "latest": [
+    "最高裁 逆転有罪判決で実刑が確定 猪苗代湖ボート事故（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIT2VfTHVYamRBa0JyQ3Q2SDNZVURSbWs1X2cxc1hvTlZkSFZOVjBWRnkzZkNfODNCeVh5S0RHc1RGMW9lQzdJdFRpa2NqNmg0d0FkbE5ZT1I5TDlROW1EeDhwZUt6alhDWXdiSW0zS2diXzhRR0JscHB4SzBwRUE?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "最高裁 逆転有罪判決で実刑が確定 猪苗代湖ボート事故（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIT2VfTHVYamRBa0JyQ3Q2SDNZVURSbWs1X2cxc1hvTlZkSFZOVjBWRnkzZkNfODNCeVh5S0RHc1RGMW9lQzdJdFRpa2NqNmg0d0FkbE5ZT1I5TDlROW1EeDhwZUt6alhDWXdiSW0zS2diXzhRR0JscHB4SzBwRUE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-17T00:28:31+09:00"
+    },
+    {
+     "title": "2審で無罪も…最高裁で逆転有罪 判断分けた争点は？猪苗代湖・ボート事故",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wWXJkQVUzQlBBSXBKQ09nQ2xwQzZrLUNxMzl3eHpHZHBCZm1pUFRtR01nVl8tSGRldkNiSHFkV0JIdTJDQTNYeHdqNGVVTW9yQzI0NDR4QXBUNE5sMzAwS090MDhyaFE1aGhabnluX0N0Zw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-17T00:03:00+09:00"
+    },
+    {
+     "title": "AIに仕事を奪われる?人員削減進むアメリカで84％が「雇用の脅威」…年収1700万超“技能職”逆転の波 日本も数年内に配置転換か【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVUlkQUQtUk1TZGN6YThBTXB2bjJhSjlyTDdxLWVDMHk4a2NwQ2VFMEdKVzZDZ0U5aU54UUs1NzAxTzE5OGVYRVFuRXpCNkwtUVgtUDkxUTdjOHZGd3FSVGRNX05kN3VkOGNkYTFkLWJiek5taV9QRDJqbjEwc00?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-16T21:44:13+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T03:03:48.444566+09:00"
   }
  ],
  "events": [
+  {
+   "id": "0e74bf018f246a94",
+   "title": "VIVANT【 大谷亮平 】〝息子〟ドラムの活躍を「親心を持って見ています」 サイドストーリー撮影で「人生観が広がった」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TNmp4VGthQnFoZEtXRmVERDJJZ1BaWmNVZ3ZzSGFCT3duazVXQlh6T1V2d1ViRFBMd1hia2N4R2diUkRFcDMzQ3dwakgxbEc5RTVodnQ3MXdFMnFVdVJJUDV3RllnWU10US1EMlRHR3dwekROUl93ejRjZEpnWDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T15:02:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e537929a0fd03dc2",
+   "title": "【台風情報】22日ごろ沖縄の南に接近か 台風30号(チャンパー)最大瞬間風速70メートル予想 北西よりに進む 今後の進路予想を進路図で、雨風シミュレーション、今後の天気を画像で見る",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rR0xKM0g3UkJnbHdOeVhVRmlZRUNFQjVOdmVuVi1UbUpKMmc4OUpRQUpDSzRQelZRQzNkSUNHLUNkZ1RyQVpDNmo3cDRkbGo2Uk9jdkNvQ0J3Nm8wd0xvSTVocEc?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T15:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a751a4e18f5c72bf",
+   "title": "首相防戦 立民が簗氏更迭巡り追及",
+   "url": "https://news.yahoo.co.jp/pickup/6599109?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-10-17T14:56:21+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c7a74364c1dc193e",
+   "title": "「高市離れ」男性も加速 時事調査",
+   "url": "https://news.yahoo.co.jp/pickup/6599110?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-10-17T14:53:03+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1e792e57bea9a67a",
+   "title": "児童相談所からの通報で発覚...自宅前路上で小学生の娘の髪掴み引きずる 36歳男を逮捕 （山形）",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGaVpPUGk1ZlU2S2RTRnBYV3NiYUJtSi12Qk9ydGR0M1p1bm1KUnVXQ3hwRUJ1dDRJZTFSMTdEUWQ5M1hBVjBCazRWNG55TXY0dkh1X0p6TjRGOHRnU2dvcVRRcmI?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T14:50:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "df5f73b6bcde179d",
+   "title": "ローマ教皇 プーチン氏に停戦要請",
+   "url": "https://news.yahoo.co.jp/pickup/6599108?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-17T14:46:19+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c3a33a741f0e573c",
+   "title": "トランプ氏ロシア制裁の実施見送り ロシア産の原油などへの関税 期限目前での判断",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWlNzQWc4MURzWUxOVGJyYW9NcWMwbUVBNlY2em5XNHcwNXRCYVkyeHBlZ1RoTUVBb3NUTU92LWowYUd0dDRZVzdxMkd0TlJJRUg1M0dQNy1Bd21ocUQ4ME5JN25scWNueHEtZXVhQnh6R0RMSElKRG9R?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T14:40:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "39f722dc266684cd",
+   "title": "インドで「ゴキブリ運動」創設者を逮捕 有権者1億3000万人超の名簿削除に抗議 （FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQWh6c0s1ajhNSlk3TmV4V1lzVHJlNHhzeDVaSjVLNTQtR3dabFZMUUVySzBIaHAwYkJDSVZUY0M0WWxnLWVncWI0ekZvSGRYSVdTLUFaV3B2OHIxbDBNVVVnaXVoQzczeVpObUVSQ1hKNGtwN2lwdGFMaXVSZWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T14:39:23+09:00",
+   "keywords": [
+    "削除"
+   ]
+  },
+  {
+   "id": "33df145aad01f0b4",
+   "title": "産廃置き場で火災 付近の山手に延焼 消火活動続く 福岡・久山町",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DakV6UFMxS3FnOTVNUExtMS1RYm14VkFTQjd0alMySDJIdFphNnlKVGdsZXdVVTZ2ZDZmT0ZITkZhYWJYODA3UnRBQm03Q3ZIem9HM0MxQ3dPbVJ0WlJFTGFVREViMlNFdXZ3ZjlGaHptQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T14:35:27+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0d3890e210a2f637",
+   "title": "時給850円で「投票依頼の電話」 辞任の簗前大臣「買収疑惑」に新証言 「なぜかばい続けた?」高市総理へ追及続く【news23】",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3eWV4S0twemx0bnBtQ1VyYVZLeUJIaXJWVE5iNW0wT0p0dmx6N0lsaENzWmxOQW1LenZZZGMtYjNFMzBsMTN3U1VPRGotV1E2MXFlZlRuRGN0WjZKaTdTVzIzLWFpN1FveVA4elZ3VjJsQlh6b1FZbmJuellEOEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T14:32:14+09:00",
+   "keywords": [
+    "?」"
+   ]
+  },
+  {
+   "id": "9d44eeb06ca828b5",
+   "title": "子ども食堂巡る投稿賛否 店主真意",
+   "url": "https://news.yahoo.co.jp/pickup/6599107?source=rss",
+   "source": "Yahoo IT",
+   "published": "2026-10-17T14:28:45+09:00",
+   "keywords": []
+  },
+  {
+   "id": "13a9d91c82ccc7d8",
+   "title": "雛形あきこ、水着グラビア解禁は自身が提案「ファンの期待を良い意味で裏切りたい」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLXZ4ODJxLUMtNkFiNF94eDF4RGZLQnEtd0xxeUtEVk5WNUU3WmthM0I2RFNxMEZSWTBXYmdHWF9uQ0tHNWhWMWVLamFaX1JVejNQbGdxUFpnRlZwRUlUYy03UG8zTzNRaG04UnAtTkE?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T14:25:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "08db915ccaac74fc",
+   "title": "緊急地震速報 異例の取り消し マグニチュード6.9→9.9「過大に推定」 気象庁は3度の会見で謝罪 原因は2つの誤り【news23】",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb3NRcWpiNy1jVnhONnFkakk2Zk02bUFmYnJ5UHhhY25OcEVGMWozWllVX0FQZEF2d3M2U2dibW5DWmExbmZTWThtMXRoOEFOZ0tpVWdNR3otaVJrWDA0WENuTmxSNVF4UHFUa3N1NVdIblRoM0pkZEVRUGxiQ0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T14:20:25+09:00",
+   "keywords": [
+    "推定",
+    "過大"
+   ]
+  },
+  {
+   "id": "97168dcbefcbcd43",
+   "title": "【牝馬3冠最終戦 秋華賞・G1】西村淳也騎手がタイセイボーグと再出発!春の重賞制覇から秋G1へ",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMHBJU2p3aHdmdVFkX25qY0hpdGVSRnViZnV5cG5yOVZ6MXdDOWRZSW44LVJ6UWhoOFgxNno3amM3Y2JBVVgtLVhTTi1VdUNJX19oUERvZVB5aU1NOGxDbEVsUFZWV1lXVkswSXFkX0l2eFljWjJjTWl0RUdpbVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T14:00:42+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0ceacb5e4ac4bec3",
+   "title": "消費税減税法案、財源も、給付制度も、「何も決まらないまま審議入りの不思議」【播摩卓士の経済コラム】",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nc0tmRktXMVRIRnhJOWdvYms5YkdYbzMwRE4zbFRxQkZsa0VUdUE4OG5uQkFrRWRtS2g5YWlPY3M5aW81N2hEYW1OX3pENXJScTRlYUdvMHBBSjltMjdyZEhGY084ZTVRd2ZFWHJaN283MWs1YU00RXpCZ094U0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T14:00:34+09:00",
+   "keywords": []
+  },
+  {
+   "id": "10adccadafab58a9",
+   "title": "住宅ローン金利上昇 今できること",
+   "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-17T13:52:59+09:00",
+   "keywords": []
+  },
+  {
+   "id": "802d8242a00c6e49",
+   "title": "「Skyticket」クレカ情報も流出 過去に記録残っていたことが調査で判明",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNG42dTJycF9nRWxxMlJJOENuMTVXWElHQ0hDOHJhMHBnS2hGWFlCX2JPSE4wR1E3QlpKQ2pPUGNDMUJaZEtpSFR6M0tOOWxRYl9hTVlOQ2xkR2l5QzNvOF9uX3p0ZEJON2IwT2RWX2txZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T13:51:04+09:00",
+   "keywords": [
+    "クレカ"
+   ]
+  },
+  {
+   "id": "e76382a89c93977d",
+   "title": "ドラッグストアに軽自動車が突っ込む 埼玉県鶴ヶ島市",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oM1JFZXdtV1VuRFcxUF9Bc3oza2p2a1JObkNrZHROX29DRjZ2RHRsU3lIb1lmN2sxQ1I3aHJwOUxjMFZIT2E1N3Q3ZVZEUURzeXBBNl8tSndySWd5amp6SGpfUndhbXNod0hueXgxc2Zodw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T13:46:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "adf39ca1a1f9060d",
+   "title": "ドラッグストアに軽自動車が突っ込む　埼玉県鶴ヶ島市",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWm1uYXBUbjVITWVsMnFyeDY3eVpVQVB6QVREbVUyZHh1M1JhcFdqMWYyamxpdThuRmhlN1Azd245S1ZLR0t3VWRaS1FtdkJNTGpnLVJyTFZrd0UycDk3Z0YzWE5MWmUyeHlkcDY5WHdZdDA2MnBaZ19tdjNnTGNsbS1CVlhWM2vSAYwBQVVfeXFMTmFRdjhXLTU0ZTBPMndpSEs5NHRjYjI4bVJnTElsRW5DRkhldTZPMGVTVUZvZEg2TlBITllsQWF6U0VjUWtlTnhoZTNGYWV6d0J2Y2hYdm5ZbnBLZ1J3UmdsemtYV2FhNkhuOXJWc09KV2dLZS1QU2ppNUdZNFBENTNGNWhGSG16WndoSUw?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-17T13:46:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "68dd929f5529d4c5",
+   "title": "バイクや自転車の廃棄車両ヤードから出火 隣の林に延焼 福岡・久山町",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoXzJkMXZxR0pseDFNNzdBMjZVUHZodHlBRFF3dGFOa0xTY2VFcVNQaG1JTFJId2hkRGdJeGp4VE1QVzNTNmpnSEFfUnFrT19sa0tueElldw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T13:43:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "61cf32904290e9e6",
+   "title": "榮倉奈々＆赤楚衛二が共演エピソードを明かす「歩み寄ってくれているってうれしくて…」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9md2xscUdYcEItZGxHbHlST1ZrcTQ3M0dOM2l1UURDNUY4VzBpUmxlMy1idXQ2YWZwWjEzWl9aU1k4ejFNTHp5UmpmRmdTLTJaSW9DSFBETG16MFp4WU1lSTQwSHdqcm4zaTI1U3dxTTQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T13:33:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c686e9312df2b63d",
+   "title": "22時まで働いて【 村重杏奈 】スキンケアからの「晩酌Time」フォロワー感心「疲れてるはずやのに可愛い」「体調管理気になる」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UmpwZGI1OGsxQzFfTkxqajg3VWo0UlI4bU1ENV9zWmVwRGpiSnF5WnhuclRyYXp5emF0S194YUFhRWNyajhYTlJXNHl5ckRSZUZlVk91Z1Fpemd1T2JsOHo1dy1ZTGh6MGtwZmNZbWJLZUNCdVpKSW9MbnJKQ3M?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T13:30:32+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d107398e9c016910",
+   "title": "台湾に進出 沖縄そば1杯2000円",
+   "url": "https://news.yahoo.co.jp/pickup/6599100?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-17T13:22:46+09:00",
+   "keywords": []
+  },
+  {
+   "id": "86fde1d89f0de2e3",
+   "title": "「隠れ教育費」にモヤモヤ 親の声",
+   "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-17T13:18:51+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e85d43f1bfc4d332",
+   "title": "高市総理「真榊」奉納 参拝は見送る方向 靖国神社 秋の例大祭始まる",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdTBpdmFQREk2Vk1WT3d6eWFfaTloOXJreFE3c2hnZlNhODlha2RFbnp5cW9OTFdRcVNBbndJaTZ5WEU2OElfQXg4b3lYRGUxYmJERlZabUJtbXZMYnlUb2tPTFBvbzhjY1lhVVJ6clR0dFU?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T13:15:05+09:00",
+   "keywords": [
+    "参拝",
+    "奉納",
+    "靖国神社"
+   ]
+  },
+  {
+   "id": "63cb654d9d262c9c",
+   "title": "クレーンゲーム景品に日用品や食品 1回100円 「楽しみながら節約」と人気",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNuTHdBOUFxamU4ZTFMdDFkOEQ3ZDhsRVhUckRlWVljOExiV2hWUDIzSjltUTh5enpibXY5SDFPSEl2QndScXhheTE1Zk5FMzl6TGVfd29NZDVtQXFmazdYdk8zLTRjY1AyYW9helhZdw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T13:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ab63b80f8f5dde61",
+   "title": "榮倉奈々、12年ぶりのテレビドラマ主演で「緊張しています」通常とは違う撮影方法で「不安な4カ月でした」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Zl8zdU9xR3p4eklIcnNid1gxNEU2QXdtX1BndXBLVnN2SVJ1ajFkMXJObGVRS3NlcklxeWZHRmJtZkNfQTE5VWJfSG1OTjJON1FnVkhMOVo1WmQtMk9Lem01UnBiMXJYMlJPRTN2VEw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T13:07:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5e7e04bcb8bc6140",
+   "title": "高市首相 自衛隊殉職隊員を追悼“犠牲無にせず遺志受け継ぐ”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60875",
+   "source": "NHK 主要",
+   "published": "2026-10-17T12:54:37+09:00",
+   "keywords": []
+  },
+  {
+   "id": "67324e2f1723bcd4",
+   "title": "きょう17日 全国的に秋晴れとなる見込み 絶好のお出かけ日和・洗濯日和となりそう 九州では30℃以上の真夏日となる所も",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uMm93ZEZsdnh3Z2pBSkxPUHVIMzl1S2pNcWpYcktZTi16Z0FoaVZZdURYZFZ1VlBDdFBqellhbHY4NDhPNVU5Vmx3MjlEbENCQzV2LTBnZDdFUW1JUzl5dUpsX1pJcmhzcjFmXzJoM0hFQWlPLWFmTG9xNks1U2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T12:49:05+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2885c5767a00a5c9",
+   "title": "「一方的に殴っている」暴力団組員の男(31)を現行犯逮捕 コンビニ店内で10代男性を殴ってけがさせた疑い 広島",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wZGZrNG9TMGpMcVBxZXVQRzM3RHFXSjk3TU12OGhaV09QeUVyNmpxem5TUmREcmhGX3VUZHZBdHhzYzVta2ZTdHNmVWQ1ME5vdENHRjRrSHlaQl9QTHQwaFB4bW0?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:46:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "69d452d3176652d0",
+   "title": "なんだこれは…！？ 鈴木唯人、浮き球フワリ→いきなり“爆速ドリブル突破”「めっちゃ速い」「強いな」局面打開する“圧巻ボールキャリー”【日本人選手ハイライト】",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KdkJlX0tmalhRb0hnSWxJTlp4OVJza25jd1U4a1V4U2lTRk9wQWg2YU0xZTdnb3YxYmFDajRJMWJuNUhKZmZ5bWoyQjlicEdmZGNTNVM4Y1R5NFpYNlFOZThhbUNLdWM3XzVBalRJMXM?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:45:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "bf6839929bc7d500",
+   "title": "子の変顔募集に賛否 しまむら見解",
+   "url": "https://news.yahoo.co.jp/pickup/6599095?source=rss",
+   "source": "Yahoo IT",
+   "published": "2026-10-17T12:43:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3fa68bc5edd58b97",
+   "title": "親頼れない若者 お金払えず治療できないケースも 支援団体調査",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60838",
+   "source": "NHK 社会",
+   "published": "2026-10-17T12:43:13+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b84e9abb562f85eb",
+   "title": "【 小野寺結衣 】巨大テディベアとご満悦「初アメリカンビレッジでした」沖縄・美浜でオフ満喫（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSGUzU1lnV25sbGwwNm9WVEpqQmFzUnFMUW5DMXZpbEZnN0c0aDRmRXJkQUpoQUhRVmhBaG9BUEZkTGdQd2Z3cXppaFF4dXBHeXdUYkVTem9iMmV6VVJ2ekZkWThxYi0zc2otTUpyUVRMbVFDSjZ2S0VYWm5EaFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T12:42:17+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1d1854f49efe5496",
+   "title": "灯油が北海道で史上最高値「凍死するかも」 一部で供給目詰まり 政府が対策強化",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80T1pudm5TVFRmbms4dTVaTldQNXprTW1qcEtsd3JGSDlSYmJCMjM1ck0zcUtpeU5aQV8tMGZESFN2RVFhY2pJVXFjMmFkQy1OVUxES29aU2N1cVUzdjQzdnFPMnNLNUJZUWlBY09HTjlRZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:41:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a96031cb626548d4",
+   "title": "ロシア制裁法の実施見送り トランプ氏「国益かなう」 (共同通信)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzRYLTRMTG5mOG0tcnNFY09nTU1fVTBwb2txTzhlUF9OU1RGcS1VaHpyNkpKMWlyWFRuNi16NkV5QkN0VnZKYXhzRWZqYWgyX1pyNXJUYXBFTElRWlAtTi1IdnIyai1tNzZSYWRpWFhNYzVRRWx6Wk1wa2QyWjN3alVMVVIzMFdvODgyVG9R?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T12:39:51+09:00",
+   "keywords": []
+  },
+  {
+   "id": "822be7d71299bb3f",
+   "title": "ロシア制裁法の実施見送り トランプ氏「国益かなう」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OcUlOa3YwckU2RGppVHh6UTI4U2owWDcwQlI2RHpzZHVMcnNqS2NCOEVFMmwxOXlGbkpjWF83R2NvbVZNUHM0bDFSUQ?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-17T12:39:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e8c1b1d46e3c2b89",
+   "title": "【年齢・障がい関係なくウォーキング楽しむ】たくさんの高齢者や障がい者がウォーキングイベントに参加－札幌大学の学生が考案し初開催…段差など学生が丁寧に案内〈北海道札幌市〉",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zckdyazhuaVM1Qi1vaTRwYXAyMWZHNm94YzNoWEpET2NYN0pSbmpQTXREYTcxeDZqTlA3VjRnMXU1VEtyeUJkN0ZGc2dKdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T12:33:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c5b6de6b6dcbdfac",
+   "title": "ビザ厳格化で外国人経営者が悲鳴 必要な資本金500万→3000万円引き上げ 静岡のインドカレー店「売上4倍必要」廃業の可能性も（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yY2t0RFNtUGw3RnJQcWZSbU0tWHNQdk16TGl6ck1nN3lsQnJDT1AxdWdxQUhmOG9DcUhobU1iOGNaaWxFd2psWENHdXRpdWhySjlaODN0M0czUmpGQnN4MzR6V1pmODBpWDVXQ21EeFowQjZJeVE3RDU0OWJldkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T12:29:13+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ae5c241799b2625d",
+   "title": "【近畿の天気】10/17(土)午後 おおむね晴れ | TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iLV9YaGN5d2pma2hBYU1pLVVzbGJsLV8wb3pfMmVVM1JBWXVteGlhMjNCMnplMFZDTWFQTzlkYXNsUVFNa192MEdjWFV4Y1VOVDBhTTBRRnlfdTdC?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:28:30+09:00",
+   "keywords": []
+  },
+  {
+   "id": "44a52b948dbee069",
+   "title": "車にトラック追突 1人死亡1人重体",
+   "url": "https://news.yahoo.co.jp/pickup/6599092?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-17T12:27:05+09:00",
+   "keywords": []
+  },
+  {
+   "id": "89e33e2b908dddae",
+   "title": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sczJrZU9JNGVHeDktSjF1cVF3LVFyczhxUnFNbEU5YTljbS00VEtkU2s5TVI5OS1yZjFXNWhUTF9nblFhZEdmMEVMZlY1WmVUUXpNeW1EV3hpa2NkQXF6WkY0aTM?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:24:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d6ebbf221ca2a5a2",
+   "title": "ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNFJ2d3dINzNSM2llMVlHb1hiVng4YjVIeklrSFp0MUpUQ2Zwd3k2ZUZ1YVJ5X0xwYW44aDRQeS1LbDlZck9ua3hpQzNySW1tejJBOXBHaWxjWWZaanMxR2d6bjJHTW5GOUQ1MUFrNC1JQ1NvT1Jkd1Zn?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:23:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ad25560f8e178d9b",
+   "title": "「人型ロボット」で負担軽減 作業時間も夜間から日中へ JR東日本",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2OXdVR0lqNXJBRnEwaEFWdFRURWJLbjVRT2pqT3VNcU8tb2JMc1R4ZW14SUo2MnZqMkR4VDRKZ1B6SGlaZXRoN2wtR3VCVkpZanQwZngzMDZ3YjNEbktqZFlLSS02ZmRxSWtDRnF0U0RZdw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:22:56+09:00",
+   "keywords": []
+  },
+  {
+   "id": "85cdcda92247ae52",
+   "title": "高市総理、自衛隊殉職隊員を追悼「国民の命と平和な暮らしを守り抜く」小泉防衛大臣らと供花",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Eb05nZnY3Ri0xTURCazJoV3NhV3pIN3ZFUVB0ZWFsd0dlX3IxZVV4V1YzWWZxLWpGcl9hcFlIZVB3WDdYM0gxelY5T2M3UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T12:21:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e5218a9d34ac7bf1",
+   "title": "ふるさとの自然を大切に 宮崎市・大淀川で清掃活動",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NlVuVEw0elNiSUx1Qmd1X19tSHNPdHUzNEpyQ3lzLXdYbHJLMXNEdkFZMlM1cFd4XzFpd1Q2V3RjTHExcG9pOWJpTEFFSVgzTGxZU1ZXcVZkaGhtME1lT0tLbGY?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:19:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c64b4e9c568c5fdb",
+   "title": "「なんとか残したい」 千葉・小湊鉄道の復旧見通し立たず 台風被害からまもなく1カ月",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKcEJSOEFnVGZrSk1LZFoyUFpLR1daSnF0ZWc1MkxGeHNqeDhYTWJiU29zV0NzTlg1UmhsRDlXLWhta2tzT0VMMmlKRDFEODB6Yko1aHJ6Z3hOUEVFU3otanI5X01UQ29HVm9Sd3JTb1BuZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:18:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6326daace412a6f5",
+   "title": "「ケンケンしながら進んでいたので運転はしていない」自転車の酒酔い運転の疑いで自称飲食店従業員の男を逮捕 歩道で歩行者に衝突 「今すぐ逃げそうなので早く来てください」と１１０番通報",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YX1NyTlMyeDhhSkFHa2JpcGpHTXFoMDRYTnVqbVRETzJKSmxrSFYwQnI1cmQ3eFRaQVBGa0EwaTlGVGcyUVBwbzNiUE5CR2hNVXJ1WDdUNA?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:16:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "650e8f932d4fd3c1",
+   "title": "人気高まる「高級冷凍食品」 異業種参入に海外展開も",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcEwxUG5iUXl0N3Y1ajQtZDBiTFFTa3VTZF90aWlqeFRkZGVaS3hVVk9RM2NpLVZrbF84VXVJS2lDRFROM0pfQk1GU1AxZFB4MFdnci05MkZOSmhaTVBtdFB0dmJuclZRRVpxdm10Vlh2QQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:13:57+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dd438f42cb05c962",
+   "title": "橋本マナミ、2歳の長女が体調を崩す「1週間続く発熱やら咳、、、」と心配の様子",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02SFRndURvRkhqU0FVR1lzS0xwNEVPc0lGRE95RU43MUxqN2hLajV4QzJsWWk3a1Y2VVJ1VTJFR3RwaGYweHcwcGhrZl94NGF2QTE5VTRhN2NUT21XbGZPWWVHczEzWmtnUjFqR3VYSUM?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:12:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "625433159f38861b",
+   "title": "イスラエル入植者が米紙カメラマン襲撃 ヨルダン川西岸",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoM29BYlV1em5ZbVlDbzNMcWFXSzVSYUtibTFNZU1qRDR6bUdYN1daTDlCcDBkOUlITlBxbWVxLXpFbUxYVnUxR1BaSDZOVUdQS3JjTFpzSGxFQUU2M2NJN1RBcDNCUkJTOWdlaW13al9KNERPSDZEZmRn?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:08:59+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e5ce840139c94b39",
+   "title": "福岡県議会「百条委員会設置」可決 金銭授受疑惑の解明へ 議論紛糾の末、採決は異例の午前4時すぎに",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTDY1enhQRzRPVmQ4YUVqUWlDQlBiY3l1dG9uZllBYkdFR2M0VnFlVk02RV9tX1VmSzdBQ3RpNTFnN21adGpWSEFOcUw1RmJ4eE5MZEM0Ti1RSUhJWVlmenVJU0lySEhRT1dZX3BIS0ZIY0c5Mi05dlhhZkRBQUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T12:08:21+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c1355b156a6c4ab5",
+   "title": "“パパ活”の中学生にみだらな行為か 会社役員の男（37）逮捕",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bDVBWTBHMlFPajY2VlpLa0Q1TW1ZRk4wTEdCRHZ5cEdMSVJvazNkZWdXQkllVEdsd3FYUzREby1vQV83c1RocnVNbTg1WDIxNzVPWi00MWQ0YWJwbGRFOWtNWFo4a3pTUExQblpEOE8ydw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:06:58+09:00",
+   "keywords": []
+  },
+  {
+   "id": "419e98e542030ac2",
+   "title": "愛子さま 鳥取県を初訪問 防災イベント出席へ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96dW1mRmk4ME9VbzhQRHJSQ1NiUW13M2s0UEtBcEIydi1HSjFCTzhTdk5QQjIzOHBOcW5pc19TM2haS1RxcklhZm5Qa0NJeDgyaGpSTnRGcG9WU2FVTGhka05Dc0JhbHFSczYzbkFLZ1p4QQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:06:01+09:00",
+   "keywords": []
+  },
+  {
+   "id": "469e7cab5cfd328c",
+   "title": "【 今後の雨 】19日は大阪や名古屋も雨予報 北日本は21～22日ごろ大荒れのおそれ 台風30号はあす18日にも「非常に強い」勢力へ【22日(木)午後3時までの雨風シミュレーション・17日正午更新】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1NmFfSWxWMDREMjdpQXVBTFo4Ukc2VFd6NW5rVFJ5VGoyTzl3OWdERlNoVEpJUE1QRTlkVkpPSkJ2UERzRFNZemh4RkYxYmctamtFVEprdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:06:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b1bc57ec91718bca",
+   "title": "トラックが軽乗用車に追突 1人死亡 1人意識不明 福島・東北道",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YMjJrVElUN0RfUUR3R01NTHA1a1Z0azRCclAxd2c5LWtZekoxQXZSWnktTkFyQlBHR1dvSzA3bS1QVmNiVXNSZzJTSTRjckdRRGFMbTdMcWJ1X3FHMEpUWHo1aXJGYTRWM0hmMmQxSVNPdw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:05:05+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a746ca8b2680717e",
+   "title": "靖国神社 秋の例大祭 高市総理 参拝は見送る方向 「真榊」奉納",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SbUJkRy1lOHp1QmQ0ZTVSUFR4UnFSdC1wRFU3T3NNdmtpZnhKWU1Ec085ODN3NDIzeVVsQnpmelVHb3BoVEhzLW5uMUUxQ1ZmUEpqM0VNLV9lWWhpbk1zT0FlLU5PVWlWMzBOcnp2bWIxR00?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:05:04+09:00",
+   "keywords": [
+    "参拝",
+    "奉納",
+    "靖国神社"
+   ]
+  },
+  {
+   "id": "e9a03dc61c8d98fc",
+   "title": "芸術の秋…高校で文化祭 3年生は最後「最高なものができた」 鹿児島市・鹿児島高校",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIaVI2QVkzeE9wRlRYb1ZrVm1jelpQcUVSWTlVTW1fOThtS0h3cDhQU1ZJXzdPQTYteTdERVBkT2tHX3F5RlZHN3FUOWljd1p5YXFxRWdRWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:05:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "15f07478a5d0e4a8",
+   "title": "「我が国の誇り」高市総理 自衛隊員の追悼式に参列 戦車暴発事故など1年間で16人殉職 名簿を新収蔵",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRkN1UGV4TGZvaHRMZWVZb29Kbzc0NGNCYTZjRUE5cGd6SzF1M25vZ0N2NzdwVW5rUVFCZ29rdGxDQTBIeFBIdWxBUzhSWmdYS0RFSG1yLWZsem1oRV9yNDd1elFUaV9xLUxheHNGVDNvbXo4dWtxRGlsMkx6Sm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T12:04:58+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9de6dc34ff016ce8",
+   "title": "【速報】城内経済財政担当相が靖国神社を参拝",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdlRXVWVuaG9ONmN0eEFobm1DYVBKNEswdmdyRWdmODFIXy03bXFqS1VRcDB2SDE2OUxwSlFNZVB4Y01PU2VKYWhJZw?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-17T12:04:47+09:00",
+   "keywords": [
+    "参拝",
+    "担当",
+    "財政",
+    "靖国神社"
+   ]
+  },
+  {
+   "id": "dabc67808e2e4c52",
+   "title": "城内経済財政担当相が靖国神社を参拝",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDFxUGY5clJxQkMxbmZFRWZVYjlBM1pESm9LTURlZkx3eDlkZk9CUU11QUcwUlB0dS0xTUJlMldMSy1QVS1ObGtyNVRjOTJnNHFPeDhOZ3czTVJuNE5pWGdFSzBtRy1jT0dwT3NyRWtBSW8tdVo0ZndBZDc4dlNqMHRHVUJOUmROX2ZVbjlB0gGTAUFVX3lxTE10aEdlMjFkdGNJVHZPNDdvVE04R013OV8tRGtoN0FqTzdzWjVDci1aOFJKQl9xSDJJS3B3bzFTc2dEek1MVDZsMnR0ekswN29lcDRpVmx1aE1hRTJqbWFfSjN0c3ZYOV9CaFU1bFBDQ042SWlCeEpEWGVPS05HWGJDeHhFSkdVR2RLOFpMSGdEcTM4TQ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-17T12:04:00+09:00",
+   "keywords": [
+    "参拝",
+    "担当",
+    "財政",
+    "靖国神社"
+   ]
+  },
+  {
+   "id": "018cc157fa46b4fc",
+   "title": "【近畿の天気】10/17(土)午後 おおむね晴れ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41WXpWcVlpS01uWjNkeE5kd1Mzdk9KMDZ3aHJIdlJRUUFHUDU3VlRaVExOeWo0c3F3cHhMcXZ3c09VMElfMmlIWFQtMTJ0aWRoeU0tN3FrOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T12:03:55+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5564cd5ec8cdc9d8",
+   "title": "米「スターリンク」通信制限 ゼレンスキー大統領「迎撃に支障」",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oN1BhVkFMQV9BQkZ4VWlCem83X29TOXBhVjFjODQzRTVEamJrSjU4cTdJeXFtRFUxcnJPY0Q2SFdrdXAwcHpacTIzd3Y4RW1UY0VScXBlcWJXREdhT0w5cjFSN0dVMlI5cUxtY3B0a3BfaVd2TFZtY21B?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:03:03+09:00",
+   "keywords": [
+    "スター"
+   ]
+  },
+  {
+   "id": "642719d41a610b57",
+   "title": "トランプ支持率32％で過去最低水準…「頑張ってもアメリカンドリームは叶えられない」生活苦を背景に若者の支持広がる“民主社会主義”ブームを識者が解説",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0S1ZwZ3RiTVA1LW5xWEFXdkQzWV8yQm1Cc0tIUVhpZllNc0p1Z2gxWlF4UzQ3Rld2LWxHRjhBVVFSR3R4bEFEN0VJbGg1MlU5RzhOS0I3UTBOZmxBaDRfbW5mNEFGYU0xZlF4QmpoSk43UG9tUUtTRzFn?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T12:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5241f25b5fc92742",
+   "title": "「金に困って」楽器を盗むなど有罪判決の自衛官の男が懲戒免職【鹿児島】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzQ0Y4NTBuSm5zbTBmdW9wX1BxQmVjalRRR0FRZGpUN1BTeUFTUXRRVVNGX3JoZlljVFBGMG9nMEdNYzF5a2N4UFJIUEIyQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T12:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1b7a749c4cca2304",
+   "title": "震度1 紀伊水道 2026年10月17日11:54ごろ 地震詳細",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSjAwU2t6NjZ5aW1JQ0FmS2FpYlhERVpkQWhhMTNnQ2h5ZFBkRDhMQjZRU0NKVHdwQ2t0UERxVGplSnNtSTJNZDJsNERnOURpZzY5UU9rcUQtaUYtTzBPa1hnYnM1Y3RpaXNaZU4wc0pfcmdyVEpLV3I0d1R2LVJIRGlR?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T11:59:30+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e37d89701757a4f2",
+   "title": "和歌山県で最大震度1の地震 和歌山県・海南市、有田市、湯浅町（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQaXdFSU9rc0Q0eDJQLTZHTkhFQWJVWWhwdi1hWnp1RThlMHFKa1JlYnRvQm9saFVvUjExVDB2YjdPUmFhTGh6QVNUZWtFaEpxY0dGUy1MR2V6VExVeFRma3k4ekxKYTJNdVpldTc0dksyZm10Um9mLTJVRjJVeXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T11:58:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5ed6503b64e490b8",
+   "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60862",
+   "source": "NHK 主要",
+   "published": "2026-10-17T11:58:00+09:00",
+   "keywords": [
+    "クレカ",
+    "スカイ",
+    "チケット"
+   ]
+  },
+  {
+   "id": "a442a8407cc7bb40",
+   "title": "専門学校で寿司職人養成 特化の訳",
+   "url": "https://news.yahoo.co.jp/pickup/6599088?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-17T11:57:40+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0f0f9a665949cc1f",
+   "title": "高市総理 靖国神社に「真榊」奉納も参拝は見送りへ 秋の例大祭はじまる 19日には超党派の議員連盟が参拝予定",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mOVk3bFc4VmlSN1hsd2pIajRjbDBtNE8ydUVxWUU1MXpqTjB2dXFnNXVxVk84YkhPQkkyYWdiN2ZHU3BwOUJKVC0wYVk5ODdjLUpQSGV0TQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T11:53:20+09:00",
+   "keywords": [
+    "参拝",
+    "奉納",
+    "靖国神社"
+   ]
+  },
+  {
+   "id": "4d8d7ae16833f4cd",
+   "title": "ライブ前乗り【 中川翔子 】徳島グルメ満喫 マチ☆アソビに出演決定〝いっぱい歌うよ頑張ります!〟",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OVl3S1pHaER3UXZZMWItRmZ6S0pHZk96TEVBX0pfU2lPSkt6S2VhNjY0RklacnhsdzZzUFI0LUZRUkp3SjZNYUFkMUNWR1ZnejcxcjdJQUN6a2NmNkZVaTNwa3FpZ0hqTHlLVFhxVDZWbXBEQV9aWEhvTzBYczQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T11:49:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f537f4c8fb0a3cf6",
+   "title": "震源が日本から離れていたため正常に作動せず 緊急地震速報、気象庁が初の取り消し",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ak5FVGk4UU53eHgzdS1BQWFxUlZwaENXVm84dk1Dc1J1S2JxUmFJU0M4aVpJZDdMVU40RW1UNE5JWW1OU2d3TEpDUFJPbFllOFd3QkRzblB2dUhnU2NWR2RTd1I5TmNLUUFUWGtCZE5DUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T11:48:03+09:00",
+   "keywords": []
+  },
+  {
+   "id": "539dc0e9710c78aa",
+   "title": "アメリカで台頭する「民主社会主義」 “隠れ支持者”も…トランプ氏再選を生んだ物価高への不満、今度は“左派”後押し",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ORXdJdl83YVdaaFZsNUo3amJGTURhVTJXUjJnNGdOMmJMMG9hQldlOVJfWkJqaDNBLUo0Qmt5RDR1ekd0Y3BmeEUyenRfM3ktYVp3QWYtY3Vyb0xJbnRteGdiU2dwQkhHS2JsUVRWaHltYWxINDM1YUtR?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T11:47:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1835a6e392f685aa",
+   "title": "岩国基地交付金 和木町への支給打ち切りへ 15年の制度が5年でゼロに 地元の反発必至",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zSVhFSXk0aG9LbEEwN09pNDIzUWRQWG8zQ1N2ZnN5cURoNFNuNmdCcno3bmFYblpiWlR3NFNsd203VG9qR2ZzakVwMnptNlhqdm5LTE9ubHFTWXI2SDl5NTRJSmlpZUNBeUtrbXB4UDRjck0?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T11:46:24+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2d38c28319156ed9",
+   "title": "42歳のシンガー＆フルート奏者が第3子を妊娠「もう一つの命と一緒に歌えるこの貴重な瞬間をかみしめて…」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUm1fLVVyblZYeXpQUHdyY1A2ZVNWNTFZMjNPaDZtajlFUW41RTItVnBTVXBoVXZSMGRMOHpsLVdHWmg2dTZSM0hhUkF4VF9GTGw2eGxRa2lMeGNlakFPSmxJVlhwZ3FJLUdUYmc5U0c?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T11:43:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "86a08983981cf5a8",
+   "title": "【気象】蒜山は深まる秋の朝 瀬戸内地方の最高気温は平年よりも2℃から3℃ほど高くなる見込み",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45OU9UbXREbmVMSjBVa2ZPV1RaS1pTeHVieWMyUGEzSEhwZGR3dkVRQUUzRTJlNXZPaExXRXdlQUlqRTlqVE16TnF1OU9sREhjb1NvQ0c2XzJaWXpfRW1jczFwd0w?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T11:36:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e87844fd47b7d93c",
+   "title": "楽しみながら防災学ぶイベント「カエルキャラバン」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9naVJabGNqWVBLVXlRTVlZeFV3TWhHb0g5Szh4M21JRmhnNTktX0k2UGU5Wm5qcHNQQ2c3VFZyOWw0LUViYk5wSUQ3djRxZDlTV2I5TU5UOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T11:35:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3b0a10a0b0d7f76d",
+   "title": "ロシア制裁法の実施見送り　トランプ氏「国益かなう」",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjBHMkJFSDJIcTczbEtlZEpWVldSdzRKTG9xX3llZ25hbHFna3g3aWlsZjcyUzNUS3FERDZYdlR4dXkwalRRN0pNTTJrNzRBTTJRQWxFV21JVzhvZ1FOUXdubnNWSk1sT3AzLWNOU2k4TzkxT0JlSG5BeVRpZTIwVGZuYy1XcXU5dVHSAY8BQVVfeXFMUFI4QzRVOVBYN0F4QUxhU0pyQm5sbzdWa3ZocWFIZ0JXZzN3UG5Sa0c3QlpROWlMdkJrSkVVcnp4akRDRF9zNkFsMUd2TFp2Z1B5TGtNaF9XVnp1d2VUbU1hckw2S212V1VSdkpMbHZRM2JFU2ZHMmtPWlc3NHFydE1tS0tuUlQ5OTVlZllRNW8?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-17T11:34:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "24efd46eb5e38fc4",
+   "title": "「官民ファンド」は税金のムダ遣い？巨額赤字の背景は…求められるのは投資専門家による“目利き力”か ひろゆき氏「成績が悪くても温存されている」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MalJpSi1nVk9HRkNjLXd2bzVmd2pfeHBSNWdSSXhVSHpPd2s1RkFNdS15S08yOE5vN3AwUDI5aDFvT18xaVp1eGFEZkxRVFFyWXU2T3ptTFFhWUhMUHJnNHh6cFhCN2E0VC1RUGptREROQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T11:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ba6b05530da1f6e1",
+   "title": "小学生 田植えしたもち米の稲刈りに挑戦「育ってうれしい」「きつかった」もち米はもちつきして食べる予定",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIYlQ2OFdqRDdpTHhBNlFpRE9rcUVtQ0c1TVhJNlNISmhGNE9QR2J4QU5uZXpZYXdOWnlkZXV6WGFSWWN5WlZLNGd4SmhEZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T11:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "fa83a5e54ce7ed9d",
+   "title": "愛子さまが鳥取入り 「防災推進国民大会」出席へ ミントグリーンの装いでにこやかに手を振られる",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xc29oZGdMQndxWGZjdm1DMTl1V3kzLUtlLTFOcTFmMERiWDhTejlqLU5OajNVc1plY2lQM3JRYXpWMGRuWE5ta1pJdTZpUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T11:28:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "52aff1ebae74c244",
+   "title": "ＳＢＧ、米警備大手買収検討＝ＡＩロボ導入狙う―報道",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTh4eDViblN6NUZIdDFLYnctUTJ2SUp2SWtNb1pvb2VQX3pobVNHWm5OMnF5SWNyTXJNUHRkMDJrUDJTNFZWSUtveTAxdml4V1haQy13SUpnc2t1MVZRMFRRamQ0M3Q1UXJ0Z1R5SGd5UXBIWGx3dXVsSU9QM3BfQnJB0gGCAUFVX3lxTE5BOHh4NWJuU3o1Rkh0MUtidy1RMnZJSnZJa01vWm9vZVBfemhtU0dabk4ycXlJY3JNck1QdGQwMmtQMlM0VlZJS295MDF2aXhXWFpDLXdJSmdza3UxVlEwVFFqZDQzdDVRcnRnVHlIZ3lRcEhYbHd1dWxJT1AzcF9CckE?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-17T11:28:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d886387e92917624",
+   "title": "SBG、米警備大手買収か AIロボ導入見据え",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6S2NTVUFRc2dVeFdmdHU0dHI3WVZGUVAwNFRTR1Z0QkI4ZUd5MVJZNU9fNXczNVFfZlM3aDR6c3BUYUxuNGJZRDRyTQ?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-17T11:24:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9dfa5cb364ff07ad",
+   "title": "AIリスク議論 サイバー攻撃 システムぜい弱性検出後数秒で悪用",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60854",
+   "source": "NHK 主要",
+   "published": "2026-10-17T11:22:15+09:00",
+   "keywords": []
+  },
+  {
+   "id": "376fd5d688b8d6fb",
+   "title": "【速報】「山から火が見える」長崎県対馬市で林野火災 1人が手にやけど 現在も消火活動中（17日午前11時現在）",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tYVhmR0FHVVdQdE9ObmtveHhXZ2M4MkV0N0xaSVJ6WkF1b0pJUUJCNzJFVFhzZnl5SkN4QmtraFA2UmxhMlZoMmpJWUVCTm5NN1lmbGpTRzJwZExTSTZEX3RiMzE?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T11:21:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "631af2f5d0c86d98",
+   "title": "熊本地震で課題に…避難所の暑さ対策 静岡県の検討会 エアコンなどを整備する対策の方向性確認",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YVkJ0dVdVeU5TZVQtLXJHN0N5S0xPTlk2QUoyamEtdU85S2hFMTcyUDBLWGRxd1BzaTBuUFhjelhDOU9nQTE0enZYblhyZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T11:20:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "11fb8591e8b8e0f3",
+   "title": "35歳テレ朝アナ、純白トップス姿にSNS熱視線「美しい」「スタイルが良くて」（ENCOUNT）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FdGRuVEE2OWdQYTlfd09uZllSeUxfUWMyQl9wcjFGbENVSGxCQXl5OVA4Zm9PZnNtbVJBdkdXRkpaYXp6aVdwRDk4a0E2VF80VXl4amdVZWRHVW1KNmhOTWxxMkRTcTdDN25sM3VMQUE1N1psZlV6WDA3bTRvYkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T11:08:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9f78fb2b234092b7",
+   "title": "簗氏辞任「参院の壁」浮き彫りに",
+   "url": "https://news.yahoo.co.jp/pickup/6599085?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-10-17T11:07:16+09:00",
+   "keywords": []
+  },
+  {
+   "id": "62aae06371ab8116",
+   "title": "「お冷や」も「おなら」も実は宮中女官の隠語だった——知られざる「女房詞」の世界",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OcTdFaWUxTW1sZ3JWaW9mUjcyVWdpODBEaWYtSTdoSHFrV2l1RkhZSXdNRVBvTDNxZVpkcGNFZUJrNWpkVmZoQWdlVDV0cUxyeFJmNUp6cE1TSmZ2T1pXblhYYjk?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T11:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "00afdf88741d765e",
+   "title": "うどん文化の聖地・埼玉で大調査 行列店主に聞いた「嫉妬するほどウマい店」は？",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xSmJRRWlqTlB0emEwckJmMS1DNXRQUUJsS0RPYjRlMnZaSjIydWt3dXhKamlzdHVwelFoRUZmakpSOEh2M05xbGhjNGxsNEVWT08yVzFaWFJlV1Ztd25aLURSRUN4S2RjWE5JNnlJdkVEdw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T11:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3359f543173cec77",
+   "title": "森に新たな価値を 放置された人工林を観光と教育の資源に 秋田・五城目町の宿泊施設「awake」から始まる地域活性化への新たな挑戦",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VNlA2WUx0a1JoUUR4eXZ1ZzA3a1NKUy1UR3RCRi14czRUeXBfejU0US1FWXZkd3NUYy0wSU9QTzhtazRaYkVHdGVOR1Z2UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T11:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2fa330b7010c1dde",
+   "title": "「素敵なシャツですね」と会話も 古着店で高額ビンテージ服が盗難被害 1950年代の43万円ブルゾンなど消える 東京・原宿",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIaUY1ZU9yZ1ltTjZKVzJUY0p5R2hwdWIxTFUtaFY2bUxWVnVKeFF4am1KWDJHdzVCLTEtd0NfSWhZNHQ4QmdCODQ3ak5Ddw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T11:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b6eff9926ca08ee3",
+   "title": "百条委設置めぐり紛糾、徹夜審議 賛成多数で可決 金銭授受疑惑の福岡県議会",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11TGpfNjhuUXVXQTJtTmE4RmhNMEFlRXNGanpudXNuODlBdWN6WUNiRXczajRxQmt0MWNBbDFFX3lwNWJNTjNjZ3c0Vks4SGxBaVpOdWxfMkRLOTFJcE1IelJJNDlSbmRweVpJNUlvdFhOQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T10:52:01+09:00",
+   "keywords": []
+  },
+  {
+   "id": "213d33e6e09c381c",
+   "title": "トランプ大統領、対ロ制裁法実施せず",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdnNCUWxpbVhBUFlTM3RZVW5adHVBclZuZXBvQzVMSW5vWXR1Q2FYWnN2OVpxQUdkZ2V5S0FkWGFMVWU5aTVyV244V0s2OHpIOHlhblg4TFRpeGRPZFJUQWVoNV9aRWdjMjJtR1lSaENxQ05yamdRcGFRVG9xNFlEQ0x2VmQwZFl2TzEtVUh30gGTAUFVX3lxTFBHMVVYcktnYkJUX1l3MzZUU3lPTV9WMWNFQmZhYUNrLWtDVUhRWDNvdUk5SktFcHhjVS0tTXZELUp3Ti16OTBxSC1KMG5jVm5VWXVhdHN0UVJfcVBtemQ0b1I1ZnJWRW5RbzZYRHJLUUltZmlMejRvQWdobzRhS1FOMHJhVkRHYjY0amlZbTl0Z3o2WQ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-17T10:52:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0fd45d729fd197c3",
+   "title": "「殺そうと思った」女性の首を電気コードで絞めたか 62歳男を現行犯逮捕 夫婦とみられ何らかのトラブルか 群馬・伊勢崎市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUzFsRDRUNnczRElnWWgycTlmcjR1Qlp6UU9oU3J1Rm1UWGVDRU5tazBPcE1VZTk2R0dhM0tGYTQ4S2R6N1F0SzMzNVFyUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T10:43:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8ca52cf83f7efe2f",
+   "title": "「skyticket」クレカ情報も流出、カード番号など最大6140人分　「流出なし」の初報を訂正",
+   "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002350/",
+   "source": "ITmedia",
+   "published": "2026-10-17T10:42:34+09:00",
+   "keywords": [
+    "クレカ"
+   ]
+  },
+  {
+   "id": "d855d208e4694fc7",
+   "title": "北朝鮮がAI魚雷の発射実験 海軍強化に向け新型兵器の開発進める",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc1BHU3gwQS1WOW1ONlFYTm5xcVc4WFRFelhXVWU5Q0JRM3dLOGp0clhSaG1tanB2X0NNNmVmU0R1VWRZVzZiNy1ZSG9IMGc5SHcxaW5xYjhfN0Q2cUdhN18xNmVXWFFJcVU1a1g5aHE3RV8zc3lXTkxn?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T10:34:25+09:00",
+   "keywords": [
+    "新型"
+   ]
+  },
+  {
+   "id": "38a28063fb034eff",
+   "title": "【DIG】知人の女性にスマホを投げつけたか、、、54歳の男を暴行の疑いで逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04eWxRYTRpOVljWXlDT2h2YVlfcmhaenhBNVlqclZCUW5GV3lGVUstR2VRNUQ4NWdmMFJOQ0VybWJaUlhuNWU1MEZzTEROQm1qV0JvNm10emVBZGxFTkhlejNVeXo?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T10:33:00+09:00",
+   "keywords": []
+  },
   {
    "id": "b31161ecc18e78a3",
    "title": "埼玉県議会「ばか」発言 双方が陳謝する事態に 翌朝閉会",
    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60837",
    "source": "NHK 政治",
    "published": "2026-10-17T10:31:49+09:00",
-   "keywords": [
-    "県議会",
-    "陳謝"
-   ]
+   "keywords": []
+  },
+  {
+   "id": "60a562604b5f0095",
+   "title": "「欧州製」優遇、日本は除外 自動車分野で独仏合意―ＥＵ産業法案",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0tnajRfRWJabGhnbXFDZ3ZpQk40Y1BEdDBpcjZ1TzhaUzhzMW1ibFduN3B4ME9NdEJ2Wm5JQTFFUDRseTlHa01vcmQ4OE96R1BJT0xEaGFVSF9FaW5UNjktTnUxMEVJUVNGU1ZxYnRSSko3N2RoRHQweVVSakhKVQ?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-17T10:28:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "98da40f4b9ac43cf",
+   "title": "「欧州製」優遇、日本は除外＝自動車分野で独仏合意―ＥＵ産業法案",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPXzlyMEZqbkJkUmtCaUVsNUYycVNWNHJheDkxOXdxa1VEbFVSanZNOTY0OWRzakdUd3VQeUowemVnZ01yeS1YQ2FwZEx4ZUdpb0JsYXZ1ZUhPWmR2ME52bTYtVHJfTEQ3eFJvS0lIS0tRTkRqNEVKZVd1aU9kWGRfd1V30gGCAUFVX3lxTE9fOXIwRmpuQmRSa0JpRWw1RjJxU1Y0cmF4OTE5d3FrVURsVVJqdk05NjQ5ZHNqR1R3dVB5SjB6ZWdnTXJ5LVhDYXBkTHhlR2lvQmxhdnVlSE9aZHYwTnZtNi1Ucl9MRDd4Um9LSUhLS1FORGo0RUplV3VpT2RYZF93VXc?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-17T10:28:00+09:00",
+   "keywords": []
   },
   {
    "id": "6541837de3672dfc",
@@ -1741,6 +2579,22 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMnFHSGhhd1YxOXZEQ0JjUC12aE4tdjNMcnpWQUdxTFA5aVFndTk3QUh1b3FObjBUVEk1SmE1TnF4SGt0Qm1pRmstOFpXSkRZNDBfSjUxWTFzd2dqZ0luVDk1YVo?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-17T10:25:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "05ffa64b1259895c",
+   "title": "「娘が入浴中に洗面所の窓を開けられた」と通報 近所の男性宅への住居侵入容疑で男（63）逮捕 容疑認めるも「覗く目的はありませんでした」と供述",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMFpneGptUGVPVTBaMHRXRHlqeGFHaExLcmNiS0tUbDhJUzhQV0Z5YlNlUG1KemcxRjJJV1NsN016OVkxWlRVaXFFYjhtUUhGcUp3eEM5ZFBUR2xHbklOZ01NRE0?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-17T10:23:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "df7b241407d70f5d",
+   "title": "クマ人身被害が35％減 秋田の目撃件数は10分の1 4～9月 エサ豊富で市街地に現れず",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OWHZSbndNY0pOanRRRVZlcXh3REIzRkEtUWJGOVpfTG5LTl8wNDJMdVNIbi1sWlU0dGkyb01uWjlWMS12Q2J3T0xJVk5GT1YyMEN0LThZSExmWTY0U0RWanM3Vmk1VzBQMWtCalVta0ZMZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T10:18:04+09:00",
    "keywords": []
   },
   {
@@ -1765,6 +2619,14 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MelhzQm1CWkhlbXVYRTA3aHBYMzNTS2VoU3hkMlJJeldiVHQxcFBuWDZNZHU4NFBKTU40QnlwSXI2Y0hMLXd0bzdyWk53UkR4b1V6SXRqdjQyc0drUS0wLXhJbms?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-17T10:15:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1f512fb9b8082325",
+   "title": "ホワイトハウス新報道官が退任の意向 就任から5日 資格ないのに弁護士名乗る",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzTHM0TkF0bXhJNFBqSWxVck1rTndONW9ocmoxYmNNeENTYlAtS2JzaFN3bGh5d05RZC0ycHRHOHQ1TXEwUU1maU5zZ1FaSFdlTXMwYVRtcXJkbHBmTlhOeU5kQW9MWHJncjFzZWxRRWlNcUxZeDVHRVRB?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-17T10:09:02+09:00",
    "keywords": []
   },
   {
@@ -1824,6 +2686,22 @@
    "keywords": []
   },
   {
+   "id": "26d23fe7f44bf7df",
+   "title": "2026年は当たり年！豊作＆味抜群「秋じゃが」のおいしい食べ方とは？【THE TIME,】",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTQtSnItSUczcU50bENsZkFManBhTnQ2Yi11am1WV2RRbWpBRVNZQkNYUFkwdzlFc1NCYWN0Z0tVN0xJelhuT1BrdGNQZTR2NkVJTWFra1FOdUNQQUFrc0FWTHVwZ3dNNzNINFUtQnBjZGNPc0pnNVI4cUE2d0tQa0ZtdVjSAXdBVV95cUxPcFVDNU55OHF5cE9YUTBmMXBiTkN3Q2lVMWpWVDRXNGdDdE9kamtQcGRiTno4ZU5KbHE3alE2MEJoQXBUV3psVFdKS3NxeF9PcFJjdnFBZE55SlFLOUJjVXVqSGdFZ1lmNGFTX2V2LU1aRVFqS3pBMA?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-17T10:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5ae1f9e6ee42f05f",
+   "title": "金融･医療の重要個人情報、事業者に事前届出要求 国が安保リスク管理",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QbmhuYzQ3YnNVOHBFSUl1WS1mby1ab2NFRTlhN1RJX0tWSW1xMUF5NkdHNjNHOFFWMnRUX2pQNFVmaHJCNURlMUFNaXNvYkxJQWwtNWpRRi1sT0Y4akg2RzJRZnBhX3BkOWZGYg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-17T10:00:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "2ae58e440ac1f72c",
    "title": "レアル ラ・リーガ会長に辞任要求",
    "url": "https://news.yahoo.co.jp/pickup/6599076?source=rss",
@@ -1847,7 +2725,19 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZVEzNVNMM0lWWXBpXzZ3cTQ5a1dKSFQ3MktfRjJVc3c4ZkRkRGNEZkxYWXF2VTNjT0J4ZmlmSXhocjdoMHVfWWdvUmpuMjZVeEFRYzBuaUR1UldnXzM0bmk5ZGswN0hQdnNEYkljWk0ycnp1YVFFUUlkVmo2eG8?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-17T09:52:18+09:00",
-   "keywords": []
+   "keywords": [
+    "否定"
+   ]
+  },
+  {
+   "id": "1b8935f607629a1b",
+   "title": "ウクライナ軍の衛星通信制限「私ではない」 トランプ大統領が指示否定",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BUnB3UER2Z3pOUWNaY0tMMUt0dmp3LWFyZ1ctVFNFNnVIREFOb1JsdjJSQnpoYU1qOXgxdXNTNlhkc3p5UTI3ZXc4ZjZnZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T09:49:00+09:00",
+   "keywords": [
+    "否定"
+   ]
   },
   {
    "id": "901a76b2049a2c4f",
@@ -1879,7 +2769,10 @@
    "url": "https://news.yahoo.co.jp/pickup/6599075?source=rss",
    "source": "Yahoo 国内",
    "published": "2026-10-17T09:44:46+09:00",
-   "keywords": []
+   "keywords": [
+    "奉納",
+    "靖国神社"
+   ]
   },
   {
    "id": "14a274a87a35066d",
@@ -1895,9 +2788,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyZmFLcEZrclN0VndqZHNScjFIQ2Mtdnh5ZVQtWWg1TG80dkJ4NlVxZnltMkZ0cXJYV2FaTHBnUGpyeUhpOEl5LW1RRWhsUlR3dl9KZUhKcnFRUXFieEJvRlNBS2s?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-17T09:33:00+09:00",
-   "keywords": [
-    "気象庁"
-   ]
+   "keywords": []
   },
   {
    "id": "8c054fe252b2cf8d",
@@ -1905,7 +2796,9 @@
    "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
    "source": "ITmedia",
    "published": "2026-10-17T09:32:41+09:00",
-   "keywords": []
+   "keywords": [
+    "クレカ"
+   ]
   },
   {
    "id": "3d28487b8719d208",
@@ -1931,7 +2824,19 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tR3REdW9lamFLSWQyY3JEQlNLb0R2NFIwSjE2bU9zcDAtWTdMWkRrZmJZZTBsWVVXdTItR2tiZkd3M0FtbW5lTzlPeS1kOTV5T2RCOWFLX2E2bk5LLTVWVTFwamNvMTl1SnBrT0RPSUplbUFRVk0xQ25udk44M0k?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-17T09:28:17+09:00",
-   "keywords": []
+   "keywords": [
+    "スター"
+   ]
+  },
+  {
+   "id": "91b76cc5eaa03bab",
+   "title": "ゼレンスキー大統領「ロシアのドローンを迎撃できなくなった」アメリカ衛星通信「スターリンク」の利用制限で民間人保護に支障 完全復旧せず (FNNプライムオンライン（フジテレビ系）)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVlzT19DVkl0YmJDeHN3dXZzMk82TFhIRWQ4VjdUTnd2SjN4T0cwZ2pWQUdycmV1eGdXTy1lbS1TeXZVb25TM1lmVnkyVzdGT1F0TzRWaHZnbHE2eUR3bTMxSERNWmYyUHNZVkNTOG9DOU9uVmhZN2dQSE9sZDhBWmgzR0o2QnBIQjBWbm9B?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T09:28:17+09:00",
+   "keywords": [
+    "スター"
+   ]
   },
   {
    "id": "3e6a31ce1223b01f",
@@ -1939,6 +2844,34 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tS2VZNmVFMzJKcHhMeGZfNWc2enNHak5pRDRrcXdjeGFNdHRFVDVXVHR4RFdtWXF4M1R0d3lsSFRESlVTV1RZOFVGZFpLQ1Z0V2xjaWJpT1RPMHQtNW1Mc054blNKcU1iZ0ZRUU5GakZ1QQ?oc=5",
    "source": "テレ朝NEWS",
    "published": "2026-10-17T09:21:59+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9d063cc194884974",
+   "title": "【代表取締役の立場悪用し横領】代表取締役を務めていた会社から約270万円を着服し家賃や買い物に充当…”唯一の経理担当”だった51歳男性を業務上横領の疑いで逮捕－容疑は否認〈北海道札幌市〉",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15MEZUZUoycnRVQXRqbnJJWmJFV2lSLTNjbndYWkFmX2ZRMnhFSlpoMGxIUG1VWUpDMGRwblQzWFQ5YVJnRzdEZkFwcWZRZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T09:19:00+09:00",
+   "keywords": [
+    "担当"
+   ]
+  },
+  {
+   "id": "5b2a488bb0e76c5d",
+   "title": "「イッシーに会える?」鹿児島・池田湖に観光遊覧船が誕生へ 年内運航めざし許可申請中 (FNNプライムオンライン)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGtrSnNydDFrX2ZEVW5TZTltODhLRXlVUGNrOWZrell3cEg0UGFMNXZ1ZGFFeG5HbHkyUktGTHJxOFp2M1hHdXlkRkhXWDN0amh5MU5SdDVhOXJaMkd4VVllZ2VZckVPQnQzWFppUnlsejUxYU1nVFNBNmJmLWNxVnpRaV8xMlVBNmg5ZEpR?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-17T09:12:23+09:00",
+   "keywords": [
+    "?」"
+   ]
+  },
+  {
+   "id": "7dcfa57b816141d5",
+   "title": "区役所の保健福祉課を名乗る男から「年金の払い戻しがある」などと電話…自宅にキャッシュカードを取りに来た男がトランプとすり替える―80代の女性が現金200万円をだまし取られる",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16Q1kxUEJ2YU5YXzduUmVVdllnUWhOZEtycE9aUWdJZ0RGVmVERlEwLVZxVS1ZM2w2ZW94ek93RVlhOEhBS1pSZnpvY3ZTZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-17T09:11:00+09:00",
    "keywords": []
   },
   {
@@ -2013,7 +2946,9 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80eGVqNFhFd2gzb3lOc01ST3JSWmN0YlE3V3RLeDAwbVNEbEVWcm4wTzRtZnI2Z0VSeW40dHRXQ1ZmOWdQb2NRYkdLNEtfT0VOc0JuMGw5bDJYZDZMZWtDczBrQ0VkZnlDZW41a2hPUEw?oc=5",
    "source": "テレ朝NEWS",
    "published": "2026-10-17T08:45:00+09:00",
-   "keywords": []
+   "keywords": [
+    "?」"
+   ]
   },
   {
    "id": "b2e6f906b5fef487",
@@ -2021,7 +2956,9 @@
    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60820",
    "source": "NHK 経済",
    "published": "2026-10-17T08:41:09+09:00",
-   "keywords": []
+   "keywords": [
+    "財政"
+   ]
   },
   {
    "id": "87f4c1a75624c78c",
@@ -2048,939 +2985,11 @@
    "keywords": []
   },
   {
-   "id": "be3fac2074b84e21",
-   "title": "ICC制裁 EUが即時撤回要求 米国に「深い遺憾の意」 赤根所長らを保護する方針",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pcE44MzFaMkYzLVBadzBiQkR5YngxZ3oxcnY0Rlc1bGx1MGJMRHRzMU1jZzNzdFYxY0l4T1o4TDdLY1NGZFhiZ28ybkRZMnlPeDRFMWVhN2JDc1dlT1J6eEtGZmJJQUNCUkRfLXlULTN5NWFlWGtWMDJB?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T08:10:44+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1e6f74e2b2ab8a6e",
-   "title": "徳永ゆうきさん体験交え 特殊詐欺の被害防止訴え",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrVWlyVjI0R1Rlc3E0MTR0aWUxUUlCM0RFb2lWMVN4V1FZUEM3cWdUMHZFWm53b3IxVXl6ejBxQ25QRkM1ZjRja2Y1SHk3dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T08:07:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "206be2bc647c9fb5",
-   "title": "介護の現場は、毎日スタッフが入れ替わってもなぜ回る? スキマバイトで変わる「仕事の分け方」",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZUhaOW1nUkZ0eWZpUGV5NUQtNE5qLVpvXzhTRmI2aDZlX3FPMTBuRXZ0WDZ1UzdpQWpVVkJIOXhBWktpM05OQ2x1UkZCcnhNNC1SMmJYRGo5bE80RW9VeVFJVW1DZE05bEpMX3NPYkVIRjNySEkzSVptamotTjA?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T08:05:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "62607654b83d01a5",
-   "title": "個人情報漏えい止まらず…企業で相次ぐ 被害深刻化（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dHdBYi1rRkE3MXppTlk2eEJzNHk0QzFkX1pIRDFrRWEyY21zSkJES1p3ZERueHZ6UlI2Vkpieks2QjlrcFlaem9LS2JGUHgtME9Pb3M2ZlZQcGxUYXItendpeTJUNmlXZHgxalozN0VJZVRDY3JLWFdrb3lPZkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T08:01:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "295981ac1a271305",
-   "title": "露拘束の記者と領事面会できず",
-   "url": "https://news.yahoo.co.jp/pickup/6599059?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T08:01:18+09:00",
-   "keywords": []
-  },
-  {
-   "id": "27c33807f2348c66",
-   "title": "｢危険性が高く被害は軽視できない｣指摘も…酒に酔って車を運転→事故を起こし2人を負傷させた39歳にも執行猶予判決【判決詳報･後編】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zZGpTRGw3ZGx0X1RFSEFsbmY1czk4TzI4SXZScXVnSzJpcUZNTkdicUl0RGw2c2hTRWxieDh4QURmcF9GTnVHbHRQS0d6TjNWR0ZLRjFFTQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T08:01:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1a80b0185057a9b1",
-   "title": "「イッシーに会える?」鹿児島・池田湖に観光遊覧船が誕生へ 年内運航めざし許可申請中（FNNプライムオンライン）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUNVY0RlpXNzI4Zi0yampQX1Z5Ni1lTlQtWE5feVJTWGRCVV9fZUh6QkY4VU1jcVpuWDFRVlJud29aZHJpN3N5YWFKRjktUDU4TjBCWkQ1UlRJRmo4YUpOdmVtb0xJbUNQREo5YjNEc0dYNXJaRWM1QTlaT2hVZm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T08:00:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d1a951fd0cbef1b7",
-   "title": "「街の灯が消えてしまう」人影消えた中心市街地からアートが息づく街へ 地元出身の起業家が挑む「前橋再生」の軌跡",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWl9BblRBYkxiYXFEWlZheWVLMWRoUEpOc3A2QXpOQTF3anFVaEF6ekk0bnZxeVJGVWFfRVRSOV90RVI1UlVBNXpQVFdmUklGemY2bUVwaVBOYVg1b0s5bGs5TEhETmZZUzQxQUJyZzA4VlVsaTJnYmduT2I0bFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T08:00:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "56ed0b805dded38d",
-   "title": "韓国で8人負傷の切り付け事件 警察が容疑者の男（59）の名前と顔写真公開",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Bb3VNRWh6WFZkN0M5TTg5ZTluWnJPUWE2REtGOUN1alJlWk5YQVZzUHdxSlBkTGtSSGc3UEgtNmhJVG5zV1AwRXFjcFlqOVEtNVZVRXBMN2RBYVhoMW5SWWMzb2hPblRtdWsybE1qMloxTW9ZQllNalFn?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T08:00:06+09:00",
-   "keywords": []
-  },
-  {
-   "id": "95b5b88a88d5dbbf",
-   "title": "「できないをできるに変えたい」歩ける確率2％から…車椅子の母と娘が歩んだ軌跡 交通事故で障害を負った女性が「事故の日」を笑顔の日に変える挑戦 広島",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WLXVwY3NUcm5XUmZFWnBHczJNb2MzUmF0N3FfTVJDVmxXTW9abnJxNlRmYUVySGpldzU3WjFBWGRmM3hhNUpQUjhabnJ2QWRpTDZ0eHNVX2VrbmY5bnBPSjhhU0M?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T08:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "00c0a90ce0ac230e",
-   "title": "9歳で失明、61歳で初当選 全盲の千歳市議 落野章一さん5期目の現在地【前編】「党の枠にはまらない」無所属で問い続けた市民目線と覚悟",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zOVlFMmVvc21nbWNhWDRTZF9OTUJPR3NCN3gwb1lTQ1U0UkQzRkV5NTBEcWZaQXZWdEo3M2RfSjc4N0d2MVdualc4Ym1NWC1MVHVlN0lYTlNhVHRBYWc2UjZpNXc?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T08:00:00+09:00",
-   "keywords": [
-    "市民"
-   ]
-  },
-  {
-   "id": "cc812d6db5ee244d",
-   "title": "ウソでしょ…！？ 後藤啓介、衝撃の“赤髪ヘッド弾”に騒然「すげえええ！」相手DF陣に“ズレ”→完璧ジャンプで“豪快ゴール”【日本人選手ハイライト】",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VSTcxMFJQSU9oUUNGLUs5UnVLcTdGRVBjLWdra2dtZnRLdnVQTDhBWGVJUHROOXlMLVRMTzVRWGpWWWRWS3BxbmpBbjA0dXBUemRPOFFtUWRxZEJ2dWUydm9aNE8xOWhYQTRXUTJFVDY?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T08:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b14183c4a3ff343f",
-   "title": "酒に酔って車を運転→事故を起こして負傷させても91.5％が執行猶予判決 2人を負傷させた39歳の加害者もまた…【判決詳報･前編】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0WGgxcVQ2LVdBbUk1RHBKRS04ZG1zamFrNlRxeVMyZC1rb2tWYV83UldkSldzQ0IxYW1nRElEY1NaQzd4Qmo1cmtSSU5FaUdaaG1CWHBEWQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T08:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "80b1007250d8be44",
-   "title": "全米OP決勝でよもやの敗退…車いすテニス・小田凱人がアジアパラ大会で頂点へ 地元・愛知で「3500人の人生動かす試合を」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yOTc2dGpIbHFTSFJSa3AyNGNIV016MFV3Mm1WRGtFczM5OENYQ0V1NFdoRTdiUGF4aUFnOTZhTXlRY1p5V1gyb1pOVF9yUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T08:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "72bf413e4374e107",
-   "title": "ロシア日本人記者“拘束” 訪問も領事面会実現せず（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KeUs5Q0FIY3VHUHE3QWlzU0JUVGZOVUNFTm5jNmhFd2VPby01bV9yRTliWDhmSVV3ZmRKZW5nTWc0aVBITmh2VlJCNFFKcGpQcldkSThCb3NDeXcwVEMwOU5VRnhKM29pcUVQdmtFaDFZN2ZtWE5pbjhsWXlBR1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:58:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "717a33eb5e0acba8",
-   "title": "日本ハムに朗報 レイエス残留へ",
-   "url": "https://news.yahoo.co.jp/pickup/6599060?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T07:57:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "035fe831c5d3feff",
-   "title": "緊急地震速報“取り消し” 誤報防止の機能動作せず（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVzZuYnZUSEpfY2ZwQlpqcVNmVktrY2RKdko3TzV5SXVCY3RuemxmcmNraUZOZHlGS0hmRW1XLUpLcVMxNkF3Y0JuVzBkRnRGVHJzZFAzUHZ4SEFyVlBWV0JyVkxreEhNY2l6WTRhdE5nYy1tcUtCUDhaU0M4N00?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:55:29+09:00",
-   "keywords": [
-    "取り消し",
-    "緊急地震速報",
-    "誤報"
-   ]
-  },
-  {
-   "id": "389ba3427af8b692",
-   "title": "【台風情報】最大瞬間風速70m/s・中心気圧935hPa、非常に強い勢力に発達予想「台風30号（チャンパー）」今後の進路予測は？【気象庁17日06時45分発表】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15dldOLUxJMmlrMFNUXzdjbVRWS3l2ZTBfSVJQcFk3cDVXLS1LeGdrSkMxM2RrRDR3OFluQTMyLUdxMEN2cHJCY1kzbEx6Q3V3TC1MOVlXaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T07:53:00+09:00",
-   "keywords": [
-    "気象庁"
-   ]
-  },
-  {
-   "id": "b8ba743e8b440c7e",
-   "title": "福岡県 AM4時に百条委設置案可決",
-   "url": "https://news.yahoo.co.jp/pickup/6599057?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T07:46:30+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b81b63a06c20a564",
-   "title": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60816",
-   "source": "NHK 経済",
-   "published": "2026-10-17T07:45:57+09:00",
-   "keywords": []
-  },
-  {
-   "id": "21b0f1e5f2f3dd63",
-   "title": "茨城県で豚熱 2800頭の一部を殺処分へ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wS05aNnhFU0V3NTZFVW5sOWdVUU0yTEo2bnhaYVdzdC1NUWJWTDBJQUJHd2lDc25YU1d0dlFVeDBqdG5nY3o3UjF5WmRONi1HZERvLUdBa2JVMXdReFdaZWdNRExCVUM3cE9IcG5KYWNvdw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T07:45:07+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5331474ddd714645",
-   "title": "「警察車両が幅寄せ」拡散 調査へ",
-   "url": "https://news.yahoo.co.jp/pickup/6599055?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T07:43:59+09:00",
-   "keywords": []
-  },
-  {
-   "id": "339e411f79dfe8a0",
-   "title": "米大統領報道官 わずか5日で解任",
-   "url": "https://news.yahoo.co.jp/pickup/6599054?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T07:35:11+09:00",
-   "keywords": []
-  },
-  {
-   "id": "76be0f8ebcc40c4d",
-   "title": "「何年も残されていない」激化するAI開発競争…“減速”は可能?人間の“主導権維持”は「未解決」哲学者が鳴らす警鐘【第3回】",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kQWFtY0xZZEpZMVBmUjhuX1lsbzNIQXBRNE0yMzlUbUwwYU85LTV0UXN6b3R1dkJKWUhWdGtvUzhEMmJGbUxvU1VncERLZENmUk1aTnJWckpmekpiYnd2ZXozcE91RjFWb1VlM0xMb01BLUpvb3BSYTZMUm9OSkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:26:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9688c2e8397ea56c",
-   "title": "広末涼子 俳優業を再開「緊張」",
-   "url": "https://news.yahoo.co.jp/pickup/6599050?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T07:25:55+09:00",
-   "keywords": []
-  },
-  {
-   "id": "28e1c5731a3cb0d0",
-   "title": "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60817",
-   "source": "NHK 社会",
-   "published": "2026-10-17T07:22:08+09:00",
-   "keywords": [
-    "ニデック"
-   ]
-  },
-  {
-   "id": "1873d876e20a4507",
-   "title": "荷物用エレベーターに挟まれ死亡",
-   "url": "https://news.yahoo.co.jp/pickup/6599053?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T07:20:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f47fac830a8fb5e9",
-   "title": "【台風情報】強い台風30号（チャンパー）今後の進路は？日本への影響は？22日（木）には「非常に強い」勢力で「沖縄の南」に達する見込み（17日午前6時45分・気象庁発表）【27日（火）までの雨風シミュレーション】 | SBC NEWS | 長野のニュース | SBC信越放送",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdFdrM29sQVNKSzFFeTBxWTc3WEpFdlVkNVlRTkYwdFBMUnpiQmJoYzBSRzhJZzl3R1hmWWU1TkJSY0pFUEpYRFktNy1iOVFLSzg0ZmtjTl9ndw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T07:18:00+09:00",
-   "keywords": [
-    "気象庁"
-   ]
-  },
-  {
-   "id": "10b680418a1fdd03",
-   "title": "【台風情報】台風30号の進路予想 非常に強い勢力に発達へ 20日には最大瞬間風速70ｍになる予想 各国気象機関のシミュレーションは西日本へ向かう予想から大陸に向かう予想までさまざま",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jdFdCY2RRWnJzbFFkMFZRWU92U3M3NHlqa3h4anhDc3Y2NmJmUmNFYnd2cS1UMU1mcl8wOTlDaHdtMWxCVW1yWHh3UUJXQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T07:18:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "19a1659df3181087",
-   "title": "中日 山崎武司氏をコーチに招へい",
-   "url": "https://news.yahoo.co.jp/pickup/6599052?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-17T07:17:28+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ff915ae1bdb21ccf",
-   "title": "米国の財政赤字、2年ぶり拡大 利払い費かさみ12.2％増（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Zm9JUTVHY0VfU1VtR2lEdkJCQXJyTi0wbFV6Z1FWcjg2YzVndlNiTG9GM0dFVVE4Q2t2WXZyM1NnSTdQdlpzbW91QmZacE1pNUJRUThMY0dqaS15bmZ3cE9YMlFVYjNVXzQ2dEsxY1JaLVF4c3ZzR1NBdmlqYUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:16:49+09:00",
-   "keywords": []
-  },
-  {
-   "id": "374a95a43684d7e7",
-   "title": "ウソでしょ…！？ 鉄人・佐野海舟、衝撃の“ボール隠し”「上手すぎやろ」「体幹エグい」圧倒的スピード＆強靭フィジカル→圧巻キャリー【日本人選手ハイライト】",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVkQxUFNOREJxSVdsSm9wcDZJNTFKc2NoRU1jaDQtNS1TWFp4TzhrbHE5VDctMUJNTFlYWmNVSzlNcE5KbmlLYm93bzNDZHhPaE84eHpGNzBnYW5CT2I4OGhuUThJRWE0R2ltZUNyRk4?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T07:15:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "faf2836ae23ae9df",
-   "title": "2008年に予見した“AIの失敗”…届かなかった「警告」 AI発展速度に“驚きはない”哲学者が語る危機感【第2回】",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdXE1VTRYWWVybnhkRlc3VWNpSmJhZF9EME1TTWNXdG93MzF6LU9YM2o4Rk1sbGRBdjRTS0x6ZEpvd1JLbXJDZFJGYWRKR0RvMHdwU0Q0Q2s2b1ViOV9yUVR2RHZrYUx3d25lQmZ1T0NQd2M2dm5uRUpPNy1SdzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:13:57+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e051a86be656d938",
-   "title": "SBG、米警備大手買収か AIロボ導入見据え（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42dkxxVUtRN0tLZWFDN3pfWE5tSG1pTkFadXBuTTZ3VmlnVl9jSUR5SmRpX0ZtT3o0d2RNVEw5UHRfWnNKaGxVdjkwNzhOSjlQTUZQTmdPTnVld29ITWprZElkQ2RsbUQ1d1lTWS1MemRKV3lHbzhjVW1NSU5zLUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:11:53+09:00",
-   "keywords": []
-  },
-  {
-   "id": "89d96a8abb935b8d",
-   "title": "北朝鮮、制裁無力化を期待か 新橋開通、中国一極依存警戒も",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1paE4zcmFZOWgwMGRNaE95cFVnZXZfMzBTNmg2Rk5ZM3JjNEgxcGF4WWo1c0hpSS1jcENoUFU4bnI4SkliYkhrMUh3bXFyUDlReTZycUNYS1RONWgzSGVGZDd3dw?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-10-17T07:11:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a9a491c551fff3b7",
-   "title": "ＮＹ株反落、１７５ドル安＝原油高やＡＩ投資不安",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmNva2o2OERCMmhNOHQ2TlRRbVJMNkFDN2ZRQWEyVzhKQlluUERXeGtWUWJIZklrenpBYnZfSFFYMXFwZ05HS1VVMEhQOEQzNEdzd2hIbjRUc25ONVFDUC0tRXl3eTZheFM5bV9RYkFQUTVfc28zODIyY2g0M0N2UkZoVVFGLVBEWFU0ZWJMRdIBggFBVV95cUxPQmxTb01EdlhwVUFFbXRrMlZoVVpPcm1qbTN0RmYzSXNBYzU4QmF5OEExTmN3bW1Tay1QaU5hNDZJdzVkRlY1d0ZFZmRKLTRxSUNxVGVEVmtQMk9IazJXbGNnaURsWkVvN0dsOElMOHM0QktIQlo3TGh5VkhRRFBGZ3Z3?oc=5",
+   "id": "d40894fe04f11c17",
+   "title": "徳永ゆうきさん体験交え 特殊詐欺の被害防止訴え（FNNプライムオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12RWhoRU9QbERuZXJaYnVGaEtnWGNwRWszY3RuMXQ2UXRNNDNPNWV3VVZlYkhVXzRMX2wyZ3ZiRGZKMW1iRUNtRlkxVTQ0dk5FQWR0RkVwN21pTHIzY19CMUstWTg5Z3FXVk9hS1RSTQ?oc=5",
    "source": "ｄメニューニュース",
-   "published": "2026-10-17T07:07:08+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b9965ec4af79eff4",
-   "title": "「俺はもう1人じゃない」80年続く部活動の再生へ 富山高校 “たった1人” の演劇部員 他校との合同チームで初舞台目指し奮闘中 富山",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eDBJRVhyd3plbVh5MnQ0R3JTdFQxLWdWMWxRZS0yd2xQSUFIaHJ4bnpGbDluMDJ5ZXloYXFhMVJXY0x5bzZnc0lUM2liMXk2Q0hPOXR0bWZ3dUIyV241aVd1X20?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T07:07:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5d519346a95c2648",
-   "title": "供給柔軟化で日本と関係強化 エネ安保を支援―ＵＡＥの石油会社幹部",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mY1dfMmFQRHRGbTItbHVYQUpxVHhPYVJOelRsQ2t0QmhXUmwwcDdvUTI1dXVobklPM3IzbXJURFl6RlhaN2VxT0prbk9DS3M5M1RBSmVTbkNRcUNZQWQzU0tsMA?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-10-17T07:07:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "058b846fae3dd77b",
-   "title": "【毒キノコ】“AI判断”信じ食中毒に…「間違ったこと書いている」専門家が注意呼びかけ 判断できないものは“採らない・食べない・人にあげない”徹底を!（FNNプライムオンライン）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tYnNyUTd6c0NBTENTUFFLelQ0WDFnNDRpT2RaMXdvUUxnLW9wS0pIZWVjMlNITm5wYmREUklaWVNIc2oxSkNxVEVpcF9pNi1JN1A2LTBBb3pDNDJndGJfaXktQUtlQThYcVpVa2pzVGVhRWJPdzRWZmVDSm5taDg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:05:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4108fc964735c72d",
-   "title": "【レターパックで”ニセ逮捕状”】「犯罪」の『罪』や「直ちに」の『直』が中国語の字体?家に直接郵送されてくる逮捕状…警察は「SNSを使っていない高齢者をターゲットにした手口」と注意呼びかけ〈みやぶれ!〉（FNNプライムオンライン）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWFYtQU93VktqQnpEZGV0SThBSWFXcURqem9oYTJBMEZrUlpYNFpMbkV2YlFDZmlwNk5pZmdfbThLOVd1WmVfdUVvT3VRblBRMTV0N3h6Um9EMnVLZGRickpNY25zdERSaktCYzd5V1VqMFlrcWpBdy1uWG1jNG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:02:36+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9f061676a274f3c0",
-   "title": "インドのガソリンスタンドで車が大爆発 破片が目の前に落下 トルコでは車が横転しながら“歩道”へ “危機一髪”の瞬間",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01V2tlRzIxWDNZNEtTcDdMd3duMmc2RmVkRlVGU2ptMmpWdGdIcTNkZ3o3QlRFNWswTkZkTDlHenBnM3N4R0cyM0N0cjBYN3JEMmI1cUhQUnJCdHY0eklELXdldmh4YmZsNHd2N1JiNVk5WUhnaTRucjVBU2pieFk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T07:00:43+09:00",
-   "keywords": []
-  },
-  {
-   "id": "29318258db60c283",
-   "title": "【狭い学校…窓がない教室】少子化なのに特別支援教育を受ける児童生徒は増加＿教室不足に教員不足…”令和の教育現場のリアル”＿専門家は「問題を現場に丸投げ…学校の在り方が変わらないと大変なことになる」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LNG9aUzg2Q2JURFJ0cWJMYnFJWEtCdGtYZHhjcGp1a1o1aXVPVW42elJ0SnFQZEpwUnJUZkE0cE95X0I0OXZaZDBGZHhsZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T07:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "90474184b5504c1b",
-   "title": "為替相場 17日（日本時間 7時）",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yamthUTlkOHdmbmJIOHE2WjVpQnQ3emEzdDRGdFQwZC1tb3p2WVlFVTBoSWcyRV9MQ2p1N1RKRS0tbDdPOU13c0QtVQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-17T07:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4f6221f857612e4d",
-   "title": "【レターパックで”ニセ逮捕状”】「犯罪」の『罪』や「直ちに」の『直』が中国語の字体？家に直接郵送されてくる逮捕状…警察は「SNSを使っていない高齢者をターゲットにした手口」と注意呼びかけ〈みやぶれ！〉",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUYTlvbllPTHBxNG1pYmVzNHJoVUlsRS1sMEQ1TzU3QzcxeUdSdXRTU1BNdGZCdDdTcXpXeE94WlkxUWhjVk9uVHZKU0QwZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T07:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e82ac67266a38fc2",
-   "title": "NY原油 1バレル＝100ドルを再び突破 9月中旬以来約1か月ぶりの高値",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sSTFsRE9reUM4ZmZCSGZ3WUlYQWsxcWptMFlUWkg3VXJxclVqS19aaVJfaUNRbnotMEJvR2hwd2FLWUFncENIZ3BoM0RFQ2w0SlppNm1zUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T06:53:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "589c8f4d12673752",
-   "title": "ローマ教皇レオ14世がロシア・プーチン大統領と電話会談 ウクライナ・へルソン州オレシュキの人道危機に深い懸念表明 人道支援のための停戦求める（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScHdWcktaT2JteENpS1JUYXA5OVFMMWEtZzVTX2dlMWFsd2RfakN4RkYzWjdxOTJBb3ctTzBaZkRwVk5NM1d2M2VHWGxHdTBvUFhJb3IwaGtPbkNkVkRpcDVaM0did1FaWHQtcGtkcHpBRXZycjdxcXNScFJmS2M?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T06:46:26+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1d6f49eba5f5858b",
-   "title": "高市首相 靖国神社の秋の例大祭にあわせ「真榊」奉納",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60815",
-   "source": "NHK 主要",
-   "published": "2026-10-17T06:46:12+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8ce86586e720a834",
-   "title": "【動画】Pickup NEWS（10月17日）",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60703",
-   "source": "NHK 社会",
-   "published": "2026-10-17T06:44:30+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0dd637a1f9951651",
-   "title": "高市総理 靖国神社に真榊奉納 参拝は見送り 秋の例大祭",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GcGFHT2I4R3BOTm05MHdlWDNEYW5CS3hQRVNLZ3lVVDJ4X1FpWkx1YVJvQWlJdTlWM1RkS2lzLUQwcjFMQ0dUYWNsM2JkM183WXdHT015TDZnd0ZVSUxVUVg1aktIWnQ4bG1hdWhzU2hzSFk?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T06:40:56+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5cfdcecef46423b6",
-   "title": "NY円、157円96銭～158円06銭",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xckN4bzcyV1FVZ05tLXBPc3pJM3ljY2dGNjVPb1hqNVFmZzQxT012eHQyM3FMOFpPbXlBS211cUtCVzRFZ3BfYzM3Q2gySFNoTURRWmZhY3dJRWM2Y1N2SlhMOA?oc=5",
-   "source": "nippon.com",
-   "published": "2026-10-17T06:32:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b51caf9d0d01f574",
-   "title": "ＮＹ円、１５７円９６銭〜１５８円０６銭",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kbjVsSGg2eUNfRldURTIzRTVBcUwwWDFYZ2xtdURQRDBnbUZNRkQwbExWRjdYbnQ1QUVWSDc4T29PRjY4YkJjQkFDNWpCemNjSm5VdEQ1Wjc2YlVJam1rNzY2V2RGYkZz?oc=5",
-   "source": "カナロコ",
-   "published": "2026-10-17T06:31:47+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ea6e2f52c49325f4",
-   "title": "ロシアが拘束した北海道新聞記者への領事面会は実現せず",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60807",
-   "source": "NHK 主要",
-   "published": "2026-10-17T06:21:47+09:00",
-   "keywords": []
-  },
-  {
-   "id": "528d0a346c8766bc",
-   "title": "育てられない観葉植物 専門店で買い取るリサイクルが人気 小さく・個性豊かに“生まれ変わらせ”購入しやすい工夫も",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wME4zVVh6RHFVY3huQ19JZTEzUnNGeTFaSkFPY2tWdFB4eFE3bVlfZGhfOVFmOTR6LVZUQ2NKZUNha3liUnNQMGdLUnFZeUx5LWVkU2t2Z3dBeUtMRndqbHhuM1Rwa0JFajJyOXVMTzZwOFctbVFrSjlPSGp4OHc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T06:20:45+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6cd77dd8975cd02d",
-   "title": "米財政赤字、５年ぶり高水準＝関税還付、利払い響く―２６年度",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUkoyTWlrTlZJMXc2RGhUMC03M0JhYWNVU0NXVGJUTHlWRjI5YlpxaHpKNm95SzE2VlFRa3htaFhrZXBZdGVIS2ZhcTRqNW5FU2lGUWwtbFFDdmxzV3NlS1pEdU1Ebi1xbFIzUEo0SjRzNUt2MEJoWXBUQVIzRm9NMDN30gGCAUFVX3lxTE5SSjJNaWtOVkkxdzZEaFQwLTczQmFhY1VTQ1dUYlRMeVZGMjliWnFoeko2b3lLMTZWUVFreG1oWGtlcFl0ZUhLZmFxNGo1bkVTaUZRbC1sUUN2bHNXc2VLWkR1TURuLXFsUjNQSjRKNHM1S3YwQmhZcFRBUjNGb00wM3c?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-17T06:20:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9954e1655c2c107a",
-   "title": "さわやかな秋晴れ 絶好の行楽日和 関東から西は季節外れの半袖の出番 台風の動向に注意",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTlJkTHJ4MU5VTEx6RXZ5X3BaLTVLUkVDQlpCVHRkX1dUS2QzUmhNdk1hblBETjkzNFZsMlVUM19jMURFWXFmN3V0YlJNUVhBYk9fODkzeTRjS3VBbGgyOE05bVdfRmhZV0E1SUFrRWxvMjZOWDJFbjNFcC1UN00?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T06:14:59+09:00",
-   "keywords": []
-  },
-  {
-   "id": "effc53b40076bd8d",
-   "title": "【全国初】ヤマトとバス会社がタッグを組んで人と荷物を同時に運ぶ「ねこみやバス」（FNNプライムオンライン）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MRkNyYXRGT3RnaVFtT3lwNVU2TTR5TlVnbXVxSk5fd29aSkhwSXR4NGZLWFRFZVotRHpWYy1VR2M2MWE1ZTRLMk5tMWpMTmxZbmxxcDJudGRkWGlBeHVrai1vTmdGYWV1TFZRWEFhOXMyUXJtY3VmcDZldzZTMG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T06:13:38+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3d439f8a53a71cc0",
-   "title": "避難民医療支援のミャンマー人医師が講演 人権尊重訴え",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60781",
-   "source": "NHK 社会",
-   "published": "2026-10-17T06:05:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e08e0298578d02d5",
-   "title": "福岡県議会「百条委」議案可決 金銭授受問題や海外視察調査へ",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60805",
-   "source": "NHK 主要",
-   "published": "2026-10-17T06:03:23+09:00",
-   "keywords": [
-    "県議会"
-   ]
-  },
-  {
-   "id": "ed8b30f6091ca820",
-   "title": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60800",
-   "source": "NHK 主要",
-   "published": "2026-10-17T06:00:03+09:00",
-   "keywords": [
-    "無罪",
-    "王将",
-    "餃子"
-   ]
-  },
-  {
-   "id": "02f52727a5938435",
-   "title": "20代なのに…「足の握力」が80代!?若い世代にも見られる“衰え”の原因と足指を鍛える重要性とは【THE TIME,】",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ISGJ1WWxGR3JJNjB4VE5ZeVhzdzJMSV9QbmcycjBHWVh1UHZNdWJ3bE40UG9QRFlJR2hIRWlpMW8zOEVOSUswM1RnT3FGRVcxREptT3pYbWVUTkJPVUxTcy1mYzM?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T06:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2bc3a63ad8334480",
-   "title": "「めっちゃキレてる」鈴木唯人、激怒→退場直後に“まさかの行動”「怖っ！」「荒れてるな」ベンチ前でボードを蹴りあげる【日本人選手ハイライト】",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYVlMV2dfelI2UmlEMXNjZS1MLTR6UmxHeS1RMlZQNHlkZWtfeXpROU9KMDVGMmk0ZW9FR3pyTHktMHAzcWNPZjRsWmFwenMzTkUyRVJrVU9SZklCaDR6MGRkRlFacFRDRXMxeGJjeVI?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T06:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "135911fff9088f62",
-   "title": "廃棄される地元産ワカメを化粧品に！ 3児の母が考案・ブランド名に込める意味とは？ 宮城・石巻市",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40aG9GaVphSmxvMWhqRThpVFMzNmxOX2pHLWJ4N1pPWlN1THdSUElyQVhCRDk2RThsQkFIZUotblFzbnE4b3hrbUNaWHRuM2p2RFc0TkhfQnRkZVBRclhQVGppc0k?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T06:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ce6c8fa688b7d1c2",
-   "title": "【ドラフト】佛教大・野村亮輔「プロ一本」の覚悟 38回連続無失点の最速152キロ右腕が野球未経験の父と歩んだ夢への道",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xTkYtbHZLT2d2a2p3Vm4xcnhRLTlZcDdBRzh3ZVZXcXN6aTREcE0wdTBzVVh4WEdhWTBnSXBaeTBncUZYaDJkZFhnV3AtaVAySFYxVUlMQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T06:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b0d82670cb5e8479",
-   "title": "NY原油、一時100ドル超 供給不安背景に買い優勢",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TcUM0Z3NRalJQSzV1Z2ZkQkNhdE1QMnE5QWNmNlFjM1VVTjh5TU1DVVhXYW9sRzlKU2FrSl85d2dTbEtmYTFIM0VMaw?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-17T06:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0f8833bae91e21d8",
-   "title": "大学病院の医師 半数以上が「将来 大学病院以外で勤務したい」",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60765",
-   "source": "NHK 社会",
-   "published": "2026-10-17T05:56:07+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ca407e5cb7f3d34f",
-   "title": "「検察なめんなよ」取り調べめぐる裁判 検事「軽々に扱わないでほしい」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2MTlXclBHQjYxTW1nRlJ3Sldwdi1EbDJWNEN1ME5ucXNaNnBJUjBRc1NoeUFQbWhMd3J0djVDY3RJOVJ1eTZWTXNHN0tYdGhod2hSMWFrZ1hYQURSZVBPYS1fREhTXzNhUDI5RkpqNzlXQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T05:55:50+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9007b421b54e8998",
-   "title": "NY株式　　16日終値　　　　",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkwxQm1zRHRiQ0I0RG91MzU0WHp4STVHZ3lQa1lrZk1nczBiYjljdk1qbUI3c0hXeXNMdUtIOFBLRS1nd1pjaWM0aUVTNjhhQTdKREhJUFlHc2FiLUdKUm44cDZ3UnVGSlhxTzFaUy1GRS1OMVF5M25BN3V3a1FqOVNPTDM2azdvWFdOaTVB0gGTAUFVX3lxTE1Bd210VWphN1hjTXBZWWJ3ZGVrZllrYzlqVnlPeFd1bDZkMUtDc1pjMk0zeGpYNFp2Y2hGM2E0MjEtWVVnVTJRYzh6akRUZWdzanctMnYxVHdqWUpaUFBlMnZ3NFNwU3FScTd3ajg3a0hmdXV1cWlYYkhyMUlEcXdycFVRMFpIbENUdjBMLVRMRnJsYw?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-17T05:55:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c510c242262af7af",
-   "title": "ウクライナのドローン攻撃“空港まひ”狙い作戦強化か ロシアで欠航や遅れ相次ぐ",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1VWVnNVoyYkRIMGpqYUxfZktBVlhLczRUQXVTVHVaM0hsY2YydF9EeUZSODNDREZ6aFZGSTItUTZxOFhwTkNrRWlLeTVGS2ZmNDBtbk5wWFRoUXVibGRuLURjZmNFNEtESEtINHJVZ1g5MEs1UFk4NkdB?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T05:54:51+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0e306c78dda1348b",
-   "title": "エレベーターに挟まれ男性作業員（67）が死亡 奈良・天理市",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdDdxMDg3eWdsWWdUTnp3SmFMS2RjOUVVMVFVRFBkN1gyQnVnOG9GUVUyTGJNdmZSdFE3ekV0SlV0MDA1WjJPbmZZWmZjNGZ5NXo4a1dyTVRyYzJUVTNMbGRjWW1hd1o0OUhqbTVwOFFUZw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T05:53:52+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1470048ffa5f11e9",
-   "title": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60784",
-   "source": "NHK 経済",
-   "published": "2026-10-17T05:53:28+09:00",
-   "keywords": [
-    "テスラ"
-   ]
-  },
-  {
-   "id": "44856d5fc7caf3ad",
-   "title": "米 ホワイトハウス報道官が退任 任命からわずか1週間 弁護士資格なく“経歴詐称”",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JNHR1TndDOTBiSzAwak9MbmJYaFhiSkl4N0pYbmpORm5ub2VxaGF4WEZHdmh3RWVmRGZPaGFDdGVGOUw5VnkycHZlMlhVbHFVVnloRFlac1VvTE5uNnBPQ2ZrcWYySmhkbGE1dFNuWFFYeFpjWEpLWnB3?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-17T05:52:49+09:00",
-   "keywords": [
-    "弁護士資格"
-   ]
-  },
-  {
-   "id": "0e87d6146cd6ed29",
-   "title": "”インド人専用学校”とのデマ情報でインターナショナルスクール開校が白紙となった旧小学校舎の活用策…次に交渉していた社会福祉法人も辞退「経年劣化や物価高騰で改修費が見込みを上回った」＜北海道札幌市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84UHBLYlowbjBpc3Z0OGR2bXZwWnFQSWQtb2JyeFpta1VvT2QxTXNhYTg1YXVBYzQwd0xDSlZBdTZ0aWpFZmE1US10U0p4UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:50:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1b72a3bafe40b3a1",
-   "title": "「緊急地震速報」取り消し マグニチュードの計算に震源から遠く離れた観測点データを使用（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQXJralZncEFlYmhyOXhTaU5oLXlhWXRCYTF0bjkwdm5DMEdTUjBNbWZ4YWNHR1E0aVZ5MzhEQ0tBb3FhWmFRNjJXUmwwNm5ndFl2bi02dXdrNDhIcjlfNlpsLWFPa3VRaVdzOEdCQ0d2dkhOb3YxMXFPNTgxSmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T05:48:31+09:00",
-   "keywords": [
-    "マグニチュード",
-    "取り消し",
-    "緊急地震速報",
-    "震源"
-   ]
-  },
-  {
-   "id": "4c794532cde7fa4b",
-   "title": "ＮＹ株式 １６日終値",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxeVQ4cnFDOHdTUDBLWkw3NVRhcVE2YzRPS2RERGZZSVFvU0FxTGdKSDkwd1RyNHJzenFtQVlZb3hFVG12X0ZFcVFnWUhQNkh1TGFpYlBtNEE5eGRKY0E?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-17T05:45:50+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c1d4866f320988dc",
-   "title": "福岡市長選立候補予定者説明会 １８の陣営が参加",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ybG13UU5ZWGVkT3lEbm04SktDdU1yOFZZUTlib3ItLUhqLTdaU2ZLcUNnT2pGWXpiRVgya1JFdFNBREtvN0I1QS1Ub3V6T2xOd3FrcWpPSQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T05:45:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4587ee5eb67a43c7",
-   "title": "北海道新聞記者拘束 日本大使館関係者がモスクワの拘置所を訪れるも領事面会実現せず",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNa1U0dG0xay1YR2V0OUdncUJyeXNValRqU1o4cTRLMXM5dFgyZ0k5LW11cktuaEZCaUdzQ1JJamxpMnRlZlVERzM0QVV6dXJGQ3h6ejBBaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T05:42:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "729d56dfca5198cc",
-   "title": "スカイチケット運営会社 新たに「一部の顧客のクレジットカード情報流出」 Eストアーもカード情報の一部漏洩",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taTVvX0RJU0VLVzhfbEVROUh6d3JMUl9sS2FnOUd5cWpIS3lOREQxUFoxeTBYNjRZT3hJUU5sVnNyREV5WE5tLUp0SDgyY0VsdnF0MWhGR01IRHpMd3l4djBDSTNHWmRvUnJXTWc4RnVicW1HVXBOcjl1Y2E4QWc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T05:39:48+09:00",
-   "keywords": [
-    "スカイ"
-   ]
-  },
-  {
-   "id": "562f5aeb6c74e70d",
-   "title": "高市総理 外食産業支援でプレミアム商品券や「Go To Eat」も検討 消費税減税の関連法案めぐり",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGVlYzUU5GcHVVb0g4WHFqWEVreWcza3FtUXZqM1V5Z1ZsdjhmcXhoak5SSjNlalVBOE9nUm4wVXZlUWZnQnEyRXVxY2NCQnAzNlhWVGNmaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T05:35:31+09:00",
-   "keywords": [
-    "プレミアム商品"
-   ]
-  },
-  {
-   "id": "e81f2a69cc44395c",
-   "title": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60801",
-   "source": "NHK 社会",
-   "published": "2026-10-17T05:32:08+09:00",
-   "keywords": []
-  },
-  {
-   "id": "68028feaae92c1fb",
-   "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797",
-   "source": "NHK 主要",
-   "published": "2026-10-17T05:29:02+09:00",
-   "keywords": [
-    "推定",
-    "気象庁",
-    "緊急地震速報",
-    "過大"
-   ]
-  },
-  {
-   "id": "00ab31a915a6a9fc",
-   "title": "ＮＹ株反落、１７５ドル安",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpOU9KWGJfdmZNRmwwUzZCM1ZReDJPS0dMc2RDNWJ1WUpBUzJLQTZtcVgyYThUVW1sQzM4TXVCTTFtMHdaZjR6MVk3Rkxld1RVZWlTaUk3YWZ5TEFUYlE?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-17T05:23:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2d47965d1216a9e4",
-   "title": "日本のGDP、来年6位転落予測 IMF、インド・英国に抜かれる",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XTHNZTkw5VjdRNDRTTTZhQ2pkbXBzM0VyRE9Cc1FVbXFlM0NnV1JHYTlycl9hckU3TEpVWHpvNTVqbmhuY0NXZU9qWQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-17T05:23:15+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f2756c8a9982370d",
-   "title": "日本のGDP、来年6位転落予測 IMF、インド・英国に抜かれる（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbk42SHBGV21PWHoza1BSZVlVMlJ3Y0lKa3hvclhHOUNLSDlkQmFETE1pU2RUVndFOFdjOUw4SFJvT3RoZ3R0eTk5djBaSVRjYk5kMG9mZklud3J4ZjBSSUxoaDdsQ0Q2cU0ya3dhZUE4WXhOZHZIcnd6M2xuVEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T05:22:17+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d16491de2205a880",
-   "title": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60802",
-   "source": "NHK 主要",
-   "published": "2026-10-17T05:10:06+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2e3ee06592d40ed3",
-   "title": "【北海道(渡島・檜山地方)】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHdnN4UllJWjNZbWxEdGFpTE9zRk1paDZ0T09wU2o3d0ZDNS1ILWZkSnEtaVlVbFZPOUlXbUI2c25VdTJjMlFyeVllNWlJUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b33fbdaa5264b50a",
-   "title": "【北海道(上川・留萌地方)】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wN0hDb05pZHpoSVdmWGx2aVRVaFU5c1R1V2RDcVVpb3ZhQUZaSmRxWFQ1VnphaFVWLW52U0p6R2xXTlVGQjJtZExYRW1CZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "058d25424b0ef837",
-   "title": "【愛媛県】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpcU5yVzZFQVMzdElIY0VnWUJPQkIyT1hVbU1WSDNWU3RlcnVwQXZmd2ZsQ3JPWEtDOGVrSlRubXp0eXZDTkl1WlFqRVY2QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8df46f35845e4a7f",
-   "title": "【徳島県】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VMlJqRnlYRHAwVFNGakQyaTk2TklaX2VIT2VSTzl0emJ5YWh6SUx6ck10cjhSQ1cxMWFSbUtOZTViblVXSExtVGlkUGUzQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "72a17b54a875d8d3",
-   "title": "【山梨県】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNkk3ZHdwTXdzTmtabGRKdEw4b0V3SjJtc21FMTctN1hPaVhJM0VHU3UxSUxNZWRWMzQ2UnJzemI0VGpwZzhtV0tiREotdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0ffbafade33333a5",
-   "title": "【岐阜県】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzX2hkRjRBZktwV2RhWGlqdjZXYjlvMERKTDBJWDAxY1p2M01ZUzJWc0o1SFFtenhmNV9HOUc2NDZJM19qRGk0MWluQkRlQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "da02956caa843c13",
-   "title": "【高知県】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lYTJOejM5ZENqc0NDV3Rld1oydUNDNkdpc2FPZnBBY2RjUnF4aWt2YnVTajB4UFhXVzJHVXZxUXR1aUY2djJmNkNfVXB3dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ee7217f262c42363",
-   "title": "【三重県】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmZnJtYVJpeHY0el9qb0lOQ1BYdGw1YjlrUlZZTnNURmFjcFlpZXcxaTZwQVVCczBLNHYwVmJMM0wyUDZERnBCdkxtbFc1QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9fade0bfc692c22b",
-   "title": "【京都府】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yQktuVDNyTG9wYl8tMmxkT2VRUkVJcjl4elEtRU9Tc0FaelhZYnRnamN6WWltUmxKVVJ5UkVDS1BTTFdFZ2J3bHphX053UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b7559e7a2a34b4d7",
-   "title": "【香川県】10/17の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBERU1BT0lYcDJFd2dFR1BQTTZZLXdEbmtDSUFRUVlOR2hSalJESmxSSkJ5VFcxM2tpclNIR25OeUtST3pRWVJ6OGxvRmIydw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "dd4345b99b8241bf",
-   "title": "日本のアジア支援はミスマッチ？",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JRFVFbGQ1Q0R3NVFvZkEzLWVUaDA2TWNYUEtnNmxqZ2pRZDA3T2FEWXJ0bHp3T0xxN0lRLU83RUlxOVduMW9RNkRUYnpMVlRvbHNITWU0Y0ZCS3g5QzJkNVZCWDJHTjRR?oc=5",
-   "source": "カナロコ",
-   "published": "2026-10-17T05:08:55+09:00",
-   "keywords": []
-  },
-  {
-   "id": "452d50d8d8bd2ef5",
-   "title": "消費税減税法案来週審議入り 与党 成立図る 野党 支援金明示を",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60791",
-   "source": "NHK 主要",
-   "published": "2026-10-17T05:08:25+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f0517331da7e05fa",
-   "title": "消費減税 農家などに売り上げ5％程度の給付金検討",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60762",
-   "source": "NHK 主要",
-   "published": "2026-10-17T05:05:46+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d543c8f4f1b1d979",
-   "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
-   "source": "NHK 経済",
-   "published": "2026-10-17T05:01:59+09:00",
-   "keywords": [
-    "SDV",
-    "トヨタ",
-    "車種"
-   ]
-  },
-  {
-   "id": "c59a8889f915afbc",
-   "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60794",
-   "source": "NHK 経済",
-   "published": "2026-10-17T05:01:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1351069b4780d03a",
-   "title": "【倒産】人手不足で思うような受注できず年売上高約75万円…設立から約1年で事業停止 新潟市の一般土木建築工事業者が破産開始決定 負債額2417万円",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TeHh5anNjQmUxU2lIaWZlMFl5RkZzZGR3RlBKYjNXU0NYNFY0dDRVcEtDNDNFTThIc3Vpbk5DVWJBeHA4ajVsMDcxSk5HZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "372fce3cdad23e56",
-   "title": "防災気象情報が新運用から5カ月 河川警報と線状降水帯予測に新制度 自治体は対応に課題",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZelNGSmdBekZvcV9vMWhmWXhWX01PWGwxaHo5UFdQTkUwY0xSWEUxT0VWRFEwbTgzZVY5SFg1SElPck81LVVLazhpNnVsdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4c3edddbff46e399",
-   "title": "市の“肝いり事業”めぐり…贈収賄の疑いで南魚沼市職員ら3人逮捕「仕事できる人だった」 業務委託業者は会社ぐるみの関与否定「容疑者に依存していた」新潟",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YY1BMdkJYcHFyWERYTEZPX2tSZXEwemUwUVZvTHRQZG9qbG1ncnRRbzZ2WlB0MWdQX0IwV2dZUmRoalNKd2JvZmFVWjZjUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-17T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "75904e7b6867e90b",
-   "title": "4〜9月期決算、上方修正ラッシュに期待 市場予想は強含み",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBueG5IRnhlVml0VXFqcmxlTXN4LXVsTkdjYlh2cHZIM05YRWtxXzFMY1Frc1pBUWt4eDM5MHZEWTFnMF9NYkZibUptUnkxQV9nNEZZYWw2YTVJb0hwSTFpSFdOVFdOWXYzRXZKTkRFa1NkOXNuTHVGdkx5VFBQQQ?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-17T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5e3286df68276bd7",
-   "title": "「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQ09qa2NvSDAyUmpSVVhNSjB4RmI4Q1lEcFRIRWJ6WUstRUNnaDEyOXBvRjBFanBaVHYybWVZaHZLTnM4TUMxOGt5dzVVSHBESXVjU2ZiVERzRHYwZmd1SkhZVzJrVTVtdFN2SQ?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-17T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "93e9c09c98215059",
-   "title": "福岡県議会の「百条委員会」設置決まる ９月定例会は会期延長し未明に閉会",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PQjdQamF4SG03T1F1TFc4aldqalZGLVVKVC13c3NIWGFBU2h0eGxQQTNfOHdJRk1pdWJDS3h4bTB0a29QTkNndXZRbGRkNl9UbVZCdU5pYw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T04:30:00+09:00",
-   "keywords": [
-    "県議会"
-   ]
-  },
-  {
-   "id": "a3e4baddb36d7c0f",
-   "title": "トランプ大統領「中国・ロシアと核軍縮について協議」保守系メディアのインタビューで 「可能であれば非核化を実現したい」具体的な協議内容は明らかにせず (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTlpYVNGUXFNZ1dJdWh5c3ZneUFWVFAtUEJBaHNOSjRCSFFBbmllUHNBTm9FN1FWdVZ3UVV5alJpVVVFem9CQUQzd3d1eTF3cnlub2tGQTRWTk01a1BEcWUtWkRsMXpidmtUOE9pM19KYXNnbEkzMTA5V01rY01WQmdBX1BKbktUakZld1ln?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T04:16:58+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f9253b0a68a36005",
-   "title": "ＮＹ原油、一時１００ドル超",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlWWFiQ3l3OHF2Rjh1MHBsdmoyNmp2Vm5xUjA2YmthRkc2VmZ4cmhXRXVpZWRyQW1YX3VBUUg5dDN5dFo4ZmZJSS1fUmdYSy1mcjVwaFhkOWU5U0dKbUNiMWIyS1JtdVNC?oc=5",
-   "source": "カナロコ",
-   "published": "2026-10-17T04:08:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3c6b4178095ba1c1",
-   "title": "ホワイトハウス新報道官 弁護士資格を所持していないことを認める (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVEpvM0RiU3JTT19mODNTSEh6b0oyUG9HUDlxbXQ1N3FycWFEeXVXRnQzMDFpckhJV1VpZ1JfNDJfVy1iVHFKZ3pWWTJEc1ZnVG5iMjhuTkRjMXkxbmRZRFVvUUtxRU9Ic2p5SFJ2Ul9HamszMEdNLTBhVGhiaHRiX1BsMVRGSDhwVzVoRk9R?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T04:06:37+09:00",
-   "keywords": [
-    "弁護士資格"
-   ]
-  },
-  {
-   "id": "7c01259ee17d35c2",
-   "title": "【速報】米ホワイトハウスの新報道官が退任へ 弁護士資格の詐称をめぐり 事実上の更迭（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jeW9iSDZHbU1hb09JdnZoR3pVVExlcENaR3RNUHdSWDlZYjhhOUkwcUlTR2h6Rk84NEV1eVo4eEpZV1BZMU50N0RrZ3JEQXRpbTV2LTBqZnVMcFBrNWlQQ1VIRExUZ1kxNk5WTVNweXYtOWZMZl84clZfaTBLQ1E?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-17T03:57:09+09:00",
-   "keywords": [
-    "弁護士資格"
-   ]
-  },
-  {
-   "id": "39ca80b7d34853c8",
-   "title": "【速報】米ホワイトハウスの新報道官が辞任へ 弁護士資格の詐称をめぐり 事実上の更迭",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXQVBkRVVNcnQtMGpXaVFicEM1dmFQdENEV1NzY3ROUlBzU1AycEFOaGdMdnBQWTZKWmVmckpHVlkyOEZZc3Zob3BraVhDWkJpWmhVaXYzOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-17T03:55:32+09:00",
-   "keywords": [
-    "弁護士資格"
-   ]
-  },
-  {
-   "id": "52d78b5bac53f650",
-   "title": "米大統領報道官が近く退任と報道",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05SVdkeEx1eTkxZWNhQ1BKd3BuZ0xpT3hYRjV1b1pNZk5uc1NtMjdlVGc4WjAtQjdPa3VDbHBMaGo2aC1JcTJKV2tmMGUwTWcxTUdOdnl1eFlqYUYyM2c?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-17T03:47:14+09:00",
+   "published": "2026-10-17T08:16:13+09:00",
    "keywords": []
   }
  ]
