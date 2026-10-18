@@ -1,14 +1,186 @@
 {
- "generated": "2026-10-19T05:09:52.253461+09:00",
- "new_events": 66,
+ "generated": "2026-10-19T07:26:23.977876+09:00",
+ "new_events": 99,
  "keywords": [
   {
-   "kw": "福生",
+   "kw": "横浜市長",
    "level": "high",
-   "d24": 17,
-   "baseline": 0.0,
-   "ratio": 34.0,
+   "d24": 18,
+   "baseline": 0.7,
+   "ratio": 27.0,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    1,
+    18
+   ],
+   "latest": [
+    "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:25:44+09:00"
+    },
+    {
+     "title": "パワハラ問題で前市長が辞職 横浜市長選 新人・原沢敦美氏が初当選",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpNWlOS2FMQUd5YWtEZnBWZDN4YlB3ejZlMTk1SmxpME5MVG1sTHFJLVJhQ2o1U1Flam11U3ZqR0dTMXpTeVBYNWQ2NHItLUJBcTRTNEludWxhR2dQUVBuTmZpNngwWlBTV0VxRnQxMmZuZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:55:58+09:00"
+    },
+    {
+     "title": "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5",
+     "source": "時事通信ニュース",
+     "published": "2026-10-19T02:52:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
+  },
+  {
+   "kw": "当選",
+   "level": "high",
+   "d24": 12,
+   "baseline": 0.3,
+   "ratio": 24.0,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    12
+   ],
+   "latest": [
+    "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:25:44+09:00"
+    },
+    {
+     "title": "パワハラ問題で前市長が辞職 横浜市長選 新人・原沢敦美氏が初当選",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpNWlOS2FMQUd5YWtEZnBWZDN4YlB3ejZlMTk1SmxpME5MVG1sTHFJLVJhQ2o1U1Flam11U3ZqR0dTMXpTeVBYNWQ2NHItLUJBcTRTNEludWxhR2dQUVBuTmZpNngwWlBTV0VxRnQxMmZuZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:55:58+09:00"
+    },
+    {
+     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T04:44:22+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
+  },
+  {
+   "kw": "原沢敦美",
+   "level": "high",
+   "d24": 10,
+   "baseline": 0.3,
+   "ratio": 20.0,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    10
+   ],
+   "latest": [
+    "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:25:44+09:00"
+    },
+    {
+     "title": "パワハラ問題で前市長が辞職 横浜市長選 新人・原沢敦美氏が初当選",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpNWlOS2FMQUd5YWtEZnBWZDN4YlB3ejZlMTk1SmxpME5MVG1sTHFJLVJhQ2o1U1Flam11U3ZqR0dTMXpTeVBYNWQ2NHItLUJBcTRTNEludWxhR2dQUVBuTmZpNngwWlBTV0VxRnQxMmZuZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:55:58+09:00"
+    },
+    {
+     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T04:44:22+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T05:09:52.253461+09:00"
+  },
+  {
+   "kw": "カナダ",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.3,
+   "ratio": 18.0,
    "consecutive": 2,
+   "days": [
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    9
+   ],
+   "latest": [
+    "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:20:13+09:00"
+    },
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q0FidXZFd3FNcngydndiNnFaczNmTU1Hc0VHb29nSVhsSmhvamVoeU9VNUVxTkcxTk11d2hvZjRvZkMtMlhlYWhBRlJJU1lqdFVianJrVQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T06:06:29+09:00"
+    },
+    {
+     "title": "カナダ 軍事基地で大規模火災 4人死亡 カーニー首相「軍にとって最悪の悲劇の一つ」",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2T1NldlRIOFlNd1BTSjl3aTRFaGVmYjdtS2E4dmdQQW1fUDNoTXQ4cEd4Vm9scVhvdkY1c3NtVEJFNE51VTVDOGlKZFFBdjBrb0hwSDZfVnM0V29MMkhld09wVmx1cloxckNiVW4zT0xmb2JxOFRMbGhB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T03:17:25+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
+  },
+  {
+   "kw": "開会",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.0,
+   "ratio": 18.0,
+   "consecutive": 1,
    "days": [
     0,
     0,
@@ -16,13 +188,62 @@
     0,
     0,
     0,
-    17
+    9
    ],
    "latest": [
-    "身柄確保の男（50）を殺人容疑で逮捕 東京・福生市 路上で男性刺され死亡（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0FXMko4SFl6M0ZqWF9Xcmkta3JaTTRRam9pWG1Jeks5al8yVEkzWWstbkpuQlBoYmtwZnhPWWFsQzFKaWNUdFp0QVR6TE0zWXpIRmRUNjVUY2pPejl4MFlia1VfaDdhS19aY0FTYmxmVFJVOEJvSm1pUm9KV1E?oc=5"
+    "天皇陛下がアジアパラ大会の開会式に出席 パラ卓球競技を観戦へ",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE42WmNERHVEa01MVVR1cGZJblJsRjZZVzFldmltS0pFSGtXVTQtOFNrVzdWeFB1SHE3ZjRXeGI5WEtsMUpXR2JxLXpla1RaMlhMTWpCcnk4X0s5R1BWZHhrak5HWGdZckxKT015b2JrVDFwZw?oc=5"
    ],
    "samples": [
+    {
+     "title": "天皇陛下がアジアパラ大会の開会式に出席 パラ卓球競技を観戦へ",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WmNERHVEa01MVVR1cGZJblJsRjZZVzFldmltS0pFSGtXVTQtOFNrVzdWeFB1SHE3ZjRXeGI5WEtsMUpXR2JxLXpla1RaMlhMTWpCcnk4X0s5R1BWZHhrak5HWGdZckxKT015b2JrVDFwZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:57:56+09:00"
+    },
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3J4cFprbTl1eW5PSVlhb1FkdnRlQWhBUENJR2JGdWdXM0t1N3RXcjhwMFNKZ25Qcm15bks4UURyWDdvUGM1ek00ZWxIX29WTkRCRUFxNUp2RktYTXQ5MEtyel9nUXN6ZkJvemh2cVZUWjNNZEtfdGo5SkFqSHc3VHpiRFJvemU0dW1mVXJR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T01:34:49+09:00"
+    },
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T00:57:24+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
+  },
+  {
+   "kw": "福生",
+   "level": "high",
+   "d24": 14,
+   "baseline": 0.8,
+   "ratio": 16.8,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    14
+   ],
+   "latest": [
+    "東京・福生市の路上で男性刺され死亡 知人の50歳男を殺人容疑で逮捕",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQXJvZ2hHdktmcDVCU3M2amNpODlqR01ELW1iWk15M2piNVVSRkZTZGVXZ0FQRmF6STRTaVRySnRNMk93S0JJdmNwem1HRkJ4UGJLRTBnNlBLUVVIMmVrZDZZQmQwWXNKRzhodldSMVdMQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "東京・福生市の路上で男性刺され死亡 知人の50歳男を殺人容疑で逮捕",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQXJvZ2hHdktmcDVCU3M2amNpODlqR01ELW1iWk15M2piNVVSRkZTZGVXZ0FQRmF6STRTaVRySnRNMk93S0JJdmNwem1HRkJ4UGJLRTBnNlBLUVVIMmVrZDZZQmQwWXNKRzhodldSMVdMQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:51:01+09:00"
+    },
     {
      "title": "身柄確保の男（50）を殺人容疑で逮捕 東京・福生市 路上で男性刺され死亡（FNNプライムオンライン（フジテレビ系））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0FXMko4SFl6M0ZqWF9Xcmkta3JaTTRRam9pWG1Jeks5al8yVEkzWWstbkpuQlBoYmtwZnhPWWFsQzFKaWNUdFp0QVR6TE0zWXpIRmRUNjVUY2pPejl4MFlia1VfaDdhS19aY0FTYmxmVFJVOEJvSm1pUm9KV1E?oc=5",
@@ -34,227 +255,49 @@
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ISVVIS3FIQl9fcGEtX0k1SUd0RmZuanRWd2xFLXdvZHpRUGdfYVJkXzJDdkhfczF1WXIxUXFGWlUwSmlhQXZROHY1UTMyZw?oc=5",
      "source": "FNNプライムオンライン",
      "published": "2026-10-19T01:01:00+09:00"
-    },
-    {
-     "title": "福生市で男性刺され死亡 男を逮捕",
-     "url": "https://news.yahoo.co.jp/pickup/6599276?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-18T19:51:28+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-18T10:25:07.360527+09:00"
   },
   {
-   "kw": "原沢",
-   "level": "high",
-   "d24": 13,
-   "baseline": 0.5,
-   "ratio": 26.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    3,
-    0,
-    13
-   ],
-   "latest": [
-    "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-19T04:44:22+09:00"
-    },
-    {
-     "title": "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-19T02:52:00+09:00"
-    },
-    {
-     "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVmtHOFpQU0E1WTZrUDdWT3dmeVlPTEMwdWNuZWQzYlU5S1VJVjI5RlRKZzBveVNFRUJGUl9zazBjODlicDFOZDVTbE5wb2ZtVFg5X3ZVUlM5SHgzQWRwbVNYdERoNFlkVjFWVDBuVVh3OGtXZEFFUEdVMFQtSWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T01:02:19+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
-  },
-  {
-   "kw": "横浜市長",
-   "level": "high",
-   "d24": 16,
-   "baseline": 0.7,
-   "ratio": 24.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    3,
-    1,
-    16
-   ],
-   "latest": [
-    "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-19T02:52:00+09:00"
-    },
-    {
-     "title": "頭を下げる山中氏 横浜市長選",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLWGdCd2YwLWNWWTdJQ0U3VXpBVFdaTk9MdDRwa1VlYU5yVXJLNFhCdnhBbWNVR1RvX1NwekJGMExheWxzQkR1R01xd295V1ZsTk1KVg?oc=5",
-     "source": "伊豆下田経済新聞",
-     "published": "2026-10-19T01:30:00+09:00"
-    },
-    {
-     "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVmtHOFpQU0E1WTZrUDdWT3dmeVlPTEMwdWNuZWQzYlU5S1VJVjI5RlRKZzBveVNFRUJGUl9zazBjODlicDFOZDVTbE5wb2ZtVFg5X3ZVUlM5SHgzQWRwbVNYdERoNFlkVjFWVDBuVVh3OGtXZEFFUEdVMFQtSWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T01:02:19+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
-  },
-  {
-   "kw": "m/s",
-   "level": "high",
-   "d24": 10,
-   "baseline": 0.5,
-   "ratio": 20.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    1,
-    1,
-    10
-   ],
-   "latest": [
-    "【台風情報】13年ぶりの台風30号（チャンパー）最大瞬間風速70m/sの“非常に強い”勢力を維持し沖縄の南に進むルート 進路予想・雨と風のシミュレーションを見る（気象庁）",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSjRISG1ZRDVvWjVJUHQyT3J4blpGaDNoQUFxcVlUWXlKZzFmNkZZM0J4dHZ4d1ZvWVc1REh5OVVtS1o1RE1uMTlKZmRGTnJZNnowXy1VaVE0UmpFaFBDcg?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【台風情報】13年ぶりの台風30号（チャンパー）最大瞬間風速70m/sの“非常に強い”勢力を維持し沖縄の南に進むルート 進路予想・雨と風のシミュレーションを見る（気象庁）",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSjRISG1ZRDVvWjVJUHQyT3J4blpGaDNoQUFxcVlUWXlKZzFmNkZZM0J4dHZ4d1ZvWVc1REh5OVVtS1o1RE1uMTlKZmRGTnJZNnowXy1VaVE0UmpFaFBDcg?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-18T21:38:00+09:00"
-    },
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T19:41:19+09:00"
-    },
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速70m/sの予想",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mZjNHS2daZjFfRlRJS3B4UzVBVXozOS1yVExmaGVfN0Q5aEk5UlBoek1vU3ZCNG11blRtTUJsM0RFR2ZSNVg3dmt6RjJ5Zw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T19:36:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
-  },
-  {
-   "kw": "当選",
-   "level": "high",
-   "d24": 10,
-   "baseline": 0.3,
-   "ratio": 20.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    0,
-    1,
-    10
-   ],
-   "latest": [
-    "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-19T04:44:22+09:00"
-    },
-    {
-     "title": "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-19T02:52:00+09:00"
-    },
-    {
-     "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVmtHOFpQU0E1WTZrUDdWT3dmeVlPTEMwdWNuZWQzYlU5S1VJVjI5RlRKZzBveVNFRUJGUl9zazBjODlicDFOZDVTbE5wb2ZtVFg5X3ZVUlM5SHgzQWRwbVNYdERoNFlkVjFWVDBuVVh3OGtXZEFFUEdVMFQtSWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T01:02:19+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
-  },
-  {
    "kw": "デモ",
    "level": "high",
-   "d24": 22,
-   "baseline": 1.2,
-   "ratio": 18.9,
-   "consecutive": 2,
+   "d24": 25,
+   "baseline": 1.5,
+   "ratio": 16.7,
+   "consecutive": 3,
    "days": [
     0,
-    0,
     1,
-    3,
     0,
     3,
-    22
+    0,
+    5,
+    25
    ],
    "latest": [
-    "テスラ、空飛ぶ｢ロードスター｣ ロケット技術搭載しデモ",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodGR1dFNwX1NMTF9zcHBmM01fYXE2X1hLbWNDT01VX2pmNTh3Y041Rjlzai1DbGJDR2NPd1duM2FJNWlma3pERVNYNWpKMm9PdExxTEhWazcyeXBGMVF4Ujg0QmZ4RWRYSW14azBUcU01NWM0Qy00SjJscWZma2M?oc=5"
+    "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ERGVQMEhiLXBnZXBrNWhfdXJ2ZHVVWjNybm8xTkMtZXRuX3JxM0RaVXFHLXBhbjVFMG84bjZzSnlSYnphYVd6MjJOTWVxekJCRlFCOVpRSnViNjN2SEdTc3R2YkFodXNzOWpKUVFHWEdoMmN1VTZsVWxoM2FsUTg?oc=5"
    ],
    "samples": [
     {
-     "title": "テスラ、空飛ぶ｢ロードスター｣ ロケット技術搭載しデモ",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodGR1dFNwX1NMTF9zcHBmM01fYXE2X1hLbWNDT01VX2pmNTh3Y041Rjlzai1DbGJDR2NPd1duM2FJNWlma3pERVNYNWpKMm9PdExxTEhWazcyeXBGMVF4Ujg0QmZ4RWRYSW14azBUcU01NWM0Qy00SjJscWZma2M?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-19T05:00:00+09:00"
-    },
-    {
-     "title": "フランス全土110か所で大規模抗議デモ 55万人参加し1800人が拘束（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INzJmV3hIRlNCVlNpMW1KSGJQRVZwQlM5QWJ0eG1PaHpzTURaTkJMQmRhRF9VZHlHMEtWUS1PSEdjUDQ4clVRMjY3QWlPWEptWmg4VGZrWkZjS1NlUk5RM3FFdy1janRxZmUtcFhXcVNhUU56cU5rSTczNXYyRWs?oc=5",
+     "title": "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ERGVQMEhiLXBnZXBrNWhfdXJ2ZHVVWjNybm8xTkMtZXRuX3JxM0RaVXFHLXBhbjVFMG84bjZzSnlSYnphYVd6MjJOTWVxekJCRlFCOVpRSnViNjN2SEdTc3R2YkFodXNzOWpKUVFHWEdoMmN1VTZsVWxoM2FsUTg?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-19T03:37:56+09:00"
+     "published": "2026-10-19T06:51:58+09:00"
     },
     {
-     "title": "フランスに続きイタリアでもデモ ミラノやトリノで覆面姿の参加者らが警察と衝突",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Z2x0eUVKSnp1V2pwLXk5LWVTWU5waFdKeE5sYzI0UVI0c3FaWTMtS0R0NmtZYm1jWm0waUtYR3FUUkF0WGt4Q05pLXRKdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-19T01:48:00+09:00"
+     "title": "フランス全土で大規模デモ マクロン大統領“責任厳しく追及（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FM3dNYU8ycGR6SUJyQkVyckZZTWNrNkJ5MzN6dW5waWJSZ091RFJJSUtiRWFqY29FT2JKc1RjRGZZdlVhZy1LbTBYVTZibUR5UVh5VFU4TEViME1CbmRsM2d6MHo4Z2RBZlhrQUQwV0twenBJazFoRTc5dmY1dVU?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:43:18+09:00"
+    },
+    {
+     "title": "フランス デモに乗じた暴動“店舗1500以上被害か”小売店団体",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61330",
+     "source": "NHK 主要",
+     "published": "2026-10-19T06:01:41+09:00"
     }
    ],
    "watch": false,
@@ -263,9 +306,9 @@
   {
    "kw": "浜松",
    "level": "high",
-   "d24": 9,
-   "baseline": 0.3,
-   "ratio": 18.0,
+   "d24": 8,
+   "baseline": 0.5,
+   "ratio": 16.0,
    "consecutive": 2,
    "days": [
     0,
@@ -273,8 +316,8 @@
     0,
     1,
     0,
-    1,
-    9
+    2,
+    8
    ],
    "latest": [
     "住宅に車突っ込む 男性（74）死亡 静岡・浜松市 住人男性は軽傷（FNNプライムオンライン（フジテレビ系））",
@@ -302,178 +345,6 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-18T20:33:50.539875+09:00"
-  },
-  {
-   "kw": "暴徒",
-   "level": "high",
-   "d24": 8,
-   "baseline": 0.5,
-   "ratio": 16.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    2,
-    0,
-    1,
-    8
-   ],
-   "latest": [
-    "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-19T01:22:00+09:00"
-    },
-    {
-     "title": "【これまでの経緯】フランス各地の高校で“抗議デモ”が激化 一部が暴徒化 19世紀築のリモージュ市庁舎がほぼ全焼 5000人以上の逮捕者やけが人続出",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZHBLdmdNVWJoX1ZmQmhUVUM4WGFvMEFUcm9FZGhCRzNaWUZtS04yZ0dvZ0UtdThJNjN1U3dlSlF3WXJndmd4SGNsbkxmV1dCSk41aXVDdVlaOEFMcF9ibTRudjY2MUxvbUFyenpHbWtNNVdvU3hRMnhB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T13:31:00+09:00"
-    },
-    {
-     "title": "【画像まとめ】フランスのデモ暴徒化、パリに炎と黒煙 警察が催涙ガスで応戦 400人逮捕",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1dyWmNPNC1tWkU3TFdtbVBXR1JzZ256V0dRSm45UTN1M3JNVlpDekFfN3ROb0lubjNDdUw0c2tKUERDcTg3ZXNZWUVySE4yRmJvSkFzZk9vTDRTbWZFRlJkRzRTTFhoUTdQLXFxNGZUSjY2TDI4bDFYdWgyZ2RScGVnZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T12:10:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
-  },
-  {
-   "kw": "原沢敦美",
-   "level": "high",
-   "d24": 8,
-   "baseline": 0.3,
-   "ratio": 16.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    2,
-    0,
-    8
-   ],
-   "latest": [
-    "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-19T04:44:22+09:00"
-    },
-    {
-     "title": "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-19T02:52:00+09:00"
-    },
-    {
-     "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVmtHOFpQU0E1WTZrUDdWT3dmeVlPTEMwdWNuZWQzYlU5S1VJVjI5RlRKZzBveVNFRUJGUl9zazBjODlicDFOZDVTbE5wb2ZtVFg5X3ZVUlM5SHgzQWRwbVNYdERoNFlkVjFWVDBuVVh3OGtXZEFFUEdVMFQtSWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T01:02:19+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-19T05:09:52.253461+09:00"
-  },
-  {
-   "kw": "襲撃",
-   "level": "high",
-   "d24": 8,
-   "baseline": 0.5,
-   "ratio": 16.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    1,
-    0,
-    0,
-    1,
-    1,
-    8
-   ],
-   "latest": [
-    "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-19T01:22:00+09:00"
-    },
-    {
-     "title": "イスラエル占領下のヨルダン川西岸で入植者が外交官らを襲撃 EUが非難（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jLTVVbV9tRi0tbzBKRzBPZ3BPN2J3LVU1cGZIbXVKMTVBVjU4cVIwazgwdlhsVmxPRlhBZUQxNkJCc3NxSS1mQ3lVRDNmZDRtaG1uX3ZOYmlhdmVnNTNpYjV0dEY5eWl5cTZUUklWTXRNZG43eWR6VnVLT28zMHM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T00:05:04+09:00"
-    },
-    {
-     "title": "イスラエル占領下のヨルダン川西岸で入植者が外交官らを襲撃 EUが非難",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hY1gtRWhOWkNMZzdYTjBKUlRjVW1pdE4yM1FOZng0SWJjSHB3MDhqWU9pc3RzQ3FVZXNiY2VXSEtXWmdTbkV5ZFdrcDg1Zw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-19T00:01:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
-  },
-  {
-   "kw": "hPa",
-   "level": "high",
-   "d24": 10,
-   "baseline": 0.7,
-   "ratio": 15.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    2,
-    1,
-    10
-   ],
-   "latest": [
-    "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T19:41:19+09:00"
-    },
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速70m/sの予想",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mZjNHS2daZjFfRlRJS3B4UzVBVXozOS1yVExmaGVfN0Q5aEk5UlBoek1vU3ZCNG11blRtTUJsM0RFR2ZSNVg3dmt6RjJ5Zw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T19:36:00+09:00"
-    },
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力のまま沖縄の南へ達する見込み 中心気圧935hPa、最大瞬間風速70m/sの予想",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BV2ZvNkxTSGhXbDlSckRDNU5IaTBJQnNnX1BUMGJjT2NmV0FGeUxsNDZoQW1vUmhSbVV4X002X0k2ZkNTdG1qOWlGMnBzQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T16:12:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
   },
   {
    "kw": "猛烈",
@@ -519,92 +390,6 @@
    "alerted_at": "2026-10-18T15:22:21.996829+09:00"
   },
   {
-   "kw": "開会",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.0,
-   "ratio": 14.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    7
-   ],
-   "latest": [
-    "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T00:57:24+09:00"
-    },
-    {
-     "title": "天皇陛下が名古屋で「アジアパラ競技大会」の開会を宣言 秋篠宮ご夫妻も出席",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWRVFWSExOQnpxelltZm1BTlpKM0E4VWNrOVZwc1BicExMVFBlMmpCVmV5cHh0XzRZdE9GZnJaYWZFYTY4Q3FpcUNqcnJrZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-19T00:57:00+09:00"
-    },
-    {
-     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RdlNPR0NIRS1xSXViVTBCWlZBZnprREZCZXRKMkR2ZkoyOWtodGNIMXdFZTZ0a3Awc29nYy14cFNzU3pXWGhScy1oY3NiOUtLWjFSSU12MA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-19T00:54:26+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
-  },
-  {
-   "kw": "カナダ",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.3,
-   "ratio": 14.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    1,
-    0,
-    1,
-    0,
-    7
-   ],
-   "latest": [
-    "カナダ 軍事基地で大規模火災 4人死亡 カーニー首相「軍にとって最悪の悲劇の一つ」",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2T1NldlRIOFlNd1BTSjl3aTRFaGVmYjdtS2E4dmdQQW1fUDNoTXQ4cEd4Vm9scVhvdkY1c3NtVEJFNE51VTVDOGlKZFFBdjBrb0hwSDZfVnM0V29MMkhld09wVmx1cloxckNiVW4zT0xmb2JxOFRMbGhB?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "カナダ 軍事基地で大規模火災 4人死亡 カーニー首相「軍にとって最悪の悲劇の一つ」",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2T1NldlRIOFlNd1BTSjl3aTRFaGVmYjdtS2E4dmdQQW1fUDNoTXQ4cEd4Vm9scVhvdkY1c3NtVEJFNE51VTVDOGlKZFFBdjBrb0hwSDZfVnM0V29MMkhld09wVmx1cloxckNiVW4zT0xmb2JxOFRMbGhB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-19T03:17:25+09:00"
-    },
-    {
-     "title": "カナダ陸軍基地で大規模火災7人死亡 ガス管に実弾が当たり爆発か 近隣に延焼も",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XU2VJZ2hzNkZNMmhKX0tWNmJxRmFOOGVZZ3NqWlVzNGdyb2hFbHgyRnVaMUZ0WDVYMmFWQzUtNWlZTkJXUXk3UU0yczh6bHB6RnZkMzlCRERlXzhES2F4RFJTQWZzaE1KSVNKak5rbUFEWU5YbXhMSUFn?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T20:43:41+09:00"
-    },
-    {
-     "title": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61247",
-     "source": "NHK 主要",
-     "published": "2026-10-18T20:29:42+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
-  },
-  {
    "kw": "サッカー",
    "level": "high",
    "d24": 7,
@@ -615,8 +400,8 @@
     0,
     1,
     0,
-    0,
-    2,
+    1,
+    1,
     0,
     7
    ],
@@ -648,7 +433,136 @@
    "alerted_at": "2026-10-19T02:51:35.960339+09:00"
   },
   {
-   "kw": "辺野古",
+   "kw": "フランス全土",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.3,
+   "ratio": 14.0,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    7
+   ],
+   "latest": [
+    "フランス全土で大規模デモ マクロン大統領“責任厳しく追及（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FM3dNYU8ycGR6SUJyQkVyckZZTWNrNkJ5MzN6dW5waWJSZ091RFJJSUtiRWFqY29FT2JKc1RjRGZZdlVhZy1LbTBYVTZibUR5UVh5VFU4TEViME1CbmRsM2d6MHo4Z2RBZlhrQUQwV0twenBJazFoRTc5dmY1dVU?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "フランス全土で大規模デモ マクロン大統領“責任厳しく追及（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FM3dNYU8ycGR6SUJyQkVyckZZTWNrNkJ5MzN6dW5waWJSZ091RFJJSUtiRWFqY29FT2JKc1RjRGZZdlVhZy1LbTBYVTZibUR5UVh5VFU4TEViME1CbmRsM2d6MHo4Z2RBZlhrQUQwV0twenBJazFoRTc5dmY1dVU?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:43:18+09:00"
+    },
+    {
+     "title": "フランス全土で大規模デモ 破壊行為の被害は総額数億ユーロか",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hdkJ6d3JVU3gzcmFlSUxubFREcmVMN2tYd3doRXpsNHpxbkMxRU9NQUNQM0hiaUFSM3EzTnp0TS1GcU14UTN2N1loenFlNDBrSjFMS0NEcU5ZUmR0OS1ZZ01NN3N1OG9xWHFfZEU5blAtYWI4dTEtTVJ3?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:50:02+09:00"
+    },
+    {
+     "title": "フランス全土110か所で大規模抗議デモ 55万人参加し1800人が拘束（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INzJmV3hIRlNCVlNpMW1KSGJQRVZwQlM5QWJ0eG1PaHpzTURaTkJMQmRhRF9VZHlHMEtWUS1PSEdjUDQ4clVRMjY3QWlPWEptWmg4VGZrWkZjS1NlUk5RM3FFdy1janRxZmUtcFhXcVNhUU56cU5rSTczNXYyRWs?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T03:37:56+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T05:09:52.253461+09:00"
+  },
+  {
+   "kw": "天皇陛下",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.0,
+   "ratio": 14.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7
+   ],
+   "latest": [
+    "天皇陛下がアジアパラ大会の開会式に出席 パラ卓球競技を観戦へ",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE42WmNERHVEa01MVVR1cGZJblJsRjZZVzFldmltS0pFSGtXVTQtOFNrVzdWeFB1SHE3ZjRXeGI5WEtsMUpXR2JxLXpla1RaMlhMTWpCcnk4X0s5R1BWZHhrak5HWGdZckxKT015b2JrVDFwZw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "天皇陛下がアジアパラ大会の開会式に出席 パラ卓球競技を観戦へ",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WmNERHVEa01MVVR1cGZJblJsRjZZVzFldmltS0pFSGtXVTQtOFNrVzdWeFB1SHE3ZjRXeGI5WEtsMUpXR2JxLXpla1RaMlhMTWpCcnk4X0s5R1BWZHhrak5HWGdZckxKT015b2JrVDFwZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:57:56+09:00"
+    },
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3J4cFprbTl1eW5PSVlhb1FkdnRlQWhBUENJR2JGdWdXM0t1N3RXcjhwMFNKZ25Qcm15bks4UURyWDdvUGM1ek00ZWxIX29WTkRCRUFxNUp2RktYTXQ5MEtyel9nUXN6ZkJvemh2cVZUWjNNZEtfdGo5SkFqSHc3VHpiRFJvemU0dW1mVXJR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T01:34:49+09:00"
+    },
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T00:57:24+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "m/s",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.7,
+   "ratio": 13.5,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    2,
+    9
+   ],
+   "latest": [
+    "【台風情報】13年ぶりの台風30号（チャンパー）最大瞬間風速70m/sの“非常に強い”勢力を維持し沖縄の南に進むルート 進路予想・雨と風のシミュレーションを見る（気象庁）",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSjRISG1ZRDVvWjVJUHQyT3J4blpGaDNoQUFxcVlUWXlKZzFmNkZZM0J4dHZ4d1ZvWVc1REh5OVVtS1o1RE1uMTlKZmRGTnJZNnowXy1VaVE0UmpFaFBDcg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【台風情報】13年ぶりの台風30号（チャンパー）最大瞬間風速70m/sの“非常に強い”勢力を維持し沖縄の南に進むルート 進路予想・雨と風のシミュレーションを見る（気象庁）",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSjRISG1ZRDVvWjVJUHQyT3J4blpGaDNoQUFxcVlUWXlKZzFmNkZZM0J4dHZ4d1ZvWVc1REh5OVVtS1o1RE1uMTlKZmRGTnJZNnowXy1VaVE0UmpFaFBDcg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-18T21:38:00+09:00"
+    },
+    {
+     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-18T19:41:19+09:00"
+    },
+    {
+     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速70m/sの予想",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mZjNHS2daZjFfRlRJS3B4UzVBVXozOS1yVExmaGVfN0Q5aEk5UlBoek1vU3ZCNG11blRtTUJsM0RFR2ZSNVg3dmt6RjJ5Zw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-18T19:36:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
+  },
+  {
+   "kw": "バイク",
    "level": "high",
    "d24": 8,
    "baseline": 0.7,
@@ -657,81 +571,38 @@
    "days": [
     0,
     0,
+    2,
     1,
     0,
-    0,
-    3,
+    1,
     8
    ],
    "latest": [
-    "辺野古転覆 高校生の遺族が献花",
-    "https://news.yahoo.co.jp/pickup/6599293?source=rss"
+    "国道でバイク同士が衝突 運転していた2人が死亡 佐賀・唐津市",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nZ0hMZGRsYjlsdnZSUXViNEc3dlJ4QWlENklhQWZWaFMwQm1TRHgwZ1M4VGh0YTc0OXh2MXl0MmxpY2s2Q0ZiS04xN3h1Zw?oc=5"
    ],
    "samples": [
     {
-     "title": "辺野古転覆 高校生の遺族が献花",
-     "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-18T23:55:38+09:00"
+     "title": "国道でバイク同士が衝突 運転していた2人が死亡 佐賀・唐津市",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nZ0hMZGRsYjlsdnZSUXViNEc3dlJ4QWlENklhQWZWaFMwQm1TRHgwZ1M4VGh0YTc0OXh2MXl0MmxpY2s2Q0ZiS04xN3h1Zw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T06:25:00+09:00"
     },
     {
-     "title": "辺野古転覆現場近くで献花",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBObWdpNmF2c0ZtNTUwSkFxM1FoTE83SmNibVEtcEVzMElYRFN0cUNodDRHMFNEQ0JzWUxDbm1vUWxoVk9EejdPYnV5dXR6c0ozV0tfS3pn?oc=5",
-     "source": "金沢経済新聞",
-     "published": "2026-10-18T18:46:45+09:00"
+     "title": "バイク希望ナンバー制が開始　国交省、一部は抽選",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjNINTZOV2thOUNjVGRfd0NIYVJza1RfSzRTSEIwR1VjUkY2OWltSWdENE5ETEE2WE1RdDNmS0NWYjlmVjZKRUpENDhFbWwyY1h2UjRQTW5QZ1MwbTZfSWdVWUkya3NUMXJUV3RSY0d2enoxNXN0aldqbTJpRUhrS3hOcGRZZTJn0gGOAUFVX3lxTFBaeHN5T08wYzM2djFHNm5XNUN3ZDNlLUJmUlZqWXNLVU5sMkJzZkdNM21rZG9zU3hKR1pzWjdzd1ZTWlh5UW00LTVlTk4wc3ltOG5oNkRVS0VrMWFWYTFuZzdJRnZuYURMQVcxYWlKcU9xSVJzUEwzQVRNYnVSMDJpeG5iREJPalpkb0RRZnc?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-19T05:36:59+09:00"
     },
     {
-     "title": "女子生徒の両親が初めて現場へ 辺野古転覆2人死亡事故（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVI0RTdrTnRUWkdTSjR4VzM5NDk1YXJPQzkwTEpGY3BfYVQtNmdKWkRKcHVuY3lUTmtaRUM5ZzJXWV9yQlVVVF9GM2lDUnh4NEZuU1dZcmV3WmVjS2tobWJRYkVuek5xYldmUzladndLMlBhUmE1SE1SVTZxVHc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T18:24:23+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
-  },
-  {
-   "kw": "刃物",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.3,
-   "ratio": 12.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    1,
-    0,
-    1,
-    0,
-    6
-   ],
-   "latest": [
-    "“刃物”で刺され男性死亡 男が逃走中 東京・福生市",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9NT2NNeXRVV2hOOTlaeTlPV1JjWVRWZnRDdGN0S0RhSGgwSy1RaFYxa2FZa25peWxyYTUyNExyUDBWajlWcW9Uanl5RXZiWHZnSUFLc2cyNjRYU2pNSWtZT3B6NnE4SFRnVmppN3lmUF9PUQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "“刃物”で刺され男性死亡 男が逃走中 東京・福生市",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NT2NNeXRVV2hOOTlaeTlPV1JjWVRWZnRDdGN0S0RhSGgwSy1RaFYxa2FZa25peWxyYTUyNExyUDBWajlWcW9Uanl5RXZiWHZnSUFLc2cyNjRYU2pNSWtZT3B6NnE4SFRnVmppN3lmUF9PUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T12:05:25+09:00"
-    },
-    {
-     "title": "【速報】東京・福生市 男性が胸を刃物で刺され死亡 刺した男は逃走中 警視庁が殺人事件として男の行方を追う",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLdzB5QW9zZlFkNG52czh1MWFNU1I5MVRpU2ZYYVd5NVo3N2M2ZzZoSUlPMEk1dTBTd3lWSzAtX2ZEbFZCSm1FS25nY1hmUVpnRmwzOW1TQQ?oc=5",
+     "title": "唐津市の国道でオートバイと大型バイクが衝突 運転していた男性２人が死亡",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ELWZzTkJKS3Y4SXJMYVpsdTdWbGl3YTJzaGZnbGlrclVETGdRaFRaUXNsaWRXblJMRThpSEFRUDFUSkEwOHB1TmVsSzJ5QzF3ZGQ5MlJZMA?oc=5",
      "source": "TBS NEWS DIG",
-     "published": "2026-10-18T07:27:25+09:00"
-    },
-    {
-     "title": "【速報】刃物のようなもので刺され男性死亡 殺人事件として捜査 「1人血だらけの男がいたが立ち去った」知人とみられる男の行方追う 直前には言い争う姿も 東京・福生市 (FNNプライムオンライン（フジテレビ系）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRm9naXVXQmRWcjNRdURMODFfYkdzZEpmM2NIbnhZNWpFd2Rxc2F4UnhxY3hzUWs3My1JQ2cyYW1LVk9tNUtOMVJhaThBQU1wNng0TV8zTzd4YjZnOE42SE9nSnoxRXRjMnN4ckhBNDhpM0EwQkJDQmhpVlBEa2J1RTlaZFpjN3drZ29MRTVn?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T07:23:21+09:00"
+     "published": "2026-10-18T21:57:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
+   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
   },
   {
    "kw": "両足切断",
@@ -775,49 +646,6 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-18T20:33:50.539875+09:00"
-  },
-  {
-   "kw": "略奪",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.0,
-   "ratio": 12.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-19T01:22:00+09:00"
-    },
-    {
-     "title": "【詳報】仏で55万人デモ、暴動も 放火や略奪、警察と衝突",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ndndnc0RKQl94SWV3YXhFakRPcDlxM0ZZbktmNHdHUE16QmVBakNBbkpOclpLSFo3LXVhbWlteVJiZzh4ZHlfSUduTQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-18T11:42:29+09:00"
-    },
-    {
-     "title": "フランスで55万人がデモ 各地で放火や略奪が相次ぐ (FNNプライムオンライン（フジテレビ系）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2s0STBLTnZQbTFJM3Q4cC0zYWdmbEh5cl9IbWh3MDJJQUNTS1NPZDdhTFVydmk5dEtLa1BSb1RndkVJcW9YaUUwaW9ZWEtHeVdJTUxCWk05T09EYTJlWFJRR2J0T04tcy05bUlybi1odDM5dDF2OGgzZUtleTlVUzU2ZDNCcUNjWE1JWGZB?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T09:47:17+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
   },
   {
    "kw": "銀座",
@@ -906,63 +734,751 @@
    "alerted_at": "2026-10-19T05:09:52.253461+09:00"
   },
   {
-   "kw": "フランス全土",
+   "kw": "献花",
    "level": "high",
    "d24": 6,
-   "baseline": 0.2,
+   "baseline": 0.0,
    "ratio": 12.0,
    "consecutive": 1,
    "days": [
     0,
     0,
-    1,
+    0,
     0,
     0,
     0,
     6
    ],
    "latest": [
-    "フランス全土110か所で大規模抗議デモ 55万人参加し1800人が拘束（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INzJmV3hIRlNCVlNpMW1KSGJQRVZwQlM5QWJ0eG1PaHpzTURaTkJMQmRhRF9VZHlHMEtWUS1PSEdjUDQ4clVRMjY3QWlPWEptWmg4VGZrWkZjS1NlUk5RM3FFdy1janRxZmUtcFhXcVNhUU56cU5rSTczNXYyRWs?oc=5"
+    "女子生徒の両親が献花 辺野古転覆2人死亡事故",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZE9lSzZITmxXQzBiNVNzR1pUeDJYbzFXaGxXMHZnTC1WaXhxNmhXOHBYRXF5eER3ZkduN3JSLU9EbS12NUlLRzhfOXphUQ?oc=5"
    ],
    "samples": [
     {
-     "title": "フランス全土110か所で大規模抗議デモ 55万人参加し1800人が拘束（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INzJmV3hIRlNCVlNpMW1KSGJQRVZwQlM5QWJ0eG1PaHpzTURaTkJMQmRhRF9VZHlHMEtWUS1PSEdjUDQ4clVRMjY3QWlPWEptWmg4VGZrWkZjS1NlUk5RM3FFdy1janRxZmUtcFhXcVNhUU56cU5rSTczNXYyRWs?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T03:37:56+09:00"
+     "title": "女子生徒の両親が献花 辺野古転覆2人死亡事故",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZE9lSzZITmxXQzBiNVNzR1pUeDJYbzFXaGxXMHZnTC1WaXhxNmhXOHBYRXF5eER3ZkduN3JSLU9EbS12NUlLRzhfOXphUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T06:29:00+09:00"
     },
     {
-     "title": "フランス全土で大規模デモ 55万人が参加 一部暴徒化（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQXpMVXhYVFRkZXY4MXRSTFBTU01wNGEzeHJ3cVBSSkJXak95Z3JFWXJzQlR1djhONlhrbEFDVVNTU1l2Nk1xcUQ4eUt5c1dFTGJoX0NNcGY0WjBlOVBRMXdBR0VZYTI2alFWMTEyOE8zSmo0d3N5XzJBdDVBMGc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T12:03:21+09:00"
+     "title": "辺野古転覆 高校生の遺族が献花",
+     "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
+     "source": "Yahoo 主要",
+     "published": "2026-10-18T23:55:38+09:00"
     },
     {
-     "title": "フランス全土で55万人規模のデモ ガソリン高騰などに抗議 一部が暴徒化し治安部隊と衝突 警察官60人が負傷 400人拘束",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2OFFKM1JFejRSQVVxOWV0WmVZNTA2cUs5V0RudkliM1E5WFRuZkI3OU04d2VMOXVPMU1pOXRyaEtjOXB2SjhBSDJjelhiOFhkdEc0VHJuTnBGdHBjenh4cG1wcGF6dHhrV184eGx0RzR0THRmVDNGSUpfUnVuNEE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T12:01:01+09:00"
+     "title": "辺野古転覆現場近くで献花",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBObWdpNmF2c0ZtNTUwSkFxM1FoTE83SmNibVEtcEVzMElYRFN0cUNodDRHMFNEQ0JzWUxDbm1vUWxoVk9EejdPYnV5dXR6c0ozV0tfS3pn?oc=5",
+     "source": "金沢経済新聞",
+     "published": "2026-10-18T18:46:45+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-19T05:09:52.253461+09:00"
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "住人",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.2,
+   "ratio": 12.0,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    6
+   ],
+   "latest": [
+    "住宅や物置が全焼 住人の男性と連絡取れず 山梨・身延町",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdHVuZnFhdVdabXRET0RQQlhKTkFwVTQ3bTktT1RTQmNNc0xqOVhvSGMyVWhnbnpLYTVUZ0toM1AtckxzcmVxUFlfX2F2UQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "住宅や物置が全焼 住人の男性と連絡取れず 山梨・身延町",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdHVuZnFhdVdabXRET0RQQlhKTkFwVTQ3bTktT1RTQmNNc0xqOVhvSGMyVWhnbnpLYTVUZ0toM1AtckxzcmVxUFlfX2F2UQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T06:38:00+09:00"
+    },
+    {
+     "title": "住宅に車突っ込む 男性（74）死亡 静岡・浜松市 住人男性は軽傷（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01Rm1hWi1YcWl4WndGVVVkcmpvdmtEZndUOE1hN2VSRzJNaEp2N2JOeExUakdTQmJELWlibjVMWFI0R3k1djg1Rl93UHBhVW53N2JSNGloTHMwZmJoR2VzRFZXZ0NzMnFHZVVzaWdiMDhRa0FLdUxpdFlzbkJqeVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T01:14:09+09:00"
+    },
+    {
+     "title": "住宅に車突っ込む 男性（74）死亡 静岡・浜松市 住人男性は軽傷",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LMHFrdEZ6TzN0eDFTNnViS2VxVTZGVTlYMlMxQjN1WDg4aVk2ODQ3TlhrbkxmLXF4N3NVNWZoVkZ1Y0J5V2FsblppX1FGdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T00:57:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "パワハラ",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.5,
+   "ratio": 12.0,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    0,
+    6
+   ],
+   "latest": [
+    "パワハラ問題で前市長が辞職 横浜市長選 新人・原沢敦美氏が初当選",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBpNWlOS2FMQUd5YWtEZnBWZDN4YlB3ejZlMTk1SmxpME5MVG1sTHFJLVJhQ2o1U1Flam11U3ZqR0dTMXpTeVBYNWQ2NHItLUJBcTRTNEludWxhR2dQUVBuTmZpNngwWlBTV0VxRnQxMmZuZw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "パワハラ問題で前市長が辞職 横浜市長選 新人・原沢敦美氏が初当選",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpNWlOS2FMQUd5YWtEZnBWZDN4YlB3ejZlMTk1SmxpME5MVG1sTHFJLVJhQ2o1U1Flam11U3ZqR0dTMXpTeVBYNWQ2NHItLUJBcTRTNEludWxhR2dQUVBuTmZpNngwWlBTV0VxRnQxMmZuZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:55:58+09:00"
+    },
+    {
+     "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVmtHOFpQU0E1WTZrUDdWT3dmeVlPTEMwdWNuZWQzYlU5S1VJVjI5RlRKZzBveVNFRUJGUl9zazBjODlicDFOZDVTbE5wb2ZtVFg5X3ZVUlM5SHgzQWRwbVNYdERoNFlkVjFWVDBuVVh3OGtXZEFFUEdVMFQtSWM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T01:02:19+09:00"
+    },
+    {
+     "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51bS1JcFBZVXJpdmk4VzhJTmdiWlFvaHl4MDJHZXhLcTBrQTQ3ZThTM0h1X1ZvbFV1aW5zSC1pcWdHc0s5cmd4UU9uWF9qdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T00:54:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "スバル",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.0,
+   "ratio": 12.0,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "スバル 開発中の運転支援システムを公開",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11bk5NZUg0RHN3dGVNOUY2V1NWd3dEYUg0TmxObEd0Y21yczk2blRmVHczRmVGeWFUWmdpWF95X19uWVE4VFVLbDBCVG9paVptRG8taGhXTQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "スバル 開発中の運転支援システムを公開",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11bk5NZUg0RHN3dGVNOUY2V1NWd3dEYUg0TmxObEd0Y21yczk2blRmVHczRmVGeWFUWmdpWF95X19uWVE4VFVLbDBCVG9paVptRG8taGhXTQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T04:55:34+09:00"
+    },
+    {
+     "title": "スバル 開発中の運転支援システムを公開（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1POEl0MkE1WlJ1ZDRlQUxuOGFsZElFcGthak55Nm1mV3hCZVhOc2l4SVZhbW12YU42WnE3Nnp0bEMzSTBlSUU4MDZ6LVpya1lFR3Y3WUpoMjJIeTFIbHpWd19qZ0cxZUt2NHFvOFZ3cDVlalNPYmlmOWpIUGJkSmc?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T04:53:58+09:00"
+    },
+    {
+     "title": "スバルSDV、20年代に投入 高度なソフトで価値向上",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uR1RoNm9pR1FYVk1MeGcxcXFKM2ZBc0FoWjFoQm9ESm9LdC1QRG96d0VOVEZQX2pFYlJLQ2ZjZE5xVEpyajNXck5tVQ?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-18T21:19:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "軍事基地",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.0,
+   "ratio": 12.0,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:20:13+09:00"
+    },
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q0FidXZFd3FNcngydndiNnFaczNmTU1Hc0VHb29nSVhsSmhvamVoeU9VNUVxTkcxTk11d2hvZjRvZkMtMlhlYWhBRlJJU1lqdFVianJrVQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T06:06:29+09:00"
+    },
+    {
+     "title": "カナダ 軍事基地で大規模火災 4人死亡 カーニー首相「軍にとって最悪の悲劇の一つ」",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2T1NldlRIOFlNd1BTSjl3aTRFaGVmYjdtS2E4dmdQQW1fUDNoTXQ4cEd4Vm9scVhvdkY1c3NtVEJFNE51VTVDOGlKZFFBdjBrb0hwSDZfVnM0V29MMkhld09wVmx1cloxckNiVW4zT0xmb2JxOFRMbGhB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T03:17:25+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "hPa",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.8,
+   "ratio": 10.8,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    9
+   ],
+   "latest": [
+    "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-18T19:41:19+09:00"
+    },
+    {
+     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速70m/sの予想",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mZjNHS2daZjFfRlRJS3B4UzVBVXozOS1yVExmaGVfN0Q5aEk5UlBoek1vU3ZCNG11blRtTUJsM0RFR2ZSNVg3dmt6RjJ5Zw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-18T19:36:00+09:00"
+    },
+    {
+     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力のまま沖縄の南へ達する見込み 中心気圧935hPa、最大瞬間風速70m/sの予想",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BV2ZvNkxTSGhXbDlSckRDNU5IaTBJQnNnX1BUMGJjT2NmV0FGeUxsNDZoQW1vUmhSbVV4X002X0k2ZkNTdG1qOWlGMnBzQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-18T16:12:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
+  },
+  {
+   "kw": "基地",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.8,
+   "ratio": 10.8,
+   "consecutive": 2,
+   "days": [
+    0,
+    2,
+    1,
+    0,
+    1,
+    1,
+    9
+   ],
+   "latest": [
+    "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:20:13+09:00"
+    },
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q0FidXZFd3FNcngydndiNnFaczNmTU1Hc0VHb29nSVhsSmhvamVoeU9VNUVxTkcxTk11d2hvZjRvZkMtMlhlYWhBRlJJU1lqdFVianJrVQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T06:06:29+09:00"
+    },
+    {
+     "title": "カナダ 軍事基地で大規模火災 4人死亡 カーニー首相「軍にとって最悪の悲劇の一つ」",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2T1NldlRIOFlNd1BTSjl3aTRFaGVmYjdtS2E4dmdQQW1fUDNoTXQ4cEd4Vm9scVhvdkY1c3NtVEJFNE51VTVDOGlKZFFBdjBrb0hwSDZfVnM0V29MMkhld09wVmx1cloxckNiVW4zT0xmb2JxOFRMbGhB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T03:17:25+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
+  },
+  {
+   "kw": "暴徒",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    2,
+    7
+   ],
+   "latest": [
+    "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T01:22:00+09:00"
+    },
+    {
+     "title": "【これまでの経緯】フランス各地の高校で“抗議デモ”が激化 一部が暴徒化 19世紀築のリモージュ市庁舎がほぼ全焼 5000人以上の逮捕者やけが人続出",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZHBLdmdNVWJoX1ZmQmhUVUM4WGFvMEFUcm9FZGhCRzNaWUZtS04yZ0dvZ0UtdThJNjN1U3dlSlF3WXJndmd4SGNsbkxmV1dCSk41aXVDdVlaOEFMcF9ibTRudjY2MUxvbUFyenpHbWtNNVdvU3hRMnhB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-18T13:31:00+09:00"
+    },
+    {
+     "title": "【画像まとめ】フランスのデモ暴徒化、パリに炎と黒煙 警察が催涙ガスで応戦 400人逮捕",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1dyWmNPNC1tWkU3TFdtbVBXR1JzZ256V0dRSm45UTN1M3JNVlpDekFfN3ROb0lubjNDdUw0c2tKUERDcTg3ZXNZWUVySE4yRmJvSkFzZk9vTDRTbWZFRlJkRzRTTFhoUTdQLXFxNGZUSjY2TDI4bDFYdWgyZ2RScGVnZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-18T12:10:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
+  },
+  {
+   "kw": "襲撃",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 2,
+   "days": [
+    0,
+    1,
+    0,
+    0,
+    1,
+    2,
+    7
+   ],
+   "latest": [
+    "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T01:22:00+09:00"
+    },
+    {
+     "title": "イスラエル占領下のヨルダン川西岸で入植者が外交官らを襲撃 EUが非難（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jLTVVbV9tRi0tbzBKRzBPZ3BPN2J3LVU1cGZIbXVKMTVBVjU4cVIwazgwdlhsVmxPRlhBZUQxNkJCc3NxSS1mQ3lVRDNmZDRtaG1uX3ZOYmlhdmVnNTNpYjV0dEY5eWl5cTZUUklWTXRNZG43eWR6VnVLT28zMHM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T00:05:04+09:00"
+    },
+    {
+     "title": "イスラエル占領下のヨルダン川西岸で入植者が外交官らを襲撃 EUが非難",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hY1gtRWhOWkNMZzdYTjBKUlRjVW1pdE4yM1FOZng0SWJjSHB3MDhqWU9pc3RzQ3FVZXNiY2VXSEtXWmdTbkV5ZFdrcDg1Zw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T00:01:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
+  },
+  {
+   "kw": "爆発",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    0,
+    7
+   ],
+   "latest": [
+    "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:20:13+09:00"
+    },
+    {
+     "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q0FidXZFd3FNcngydndiNnFaczNmTU1Hc0VHb29nSVhsSmhvamVoeU9VNUVxTkcxTk11d2hvZjRvZkMtMlhlYWhBRlJJU1lqdFVianJrVQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T06:06:29+09:00"
+    },
+    {
+     "title": "カナダ陸軍基地で大規模火災7人死亡 ガス管に実弾が当たり爆発か 近隣に延焼も",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XU2VJZ2hzNkZNMmhKX0tWNmJxRmFOOGVZZ3NqWlVzNGdyb2hFbHgyRnVaMUZ0WDVYMmFWQzUtNWlZTkJXUXk3UU0yczh6bHB6RnZkMzlCRERlXzhES2F4RFJTQWZzaE1KSVNKak5rbUFEWU5YbXhMSUFn?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-18T20:43:41+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "山中",
+   "level": "high",
+   "d24": 12,
+   "baseline": 1.2,
+   "ratio": 10.3,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    1,
+    2,
+    3,
+    1,
+    12
+   ],
+   "latest": [
+    "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:25:44+09:00"
+    },
+    {
+     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T04:44:22+09:00"
+    },
+    {
+     "title": "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5",
+     "source": "時事通信ニュース",
+     "published": "2026-10-19T02:52:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
+  },
+  {
+   "kw": "アジアパラ",
+   "level": "high",
+   "d24": 12,
+   "baseline": 1.2,
+   "ratio": 10.3,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    0,
+    2,
+    1,
+    4,
+    12
+   ],
+   "latest": [
+    "天皇陛下がアジアパラ大会の開会式に出席 パラ卓球競技を観戦へ",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE42WmNERHVEa01MVVR1cGZJblJsRjZZVzFldmltS0pFSGtXVTQtOFNrVzdWeFB1SHE3ZjRXeGI5WEtsMUpXR2JxLXpla1RaMlhMTWpCcnk4X0s5R1BWZHhrak5HWGdZckxKT015b2JrVDFwZw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "天皇陛下がアジアパラ大会の開会式に出席 パラ卓球競技を観戦へ",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WmNERHVEa01MVVR1cGZJblJsRjZZVzFldmltS0pFSGtXVTQtOFNrVzdWeFB1SHE3ZjRXeGI5WEtsMUpXR2JxLXpla1RaMlhMTWpCcnk4X0s5R1BWZHhrak5HWGdZckxKT015b2JrVDFwZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:57:56+09:00"
+    },
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3J4cFprbTl1eW5PSVlhb1FkdnRlQWhBUENJR2JGdWdXM0t1N3RXcjhwMFNKZ25Qcm15bks4UURyWDdvUGM1ek00ZWxIX29WTkRCRUFxNUp2RktYTXQ5MEtyel9nUXN6ZkJvemh2cVZUWjNNZEtfdGo5SkFqSHc3VHpiRFJvemU0dW1mVXJR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T01:34:49+09:00"
+    },
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T00:57:24+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
+  },
+  {
+   "kw": "略奪",
+   "level": "high",
+   "d24": 5,
+   "baseline": 0.2,
+   "ratio": 10.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    5
+   ],
+   "latest": [
+    "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T01:22:00+09:00"
+    },
+    {
+     "title": "【詳報】仏で55万人デモ、暴動も 放火や略奪、警察と衝突",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ndndnc0RKQl94SWV3YXhFakRPcDlxM0ZZbktmNHdHUE16QmVBakNBbkpOclpLSFo3LXVhbWlteVJiZzh4ZHlfSUduTQ?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-18T11:42:29+09:00"
+    },
+    {
+     "title": "フランスで55万人がデモ 各地で放火や略奪が相次ぐ (FNNプライムオンライン（フジテレビ系）)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2s0STBLTnZQbTFJM3Q4cC0zYWdmbEh5cl9IbWh3MDJJQUNTS1NPZDdhTFVydmk5dEtLa1BSb1RndkVJcW9YaUUwaW9ZWEtHeVdJTUxCWk05T09EYTJlWFJRR2J0T04tcy05bUlybi1odDM5dDF2OGgzZUtleTlVUzU2ZDNCcUNjWE1JWGZB?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-18T09:47:17+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
+  },
+  {
+   "kw": "宣言",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.7,
+   "ratio": 9.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    1,
+    1,
+    1,
+    1,
+    0,
+    6
+   ],
+   "latest": [
+    "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋 (TBS NEWS DIG Powered by JNN)",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3J4cFprbTl1eW5PSVlhb1FkdnRlQWhBUENJR2JGdWdXM0t1N3RXcjhwMFNKZ25Qcm15bks4UURyWDdvUGM1ek00ZWxIX29WTkRCRUFxNUp2RktYTXQ5MEtyel9nUXN6ZkJvemh2cVZUWjNNZEtfdGo5SkFqSHc3VHpiRFJvemU0dW1mVXJR?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3J4cFprbTl1eW5PSVlhb1FkdnRlQWhBUENJR2JGdWdXM0t1N3RXcjhwMFNKZ25Qcm15bks4UURyWDdvUGM1ek00ZWxIX29WTkRCRUFxNUp2RktYTXQ5MEtyel9nUXN6ZkJvemh2cVZUWjNNZEtfdGo5SkFqSHc3VHpiRFJvemU0dW1mVXJR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T01:34:49+09:00"
+    },
+    {
+     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T00:57:24+09:00"
+    },
+    {
+     "title": "天皇陛下が名古屋で「アジアパラ競技大会」の開会を宣言 秋篠宮ご夫妻も出席",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWRVFWSExOQnpxelltZm1BTlpKM0E4VWNrOVZwc1BicExMVFBlMmpCVmV5cHh0XzRZdE9GZnJaYWZFYTY4Q3FpcUNqcnJrZw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T00:57:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "トラブル",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.7,
+   "ratio": 9.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    2,
+    1,
+    0,
+    0,
+    1,
+    6
+   ],
+   "latest": [
+    "【速報】東京・福生市の46歳男性殺害事件で50歳男を逮捕 左胸刺して殺害か「殺した事に間違いないが、殺意なかった」と一部否認 2人にトラブルか 警視庁",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BZ29nZnU2UkNUVjFlQnNCeTFiQzN6aG1qbl9oSWdLa1NnXzFheUN2OHh2NEZWM1FibFNNcnpfeHZld0NqSHl3Y0dzakRhZ05RSGpia2JlUQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【速報】東京・福生市の46歳男性殺害事件で50歳男を逮捕 左胸刺して殺害か「殺した事に間違いないが、殺意なかった」と一部否認 2人にトラブルか 警視庁",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BZ29nZnU2UkNUVjFlQnNCeTFiQzN6aG1qbl9oSWdLa1NnXzFheUN2OHh2NEZWM1FibFNNcnpfeHZld0NqSHl3Y0dzakRhZ05RSGpia2JlUQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-18T19:35:00+09:00"
+    },
+    {
+     "title": "【速報】東京・福生市の46歳男性殺害事件で50歳男を逮捕 左胸刺して殺害か「殺意を持ってという感情ではなかった」と容疑を否認 被害者とトラブルがあったか 警視庁 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblY1WlV5R19Xdkw1MHNfT2FScGRCMW1oeTByNHoxM2lpbDdVNG40QXNCeHNIRUZ0V0JjQjdfYUdqNDFKUVlRVzg2ZE94emhGZnhIdFM2T3ZMRW9JSVcxZ1UzTG5teUVLeDN6WlB1MnBFSlF1NlI4b1UxWmRVSE9FNFNIcU5RZlpLWkRHTTNn?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-18T19:34:03+09:00"
+    },
+    {
+     "title": "東京・福生市の路上で殺人 男の身柄確保 トラブルの目撃も",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ga3hvNWY1NnFRNExLWjhrWHV4Q292R0VsUnZwcUhKNEZEeVJINmNaT2JWTURlVl9ZUTIydTJNcFR2UWlDX1c3VWUzLXoxNkU2bFBGSlppNUhwT09qamo3QVlnbUxqcjNpVzhaUVJXb1lLUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-18T18:17:51+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "路上",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.7,
+   "ratio": 9.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    2,
+    0,
+    0,
+    2,
+    6
+   ],
+   "latest": [
+    "東京・福生市の路上で男性刺され死亡 知人の50歳男を殺人容疑で逮捕",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQXJvZ2hHdktmcDVCU3M2amNpODlqR01ELW1iWk15M2piNVVSRkZTZGVXZ0FQRmF6STRTaVRySnRNMk93S0JJdmNwem1HRkJ4UGJLRTBnNlBLUVVIMmVrZDZZQmQwWXNKRzhodldSMVdMQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "東京・福生市の路上で男性刺され死亡 知人の50歳男を殺人容疑で逮捕",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQXJvZ2hHdktmcDVCU3M2amNpODlqR01ELW1iWk15M2piNVVSRkZTZGVXZ0FQRmF6STRTaVRySnRNMk93S0JJdmNwem1HRkJ4UGJLRTBnNlBLUVVIMmVrZDZZQmQwWXNKRzhodldSMVdMQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-19T05:51:01+09:00"
+    },
+    {
+     "title": "身柄確保の男（50）を殺人容疑で逮捕 東京・福生市 路上で男性刺され死亡（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0FXMko4SFl6M0ZqWF9Xcmkta3JaTTRRam9pWG1Jeks5al8yVEkzWWstbkpuQlBoYmtwZnhPWWFsQzFKaWNUdFp0QVR6TE0zWXpIRmRUNjVUY2pPejl4MFlia1VfaDdhS19aY0FTYmxmVFJVOEJvSm1pUm9KV1E?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T01:08:09+09:00"
+    },
+    {
+     "title": "身柄確保の男（50）を殺人容疑で逮捕 東京・福生市 路上で男性刺され死亡",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ISVVIS3FIQl9fcGEtX0k1SUd0RmZuanRWd2xFLXdvZHpRUGdfYVJkXzJDdkhfczF1WXIxUXFGWlUwSmlhQXZROHY1UTMyZw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T01:01:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
+  },
+  {
+   "kw": "山梨",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.8,
+   "ratio": 8.4,
+   "consecutive": 2,
+   "days": [
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    7
+   ],
+   "latest": [
+    "住宅や物置が全焼 住人の男性と連絡取れず 山梨・身延町",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdHVuZnFhdVdabXRET0RQQlhKTkFwVTQ3bTktT1RTQmNNc0xqOVhvSGMyVWhnbnpLYTVUZ0toM1AtckxzcmVxUFlfX2F2UQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "住宅や物置が全焼 住人の男性と連絡取れず 山梨・身延町",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdHVuZnFhdVdabXRET0RQQlhKTkFwVTQ3bTktT1RTQmNNc0xqOVhvSGMyVWhnbnpLYTVUZ0toM1AtckxzcmVxUFlfX2F2UQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-19T06:38:00+09:00"
+    },
+    {
+     "title": "独自「世界が15度傾いた」クマ襲撃で眼球破裂 神奈川・山梨にも出没…親子3頭映像",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WHRYZTJyN3RBWWxjX0g3ZWozZDFiUlNaTXZvM3kzeDFYcUJYUG1OcEZiaFpOOTY1ZTExaWdjbEFpYVBXRXl6cFIteC1LSjNoU3lyWXJLNzNFRTBYRERYdWQzeUFGdmRfMVBROHhBV2pZUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-18T23:30:21+09:00"
+    },
+    {
+     "title": "木造住宅が全焼 火元の住人とみられる1人と連絡取れず 山梨・身延町",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jcjM3RWNxMEwtWnJXTHR6VmxPRExMY2pFdDhHNE5pYk0yeFRGUDRTYVh0RzR0TV9UYkpsT1htTFpsMC1nQTBxT1ZJSFBwWEZIZ1I3OGFiVUxoX0h5a2FTZW9Ga0x1RkU3WUJhVGh6R2pjQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-18T18:53:35+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
   },
   {
    "kw": "風速",
    "level": "high",
-   "d24": 16,
-   "baseline": 1.7,
-   "ratio": 9.6,
+   "d24": 15,
+   "baseline": 1.8,
+   "ratio": 8.2,
    "consecutive": 5,
    "days": [
     0,
     0,
     1,
     2,
-    1,
+    2,
     6,
-    16
+    15
    ],
    "latest": [
     "【台風情報】【週間天気予報】今週後半にも\"非常に強い\"勢力のまま沖縄の南に達する予想 台風30号 最大瞬間風速70m 気象庁18日午後9時45分発表最新",
@@ -990,178 +1506,6 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-18T02:10:45.788523+09:00"
-  },
-  {
-   "kw": "山中",
-   "level": "high",
-   "d24": 11,
-   "baseline": 1.2,
-   "ratio": 9.4,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    1,
-    1,
-    4,
-    1,
-    11
-   ],
-   "latest": [
-    "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-19T04:44:22+09:00"
-    },
-    {
-     "title": "横浜市長に原沢敦美氏が初当選＝前職・山中竹春氏ら６氏破る",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HN05kTm4xUlRKYm96ZTNzTmpPMnc4NTk3OHYxV3h4ZWlsUE1BVGIzMG9MYmRqOFFXRDNSVDFFaWxLS0RDZjlVWVZlUXJaUXhLVWVZaw?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-19T02:52:00+09:00"
-    },
-    {
-     "title": "頭を下げる山中氏 横浜市長選",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLWGdCd2YwLWNWWTdJQ0U3VXpBVFdaTk9MdDRwa1VlYU5yVXJLNFhCdnhBbWNVR1RvX1NwekJGMExheWxzQkR1R01xd295V1ZsTk1KVg?oc=5",
-     "source": "伊豆下田経済新聞",
-     "published": "2026-10-19T01:30:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
-  },
-  {
-   "kw": "シカ",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.7,
-   "ratio": 9.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    1,
-    3,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "シカと衝突し停車中の車に大型トラック突っ込む 女性(22)死亡 運転の男(46)を逮捕 愛知・新城市の新東名高速道路",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iclpyT2lfS1N2U1g1SmZqYTl3ekU3WWFtOFY4YUV3Yl9RR05vYlZJaTlqa245X0lBMTVkLThiNzJVdlJLeE9wdXBzXzRpY2RWbHdRMzF5WFh5dldPVzU2UFhZNFJDTnVyUzRPMG80TXpZRTJpVzNwMTNOUDFUejg?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "シカと衝突し停車中の車に大型トラック突っ込む 女性(22)死亡 運転の男(46)を逮捕 愛知・新城市の新東名高速道路",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iclpyT2lfS1N2U1g1SmZqYTl3ekU3WWFtOFY4YUV3Yl9RR05vYlZJaTlqa245X0lBMTVkLThiNzJVdlJLeE9wdXBzXzRpY2RWbHdRMzF5WFh5dldPVzU2UFhZNFJDTnVyUzRPMG80TXpZRTJpVzNwMTNOUDFUejg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T18:26:41+09:00"
-    },
-    {
-     "title": "車にトラック追突 女性死亡 シカと衝突し停車 新東名高速",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUWdkU1lQV212bUN1N1huNUYwOC1MRHppTmllWVJFSEltc2VER2ZJa0VCblFObUVicnVSOHAxdHJYTHgwczFNbnlHVWlOQW5icllhNmhTeTBWTnBaM2dOcHZibUFoS041VDllNjFMTXJZZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T12:14:24+09:00"
-    },
-    {
-     "title": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61091",
-     "source": "NHK 主要",
-     "published": "2026-10-18T11:11:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
-  },
-  {
-   "kw": "バイク",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.7,
-   "ratio": 9.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    3,
-    0,
-    1,
-    6
-   ],
-   "latest": [
-    "唐津市の国道でオートバイと大型バイクが衝突 運転していた男性２人が死亡",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ELWZzTkJKS3Y4SXJMYVpsdTdWbGl3YTJzaGZnbGlrclVETGdRaFRaUXNsaWRXblJMRThpSEFRUDFUSkEwOHB1TmVsSzJ5QzF3ZGQ5MlJZMA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "唐津市の国道でオートバイと大型バイクが衝突 運転していた男性２人が死亡",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ELWZzTkJKS3Y4SXJMYVpsdTdWbGl3YTJzaGZnbGlrclVETGdRaFRaUXNsaWRXblJMRThpSEFRUDFUSkEwOHB1TmVsSzJ5QzF3ZGQ5MlJZMA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-18T21:57:00+09:00"
-    },
-    {
-     "title": "無免許でバイクに3人乗りして軽バンに追突し逃走か 逃げた2人のうち16歳少年を逮捕 警察がもう1人の行方追う",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BSldTVzZlaW1CUExBRDBLUUI2S09jSXdkb21iMThPVmpHMEQwNExwdTYtWGJVdEp6Yzg0YU1CMHp5Z1lsVkRBTWdEYVBqZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T18:17:31+09:00"
-    },
-    {
-     "title": "ツーリング中のバイクがワイヤーに衝突 男性が重体 やまなみハイウェイ 大分",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4aWJWRHMydzdZalBJdkVyeTg0enJzLVBaY09laThIdThRa2VfUjJwSFUyN2I1dEY3TDBDSUdaUGJZOEJDQjZhandvdUphZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T15:30:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
-  },
-  {
-   "kw": "基地",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.8,
-   "ratio": 8.4,
-   "consecutive": 1,
-   "days": [
-    0,
-    2,
-    1,
-    0,
-    1,
-    1,
-    7
-   ],
-   "latest": [
-    "カナダ 軍事基地で大規模火災 4人死亡 カーニー首相「軍にとって最悪の悲劇の一つ」",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2T1NldlRIOFlNd1BTSjl3aTRFaGVmYjdtS2E4dmdQQW1fUDNoTXQ4cEd4Vm9scVhvdkY1c3NtVEJFNE51VTVDOGlKZFFBdjBrb0hwSDZfVnM0V29MMkhld09wVmx1cloxckNiVW4zT0xmb2JxOFRMbGhB?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "カナダ 軍事基地で大規模火災 4人死亡 カーニー首相「軍にとって最悪の悲劇の一つ」",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2T1NldlRIOFlNd1BTSjl3aTRFaGVmYjdtS2E4dmdQQW1fUDNoTXQ4cEd4Vm9scVhvdkY1c3NtVEJFNE51VTVDOGlKZFFBdjBrb0hwSDZfVnM0V29MMkhld09wVmx1cloxckNiVW4zT0xmb2JxOFRMbGhB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-19T03:17:25+09:00"
-    },
-    {
-     "title": "カナダ陸軍基地で大規模火災7人死亡 ガス管に実弾が当たり爆発か 近隣に延焼も",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XU2VJZ2hzNkZNMmhKX0tWNmJxRmFOOGVZZ3NqWlVzNGdyb2hFbHgyRnVaMUZ0WDVYMmFWQzUtNWlZTkJXUXk3UU0yczh6bHB6RnZkMzlCRERlXzhES2F4RFJTQWZzaE1KSVNKak5rbUFEWU5YbXhMSUFn?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T20:43:41+09:00"
-    },
-    {
-     "title": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61247",
-     "source": "NHK 主要",
-     "published": "2026-10-18T20:29:42+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
   },
   {
    "kw": "下敷き",
@@ -1207,50 +1551,50 @@
    "alerted_at": "2026-10-18T20:33:50.539875+09:00"
   },
   {
-   "kw": "アジアパラ",
+   "kw": "フランス",
    "level": "high",
-   "d24": 9,
-   "baseline": 1.2,
-   "ratio": 7.7,
+   "d24": 19,
+   "baseline": 2.5,
+   "ratio": 7.6,
    "consecutive": 3,
    "days": [
-    0,
-    0,
-    0,
+    1,
+    7,
+    2,
     2,
     1,
-    4,
-    9
+    2,
+    19
    ],
    "latest": [
-    "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5"
+    "フランス各地で暴動 2400人逮捕",
+    "https://news.yahoo.co.jp/pickup/6599304?source=rss"
    ],
    "samples": [
     {
-     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5",
+     "title": "フランス各地で暴動 2400人逮捕",
+     "url": "https://news.yahoo.co.jp/pickup/6599304?source=rss",
+     "source": "Yahoo 主要",
+     "published": "2026-10-19T06:59:51+09:00"
+    },
+    {
+     "title": "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ERGVQMEhiLXBnZXBrNWhfdXJ2ZHVVWjNybm8xTkMtZXRuX3JxM0RaVXFHLXBhbjVFMG84bjZzSnlSYnphYVd6MjJOTWVxekJCRlFCOVpRSnViNjN2SEdTc3R2YkFodXNzOWpKUVFHWEdoMmN1VTZsVWxoM2FsUTg?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-19T00:57:24+09:00"
+     "published": "2026-10-19T06:51:58+09:00"
     },
     {
-     "title": "天皇陛下が名古屋で「アジアパラ競技大会」の開会を宣言 秋篠宮ご夫妻も出席",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWRVFWSExOQnpxelltZm1BTlpKM0E4VWNrOVZwc1BicExMVFBlMmpCVmV5cHh0XzRZdE9GZnJaYWZFYTY4Q3FpcUNqcnJrZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-19T00:57:00+09:00"
-    },
-    {
-     "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RdlNPR0NIRS1xSXViVTBCWlZBZnprREZCZXRKMkR2ZkoyOWtodGNIMXdFZTZ0a3Awc29nYy14cFNzU3pXWGhScy1oY3NiOUtLWjFSSU12MA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-19T00:54:26+09:00"
+     "title": "フランス全土で大規模デモ マクロン大統領“責任厳しく追及（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FM3dNYU8ycGR6SUJyQkVyckZZTWNrNkJ5MzN6dW5waWJSZ091RFJJSUtiRWFqY29FT2JKc1RjRGZZdlVhZy1LbTBYVTZibUR5UVh5VFU4TEViME1CbmRsM2d6MHo4Z2RBZlhrQUQwV0twenBJazFoRTc5dmY1dVU?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-19T06:43:18+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-19T02:51:35.960339+09:00"
+   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
   },
   {
-   "kw": "山梨",
+   "kw": "最低",
    "level": "high",
    "d24": 6,
    "baseline": 0.8,
@@ -1258,472 +1602,732 @@
    "consecutive": 1,
    "days": [
     0,
-    1,
-    1,
-    1,
     0,
-    2,
+    0,
+    3,
+    1,
+    1,
     6
    ],
    "latest": [
-    "独自「世界が15度傾いた」クマ襲撃で眼球破裂 神奈川・山梨にも出没…親子3頭映像",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE42WHRYZTJyN3RBWWxjX0g3ZWozZDFiUlNaTXZvM3kzeDFYcUJYUG1OcEZiaFpOOTY1ZTExaWdjbEFpYVBXRXl6cFIteC1LSjNoU3lyWXJLNzNFRTBYRERYdWQzeUFGdmRfMVBROHhBV2pZUQ?oc=5"
+    "ANN世論調査 高市内閣支持率47.1％ 発足以来最低",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mYjFMQlJUUEcyZDV4M3JKMHJsNjg1UXZ1NWVPemVRZDVhc0VYY0FDNVpUOEJXTDMtY0NHZHk3NW91YnJYM291SzZGbHZ5cGNtVDQ5VU83QXkyZmhLa3VkTTdYbGp6SWdNQWVFWGxodGxmbnc?oc=5"
    ],
    "samples": [
     {
-     "title": "独自「世界が15度傾いた」クマ襲撃で眼球破裂 神奈川・山梨にも出没…親子3頭映像",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WHRYZTJyN3RBWWxjX0g3ZWozZDFiUlNaTXZvM3kzeDFYcUJYUG1OcEZiaFpOOTY1ZTExaWdjbEFpYVBXRXl6cFIteC1LSjNoU3lyWXJLNzNFRTBYRERYdWQzeUFGdmRfMVBROHhBV2pZUQ?oc=5",
+     "title": "ANN世論調査 高市内閣支持率47.1％ 発足以来最低",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mYjFMQlJUUEcyZDV4M3JKMHJsNjg1UXZ1NWVPemVRZDVhc0VYY0FDNVpUOEJXTDMtY0NHZHk3NW91YnJYM291SzZGbHZ5cGNtVDQ5VU83QXkyZmhLa3VkTTdYbGp6SWdNQWVFWGxodGxmbnc?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-18T23:30:21+09:00"
+     "published": "2026-10-19T05:52:00+09:00"
     },
     {
-     "title": "木造住宅が全焼 火元の住人とみられる1人と連絡取れず 山梨・身延町",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jcjM3RWNxMEwtWnJXTHR6VmxPRExMY2pFdDhHNE5pYk0yeFRGUDRTYVh0RzR0TV9UYkpsT1htTFpsMC1nQTBxT1ZJSFBwWEZIZ1I3OGFiVUxoX0h5a2FTZW9Ga0x1RkU3WUJhVGh6R2pjQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T18:53:35+09:00"
+     "title": "内閣支持率が最低49%、農相更迭「遅過ぎ」57% 共同通信世論調査",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vYXZHNWF4VU5HZi1oUy1LdVJRd3dlTi1uTm5FVXYtRnlGU0tFaTVpR2JnSHZsV3hUN1pOcHYtd2cyd2wyQVVyVjl1UmFkUFVYRWxLdkFBQU44MjduQVUzRlh3MXpUQV9ZYnpQaA?oc=5",
+     "source": "日本経済新聞",
+     "published": "2026-10-18T18:46:26+09:00"
     },
     {
-     "title": "「炎は強く赤く燃え広がった」住宅が全焼 1人と連絡とれず 山梨・身延町（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3RFc0Y0VuUVctY0hybDV6aWN2aEs5YVF0YnJ0dkhoTHNVT0RCd0dXeTJYYy1GMV9WMWpXcU5rNFNobmNlOF9wNWR1X2RjMDNOTGZLX3ZEUDFsbmczY1V5eUxURVVMay1obWJLOExHdzZuVWlkVjZpY0xOM2VVSFE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T18:30:43+09:00"
+     "title": "内閣支持49%で発足以来最低 共同",
+     "url": "https://news.yahoo.co.jp/pickup/6599260?source=rss",
+     "source": "Yahoo 国内",
+     "published": "2026-10-18T17:45:32+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
   },
   {
-   "kw": "投票",
-   "level": "high",
-   "d24": 8,
-   "baseline": 1.2,
-   "ratio": 6.9,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    1,
-    1,
-    3,
-    2,
-    8
-   ],
-   "latest": [
-    "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "横浜市長選挙 新人の原沢敦美氏が当選 前市長の山中氏は再選ならず 投票率は45.56%と前回より上昇",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hd1BCRG9EZHpXTmRlSDRmaTVFSW52OHdDbXNUaC1HWnpwMXdERjZxWE84dkh5alZiSzlLMHJ5UkpSWDNyWUFvN1NCN25MM3h4RU9hSkVSNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-19T04:44:22+09:00"
-    },
-    {
-     "title": "横浜市長選挙 新人の原沢敦美氏が当選確実 前市長の山中氏は再選ならず 投票率は午後7時半現在で28.61パーセントと前回より上昇（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UR2xfb2pvdDFCalFMZzJiclFmSHBsZGFVQUdWREFjQWtuWmVyTHpfd0xWNXVtdlhwNU9pc0RGWW5Hd0FHMTZMLWlHVGl0N21GMHVaR3JpWXpUeUNILWZMSFc5dVZ4MGtmUW9WUFp5RDVka1BlZUY5dXdHMGtSNVE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T21:00:27+09:00"
-    },
-    {
-     "title": "横浜市長選 きょう投開票 前回より投票率アップ",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkb3VWd3ZkdW1NNnU5TzBDZ0VEVDgzNE5Dajc1cWYzRFBqVzdJbHRmVHNQZGE4OXVIc1BSV1l3WGtCdi13cjBaUGM1RDhidzFEajRLR1VCZ3YwRllkMDNXdjRWRkJYZGo5THpuY1RYcDBkUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T17:59:20+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
-  },
-  {
-   "kw": "中心気圧",
-   "level": "high",
-   "d24": 10,
-   "baseline": 1.5,
-   "ratio": 6.7,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    3,
-    3,
-    3,
-    10
-   ],
-   "latest": [
-    "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速60m/sの予想（FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNFd3MUl0YnR5cEczUHc4OGJZdXJEVkxfVUhlaG9xVWZMRVVxNlp0aEZIZ3JrLWUtc3V1X3k0cXZSRGJZQ2NPQzF2alFISXRUbDlZb0Z3ZDNDR243Qlk1Vl9pQklEMmRFVGpnRWtrcjdKRjBtbGJscXFMYUJRNTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T19:41:19+09:00"
-    },
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧950 hPa、最大瞬間風速70m/sの予想",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mZjNHS2daZjFfRlRJS3B4UzVBVXozOS1yVExmaGVfN0Q5aEk5UlBoek1vU3ZCNG11blRtTUJsM0RFR2ZSNVg3dmt6RjJ5Zw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T19:36:00+09:00"
-    },
-    {
-     "title": "【台風情報】非常に強い台風30号の進路予想 22日午後3時には「非常に強い」勢力のまま沖縄の南へ達する見込み 中心気圧935hPa、最大瞬間風速70m/sの予想",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BV2ZvNkxTSGhXbDlSckRDNU5IaTBJQnNnX1BUMGJjT2NmV0FGeUxsNDZoQW1vUmhSbVV4X002X0k2ZkNTdG1qOWlGMnBzQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T16:12:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
-  },
-  {
-   "kw": "フランス",
-   "level": "high",
-   "d24": 14,
-   "baseline": 2.3,
-   "ratio": 6.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    7,
-    3,
-    2,
-    1,
-    1,
-    14
-   ],
-   "latest": [
-    "フランス全土110か所で大規模抗議デモ 55万人参加し1800人が拘束（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INzJmV3hIRlNCVlNpMW1KSGJQRVZwQlM5QWJ0eG1PaHpzTURaTkJMQmRhRF9VZHlHMEtWUS1PSEdjUDQ4clVRMjY3QWlPWEptWmg4VGZrWkZjS1NlUk5RM3FFdy1janRxZmUtcFhXcVNhUU56cU5rSTczNXYyRWs?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "フランス全土110か所で大規模抗議デモ 55万人参加し1800人が拘束（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INzJmV3hIRlNCVlNpMW1KSGJQRVZwQlM5QWJ0eG1PaHpzTURaTkJMQmRhRF9VZHlHMEtWUS1PSEdjUDQ4clVRMjY3QWlPWEptWmg4VGZrWkZjS1NlUk5RM3FFdy1janRxZmUtcFhXcVNhUU56cU5rSTczNXYyRWs?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-19T03:37:56+09:00"
-    },
-    {
-     "title": "フランスに続きイタリアでもデモ ミラノやトリノで覆面姿の参加者らが警察と衝突",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Z2x0eUVKSnp1V2pwLXk5LWVTWU5waFdKeE5sYzI0UVI0c3FaWTMtS0R0NmtZYm1jWm0waUtYR3FUUkF0WGt4Q05pLXRKdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-19T01:48:00+09:00"
-    },
-    {
-     "title": "【これまでの経緯】フランス各地の高校で“抗議デモ”が激化 一部が暴徒化 19世紀築のリモージュ市庁舎がほぼ全焼 5000人以上の逮捕者やけが人続出",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZHBLdmdNVWJoX1ZmQmhUVUM4WGFvMEFUcm9FZGhCRzNaWUZtS04yZ0dvZ0UtdThJNjN1U3dlSlF3WXJndmd4SGNsbkxmV1dCSk41aXVDdVlaOEFMcF9ibTRudjY2MUxvbUFyenpHbWtNNVdvU3hRMnhB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T13:31:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
-  },
-  {
-   "kw": "SDV",
-   "level": "high",
-   "d24": 8,
-   "baseline": 1.3,
-   "ratio": 6.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    8,
-    0,
-    8
-   ],
-   "latest": [
-    "スバルSDV、20年代に投入 高度なソフトで価値向上",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uR1RoNm9pR1FYVk1MeGcxcXFKM2ZBc0FoWjFoQm9ESm9LdC1QRG96d0VOVEZQX2pFYlJLQ2ZjZE5xVEpyajNXck5tVQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "スバルSDV、20年代に投入 高度なソフトで価値向上",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uR1RoNm9pR1FYVk1MeGcxcXFKM2ZBc0FoWjFoQm9ESm9LdC1QRG96d0VOVEZQX2pFYlJLQ2ZjZE5xVEpyajNXck5tVQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-18T21:19:00+09:00"
-    },
-    {
-     "title": "スバルSDV、20年代に投入　高度なソフトで価値向上",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkNqWW02YUtuRm1kSElyNEo0S3IyOFA2V3dfcng4QmFqbE1qalBSYWMyQmNyUzFJQmRIZHVaYnZHOUxfck5oQURVMHlOclJRajUyZ1VLVjlaYndKWlpJQU9jVnMtM3RSd1RBWEQwNGlUZU9RNmhxc2x1RHpWRk9ob0sycnpoVmJORmtwNjV30gGTAUFVX3lxTE9PUzRrSDB0eUR5ck9valVObGFySk5CNzRyTzRPTkdJRVRrS2VpcWdGSmxXNnVZOFhmcWxlbVpWVXFJWXhSSVhDejhlVFZORGhLeGNnaVNYMnJrcVZhQnNQVmctSmJuckozcmdUYXRtTHdlQ1Q4QjdxNDF6UExhRWxFVUhHdGlfZTcybjRhb29ZdlN4cw?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-18T20:03:00+09:00"
-    },
-    {
-     "title": "スバル「SDV」を20年代後半に投入",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wUGJqZlR4ejh0OFN5MXEwOHFYV3YweC1RMHlYY0E0SWhpZ05pc3RabXRKbFhMVkxQZDByWE5hM2dQVUp5MWdFQWQ4NzNLTkxJeGJFeUFTS2VnLXFoM0c3Tm1BZw?oc=5",
-     "source": "nippon.com",
-     "published": "2026-10-18T19:26:02+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
-  },
-  {
-   "kw": "放火",
+   "kw": "芦北",
    "level": "high",
    "d24": 6,
-   "baseline": 1.0,
-   "ratio": 6.0,
+   "baseline": 0.8,
+   "ratio": 7.2,
    "consecutive": 1,
    "days": [
     0,
     0,
+    4,
     1,
-    2,
-    1,
-    2,
+    0,
+    0,
     6
    ],
    "latest": [
-    "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5"
+    "震度1 熊本県天草・芦北地方 2026年10月19日07:14ごろ 地震詳細",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDh1MWV1X09YOTZweFlVNHVTdjBVelhZc2V1ZlVWYVhZSVpWeTFSQVBYRXViLURDdGFZZlJXaWY3VzFUNlpLcWo3VkltZHN5akRoZTFGRDkwTWs5WlpBTW9XVHc0ZFdOejJ4NGRCb2ZTamNIc2w1NzJlUThJQkw2T01n?oc=5"
    ],
    "samples": [
     {
-     "title": "記録された凶行“黒ずくめ集団”放火、略奪、襲撃…仏デモ暴徒化で歴史的建造物も炎上",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMC1tZFVrOWlnTGY5LWtrUERmSm80U0xzcF91TWFfbmh0RUNuMDlVaVJyLWdZVjRoeG52RGtQc2syYXhLbTNrQWkxSExTY2RhdlAzekFnLVhUUVNMdU9KakxiOGR3d2dQQzUzaDZUS09NY29ZWjM1ak1n?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-19T01:22:00+09:00"
-    },
-    {
-     "title": "【詳報】仏で55万人デモ、暴動も 放火や略奪、警察と衝突",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ndndnc0RKQl94SWV3YXhFakRPcDlxM0ZZbktmNHdHUE16QmVBakNBbkpOclpLSFo3LXVhbWlteVJiZzh4ZHlfSUduTQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-18T11:42:29+09:00"
-    },
-    {
-     "title": "フランスで55万人がデモ 各地で放火や略奪が相次ぐ (FNNプライムオンライン（フジテレビ系）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2s0STBLTnZQbTFJM3Q4cC0zYWdmbEh5cl9IbWh3MDJJQUNTS1NPZDdhTFVydmk5dEtLa1BSb1RndkVJcW9YaUUwaW9ZWEtHeVdJTUxCWk05T09EYTJlWFJRR2J0T04tcy05bUlybi1odDM5dDF2OGgzZUtleTlVUzU2ZDNCcUNjWE1JWGZB?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T09:47:17+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
-  },
-  {
-   "kw": "知人",
-   "level": "high",
-   "d24": 4,
-   "baseline": 0.7,
-   "ratio": 6.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    3,
-    4
-   ],
-   "latest": [
-    "路上で男性が胸刺され死亡 知人とみられる男が逃走 東京・福生市",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0X1NYeEEwTHFuU3F2SWdJVEFiYXE4Vzl5WnBNNFJ5bVdpdks3anE0RWdBOTZCbERzN1g5V3lKWkZyeFNnT2xXa1RBc3N3QQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "路上で男性が胸刺され死亡 知人とみられる男が逃走 東京・福生市",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0X1NYeEEwTHFuU3F2SWdJVEFiYXE4Vzl5WnBNNFJ5bVdpdks3anE0RWdBOTZCbERzN1g5V3lKWkZyeFNnT2xXa1RBc3N3QQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T11:55:00+09:00"
-    },
-    {
-     "title": "【速報】刃物のようなもので刺され男性死亡 殺人事件として捜査 「1人血だらけの男がいたが立ち去った」知人とみられる男の行方追う 直前には言い争う姿も 東京・福生市 (FNNプライムオンライン（フジテレビ系）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRm9naXVXQmRWcjNRdURMODFfYkdzZEpmM2NIbnhZNWpFd2Rxc2F4UnhxY3hzUWs3My1JQ2cyYW1LVk9tNUtOMVJhaThBQU1wNng0TV8zTzd4YjZnOE42SE9nSnoxRXRjMnN4ckhBNDhpM0EwQkJDQmhpVlBEa2J1RTlaZFpjN3drZ29MRTVn?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T07:23:21+09:00"
-    },
-    {
-     "title": "【速報】刃物のようなもので刺され男性死亡 殺人事件として捜査 「1人血だらけの男がいたが立ち去った」知人とみられる男の行方追う 直前には言い争う姿も 東京・福生市",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSbGx0T1lUVy1odXVibzJSYmgzNld1Y3RESmNHR2pSRjVDNnk1NnBRZno4dnV1aWc3bmppRVlfVnFheEFvMm5CX2RmOGVPQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T06:47:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T08:26:53.995090+09:00"
-  },
-  {
-   "kw": "連絡",
-   "level": "high",
-   "d24": 7,
-   "baseline": 1.3,
-   "ratio": 5.2,
-   "consecutive": 4,
-   "days": [
-    0,
-    2,
-    1,
-    3,
-    1,
-    1,
-    7
-   ],
-   "latest": [
-    "木造住宅が全焼 火元の住人とみられる1人と連絡取れず 山梨・身延町",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1jcjM3RWNxMEwtWnJXTHR6VmxPRExMY2pFdDhHNE5pYk0yeFRGUDRTYVh0RzR0TV9UYkpsT1htTFpsMC1nQTBxT1ZJSFBwWEZIZ1I3OGFiVUxoX0h5a2FTZW9Ga0x1RkU3WUJhVGh6R2pjQQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "木造住宅が全焼 火元の住人とみられる1人と連絡取れず 山梨・身延町",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jcjM3RWNxMEwtWnJXTHR6VmxPRExMY2pFdDhHNE5pYk0yeFRGUDRTYVh0RzR0TV9UYkpsT1htTFpsMC1nQTBxT1ZJSFBwWEZIZ1I3OGFiVUxoX0h5a2FTZW9Ga0x1RkU3WUJhVGh6R2pjQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T18:53:35+09:00"
-    },
-    {
-     "title": "「炎は強く赤く燃え広がった」住宅が全焼 1人と連絡とれず 山梨・身延町（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3RFc0Y0VuUVctY0hybDV6aWN2aEs5YVF0YnJ0dkhoTHNVT0RCd0dXeTJYYy1GMV9WMWpXcU5rNFNobmNlOF9wNWR1X2RjMDNOTGZLX3ZEUDFsbmczY1V5eUxURVVMay1obWJLOExHdzZuVWlkVjZpY0xOM2VVSFE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-18T18:30:43+09:00"
-    },
-    {
-     "title": "住宅火災 焼け跡から1人の遺体 住人の男性（84）と連絡取れず 山口・長門",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpZW5zNTZ3WUR3eHZGcGdtQ0hfNU5WR2RiU0MxWUY5azhKcUJjTU9SNGp5cy1nODNmb3NxWFpSQzFaRlphdFlqX3EwTEZhQ2VXUDV1SFF0dEFOTTN3X0lJ?oc=5",
+     "title": "震度1 熊本県天草・芦北地方 2026年10月19日07:14ごろ 地震詳細",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDh1MWV1X09YOTZweFlVNHVTdjBVelhZc2V1ZlVWYVhZSVpWeTFSQVBYRXViLURDdGFZZlJXaWY3VzFUNlpLcWo3VkltZHN5akRoZTFGRDkwTWs5WlpBTW9XVHc0ZFdOejJ4NGRCb2ZTamNIc2w1NzJlUThJQkw2T01n?oc=5",
      "source": "TBS NEWS DIG",
-     "published": "2026-10-18T18:18:00+09:00"
+     "published": "2026-10-19T07:22:03+09:00"
+    },
+    {
+     "title": "熊本県で最大震度1の地震 熊本県・芦北町",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12c1dHcGl0S1ZGdnk4ZzBieTRLV3R0X1hJZWlOTUZ6eE9wcVYtZTJPNkNDVkUwajNWcURaNjdkVXA1TEVKTzhVME9EN1BscXhJWl9qOEdtRTkxck85dlYweUowVDg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-19T07:17:00+09:00"
+    },
+    {
+     "title": "震度1 熊本県天草・芦北地方 2026年10月18日16:37ごろ 地震詳細",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUFrYzV2Q25lUHhxb2dIMjk2bFBWR1ZhaVUwWjZCbVBxTkhuTEItb0w5UVlrOF9uaWdKOVJLNWh4LTVHZU5Gb2VzbUVzRUdXT1pMUVJPN0ZuTmlJNndHR0o1di1jM01QMDFvLVRfZFpjSEM3ZmhQWmtxclRPRU1jemt3?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-18T16:42:22+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
   },
   {
-   "kw": "重体",
+   "kw": "ゴール",
    "level": "high",
-   "d24": 5,
-   "baseline": 1.0,
-   "ratio": 5.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    2,
-    1,
-    3,
-    5
-   ],
-   "latest": [
-    "自転車の15歳女子高校生が乗用車と衝突し意識不明の重体 信号のないT字路交差点で自転車側に一時停止の標識",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92bDhzYk9RZWlSTHlzZGNXSHJwT0ZvWng5c0RaMGg1U1ZhYVIyM0FpX3dNUEY0ZnRlMHZfNUdJSEpXbzVuc09ZY0wyeUNOZw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "自転車の15歳女子高校生が乗用車と衝突し意識不明の重体 信号のないT字路交差点で自転車側に一時停止の標識",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92bDhzYk9RZWlSTHlzZGNXSHJwT0ZvWng5c0RaMGg1U1ZhYVIyM0FpX3dNUEY0ZnRlMHZfNUdJSEpXbzVuc09ZY0wyeUNOZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T18:16:49+09:00"
-    },
-    {
-     "title": "ツーリング中のバイクがワイヤーに衝突 男性が重体 やまなみハイウェイ 大分",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4aWJWRHMydzdZalBJdkVyeTg0enJzLVBaY09laThIdThRa2VfUjJwSFUyN2I1dEY3TDBDSUdaUGJZOEJDQjZhandvdUphZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T15:30:00+09:00"
-    },
-    {
-     "title": "高齢夫婦乗る車が民家に突っ込む 運転手の74歳夫が重体 住民も軽傷・浜松市中央区",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpNWpXRHpIbXQtckNkdjNOOTh6LWw3S0o3WmY0RVBNTTNpM2dUQU5QYzhoWDFhVjdmN01BekRuZmRJclBpY0t5X01nS3JEUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-18T15:20:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T23:50:58.614182+09:00"
-  },
-  {
-   "kw": "けが人",
-   "level": "high",
-   "d24": 4,
+   "d24": 6,
    "baseline": 0.8,
-   "ratio": 4.8,
+   "ratio": 7.2,
    "consecutive": 1,
    "days": [
     0,
-    3,
     0,
-    0,
-    0,
+    1,
     2,
-    4
+    1,
+    1,
+    6
    ],
    "latest": [
-    "【これまでの経緯】フランス各地の高校で“抗議デモ”が激化 一部が暴徒化 19世紀築のリモージュ市庁舎がほぼ全焼 5000人以上の逮捕者やけが人続出",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZHBLdmdNVWJoX1ZmQmhUVUM4WGFvMEFUcm9FZGhCRzNaWUZtS04yZ0dvZ0UtdThJNjN1U3dlSlF3WXJndmd4SGNsbkxmV1dCSk41aXVDdVlaOEFMcF9ibTRudjY2MUxvbUFyenpHbWtNNVdvU3hRMnhB?oc=5"
+    "久保建英ついに復活 今季初ゴール",
+    "https://news.yahoo.co.jp/pickup/6599298?source=rss"
    ],
    "samples": [
     {
-     "title": "【これまでの経緯】フランス各地の高校で“抗議デモ”が激化 一部が暴徒化 19世紀築のリモージュ市庁舎がほぼ全焼 5000人以上の逮捕者やけが人続出",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZHBLdmdNVWJoX1ZmQmhUVUM4WGFvMEFUcm9FZGhCRzNaWUZtS04yZ0dvZ0UtdThJNjN1U3dlSlF3WXJndmd4SGNsbkxmV1dCSk41aXVDdVlaOEFMcF9ibTRudjY2MUxvbUFyenpHbWtNNVdvU3hRMnhB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T13:31:00+09:00"
+     "title": "久保建英ついに復活 今季初ゴール",
+     "url": "https://news.yahoo.co.jp/pickup/6599298?source=rss",
+     "source": "Yahoo 主要",
+     "published": "2026-10-19T06:09:00+09:00"
     },
     {
-     "title": "「破裂音がして外を見ると火柱が…」広島市の住宅密集地で火災 消防車15台が出動 けが人なし",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wZmY2dUhrZ21zc1otRFV2VERkMWlUZzZ2QmFVQ0Y5U0tQMGhfQUxhRWljallQWnF1c0RrLXptXzJhaDZfSWRVcU5KN2hLNUlKd2ljYXVNQzNyMmxpbFRqeVJhQ1I?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-18T06:58:00+09:00"
-    },
-    {
-     "title": "廃棄車両置き場で火事、山林に延焼 約5時間半後に消し止められる けが人なし 福岡・久山町",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ucXV6SU03QmhKTkQtSXUtQWlvSDd4bUVkRUthNW52REFOU1luMUJXUTA4bDdyMWp3bDZlZVVxY0R3T3N3QmZEYkc0VDNnZ3ptbUxOcHJHdUtyWHpUemNjVGljSTg?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-18T05:48:28+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
-  },
-  {
-   "kw": "鳥取",
-   "level": "high",
-   "d24": 10,
-   "baseline": 2.2,
-   "ratio": 4.6,
-   "consecutive": 1,
-   "days": [
-    0,
-    1,
-    0,
-    1,
-    1,
-    10,
-    10
-   ],
-   "latest": [
-    "鳥取のアクシスIT、福利厚生を新卒内定者に適用 入社後も手厚く",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSDVVQzhHR1pDSVVOZUM1clVDdllUWGpncFFsMEw5WUtNei1UdFFLODMwRExEQzViYjBEejZfcTJxNExjeTNNNlNLam5hNjV0RDh1SnhNczRuMW5YejNkVVo1WWNqU2NpRzJ1VA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "鳥取のアクシスIT、福利厚生を新卒内定者に適用 入社後も手厚く",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSDVVQzhHR1pDSVVOZUM1clVDdllUWGpncFFsMEw5WUtNei1UdFFLODMwRExEQzViYjBEejZfcTJxNExjeTNNNlNLam5hNjV0RDh1SnhNczRuMW5YejNkVVo1WWNqU2NpRzJ1VA?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-19T05:00:00+09:00"
-    },
-    {
-     "title": "鳥取訪問の愛子さまが伝統工芸品の絵付けを体験",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16SEMxWXRHVW41LTFKRzEwdFB0U0JDbEJBTWNSWVlGSVp3REphbjd4Z00tTkE4SmRHUEcyNWZwYVg1SWNubUhEWV9yQUowaTRBWWxUbE9XWTFWMDdibjJPMWtpWXZIZWltZkxxLVZrNGprUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-18T23:15:36+09:00"
-    },
-    {
-     "title": "【鳥取県】10/19の天気予報",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWWVhwT3h3SDFQc2prUjI3ZHlsNmVZSURNN2pGNVV5RXZuSjZleWNHVWl5aXgwT0tRbTdEZVBNRnJPaGFaZWUwSEFsc2lEZw?oc=5",
+     "title": "イプスウィッチ前田大然が移籍後初ゴール アストンビラ鈴木彩艶はプレミアで自身初の完封勝利",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10ZkktRzVHSWVocEtCREpMWlpOMzRIQlVaMmZtQ2VjdjY4eFJSSnJCN2JMbmVVZllaYTQwMExJLU1qb2R5MTc2cFdUZmNOZw?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-10-18T19:30:00+09:00"
+     "published": "2026-10-18T17:20:00+09:00"
+    },
+    {
+     "title": "今季最多5ゴールで圧勝！いわきＦＣ",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kcXFhUVhjajBKdWdiSml4TGUxTV90d0RKcXRkektwV0ZqbWpFZEk1ZzA3bjRpOXU1aE9xTWhZNGl0ZHFiRjNRRnU3bGhXTGxsaERIay1PNA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-18T15:29:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-17T19:51:04.178820+09:00"
+   "alerted_at": "2026-10-19T07:26:23.977876+09:00"
   }
  ],
  "events": [
+  {
+   "id": "60e8c8e535698bb8",
+   "title": "広く大気不安定 天気の急変に注意",
+   "url": "https://news.yahoo.co.jp/pickup/6599308?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-10-19T07:23:22+09:00",
+   "keywords": []
+  },
+  {
+   "id": "36a4d1f71a2a8074",
+   "title": "震度1 熊本県天草・芦北地方 2026年10月19日07:14ごろ 地震詳細",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDh1MWV1X09YOTZweFlVNHVTdjBVelhZc2V1ZlVWYVhZSVpWeTFSQVBYRXViLURDdGFZZlJXaWY3VzFUNlpLcWo3VkltZHN5akRoZTFGRDkwTWs5WlpBTW9XVHc0ZFdOejJ4NGRCb2ZTamNIc2w1NzJlUThJQkw2T01n?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-19T07:22:03+09:00",
+   "keywords": [
+    "芦北"
+   ]
+  },
+  {
+   "id": "002d3b3e5b2318e3",
+   "title": "【レベル３大雨警報】北海道・函館市に発表 07:13時点",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSR3JpY1E5V1lBT2FkZlpDeDZVcDRCLUc3N3pvSTJIcndjLVVBOV9JX2N2eU5uNmE4V3ZRYkVVUk9MYWdYem54Y3Q4MTJIdXFxUGN2ZzRmWmk4ZUZXS2hSSVExcUtSWGk2VUVUZ1hVc9IBdEFVX3lxTE9MTTBYX1hIcmpkYTJiVDd0OGxCSTFXSmFiMWxFRE9RVlV3Yl9oZVFsR1VZczQ1NTVjQ2pkYmlNM3c5QjBaZ2VLVlphbjFlRm1ERHlOM0xPYTlkM01KenRncHBSRzBucDQtZmxTT096TkczVzZM?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-19T07:21:08+09:00",
+   "keywords": []
+  },
+  {
+   "id": "cdf2da3d47e2f1a2",
+   "title": "熊本県で最大震度1の地震 熊本県・芦北町",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12c1dHcGl0S1ZGdnk4ZzBieTRLV3R0X1hJZWlOTUZ6eE9wcVYtZTJPNkNDVkUwajNWcURaNjdkVXA1TEVKTzhVME9EN1BscXhJWl9qOEdtRTkxck85dlYweUowVDg?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-19T07:17:00+09:00",
+   "keywords": [
+    "芦北"
+   ]
+  },
+  {
+   "id": "755cccd466cc60cb",
+   "title": "サイバー攻撃 なぜ日本が狙われる",
+   "url": "https://news.yahoo.co.jp/pickup/6599306?source=rss",
+   "source": "Yahoo IT",
+   "published": "2026-10-19T07:16:37+09:00",
+   "keywords": []
+  },
+  {
+   "id": "92fba90627ec3816",
+   "title": "日テレ森圭介アナ 社労士試験合格",
+   "url": "https://news.yahoo.co.jp/pickup/6599305?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-19T07:15:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dbb863c8c0c4b13c",
+   "title": "アンソロピック、株式5%を公益基金へ AI失業者支援などに活用",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlckNnYjFLbW15YjR0bHBRbTczaTRESDRRaFZXeXlzMjZJS1RfbWVadmhreWZ6U3hYaG95eTE4Q1Q2VkRvYy1XRDZyX21IV2NRTTN5UFZpYS1wNTNqMkM3Q0dSNUFTeC0wVDNUSg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-19T07:03:56+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c64ca4281575fb15",
+   "title": "経済効果薄い「迷惑施設」 ＡＩ発展で大規模化―米中間選挙",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qQWc1THdORE96WXhWeFVWUkNtTTdSNXJGQ2Q2UENmRmdMVHlkOWxfZHhLVXRkVTUyeTh3ZTJOWGlLSnRKdmEwZkRUTzFJQ0NES1otOWt5RkdPQUdvU0wxeDJGNA?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-19T07:02:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2a891e72af2e236e",
+   "title": "【動画】Pickup NEWS（10月19日）",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261018de61265",
+   "source": "NHK 社会",
+   "published": "2026-10-19T07:00:05+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1be1e91b16887ce6",
+   "title": "中小法人の現場で生じる課題に、いつも半歩先回りした通信サービスを提供し続けたい～朝日ネット　VNE、「フレッツ 光25G」など、足元を着実に固めるISPが目指す「交流と創造」",
+   "url": "https://internet.watch.impress.co.jp/docs/special/30thinterview/2140761.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-19T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c7fe16bcd3def8bc",
+   "title": "韓国旅行のはずが…大学生がカンボジアで消息不明、8カ月後に音信不通の息子からビデオ電話→母が感じた“違和感”「『捜索願が出てるんだったら取り下げて』と言われ」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvU0trSGZVaTNRX3d2elNiLTRMZVJBS3VzRGlNSHFqcF9OUld0bThONDNHNjE0WGNMN19iRmpKX0N1TWlUMXRqcXM5WWdHYmZ1eTcwaEFDTEJpZldMUy1EMkxEeTNjWThtUUVRQjFVbEpoQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "689c60700ec6edd6",
+   "title": "フランス各地で暴動 2400人逮捕",
+   "url": "https://news.yahoo.co.jp/pickup/6599304?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-19T06:59:51+09:00",
+   "keywords": [
+    "フランス"
+   ]
+  },
+  {
+   "id": "eb6ac7fe009e9081",
+   "title": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331",
+   "source": "NHK 主要",
+   "published": "2026-10-19T06:59:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e704a5908f444ffc",
+   "title": "青森みちのく+岩手+秋田…北東北3行統合「東北最大の地銀誕生」の舞台裏（森岡英樹／経済ジャーナリスト）",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QNEVVTEwzbXpMUDhFNTRhQ19mbGUzYnU3eEVnMnVWQzRZandKNnRCd3lwZ0o2Uk5CcWJoUUFBa3RTMlpuWUNzYUVNZ21lbFJhbVZ3Z3Y0c0c0ZGNXbzdmRFh2cVA?oc=5",
+   "source": "Infoseek",
+   "published": "2026-10-19T06:55:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "aade9a7b1215fa9f",
+   "title": "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ERGVQMEhiLXBnZXBrNWhfdXJ2ZHVVWjNybm8xTkMtZXRuX3JxM0RaVXFHLXBhbjVFMG84bjZzSnlSYnphYVd6MjJOTWVxekJCRlFCOVpRSnViNjN2SEdTc3R2YkFodXNzOWpKUVFHWEdoMmN1VTZsVWxoM2FsUTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T06:51:58+09:00",
+   "keywords": [
+    "デモ",
+    "フランス"
+   ]
+  },
+  {
+   "id": "112ed5b5afbad6f9",
+   "title": "新品畳に子が「臭い」畳店の思い",
+   "url": "https://news.yahoo.co.jp/pickup/6599303?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-19T06:46:09+09:00",
+   "keywords": []
+  },
+  {
+   "id": "97fd2926de64463e",
+   "title": "フランス全土で大規模デモ マクロン大統領“責任厳しく追及（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FM3dNYU8ycGR6SUJyQkVyckZZTWNrNkJ5MzN6dW5waWJSZ091RFJJSUtiRWFqY29FT2JKc1RjRGZZdlVhZy1LbTBYVTZibUR5UVh5VFU4TEViME1CbmRsM2d6MHo4Z2RBZlhrQUQwV0twenBJazFoRTc5dmY1dVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T06:43:18+09:00",
+   "keywords": [
+    "デモ",
+    "フランス",
+    "フランス全土"
+   ]
+  },
+  {
+   "id": "8b7f6158e2a4106e",
+   "title": "車庫から出火し住宅に延焼 「エンジンかけたら火が…」 埼玉・三郷市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HRHBRTnVoek92WjBJajhFNUM2cTdNam5DZ1FkTGZhbzR5b25TR0wtbzNsbDZMQkxsQm95eGtwNV9uZDg5VDB0bFI4eVRNUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T06:42:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "133edf2de183a807",
+   "title": "ゼレンスキー氏新たな和平協議調整 米特使と会談と投稿…早ければ今週実施で模索も",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUem4yN0hPVnZqSXhUVVRJdEVhT3gwTWJxTmFyVG11VmRISnVRR2ZTczg5Vk9fT3d1U184bUhtYXhtc0xnRnd1SG4zbUxseC02d05HWU9wYVFra0w3NHRmREVaREZucHhrQXJDV2JkYzhkc0NGdEVqdE1n?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T06:41:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "abfcaee12b488eb3",
+   "title": "住宅や物置が全焼 住人の男性と連絡取れず 山梨・身延町",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IdHVuZnFhdVdabXRET0RQQlhKTkFwVTQ3bTktT1RTQmNNc0xqOVhvSGMyVWhnbnpLYTVUZ0toM1AtckxzcmVxUFlfX2F2UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T06:38:00+09:00",
+   "keywords": [
+    "住人",
+    "山梨"
+   ]
+  },
+  {
+   "id": "7eae2b5da6dd2902",
+   "title": "あすにかけ西日本や東日本中心に大気非常に不安定",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61334",
+   "source": "NHK 主要",
+   "published": "2026-10-19T06:31:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2e3d6b6785a3a092",
+   "title": "TP-Link、ソーラーパネル一体型のフルワイヤレスネットワークカメラ「Tapo C425K」発売",
+   "url": "https://internet.watch.impress.co.jp/docs/news/2148847.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-19T06:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8413ca2c65c6ce07",
+   "title": "女子生徒の両親が献花 辺野古転覆2人死亡事故",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZE9lSzZITmxXQzBiNVNzR1pUeDJYbzFXaGxXMHZnTC1WaXhxNmhXOHBYRXF5eER3ZkduN3JSLU9EbS12NUlLRzhfOXphUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T06:29:00+09:00",
+   "keywords": [
+    "献花"
+   ]
+  },
+  {
+   "id": "fc32ab210241b217",
+   "title": "ロシア第2の都市にウクライナの攻撃 石油関連施設などに被害",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61332",
+   "source": "NHK 主要",
+   "published": "2026-10-19T06:28:23+09:00",
+   "keywords": []
+  },
+  {
+   "id": "eb7df1565ec67b21",
+   "title": "阪神に激震 藤本総合コーチが退団",
+   "url": "https://news.yahoo.co.jp/pickup/6599302?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-19T06:26:30+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2c83e51098ed0efe",
+   "title": "横浜市長選 原沢敦美氏が初当選 山中前市長は再選ならず（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0ozYlNJVlN3VHRGaWdqVHYtVFZ3bUpfbXhZSVZyX2dibnBKdUlmcWNSM3pNeDFrVVFPWXlfVnBPUDdrOXFKZjJTVTNTOTk0b2JUUEFmLWNWT0Nua29qYTkyYmc5TEtrU2xLb3NxS0c0V0p1ZXhKMHBhQWhXY2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T06:25:44+09:00",
+   "keywords": [
+    "原沢敦美",
+    "山中",
+    "当選",
+    "横浜市長"
+   ]
+  },
+  {
+   "id": "6c4d184bb05caaf7",
+   "title": "国道でバイク同士が衝突 運転していた2人が死亡 佐賀・唐津市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nZ0hMZGRsYjlsdnZSUXViNEc3dlJ4QWlENklhQWZWaFMwQm1TRHgwZ1M4VGh0YTc0OXh2MXl0MmxpY2s2Q0ZiS04xN3h1Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T06:25:00+09:00",
+   "keywords": [
+    "バイク"
+   ]
+  },
+  {
+   "id": "a6efee6ff388cde6",
+   "title": "佳子さまが京都を訪問 聴覚障害ある人たちと交流",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VVFZqSkM4ZHpKVk55cnlxVGNfWXc4QXVXTU9Ga0xWOV9zRWk3R3k0MEhfRWRmSEJ2MzBuZTV0U1ZyYUc1TWx3aDQwRU9WQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T06:21:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "094884a366690c4c",
+   "title": "本日の経済スケジュール ─ 第3次産業活動指数など(株探ニュース)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0VFNFFBTm9OanZ0UDE2X0RBalpqNzkzSVB0OHd4d096ZzlVang3Q0VYTVBOb1JNNDhUWWx3WDFad1cxSFVQOTBDTDRFVTlZSnl2QWp0VFB1T0JGVzllUElNRndUQmNsaGcxZm82aWtJRGVYSlZmWWZfRXEtUE5meHpBUTNDblU?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-10-19T06:20:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "aaa9eb25786ae1db",
+   "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが （TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uS2dnN2tFZEoySWVsaXhMUmFBWkJnaWVEVUtUMDQzdEtjRklHQV9TTkx4RjNzZEhjU2lLNGlvSWJJRTRiTzBYeml5Q1QtNHlFYlpGMGItNmxYaW1IbHZGLTBoM2pqNXlkb0o4TjdVaHdlT0NGV3AxbEo4cWpFSTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T06:20:13+09:00",
+   "keywords": [
+    "カナダ",
+    "基地",
+    "爆発",
+    "軍事基地"
+   ]
+  },
+  {
+   "id": "cd9aacb96db68b0a",
+   "title": "【ドラフト】大阪商業大・春山陽登、34年ぶり新記録の大学屈指のスラッガーが母に伝えたい「育ててくれてありがとう」",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHdNSWFlcXFibkZDaU1CcGNaOEdFalExMzZ0bm05Q19UY1o1X05uSnE3eFpaUUF5a1lWbm45UklzMVAzNVJnY0Zubno0V182LVJlbVFTclRiLXFDelBUdk92YVZ5VjBfVzBiZnNXV0RQa1JOLWhTcl9Rc0RTVUpCc2dn0gF0QVVfeXFMTTZ2MURfVWFSOTJfM0xwZFItaEN5REt6VVozNG1QSGNBUGpiaGFEM3NoZmhtUzBhRDhJMFI1aUdfclNrbk5GSXBkN0RrVm9BQ0tjN01sLV9QaDhNeHJTTjBYeWozNEVqOFVRXzR6UU93WXB4R3M?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-19T06:19:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "feafd39c87793333",
+   "title": "物価高、関税で民主党が攻勢 米激戦州候補ら、舌戦過熱（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtR01Yb1pfemwxR0ZFOTUtZUotczJrUWdUWXZNZG1QRlJmSXBpVGI3dUppek1pMWZUdDAzQkhHamdwLUZvWDk2dVdZbG9MTF9CRmljVmNrU21tVU1YSmxyM2xRTDBTVGE1Tjhwb0E2Qk9jOEs2MHg0OFZuNGF5ZEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T06:11:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e53902666909518d",
+   "title": "トランプ大統領 イスラエル総選挙でのネタニヤフ首相の支持表明 今月27日に実施（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDU3JSNl9RNlF5QnAtNVZYcTAyVjU2STQxMEdRWkJoWTBqOHkxc3dsVUxMY0tkLUNXdnpISjFCMzRUVGwyRER5dF9janVSQWdtUWFXNklka05mbVA2U3doeEZhVUJualFRUEZ1d3pJOGp1eUdnbUpNcElnZWx5a3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T06:11:01+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5f917ce85ce87845",
+   "title": "【気象情報】東日本～西日本で20日にかけ激しい突風や急な強い雨に注意（気象庁午前5時発表） 【週間天気】10月19日（月）～25日（日） | 長崎のニュース | 天気 | NBC長崎放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14U05BbkVEeXV6MHJFZ2d5ZzRpMWdvYzJGeWxHQkpvWW1BRmRJUVRHZVRaZDJ0c0M2ZXRub3ZwU29COXBzTGJpT0VMRl9VMFBxVVlzWU5NSWRwZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-19T06:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dc04fca7d0f3100d",
+   "title": "為替相場　　19日（日本時間　6時）",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUZ1S3hrT3pTamtjSnVKemFwN0syLTVTRV9WeHFKeDBhZUMzVTdla2lVWW1PY2RBZFlkNzV2M2FPaVYwU1NMeXBFSGpYX2dfTlhxd1hyT3dJUU1aMTlvZ3NPTTMxQ0Z5clZka0VTLVpoZ1ZKVVEwSkZ5MkFWRUlOQTU4cTRBNDkwaFpnTlZ30gGTAUFVX3lxTE9QQXliTVlIVXpTYkRoZV9aMTR4OTZRRkNnNi1vVG1mYnU5dHhqSkZXTEo0U3NWcTQ1SENDNWFYa0o2c0NVOXBVcmN4VXE0bHNEeUFGN0tMUl9fV0ozcFRCa0xCaC1iVXJpajQ2MVlpS19zaHpPQ3I5U0R3LXZHbUtMZERWU2hxU1N5REl2MnZ5Ukswdw?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-19T06:09:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8c88ab94b2e1e5e5",
+   "title": "久保建英ついに復活 今季初ゴール",
+   "url": "https://news.yahoo.co.jp/pickup/6599298?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-19T06:09:00+09:00",
+   "keywords": [
+    "ゴール"
+   ]
+  },
+  {
+   "id": "75060a2ceed3d90c",
+   "title": "カナダの軍事基地で爆発事故か、少なくとも7人死亡 数十人けが",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q0FidXZFd3FNcngydndiNnFaczNmTU1Hc0VHb29nSVhsSmhvamVoeU9VNUVxTkcxTk11d2hvZjRvZkMtMlhlYWhBRlJJU1lqdFVianJrVQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-19T06:06:29+09:00",
+   "keywords": [
+    "カナダ",
+    "基地",
+    "爆発",
+    "軍事基地"
+   ]
+  },
+  {
+   "id": "39a2c52868ed5bc8",
+   "title": "トランプ大統領 イスラエル総選挙でのネタニヤフ首相の支持表明 今月27日に実施",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55Y3B6N0FSc0RaMTVESGlWRkVxd0VKaTBSbHZCWC1tLVBaMVY0N1ktQldLdFRNSmk0TjV5RmZ4cXVDYUZ1UkVGMGF4a2RST1NXZDZweHNtaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-19T06:03:24+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8909426ab0ba597c",
+   "title": "操縦席に座るのはタイ王妃 バンコクから北海道へ王室専用機で7時間フライト 在位中は世界初、戦闘機の単独飛行訓練も",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZ2FWMWppOHZuSjMzWklTamVBSlNrZDhfdmpLZEEzQm1RMHVHMHZmTmNhUVZ5VngwUWpKQXJGWjFSUWtCWEdKX1h6aG5VOFJnQUhzem51WU84ZC1JT2xRRDk1MjkybzNiV0t1UEg0YWp5WjNJdmw5X3dfRkhKVlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T06:02:50+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a0864d8b29b4b0ba",
+   "title": "フランス デモに乗じた暴動“店舗1500以上被害か”小売店団体",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61330",
+   "source": "NHK 主要",
+   "published": "2026-10-19T06:01:41+09:00",
+   "keywords": [
+    "デモ",
+    "フランス"
+   ]
+  },
+  {
+   "id": "179ecc0337315647",
+   "title": "為替相場 19日（日本時間 6時）",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yNVNlM0gzVXNJWHJzZDB4M180SWgzQnp1UGdNaThfazc1bzdxb2t2cWwyMDNaVHRFUURJczlhdEhSTTZ1ejMzMDhEcEVVM203dnNBTDY1d3dzTzFMakhzcWN1dw?oc=5",
+   "source": "nippon.com",
+   "published": "2026-10-19T06:01:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "073eb37ae51de1a8",
+   "title": "ASUSの2.5Gbps対応Wi-Fi 7ルーター「RT-BE3600J Pro」、実力はもちろんコスパもいい約1.6万円【イニシャルB】",
+   "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2144115.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-19T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d8af82fe5f61ef32",
+   "title": "10/19(月)宮崎県内の交通取り締まり情報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yd3dwd0xrUUdNU2xPSTFzVE5rX3padXdfMExPQm8xUEZHMDJVMnVYZlV0Z2JPVmR4R3JMdmVvR2tYY2NRYllOdjU4M0I5TWFnc0EtZERVUUtxcnpHeW5sOUZ1ME4?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-19T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "fe8b7b065e03a087",
+   "title": "なんだこれは…！？ なでしこ谷川萌々子、脳がバグる“衝撃の光景” 弾丸シュート前→ドイツDF陣を崩壊させた“一瞬の動き”… 解説者が絶賛",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUEtSTGRmQVBzdkVWN2FoeFlTVUQtN0ZySFd3aGU3T2NkbU92MVZxOFcyOUhQa2hQOWFZdUJDc0hieWFsMGV2QlZtak1FeUNPOHVSeUk2dTdMYWFvMEdPdWctc0xFVEcyS01iM2dYMVA?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "122ddd2082e36db8",
+   "title": "「時間がかかって良かった」パナソニック コネクト樋口前CEOが語る「変わらない会社」の変え方",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9STERhWnpZbU5KR0h4ZjJ3MVp5M2gwQ1ZXN2dOaFlOdjJVU05sQUNrT3Bpb2ZnNFlrOS1MdUxRRFdWMTFMTndMYnk5OXN2WXNLR1oySDR3?oc=5",
+   "source": "JBpress",
+   "published": "2026-10-19T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c292b24171e50210",
+   "title": "官民投資370兆円、高市政権下で動く成長戦略はこれまでと何が違うのか",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95bjlvdlEwQk1taFBpVGJwNVJwU0xNOUpPeHEtTzE1cm9aUklZN0ktbEp5SUZ0OUJKTjlmMzljYU1zVHNidDMzX05nUHBnVFAxVDN6aUxn?oc=5",
+   "source": "JBpress",
+   "published": "2026-10-19T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1fc4170fb951eaf7",
+   "title": "天皇陛下がアジアパラ大会の開会式に出席 パラ卓球競技を観戦へ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WmNERHVEa01MVVR1cGZJblJsRjZZVzFldmltS0pFSGtXVTQtOFNrVzdWeFB1SHE3ZjRXeGI5WEtsMUpXR2JxLXpla1RaMlhMTWpCcnk4X0s5R1BWZHhrak5HWGdZckxKT015b2JrVDFwZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T05:57:56+09:00",
+   "keywords": [
+    "アジアパラ",
+    "天皇陛下",
+    "開会"
+   ]
+  },
+  {
+   "id": "d10cb40d196a477d",
+   "title": "パワハラ問題で前市長が辞職 横浜市長選 新人・原沢敦美氏が初当選",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpNWlOS2FMQUd5YWtEZnBWZDN4YlB3ejZlMTk1SmxpME5MVG1sTHFJLVJhQ2o1U1Flam11U3ZqR0dTMXpTeVBYNWQ2NHItLUJBcTRTNEludWxhR2dQUVBuTmZpNngwWlBTV0VxRnQxMmZuZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T05:55:58+09:00",
+   "keywords": [
+    "パワハラ",
+    "原沢敦美",
+    "当選",
+    "横浜市長"
+   ]
+  },
+  {
+   "id": "00f4ca25b2e3696d",
+   "title": "ANN世論調査 高市内閣支持率47.1％ 発足以来最低",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mYjFMQlJUUEcyZDV4M3JKMHJsNjg1UXZ1NWVPemVRZDVhc0VYY0FDNVpUOEJXTDMtY0NHZHk3NW91YnJYM291SzZGbHZ5cGNtVDQ5VU83QXkyZmhLa3VkTTdYbGp6SWdNQWVFWGxodGxmbnc?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T05:52:00+09:00",
+   "keywords": [
+    "最低"
+   ]
+  },
+  {
+   "id": "abef1bc575d1737a",
+   "title": "東京・福生市の路上で男性刺され死亡 知人の50歳男を殺人容疑で逮捕",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQXJvZ2hHdktmcDVCU3M2amNpODlqR01ELW1iWk15M2piNVVSRkZTZGVXZ0FQRmF6STRTaVRySnRNMk93S0JJdmNwem1HRkJ4UGJLRTBnNlBLUVVIMmVrZDZZQmQwWXNKRzhodldSMVdMQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T05:51:01+09:00",
+   "keywords": [
+    "福生",
+    "路上"
+   ]
+  },
+  {
+   "id": "4362c64175c516ec",
+   "title": "フランス全土で大規模デモ 破壊行為の被害は総額数億ユーロか",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hdkJ6d3JVU3gzcmFlSUxubFREcmVMN2tYd3doRXpsNHpxbkMxRU9NQUNQM0hiaUFSM3EzTnp0TS1GcU14UTN2N1loenFlNDBrSjFMS0NEcU5ZUmR0OS1ZZ01NN3N1OG9xWHFfZEU5blAtYWI4dTEtTVJ3?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-19T05:50:02+09:00",
+   "keywords": [
+    "デモ",
+    "フランス",
+    "フランス全土"
+   ]
+  },
+  {
+   "id": "378acb1adb25dbf4",
+   "title": "中学入学前に5万円支援新設 あしなが、将来の選択肢を（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NVGF3VjN6RU9yZWh3XzNMUmNhM1RmeDNURTVEOXVWN2otMDFqLU1KbGNZTWY0VnFSNDVxeFU3QTN0QUU3ZGpWbzkxSGdwQW9IUWh2c3Mya01zaHMzUjl5NS12VVhydUlhUHZDbFZIU1N0MERsbGdTZlQ0OW5zS0k?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T05:40:53+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1465c457c82102a8",
+   "title": "バイク希望ナンバー制が開始　国交省、一部は抽選",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjNINTZOV2thOUNjVGRfd0NIYVJza1RfSzRTSEIwR1VjUkY2OWltSWdENE5ETEE2WE1RdDNmS0NWYjlmVjZKRUpENDhFbWwyY1h2UjRQTW5QZ1MwbTZfSWdVWUkya3NUMXJUV3RSY0d2enoxNXN0aldqbTJpRUhrS3hOcGRZZTJn0gGOAUFVX3lxTFBaeHN5T08wYzM2djFHNm5XNUN3ZDNlLUJmUlZqWXNLVU5sMkJzZkdNM21rZG9zU3hKR1pzWjdzd1ZTWlh5UW00LTVlTk4wc3ltOG5oNkRVS0VrMWFWYTFuZzdJRnZuYURMQVcxYWlKcU9xSVJzUEwzQVRNYnVSMDJpeG5iREJPalpkb0RRZnc?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-19T05:36:59+09:00",
+   "keywords": [
+    "バイク"
+   ]
+  },
+  {
+   "id": "c4962383217f22a7",
+   "title": "消費税減税関連法案 あす審議入り 与野党の議論本格化へ",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261018de61305",
+   "source": "NHK 主要",
+   "published": "2026-10-19T05:31:29+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1ee913f67b8f664d",
+   "title": "中学入学前に5万円支援新設　あしなが、将来の選択肢を",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xZFMtS2RKLVBzOE9UQWJUamFoeENyY0IteGw5TmJ5X0FVNjRvdVN0cGRKbVdVMzlDVm52eGxTc0ZrWWRTSUYzQl9RanluQ2pQVGJKMURpSHk2OTR6OUlQbm9lV0x3MnNyUzh5SkU5c09UZkZY0gF0QVVfeXFMT3FkUy1LZEotUHM4T1RBYlRqYWh4Q3JjQi14bDlOYnlfQVU2NG91U3RwZEptV1UzOUNWbnZ4bFNzRmtZZFNJRjNCX1FqeW5DalBUYkoxRGlIeTY5NHo5SVBub2VXTHcyc3JTOHlKRTlzT1RmRlg?oc=5",
+   "source": "Infoseek",
+   "published": "2026-10-19T05:30:49+09:00",
+   "keywords": []
+  },
+  {
+   "id": "53d059734f1ed84e",
+   "title": "【千葉県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wZWFydFE0Rzh6TlhYZ0o3UDZRZ2ZjTkxoTjlVdFMtbWszdVBoNUVKMC1fX2VveDhtd3lFUUxoTHR2RFV6T3RDVHdTOHNWdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5892abde18d8db7b",
+   "title": "【福岡県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01cUVxSkVPWmhhUmI5dzgtbUZSNUVkZlllODA4Ti1Ga3lEeXNGcjFlbmJKdm9vRDNfcjVFT2Q3cUt3UERNREgyOF81OEJZdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e42e86b47dd5ad87",
+   "title": "【佐賀県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwMmpFSzlyREJhMk9YSjRHaDVrUlNzS3B0dDlhQm5fdmpCZmRwT1JMRTItUTNRRENzZ3JwV0MxY21ERGRpejZNdG5qUGtldw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "bdbce273e752291d",
+   "title": "【山口県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZ3N4VFhxNExybFBqeFR2Sk9tVWgwelh2dkpGX1lHUGo4ckxoSHl0RmZhTlFSVXB3WlRRSUtZdHN5Zm9oS3BpN0ZERWg5dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d68958e2c51ee54e",
+   "title": "【沖縄県(宮古島地方)】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FN19JNnl1RTFKYk9TcmdlbUc2dFNmWDhVLTJSMS1yZmRTNGduMGFMVElvSXNQbjBrVHNjOUREcWFEbFlYTW9fUW4wSGRndw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5396cd6361bafb56",
+   "title": "【奈良県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zR05XY1EyZWNKSk5mTUV3X1lBNmYwSGNnU1A5QjdmcXg4d3RGdEdLOFpJUTJ4TU1JOHh5ak1IZ2lBNGNDX3dZOVV3NjVRdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "47e148bd0083536a",
+   "title": "【宮崎県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IYTMtLWZHeTRxZXFjN0pwVjVyOF9qeUtabi1XeWdHTmpiSnFMRzVnNVljUWpmalpadWstd3IxeWdOSmxZMmNncUh0Zlh0QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3d75a39bfc5a0a50",
+   "title": "【長崎県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9valhJNjQtQi1ac2tnQWtvMzZDVGNYUjlldjltTGNKQk1aM1MwNk15azlKdDhuYTlERXpDeDIzeDR2amtKdGxvXzAxd1BuZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e417b6b6105285e7",
+   "title": "【大分県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TS1ZobDlsa1BfVWlmSmEtSTdUaGxJTW5rRkR2d3pvQjlrT0Y1SEdpVjRPbE5Fd09haEh2bHNTWlJpYTN1ektFVmlYU3RuUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6310197ec8ab685d",
+   "title": "【熊本県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43UE1oN1hzbnFrWG1mUFlabTVNM2tSWVRUeTVWQUhqZnhqbEl4ejVXLXFfbFkweHJ2cHR4TVlrN1Q2WGdwNldDMHY4b1RsZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "726d3ce8fe240845",
+   "title": "【岩手県】10/19の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDNkRBYnZDZ29CU0hEYmZua1h6dFJhXzVScC1tVzMyRVVEVlRXZGI4Vms4RTFzY2JLV0YwUWJWbmx6aWhnLVF3X3p4bW5Sdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6e8ed77cf6896b29",
+   "title": "家族晴れ（225）",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2dHBEMXh5dEs2bkdBekV1cklJOFlEU3Z4TnRIU2lOM3o5YUhMMkpHajFwdnpMNW1HWUlWdWdYd3o0a3JuT1FuNlN5bkNnMDMwdEgyNHdPRUk1TEhTV3Zma3hJYk9pdFlSTmVidjh6Yk9oWndYVkIw?oc=5",
+   "source": "神戸新聞",
+   "published": "2026-10-19T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f4e304a20dab5506",
+   "title": "【J1順位表】4連勝の広島が首位浮上 東京ダービー制したFC東京、町田と上位3チームが勝ち点23で並ぶ大混戦 前節首位の柏は5位後退【第10節結果まとめ】（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ZWdhcnd2Y3RJOWFhQ2ktcjhRSFNPOFhaV2J2NE1GVm8zc0o2dGk3SkFodVI0N0FjOFktN1NhN3d6TU42ZXh4MFJkS3pIM3NRQ0VRQXZJVEZFdV9GS09YOEV2Szh1X3pCeXlMV0s1ZE9NNmhqejlFaFFBempWdkk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T05:06:16+09:00",
+   "keywords": []
+  },
   {
    "id": "74268413aee4b570",
    "title": "県の防災メール運営企業に不正アクセス 約3万9千件のアドレス流出の恐れ 県が不審メールへの警戒呼びかけ",
@@ -1942,9 +2546,7 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSDVVQzhHR1pDSVVOZUM1clVDdllUWGpncFFsMEw5WUtNei1UdFFLODMwRExEQzViYjBEejZfcTJxNExjeTNNNlNLam5hNjV0RDh1SnhNczRuMW5YejNkVVo1WWNqU2NpRzJ1VA?oc=5",
    "source": "日本経済新聞",
    "published": "2026-10-19T05:00:00+09:00",
-   "keywords": [
-    "鳥取"
-   ]
+   "keywords": []
   },
   {
    "id": "1ec53017dd3606ed",
@@ -1995,12 +2597,96 @@
    "keywords": []
   },
   {
+   "id": "bb59c9ad36bdbbfb",
+   "title": "10月19日（月）【岩手県】 日中・夜間の交通取締情報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fOFcwMmstU1NFN2xJSUNGbUhTY0tocFctRUI5U2FzZll3NWlBeGNHY1phQVdXdDBMUGxrVUZVY2Exakg0c0hWRjlQU0JQNzRNcGEzMDlJdXRqeFpxa3FudWVoc2o?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1f9a0b6e97156f2f",
+   "title": "【倒産】技術者不足で受注に限界…現場事故が経営に追い打ち 新潟・聖籠町の配管工事業者が破産手続き開始決定 負債1274万円",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uZ1c3ZTAzSG5sLVpnbHdxd2V2S1RscXFOdnFlOEMwdDZocXo3dHNQems3MHJJektkTElZc1NjVWdxUll6bERyNWpYWU4zZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "61d17715b00457f6",
+   "title": "なぜうちの会社は「しょうもない」のか 日本企業の「組織的茶番」を募集",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zTXJmdnlyRWVLNzhiUFZTWUtDRU80dmoydVd3SmRFYVZPNEsydFRvNGR1YUIwSl9BY2hfcHV3eGYyQ01sM0VuRjBFUmwxc2x0WUtTVVNlSGZ2eFp1UGhhTU5fc1VvajBaZnZIeA?oc=5",
+   "source": "日経BOOKプラス",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "79943f43880b4a26",
+   "title": "川崎重工業のフィジカルAIロボット戦略 2軸分析で見えた独特さ - 日経テックフォーサイト",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlM3YnVzR282VzlRY3RyeEVTR3BTUDg3bEV3OWZXUEtTOHBzR21kT1ZmcWVGVllBSF9Nczc1elNTdnlLWTAzOU5JLW4wMWZ6MHRyVGwxYUZzQURCTlNSamxndmFoUFV1aHRYSFZnNHZHRnZBcWlUZVB3bjBUSmlzcXhnaE1JOEk?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2f85162a9de6136b",
+   "title": "千葉・市原で静脈コンビナート構想 廃プラ再生から発電まで地産地消",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWU9abkxGWktfalV2dDNGT3RfTUdhRXlwcDhvZncxYnJmandvTTUzcndxM25ZTjVSVkdWeWFIcTFwazd2emROUXZNODFTRGNBTUpnVGhCemdieVVRVl9nenpiYzBJQlI5SGZlMFE2a3JOQ2pVTFoycFdnLW9yRF85MS1GV0wwdw?oc=5",
+   "source": "日経ビジネス電子版",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "95ce972d72e0d8fd",
+   "title": "ペン先から半導体へ、尖った技術を水平展開 日本流イノベーションの芽",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sb25FQklCM29IM3hoWWlOaERDamJzWjRqVUZCWm1GTzdHZmhEekJOcTV5VmhFTkUzNjE3MnFUNGNWb1N5WjBsQmNCTHc2TDBzMFlGOFQ5UC05RUp1NjF1TU42OFJzSHBpQTc0bQ?oc=5",
+   "source": "日経クロステック",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4e2dedbe0ccc99db",
+   "title": "AI前提のレガシー刷新、データ中心アプローチが意外な復活 CIOらが議論",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSDZ4QmVTYV95b1hQbTBLWWpKb1JiZjVWYjhXNXI0Q2ZwQ2ktWl9VdDJwVGpVaE9hdFg4Q2dsY3pRSXFmRU5CYnRhclZvVGRHR0lHa3BBX2tXanN0bjFwaEVaSFE1dHo4bW9pYQ?oc=5",
+   "source": "日経クロステック",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ab5c35dab954ca64",
+   "title": "情報システムや広報、４業務代行 ホームページ制作のＳＰＤ 必要に応じて月替わり選択 中小の人手不足に対応",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yblczQm1KMm9HblRtSEhzY1JhX1VzcmJuczU3eU5pY2xNZG5PWFpFMEFWZlBXZ1FhbmgyQWdtVFhhd0tpYjBIcWFZSQ?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d14d4063c69890ca",
+   "title": "ナ・デックス 溶接制御装置に新機能 金属板の隙間を検出 電流調整で品質改善",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ec0tURkJnS2FFSDh6NU15RHd4dVVTMW8tSG5Md0t2b2ZzTC1YRFU0Vmg5T1VYaDhyMEc5SGxOMzhpM1BUaDV1THBfQQ?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-19T05:00:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "51d483f5f43aefbd",
    "title": "スバル 開発中の運転支援システムを公開",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11bk5NZUg0RHN3dGVNOUY2V1NWd3dEYUg0TmxObEd0Y21yczk2blRmVHczRmVGeWFUWmdpWF95X19uWVE4VFVLbDBCVG9paVptRG8taGhXTQ?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-19T04:55:34+09:00",
-   "keywords": []
+   "keywords": [
+    "スバル"
+   ]
+  },
+  {
+   "id": "49ab83ea2c8e3b69",
+   "title": "スバル 開発中の運転支援システムを公開（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1POEl0MkE1WlJ1ZDRlQUxuOGFsZElFcGthak55Nm1mV3hCZVhOc2l4SVZhbW12YU42WnE3Nnp0bEMzSTBlSUU4MDZ6LVpya1lFR3Y3WUpoMjJIeTFIbHpWd19qZ0cxZUt2NHFvOFZ3cDVlalNPYmlmOWpIUGJkSmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T04:53:58+09:00",
+   "keywords": [
+    "スバル"
+   ]
   },
   {
    "id": "63ed0843e63942f9",
@@ -2017,11 +2703,9 @@
    "source": "TBS NEWS DIG",
    "published": "2026-10-19T04:44:22+09:00",
    "keywords": [
-    "原沢",
     "原沢敦美",
     "山中",
     "当選",
-    "投票",
     "横浜市長選挙"
    ]
   },
@@ -2039,6 +2723,14 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tb3BrbW9ZVEdwSGlCYlYxWG1URVh0ZjVtLXprV3JDXzEtWHZQZjZyMVlCNW9Fa09nRlNiZzdqUkcyTjBsMUNGQ2tmQ3fSAU9BVV95cUxPQm5RVVJuV2xLXzZtdkJzRlRQSGxsX1ZsZEZqZzdnYmtNSnZpZjVWUHBHTWFaRkh6YzRJSlY5dXJpcTZkT0x3ZkVKYm5KaDhr?oc=5",
    "source": "ダイヤモンド・オンライン",
    "published": "2026-10-19T04:25:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e526423c9030e4bf",
+   "title": "和歌山県で最大震度1の地震 和歌山県・和歌山市（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZ1pnWUxVOHFKaU5mRTZDY0NvdkRWeXZ4VmJMRVd1S3hlVUVsY2pFTFVCaWUtYzdwUENRVzUzb0p2cnFheUt6WnFYT0kzMEdLRFhsY1NxWlFaSHhtdjdvZnBRS2JWeGVIT28xSkU3NjZSSy1NdGJ4YWdYTHNBUzQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T04:23:05+09:00",
    "keywords": []
   },
   {
@@ -2061,6 +2753,14 @@
    "id": "7ac745bb735113f1",
    "title": "ラピダスも頼る半導体クリーンルーム テクノ菱和、収益性は大手超え",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XV25QLUwwak0tVlotLXRKRzFiWmZVaDhpejhSdl9LX3Nwanp3aG0xc0RWdU1rUmdNV0owTnF5Q3I3ZXRZMjlZdjJXUkdfUHR2MW44UXdBZFB5R3NWUUJPTF84LW92cUp0VXNjZQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-19T04:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "37bc184fd9ee4928",
+   "title": "5億円ママ投資家ちょる子さん 上げ相場との向き合い方（佐田志歩）",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c1NQVU15TEFwVzczekNqR3dERUItaXNsUlFzclZMckVrX0pNUDFQMEdOMEp3OHZjMUsxTjAwOEFjX0pIZWo1bGhrTzkwZGsxMnBydlFTLXRrSzR1QUcyUXVGNDF6YUJRRUZBNQ?oc=5",
    "source": "日本経済新聞",
    "published": "2026-10-19T04:00:00+09:00",
    "keywords": []
@@ -2101,7 +2801,8 @@
    "published": "2026-10-19T03:17:25+09:00",
    "keywords": [
     "カナダ",
-    "基地"
+    "基地",
+    "軍事基地"
    ]
   },
   {
@@ -2119,7 +2820,6 @@
    "source": "時事通信ニュース",
    "published": "2026-10-19T02:52:00+09:00",
    "keywords": [
-    "原沢",
     "原沢敦美",
     "山中",
     "当選",
@@ -2227,6 +2927,17 @@
    ]
   },
   {
+   "id": "9a08b2d4ebd5d820",
+   "title": "フランスに続きイタリアでもデモ ミラノやトリノで覆面姿の参加者らが警察と衝突（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdWwxbER0RDRFVU5jeGgxcDdFY2J0VXJjSm5ZQWJycklYdGFkTEFqWlZ4UjdWRkZoX3lmRFhYM1lqQVdYdHgybW9lUXRFZW5aN01uQlhQdU1BYzBPX3BCUHZhSzZIVVZYbDlVNzBub0JXemowV3dfYlVYckFzc2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T01:53:06+09:00",
+   "keywords": [
+    "デモ",
+    "フランス"
+   ]
+  },
+  {
    "id": "54f8ad6a0a50fd4a",
    "title": "【独自】千葉 “謎の湧水”多数…道路脇に“地下空洞” キャベツ高騰で“もつ鍋危機”",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TVDFxMldLenBudnFGVGE1WlRXX0JLZERfRGRrM3BOSU8wa3BPYmt1X1NiblRvUmdQMld6SFJsYmtrXzhmYjV1Yy10eXlQUUhjbDMybHg3ZndyRF9rZkFPTTMxLTR2N2pXdWlVMFM3alYxdw?oc=5",
@@ -2252,6 +2963,19 @@
    "source": "テレ朝NEWS",
    "published": "2026-10-19T01:48:00+09:00",
    "keywords": []
+  },
+  {
+   "id": "8ec4eeab69555e3c",
+   "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋 (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3J4cFprbTl1eW5PSVlhb1FkdnRlQWhBUENJR2JGdWdXM0t1N3RXcjhwMFNKZ25Qcm15bks4UURyWDdvUGM1ek00ZWxIX29WTkRCRUFxNUp2RktYTXQ5MEtyel9nUXN6ZkJvemh2cVZUWjNNZEtfdGo5SkFqSHc3VHpiRFJvemU0dW1mVXJR?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T01:34:49+09:00",
+   "keywords": [
+    "アジアパラ",
+    "天皇陛下",
+    "宣言",
+    "開会"
+   ]
   },
   {
    "id": "58c16b4ec04d7415",
@@ -2282,7 +3006,6 @@
    "published": "2026-10-19T01:22:00+09:00",
    "keywords": [
     "デモ",
-    "放火",
     "暴徒",
     "略奪",
     "襲撃"
@@ -2295,6 +3018,7 @@
    "source": "Yahoo!ニュース",
    "published": "2026-10-19T01:14:09+09:00",
    "keywords": [
+    "住人",
     "浜松"
    ]
   },
@@ -2313,766 +3037,8 @@
    "source": "Yahoo!ニュース",
    "published": "2026-10-19T01:08:09+09:00",
    "keywords": [
-    "福生"
-   ]
-  },
-  {
-   "id": "ca99476d37956386",
-   "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVmtHOFpQU0E1WTZrUDdWT3dmeVlPTEMwdWNuZWQzYlU5S1VJVjI5RlRKZzBveVNFRUJGUl9zazBjODlicDFOZDVTbE5wb2ZtVFg5X3ZVUlM5SHgzQWRwbVNYdERoNFlkVjFWVDBuVVh3OGtXZEFFUEdVMFQtSWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-19T01:02:19+09:00",
-   "keywords": [
-    "原沢",
-    "原沢敦美",
-    "山中",
-    "当選",
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "4ba01658c644961d",
-   "title": "身柄確保の男（50）を殺人容疑で逮捕 東京・福生市 路上で男性刺され死亡",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ISVVIS3FIQl9fcGEtX0k1SUd0RmZuanRWd2xFLXdvZHpRUGdfYVJkXzJDdkhfczF1WXIxUXFGWlUwSmlhQXZROHY1UTMyZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-19T01:01:00+09:00",
-   "keywords": [
-    "福生"
-   ]
-  },
-  {
-   "id": "e996c325a80ba547",
-   "title": "紅葉が彩る活火山と“神秘の湖”「オンネトー」アイヌ文化が息づく“北海道三大秘湖”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1keHJockcwcXRHUVFaaUV3ckowRm1qZWdvTXFFM3lrOTkxNXFsXzJhWXBqX2VuZVd5dF8ydEdNWVVnX0hTazg5RmplN1BjSDF3VWU4SzhiMS1Lc2NYODJmQWJkTVBQZmtQR2Y4SWk5bGlXZw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-19T00:58:14+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7da11bc5eb5aca7f",
-   "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWWJqZzhEREVpOWNOTlVfOGZIcUlfU1RsY0RoeFUxTU1PZlNTTWczeU56MzlWcjJUQWszN0tZWEplNGFuTnZrdy1KeDFkOUNHX3FYNnRTZFV6MHZydHByOHhkR1VmOFkyWWl3QUZmQVB0UWdCYlNpVGp2WlFqWms?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-19T00:57:24+09:00",
-   "keywords": [
-    "アジアパラ",
-    "開会"
-   ]
-  },
-  {
-   "id": "aa6ccab49793722c",
-   "title": "住宅に車突っ込む 男性（74）死亡 静岡・浜松市 住人男性は軽傷",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LMHFrdEZ6TzN0eDFTNnViS2VxVTZGVTlYMlMxQjN1WDg4aVk2ODQ3TlhrbkxmLXF4N3NVNWZoVkZ1Y0J5V2FsblppX1FGdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-19T00:57:00+09:00",
-   "keywords": [
-    "浜松"
-   ]
-  },
-  {
-   "id": "b5dde1fc7ebae238",
-   "title": "天皇陛下が名古屋で「アジアパラ競技大会」の開会を宣言 秋篠宮ご夫妻も出席",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWRVFWSExOQnpxelltZm1BTlpKM0E4VWNrOVZwc1BicExMVFBlMmpCVmV5cHh0XzRZdE9GZnJaYWZFYTY4Q3FpcUNqcnJrZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-19T00:57:00+09:00",
-   "keywords": [
-    "アジアパラ",
-    "開会"
-   ]
-  },
-  {
-   "id": "8e20acb321838408",
-   "title": "アジアパラ競技大会開会式、天皇陛下が開会宣言 名古屋",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RdlNPR0NIRS1xSXViVTBCWlZBZnprREZCZXRKMkR2ZkoyOWtodGNIMXdFZTZ0a3Awc29nYy14cFNzU3pXWGhScy1oY3NiOUtLWjFSSU12MA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-19T00:54:26+09:00",
-   "keywords": [
-    "アジアパラ",
-    "開会"
-   ]
-  },
-  {
-   "id": "9571123911143bfd",
-   "title": "横浜市長選 原沢敦美氏が当選確実 パワハラ辞職の山中氏再選ならず",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51bS1JcFBZVXJpdmk4VzhJTmdiWlFvaHl4MDJHZXhLcTBrQTQ3ZThTM0h1X1ZvbFV1aW5zSC1pcWdHc0s5cmd4UU9uWF9qdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-19T00:54:00+09:00",
-   "keywords": [
-    "原沢",
-    "原沢敦美",
-    "山中",
-    "当選",
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "92d2109284f5f545",
-   "title": "みやま市長選挙 元市議の吉原氏が初当選 ワンヘルス争点に",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCdFFlcUU3cGxGdl80ZERtSWs1eUdjOVlnMzVRMTRFRGtjV2IxMXBmd1FPMk1keFlJWmJIaG9iQ3gzV2c2YTh1TWVGUlJYdU5zek5XNWdKUWVQRXp0OVFTd0xCU28?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-19T00:43:00+09:00",
-   "keywords": [
-    "当選"
-   ]
-  },
-  {
-   "id": "c3d11f3d7a22f3a2",
-   "title": "イスラエル首相「続投」を支持 トランプ氏、総選挙巡り",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pYmMybDU4R3dJdnZFYmVrWWNHYk96QU5ad3lhNEQ5UHlxOURNVGpWX1MxSzU0c2JiTnpzLWRMbjRrMDBCVUQ1WldCUVRZTVJxeDBTRUJUcExCSTJuOUE?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-19T00:26:03+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5e62149c4855f181",
-   "title": "「人×現場力×AI」の経営 顧客との共創で技術に新たな価値を ｜ 日本経済新聞 電子版特集（PR）",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlazVpMUpCYkJuMnh4bGFCRllEMnRGYjFYOTRsZkdWWXB5d0lxNm16ay04d1drbndxNGE5WTQxd1VmZFBoZ1NabE11cm1tUEtlY3c?oc=5",
-   "source": "ps.nikkei.com",
-   "published": "2026-10-19T00:12:33+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e8ab98dad00ed8d0",
-   "title": "イスラエル占領下のヨルダン川西岸で入植者が外交官らを襲撃 EUが非難（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jLTVVbV9tRi0tbzBKRzBPZ3BPN2J3LVU1cGZIbXVKMTVBVjU4cVIwazgwdlhsVmxPRlhBZUQxNkJCc3NxSS1mQ3lVRDNmZDRtaG1uX3ZOYmlhdmVnNTNpYjV0dEY5eWl5cTZUUklWTXRNZG43eWR6VnVLT28zMHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-19T00:05:04+09:00",
-   "keywords": [
-    "襲撃"
-   ]
-  },
-  {
-   "id": "d83d946b36f1c31d",
-   "title": "【特別企画】メッセージングセキュリティの最新動向がテーマ - JPAAWGが年次イベント",
-   "url": "https://www.security-next.com/191246",
-   "source": "Security NEXT",
-   "published": "2026-10-19T00:02:33+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a9e78ce66327a33f",
-   "title": "イスラエル占領下のヨルダン川西岸で入植者が外交官らを襲撃 EUが非難",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hY1gtRWhOWkNMZzdYTjBKUlRjVW1pdE4yM1FOZng0SWJjSHB3MDhqWU9pc3RzQ3FVZXNiY2VXSEtXWmdTbkV5ZFdrcDg1Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-19T00:01:00+09:00",
-   "keywords": [
-    "襲撃"
-   ]
-  },
-  {
-   "id": "acbc752fcb34c5d9",
-   "title": "ダイキン 5兆円企業の盆踊り",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eWhIdk05OUp2TXlmaGZWOG5GR0xTS1Z5c3Q0SWRwMnZqR1pBZktxU2I0NEVQaWxRWUV5QTFTU3R6VndDbGpYaUtEaU9iRjQ0VE9nUDF3bjBtdw?oc=5",
-   "source": "日経ビジネス電子版",
-   "published": "2026-10-19T00:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "90773307442e30f4",
-   "title": "管理職の中途採用、過去5年で最高水準に 即戦力ニーズの高まり映す",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHQ3QzM3eHByOFRTMTVNOXhac1ZaMWdpaEtwMFI5ZEJDbHhFYWRGVDRsSG1LZUtUTTQtak9OWFRWdTBsZDBOU18xaU9tWFVUYzlFbjJ4S0NCQ2xBM0JxaGcyQ1A4Nnlaa0Y0TEN4WTNURVRNOEJWS2c2NWZJb2k1UVNQaTJsV2hORWs3dQ?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-19T00:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b2b9cd417e9f3624",
-   "title": "世界経済を揺さぶるショックに備え続けよ マーティン・ウルフ",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IdWNjdEhJRHVUUmFKRmN3cWpjaWN6dU1tMmowMFExZ3Z1RUcydFR3T3JhaUd6d3o3b0FQVTB1YXplVTEzSjc2TDZrMGVhb2FCaVJKbDZjaGRPQUFERmFkOC0zY183SjZsNllqV1NpNW5YUWt1ZGo0?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-19T00:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7c9c9fd932b722cb",
-   "title": "「若手が飲み会に来ない問題」Z世代マーケターはどう分析？",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2VJYzdpc2drWldyUlU3aExYeXVnZUxRUHE0SXBENHRNYkU2bWRqbVJPcmV4eHNzOTROLUw3YnpVZ2xCbXZDajVsYWlKMlVqWGtCX3loOGx5ckNSQnpzbE9FbnlqYXhFbFNyS2JwVmZwQWZxNlJUYUlqczlVeUotaTNXSTlRY2pkenQxbXUwOA?oc=5",
-   "source": "日経クロストレンド",
-   "published": "2026-10-19T00:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f01807f0f05ff0f5",
-   "title": "Disney+と吉本興業が挑む「お笑い×ドラマ」の新境地",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnFPRk5zd2cxLWIydHNTWGtBTnhFTUhGeUVfSEp6V3BOeWt1NkFvc0dwS1FIUElMTmRLVk1MTmo3OWEzZkFMRzI2QVVkNTJpZ0Vqai1tSFRHUGl3THV5MjFkaGozQW9yTmtpVjltSEFYUklWczJ5V2phcjRZV2ttZ1lWdnEyN3MtcHQw?oc=5",
-   "source": "日経クロストレンド",
-   "published": "2026-10-19T00:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c850029759262a90",
-   "title": "辺野古転覆 高校生の遺族が献花",
-   "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-18T23:55:38+09:00",
-   "keywords": [
-    "辺野古"
-   ]
-  },
-  {
-   "id": "4c05b07198073f07",
-   "title": "声や肖像 不正競争防止法の対象として明記検討へ 経済産業省",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261018de61309",
-   "source": "NHK 主要",
-   "published": "2026-10-18T23:44:18+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2b1c3123b12e9fbb",
-   "title": "独自「世界が15度傾いた」クマ襲撃で眼球破裂 神奈川・山梨にも出没…親子3頭映像",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WHRYZTJyN3RBWWxjX0g3ZWozZDFiUlNaTXZvM3kzeDFYcUJYUG1OcEZiaFpOOTY1ZTExaWdjbEFpYVBXRXl6cFIteC1LSjNoU3lyWXJLNzNFRTBYRERYdWQzeUFGdmRfMVBROHhBV2pZUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T23:30:21+09:00",
-   "keywords": [
-    "山梨",
-    "襲撃"
-   ]
-  },
-  {
-   "id": "a984fbd8254b0d93",
-   "title": "トランプ氏に逆風 中間選挙前に過激発言＆ロシア寄り姿勢も 勝敗のカギは「軽油」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BelhwdnNaNnhZVFBsTHlxcWVPT2xoQlA4QnNTZFh2Q2dHWUhfUHNuSWU3MEVFWTlkcU15eVdjZ1Ffckc4a01SREE4Q0RhVi1BQk95X0lSN0JSMGo5WV9IQVpPaHJrOGxMR0FFaTR4MmZfQ1JsQk1ueXl3?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T23:30:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "36815f4391be08d8",
-   "title": "何してんの！？ 怪物FWケイン、ポジション無視→最終ラインから“超高精度ロングフィード”「そこから打つ！？」「システムは？w」王者バイエルンの“流動的高速カウンター”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKXzlTcG8tRGlFZzNNT0xqSDd5dUZsMkppTDJTckhyR0R0YjlqdGpnWUtLOUIydEY4SDVSNW54YUhHVHU5bGpEcC03bV8yTERMUGpVUTZaM3VOa3dvOEtqVi1XeGkyZTJ2eHZRU0ZCclk?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T23:30:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d5250f3f148a0e80",
-   "title": "「県1位校」相次ぎ敗退 高校野球",
-   "url": "https://news.yahoo.co.jp/pickup/6599296?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-18T23:27:10+09:00",
-   "keywords": []
-  },
-  {
-   "id": "91a7e33a240cea64",
-   "title": "鳥取訪問の愛子さまが伝統工芸品の絵付けを体験",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16SEMxWXRHVW41LTFKRzEwdFB0U0JDbEJBTWNSWVlGSVp3REphbjd4Z00tTkE4SmRHUEcyNWZwYVg1SWNubUhEWV9yQUowaTRBWWxUbE9XWTFWMDdibjJPMWtpWXZIZWltZkxxLVZrNGprUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T23:15:36+09:00",
-   "keywords": [
-    "鳥取"
-   ]
-  },
-  {
-   "id": "64232b219099998f",
-   "title": "ローマ教皇 退院後初の集会で感謝",
-   "url": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-18T23:14:55+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3a25659dca5114db",
-   "title": "東京 銀座で交通安全パレード 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NU2RsUkNCZ1paYmVlY0NvNHhCSVhHcEtwYk9SVnRGbnpOYU9NdzRBdDFRdHBhVDR1el9zRWZGSWM1Q3ROa01kZDhvYnItWUZLa0pueGxfc0E3Rm1pQk9xbnFpdzVPOS1xMWxZXzl4bTROUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T23:14:37+09:00",
-   "keywords": [
-    "銀座"
-   ]
-  },
-  {
-   "id": "b0c4e2c40124dc77",
-   "title": "東京 銀座で交通安全パレード　警視庁",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajY2aldPazRUdFVSTlRfTzVEYUNDSzJSOWl4N19kNUxsclFGMUdpbTZRMVdpQUlCTTdBNk96bHZFZGRjUGN2SUIzZThzano3ZTcwMDNfNjBBNjNZX0F2YVgzdDdid3ZFWGVTNl93NjdJZC1MWUdpQ3B5NFpPMHhvY3hBUm5ib1FZMWNVLdIBjAFBVV95cUxNajY2aldPazRUdFVSTlRfTzVEYUNDSzJSOWl4N19kNUxsclFGMUdpbTZRMVdpQUlCTTdBNk96bHZFZGRjUGN2SUIzZThzano3ZTcwMDNfNjBBNjNZX0F2YVgzdDdid3ZFWGVTNl93NjdJZC1MWUdpQ3B5NFpPMHhvY3hBUm5ib1FZMWNVLQ?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-18T23:14:00+09:00",
-   "keywords": [
-    "銀座"
-   ]
-  },
-  {
-   "id": "0600ea22d7314253",
-   "title": "【詳報】パワハラの前職及ばず 横浜市長選",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zQkRrc2xXZEZsSHN6dkFCanlIeC1ZVEROY3g4b0VBQll5WF9XT1ltY3ltQXpNR0puYnVGWTlLLWw0VE1KeWU0TEx3QQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-18T23:12:23+09:00",
-   "keywords": [
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "b35d2baa8656d293",
-   "title": "【詳報】横浜市長に弁護士原沢氏 与野党支援、6氏破る",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ibFRXWkhldHVxeEpCYndkbFk1N01DQjZDU0NfTlVUR1ZieWJ0bmlRYW1wTUk3bU95SjlYVkN2M05qbEx4d0xrU05oWQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-18T23:07:55+09:00",
-   "keywords": [
-    "原沢",
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "fdd4d3217e908bc2",
-   "title": "熊本県で最大震度1の地震 熊本県・八代市（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lWDhKZXZoM3pGa2lyeThOenRVb0lWNXNuSEhlRUJ1aFJTOEw2eTJ2WEFvYUp1a1E5bEhoUTFxSWc1X3JQVXI2T25fdjFVVTcwSmc5a19GVXg3c2tuTFRyUkt5clAxZnc2cTNYemk0VWhoNHgzdUtZU1hLc0MzMkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T22:50:25+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ca4e7693c245c5e5",
-   "title": "熊本県で最大震度1の地震 熊本県・八代市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jRUNFeXFvM3ZOUnBlOU15THZEb3RNa0ltTzNJVGEyTEVKQnZjSmwwdjJRbnJ5MUI0dV9uTTFMQ2lwaU94MkRIbkJSNkJKdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-18T22:49:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "49319182803dd535",
-   "title": "「なんだ今のは！？」新怪物・オリーセ、誰も読めない“超絶ダイレクトヒールパス”「背中に目があるんか？」一瞬で相手守備を崩壊させた“天才的プレー”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SckpJenhnMHltWmtvdk1UZXF0X3ZLMEhVQ05yLTdhckp6bk1hVHpyc0RpZWljeF9vZjJNcUVNcXdMbldzX280Njh1aE84NzhsTEtoa29jZ3RHNXc5Yjc3U3hRX3lSMXdtMGNrWVJST3c?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T22:45:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4e8ce4a3cbafd239",
-   "title": "カーセンサーの利用停止 復旧未定",
-   "url": "https://news.yahoo.co.jp/pickup/6599294?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-18T22:44:18+09:00",
-   "keywords": []
-  },
-  {
-   "id": "63fbc520f46603d1",
-   "title": "【ホルムズで船舶攻撃が激化】米軍が大規模攻撃の“計画策定か”フ―シ派は攻勢拡大",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMXZWU0hMdDBFODBmeUY0T0ZieGxfQ2VucmprQUNleE9YOTRwcnkwNU15V0p5U1c0TDlsUnZyOTZGOEVsN25ZSE8yOUxKUENGemVkTDhSNmtvSXYxM0dnSmdrQ09zWXBaUXE1cVdfOHlYYXozOC1YMG93?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T22:38:24+09:00",
-   "keywords": []
-  },
-  {
-   "id": "645d0ee4e9813ebf",
-   "title": "【簗氏辞任も続く閣僚問題】野党が追及“高市氏の判断と任命責任”政権の危機管理は",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LRjZqRnJEN1JKVmdjbFBVSkRNeVVNb09MMm8zdUFBekNPSWpLNTY1eGdKZzl5aGtCYzJ4VzdxM2hzTjU1dVlLSFkwUFVJTE43M0FuRmJYTlVUWDlCd21TQThQa0VWSVYydGhlNU41ZkRHNUk?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T22:36:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f14e06431638c318",
-   "title": "アジアパラ大会が開幕",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3VGRaY19sQXZmd1ptVjJwd0w1Y0pmQ3RZV2JIVlotUVFPNEM3S1l5QkFmT3ZlcFZBRktOeGxWaHpZcklCUzBwTEdiX3h5dmF6UjFHY1A5NA?oc=5",
-   "source": "習志野経済新聞",
-   "published": "2026-10-18T22:35:06+09:00",
-   "keywords": [
-    "アジアパラ"
-   ]
-  },
-  {
-   "id": "035c3e87227d2bec",
-   "title": "落選山中氏、「反省」届かず＝原沢氏「すぐに仕事」―横浜市長選",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TQlh2YldZa3JKcDBPSzdEd0J2RUd3alBzam01cjVJZTJUYmItbTQ0TTYxZkd4SjlDWXhLaWFLSTFaOGtZU1dkNEdNVkFYc3I1ejhZVg?oc=5",
-   "source": "時事通信ニュース",
-   "published": "2026-10-18T22:34:00+09:00",
-   "keywords": [
-    "原沢",
-    "山中",
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "6351191c1c678df8",
-   "title": "開会を宣言される天皇陛下",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fMDI4WHRidlM0ODdJRUVVMS1KU2FkRVZVV0dzcXVob2o1dGdzenFUTDZuQ2NSSUZBX01OekRobVZnRU9ZQnVMd29YcFZ3SlNHZTB3Zw?oc=5",
-   "source": "伊豆下田経済新聞",
-   "published": "2026-10-18T22:32:55+09:00",
-   "keywords": [
-    "開会"
-   ]
-  },
-  {
-   "id": "275c4f89ee7bf5c7",
-   "title": "横浜市長に原沢氏初当選",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqNm50Q0pQejVnaTAxOTdoVzF0d2JlQmRzZWM0MWN6QXRwUVVaT3ozdS1icERqbkhYQm5hci1yWFRVc2JrQTFXeThkTGN2WDBvYnBnRg?oc=5",
-   "source": "伊豆下田経済新聞",
-   "published": "2026-10-18T22:32:55+09:00",
-   "keywords": [
-    "原沢",
-    "当選",
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "d2bd44d627ddabc5",
-   "title": "日経平均、週間5.37％下落 16日は898円高、米NASDAQは2.14％安",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90MGJHbUxTaGUteTQ4Q0U1ZW9TeF9OWWdieE1FODZQaUpuTEl4dldoWGtocVRZTThMajlxMURYM1gzUG4zZHl3S25DQnNwS2phazBvS2hXZjduUWFUQzVWakdKN2M?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "published": "2026-10-18T22:29:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e5b70db5682b04ef",
-   "title": "【横浜市長選】山中竹春前市長コメント「力不足、本当に申し訳ない」「今後は全くの未定」 市職員には「ご負担を…」",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNZXllaW94blplVzNpYXZHNEVsY1R4dEc1NjhXbkxYYU9LMDE1MGN3a2NfeFdKSS1nNE1HSzUyU2hoc1drbC1LZ1NxNEI4YUFiTW9iY1FmYmRVaE5TWjdraXpSRGptTk5Xc3hqRmxJSS1BSGc?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T22:26:00+09:00",
-   "keywords": [
-    "山中",
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "3d311ce8e80dcd3d",
-   "title": "開会式、空席目立つ アジアパラ大会",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3SHZVN3MyRnNtVGF1SGF0UXJxS1VnUjVjczliZVVoN0lBQy1RcVlCYWp0amZlVXNUay1EQ2d4d1ItQkpCekNfYTF3ckk3dGpPTmNZa3RoS3BnQW9rMXc?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-18T22:25:17+09:00",
-   "keywords": [
-    "アジアパラ",
-    "開会"
-   ]
-  },
-  {
-   "id": "b82b1b96e3668648",
-   "title": "民家に夫婦の車突っ込む 夫が死亡",
-   "url": "https://news.yahoo.co.jp/pickup/6599289?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-18T22:23:25+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5c8b1779d106f520",
-   "title": "内閣支持率ほぼ横ばい57% 読売",
-   "url": "https://news.yahoo.co.jp/pickup/6599288?source=rss",
-   "source": "Yahoo 国内",
-   "published": "2026-10-18T22:21:29+09:00",
-   "keywords": []
-  },
-  {
-   "id": "cbe5c1dfa48a231d",
-   "title": "コミックシーモア 再開見通せず",
-   "url": "https://news.yahoo.co.jp/pickup/6599287?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-18T22:16:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9e9839a5345adbde",
-   "title": "NYダウの指数情報・推移",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RX1F0c3NoRW1WOGhKVzFzd0tzWTlBS0NtMVZFbUUyZm14Z1Y5VWhzMjctd201Y2RMTFhBSGx0Rmdqc0ZFY1R2VzZUUG9PVjdUaXc?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-10-18T22:11:03+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9a791a8359962af3",
-   "title": "震度1 福島県中通り 2026年10月18日21:58ごろ 地震詳細",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUpLOGtLUk1IUVRkYUw2WFkySkJnNWFuV0NmbWV1aTJZdTlkZDVtQzJ6bnpPUWdrLWJTZGJrZjUwLTZKcGFJVjhic2NLWEhrU1JpcVA4SWZ4VmxhRUV4ODBCTnRtc0R0el9iM2g4T1gteHFCUmNadDVfRWVMUTVENUNB?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-18T22:05:31+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b66c4863ef44c742",
-   "title": "「読みたい本を届けたい」長時間滞在型や配達・・・今、自治体の図書館が熱い！",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwUUZDRnU3T2lqeThNNEYwSUZ4b1N2X0NpV0kxTFJoZm1reTBWR0xpcDNsZnVza05jM0kxRDZvUkFLeURJa0pId242WDNKTVUxd04xX1I3YTA3M3J4akh3?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-18T22:04:25+09:00",
-   "keywords": []
-  },
-  {
-   "id": "37860892832e4c04",
-   "title": "福島県で最大震度1の地震 福島県・田村市、棚倉町、浅川町、いわき市、川内村、大熊町、浪江町、茨城県・大子町",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU2p6M0RYR1lwbzRyOTJDalNzUUt0QnBoMnhTV2ZSMlIyZnNrYTFCaWdaX1Fkci1jcHZEaGpHZThNLTBsa29VYXI4YzdBd3Y2bzJTWFJUSjJlMjRDNXlqLVNYUE5MbDhOY0k3T01iM2VvdVZuQkF0QTNFbXRmc00?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T22:01:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "69f42a6e35ce2deb",
-   "title": "町田、快勝 Ｊリーグ",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5aU1wNDZZS25jTWNRZFA4V0hsb2xQQ1JBbld5blJqYlVBY1daOENKTkJEWVlsZmhSV3huY3BoRUNKb3h5YUhpV1dMNmFVOVpaN1lB?oc=5",
-   "source": "周南経済新聞",
-   "published": "2026-10-18T22:00:52+09:00",
-   "keywords": []
-  },
-  {
-   "id": "cecac56a565848df",
-   "title": "「退場でも仕方ない」足裏が頭を直撃…東京ダービーの一発退場劇が物議「あの位置でハイキックって」「危ないとは思うけど」",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lVzF2VVpocDM5SjFMRVVjc2FqNFdfWk9tQldIRTU3ejZSWWxWVHFJZkJpTTREVTNDRGFkTkVTdlpEY2dvT09YYXZrZ3o4YW9qSUwxZkc5SnVXeXhQMDNfN0xlYjZHS2xuYm5sc0QtQzE?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T22:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f09df7708bffed42",
-   "title": "どうなってんだよ！ なでしこ谷川萌々子、爆速切り返し→衝撃の“強烈キャノンシュート”「すげえええ！」「強すぎやろ」強豪ドイツをビビらせた“豪快ゴラッソ”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLeC1pa3RkUmZ3YS1mRS1lZ3VqRllfTWtZa0VMYXl5eHB6ZG1ZdnpsQXBlSVFHOU5wYnRGYTFtSUlwUG5ld2JwSXN5Wl9LTjRTS3k2R2lKdm5oSFI1NXdHOTU4ckV3M213amNtS2gwSko?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T22:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9f937bf9921cc094",
-   "title": "【地震】福島県内で震度1 福島県中通りを震源とする最大震度1の地震が発生 津波の心配なし",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xNzQ5V2JMeDNfMk9FWEdROTZQc2g1dHZFZmhQbFFxM1RrMEY2d2NsWlVnVk1MM21DTHR0b2tRNmFjX0Y0NDFJMXVZNFdSQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-18T22:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "298c2e7afe7f8135",
-   "title": "唐津市の国道でオートバイと大型バイクが衝突 運転していた男性２人が死亡",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ELWZzTkJKS3Y4SXJMYVpsdTdWbGl3YTJzaGZnbGlrclVETGdRaFRaUXNsaWRXblJMRThpSEFRUDFUSkEwOHB1TmVsSzJ5QzF3ZGQ5MlJZMA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-18T21:57:00+09:00",
-   "keywords": [
-    "バイク"
-   ]
-  },
-  {
-   "id": "72fefed106eac41c",
-   "title": "【台風情報】【週間天気予報】今週後半にも\"非常に強い\"勢力のまま沖縄の南に達する予想 台風30号 最大瞬間風速70m 気象庁18日午後9時45分発表最新",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tTHE5R1BSYnJKVTZWaUhBQ1BOR1Z2eVhuT05ReEdFSlFCMDdpSThuSDdtT2h2WjJsSmhKbl9fT1k3NHhKU1FYaDBHOGk1LTBEUkZfRUh6dWUtTkN5T1V0Wg?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-18T21:51:00+09:00",
-   "keywords": [
-    "風速"
-   ]
-  },
-  {
-   "id": "bf1e68bde066b47f",
-   "title": "蔵王・ドッコ沼の紅葉が進む 3連休の最終日は多くの人でにぎわう（山形）",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92RWVKV1duOGh4UHcxcXpWRGZNUndFak9XTTN6ZmN3cXFrdGl0VF9nWFo5ckRpS0lLbEEyRnpyaERlVVo3RW9ReEcySzBSaE5zSzk3YTFaUldmRV8wMlhv?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-18T21:40:13+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a76799e3c9ef2af6",
-   "title": "横浜市長選挙、無党派は原沢敦美氏に最多35% 共同通信出口調査",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jOGptWG5hdVo5QUpkU2tBMkcxWTRPb0hLNkRJRzJkaXR5Z1JJNG9JR1VWaWxxVVZ0MVQxSDByLXY0NnUyVU9TU3NETzl1bWUySDl1WkpUc2FBYWhMNUw0S01fa0V3UWpTaHo1aA?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-18T21:40:00+09:00",
-   "keywords": [
-    "原沢",
-    "原沢敦美",
-    "横浜市長選挙"
-   ]
-  },
-  {
-   "id": "f14893a84e95e40d",
-   "title": "【台風情報】13年ぶりの台風30号（チャンパー）最大瞬間風速70m/sの“非常に強い”勢力を維持し沖縄の南に進むルート 進路予想・雨と風のシミュレーションを見る（気象庁）",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSjRISG1ZRDVvWjVJUHQyT3J4blpGaDNoQUFxcVlUWXlKZzFmNkZZM0J4dHZ4d1ZvWVc1REh5OVVtS1o1RE1uMTlKZmRGTnJZNnowXy1VaVE0UmpFaFBDcg?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-18T21:38:00+09:00",
-   "keywords": [
-    "m/s",
-    "風速"
-   ]
-  },
-  {
-   "id": "408f13f91db21755",
-   "title": "橋本愛とユニット復活 のんが希望",
-   "url": "https://news.yahoo.co.jp/pickup/6599286?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-18T21:37:50+09:00",
-   "keywords": []
-  },
-  {
-   "id": "990f85f1774c4105",
-   "title": "自民 萩生田幹事長代行 高市首相が総裁選立候補なら支援",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261018de61281",
-   "source": "NHK 政治",
-   "published": "2026-10-18T21:30:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "13f9aa272765d2f8",
-   "title": "「市民の厳しい受け止め反映」と山中氏",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lUmZKS0JCSEdfVVJwSVNwVzI3NXJ2bTl2dTJDTFVBTGw5OVctT3hIbzlxbXNXekZyMGxPNmE1cmhINjhjOXB0amxBY3RIbjl6bkhCUEt6QXVwUnFhbm5jWGJtYw?oc=5",
-   "source": "nippon.com",
-   "published": "2026-10-18T21:24:32+09:00",
-   "keywords": [
-    "山中"
-   ]
-  },
-  {
-   "id": "cb91331d022d5241",
-   "title": "鹿児島県で最大震度1の地震 鹿児島県・鹿児島十島村（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWXdIX1pacTVMRTVCNzdfQ3JRUVp0SXgzbXEzdGROUjB3TlRIOTlNRldBeXBZYlhxTE50cVJ4YzRMSFQxRWZJTVBCZlV1RDVwblkxclQ2QmNneHVlQXJXX0Z1djEzbWNIM0x5ODRnNnJ3RUhvT1Z6REJwWFBGX3c?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T21:22:13+09:00",
-   "keywords": []
-  },
-  {
-   "id": "158c1d05d742f54b",
-   "title": "鹿児島県で最大震度1の地震 鹿児島県・鹿児島十島村",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LOFBtY3lqZ2NRSzhxb3otcjBBcXYxdFFITy1vRVhoX3U4RTdLX2JSSDdVRTROWmg0XzRZUEh3Um4ydlJiQ3V0a3R2b1IyQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-18T21:20:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0b1bc38d26486a49",
-   "title": "スバルSDV、20年代に投入 高度なソフトで価値向上",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uR1RoNm9pR1FYVk1MeGcxcXFKM2ZBc0FoWjFoQm9ESm9LdC1QRG96d0VOVEZQX2pFYlJLQ2ZjZE5xVEpyajNXck5tVQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-18T21:19:00+09:00",
-   "keywords": [
-    "SDV"
-   ]
-  },
-  {
-   "id": "284d83cec8951623",
-   "title": "横浜市長選で当確 原沢氏どんな人",
-   "url": "https://news.yahoo.co.jp/pickup/6599283?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-18T21:10:18+09:00",
-   "keywords": [
-    "原沢",
-    "横浜市長"
-   ]
-  },
-  {
-   "id": "336667ca6978ae71",
-   "title": "『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW8wZlpLcjZhUHhMdkl2MlN4OG5VcUpzT3V0a3N5eklRWVRQUUVKOW4tTHV2bnFmenp4NW81TzlERkJQb015QzBiQVVCRWdoQVZuV2E0TmhDWkdwckNhVkFPUVFVcU9hbi1IUERobnRjV2QxU2h1aTN0Mm9sREgySlBBVdIBhgFBVV95cUxNbXJBeEx1anctNHRqVWdybS04eDFvQnRuQmRPWGw3V0lBWkstMFg1X1VwQmFOaEU2a0JWYUlURHVtMnNXcWJsRkZrR3lleG9UeEtpblhoVl9xWnFsZmRBVExXQTBjVXdBVVlVNXlwWjNQaEdXMGYyQ19RcTBkN3NFRmFjMWIydw?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-18T21:07:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "12798152b961f4f1",
-   "title": "【 今後の雨 】19～20日は激しい雨や突風に注意 21～22日は北日本・東日本で大荒れのおそれ “非常に強い”台風30号は沖縄の南へ【23日(金)までの雨風シミュレーション・18日午後9時更新】",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VMWFFU00zV3JKNFhUbVB5T0ppSHdPSVdaT052dV9RVWVlY0FmWXFwVTJsM19mZ1FIS2NKUjNxcEpPWG1udG9lS2U5U0VSRWkxellhNWNQa2dOX0dacU5iNXJ2b1c?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-18T21:03:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f93ee8f04a9ca5c9",
-   "title": "横浜市長選挙 新人の原沢敦美氏が当選確実 前市長の山中氏は再選ならず 投票率は午後7時半現在で28.61パーセントと前回より上昇（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UR2xfb2pvdDFCalFMZzJiclFmSHBsZGFVQUdWREFjQWtuWmVyTHpfd0xWNXVtdlhwNU9pc0RGWW5Hd0FHMTZMLWlHVGl0N21GMHVaR3JpWXpUeUNILWZMSFc5dVZ4MGtmUW9WUFp5RDVka1BlZUY5dXdHMGtSNVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T21:00:27+09:00",
-   "keywords": [
-    "原沢",
-    "原沢敦美",
-    "山中",
-    "当選",
-    "投票",
-    "横浜市長選挙"
-   ]
-  },
-  {
-   "id": "cc3e3491f1bb93ad",
-   "title": "宮崎県で最大震度1の地震 宮崎県・日向市、宮崎都農町（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndGwxZGNsRHdDdlc0NDcyamZtRlFMb0EyUkVmUXZJc0ZLeVNMODg0MHNPTVY5VmtOVkNKbGgxSkNUM3Z2MXBtRFh0aUtxcWtDeDBzVjVUdUo0Vm8waHR2djFGMHc1UzVLMzZHUHl2YnQzZi1McGxVXzc2MjR3c1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T20:58:12+09:00",
-   "keywords": []
-  },
-  {
-   "id": "857cbd46f5078021",
-   "title": "宮崎県で最大震度1の地震 宮崎県・日向市、宮崎都農町 (FNNプライムオンライン（フジテレビ系）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYklQRWczYVJLa29rOEMyeklZbFpTNTdlQzBlWTJjMkpDQ1dDS0ZfTmpzeFNzV1Ffa3YxS1Q5cGNyN1RFNVJ0QmY1SlE1SG9OUWh6ZFlKMERUUE12cnNJRndma1Q3X1c4QkxqYk9hZHp4d2hYVl9IUGx3NU9fTGhXYl9ZMFFwcEFLNjBnSWlB?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T20:57:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1e9608132e1c50c6",
-   "title": "埼玉・秩父市の山中で猟師の男性（59）がツキノワグマに襲われけが",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CNnhkQjhkaTN0eVpCUzRqcWtKZ3NnMUVMcDBHTHByYVpnOFhqREJFTEpPdjMwWVkwTktQaDdtQS1sSG9XTzJ4XzRtcnpxNUVZOFlmVWM5UXBaTENsaFBnajQ2WnFtMzRCdlhQVXl4SzZnUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T20:56:40+09:00",
-   "keywords": [
-    "山中"
-   ]
-  },
-  {
-   "id": "cf7fe3436b6b19a6",
-   "title": "【地震】宮崎県内で震度1 日向灘を震源とする最大震度1の地震が発生 津波の心配なし",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JXy1NZVd6dl9PNmlueFRoVENOY19Wa2l1SnZtUGIycFVpWnMwbFZuaC1lVzFXOWE2REJkcGktZEY2QVdicHFCWHN1VzJYZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-18T20:56:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4bcc0ca3079ccc90",
-   "title": "【ジュディ・オング】歌手か俳優かではなく「私は私」を決定付けた事＜芸能動画＞",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oSC1Kb3VHOEpPWFdoZE8wUzhzUFF2MGM3aVFsOHNocnRaMEpyVFFQRnRUbXJhOWJrQUlOZTd6cTRiVzNZQ2Q3ZWJacmdzOXhUb3MzeXRjbnFaeU1aaG01NWpmX1FoaHdSTWNIdERhekU?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T20:45:06+09:00",
-   "keywords": []
-  },
-  {
-   "id": "51c730ca5cad2eed",
-   "title": "カナダ陸軍基地で大規模火災7人死亡 ガス管に実弾が当たり爆発か 近隣に延焼も",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XU2VJZ2hzNkZNMmhKX0tWNmJxRmFOOGVZZ3NqWlVzNGdyb2hFbHgyRnVaMUZ0WDVYMmFWQzUtNWlZTkJXUXk3UU0yczh6bHB6RnZkMzlCRERlXzhES2F4RFJTQWZzaE1KSVNKak5rbUFEWU5YbXhMSUFn?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-18T20:43:41+09:00",
-   "keywords": [
-    "カナダ",
-    "基地"
-   ]
-  },
-  {
-   "id": "e2472aeec99f9507",
-   "title": "長雨や日照不足の影響 農家苦悩",
-   "url": "https://news.yahoo.co.jp/pickup/6599279?source=rss",
-   "source": "Yahoo 経済",
-   "published": "2026-10-18T20:31:01+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8c81cac30a150ae2",
-   "title": "ドイツの空港でフェンス破損 車両進入か 現地メディアはロシア貨物機近くと報道（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UTDdrb3MtZTE2M0dSOUpqRzc3U0g1bk9UWlNaQnZENWViNHJDRjJQUnFoZC10ZG43eGRyeDh3c19oMkFxcVVra19DOFJzbi1QVGJrOG9DV3BPT2xkVlF5R1VsdW5CRVF1aGlNdC1hbEVGbjZHSThIR0d5djRuY1k?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T20:30:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2aa0cef865a7bf3b",
-   "title": "ドイツの空港でフェンス破損 車両進入か 現地メディアはロシア貨物機近くと報道 (FNNプライムオンライン（フジテレビ系）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnBTc2wtYlRBb2dBZ2V1cXpZNDNUTWQtVkZHYXhtTmxzT0llYzBfYUQ0RTRJSzlETEk0cm9mQlFTR0E3V1Fienl1VVhQT3FVTlQxZnBVWjMwTDZWdnEtTEUyNFBzTnpHS1JvTkRlaTlJRWV5MUFKSm9WVWhhdjZldEI4ckZRb1RkS3hDQ1VB?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T20:30:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0db624a161e39b54",
-   "title": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261018de61247",
-   "source": "NHK 主要",
-   "published": "2026-10-18T20:29:42+09:00",
-   "keywords": [
-    "カナダ",
-    "基地"
-   ]
-  },
-  {
-   "id": "7772dc8045de07cb",
-   "title": "【大阪府】10/19の天気予報 (FNNプライムオンライン（フジテレビ系）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0R0YVNWWlBlR3pMYUpaaXB3bzBadU9ESWowOGgyUlg2UUVrWTRPTzAwbFR0XzdHaUpJaXlnN284WHhJUUxNRXBFeDU1VTNKU2Q5amhoUTFPdW4zZkg3d1E1VDctM0lDc1Q1dTBHMWktelpydVh0LW5aSjdaVzFTRVFCNXFOYjBJLWwzY1lR?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T20:24:29+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c78607bccbe8eec9",
-   "title": "横浜市長に原沢氏初当選＝前職・山中氏ら６氏破る",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MS1M3aVpPdDRQZnZ4V1A1cEMxR0VIeTFrcUZXaXdUWWJXa2pKaUd2QXdSaVBWUHAwcXVHSVdLeGV5V181dW16ZUdMZVZ2aGVoVk1LVQ?oc=5",
-   "source": "時事通信ニュース",
-   "published": "2026-10-18T20:23:00+09:00",
-   "keywords": [
-    "原沢",
-    "山中",
-    "当選",
-    "横浜市長"
+    "福生",
+    "路上"
    ]
   }
  ]
