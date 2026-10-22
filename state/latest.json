@@ -1,45 +1,45 @@
 {
- "generated": "2026-10-22T08:19:26.627690+09:00",
- "new_events": 114,
+ "generated": "2026-10-22T10:42:00.301456+09:00",
+ "new_events": 88,
  "keywords": [
   {
    "kw": "PHP",
    "level": "high",
-   "d24": 51,
-   "baseline": 0.0,
-   "ratio": 102.0,
-   "consecutive": 5,
+   "d24": 61,
+   "baseline": 0.2,
+   "ratio": 122.0,
+   "consecutive": 6,
    "days": [
     0,
     0,
     0,
     0,
     0,
-    0,
-    51
+    1,
+    61
    ],
    "latest": [
-    "各国でウェブサイト停止相次ぐ＝政府機関、ウィキペディアも―「早急な対応」求める・ＰＨＰ脆弱性発見",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQSC1aVTA1U3B3aUVoaWxNdjhGd1hoMUZ0LXFnajhJNUFmUllaU0cxbEg0ZkwyajM5VTNtTEUtOVdKVWN3RC1CTzJkSE1sWnd5U1YzSFRZMUg2RUY1MmhpMjNsZ0labC1UTVVSQlBBX1UtcmFUVmJyWXEzaljSAYIBQVVfeXFMTThMaXJTLWQxSk9vVE1ISTBmc2wwLTAzTEVydGZtQVJIaDlIN3RydDI2RG02WlNSd2gyczFqdkJtTHp5TnNQTEFBbnhrTzlBRU9Cbm5uUXlQWDNQTE82SjVTMWlzRENkV2JWbGpmcEZzeHdza3J5LWxPb0daTVRTZl9aZw?oc=5"
+    "PHP欠陥、京都や滋賀の企業などで一部サービス停止",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZ01HVjJNNG5VOHEtSVM1MXdzUlBCcldDaHlEaUFXNmRwNXFkSkRRQVA1LVh3M0ktU2NObzM3UHJvTmRPeGFadlNXZUxUT0dkU0hMUjgyOTFkVVJscS0ya1NId21hRFhEZFMzbw?oc=5"
    ],
    "samples": [
     {
-     "title": "各国でウェブサイト停止相次ぐ＝政府機関、ウィキペディアも―「早急な対応」求める・ＰＨＰ脆弱性発見",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQSC1aVTA1U3B3aUVoaWxNdjhGd1hoMUZ0LXFnajhJNUFmUllaU0cxbEg0ZkwyajM5VTNtTEUtOVdKVWN3RC1CTzJkSE1sWnd5U1YzSFRZMUg2RUY1MmhpMjNsZ0labC1UTVVSQlBBX1UtcmFUVmJyWXEzaljSAYIBQVVfeXFMTThMaXJTLWQxSk9vVE1ISTBmc2wwLTAzTEVydGZtQVJIaDlIN3RydDI2RG02WlNSd2gyczFqdkJtTHp5TnNQTEFBbnhrTzlBRU9Cbm5uUXlQWDNQTE82SjVTMWlzRENkV2JWbGpmcEZzeHdza3J5LWxPb0daTVRTZl9aZw?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-22T08:04:22+09:00"
+     "title": "PHP欠陥、京都や滋賀の企業などで一部サービス停止",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZ01HVjJNNG5VOHEtSVM1MXdzUlBCcldDaHlEaUFXNmRwNXFkSkRRQVA1LVh3M0ktU2NObzM3UHJvTmRPeGFadlNXZUxUT0dkU0hMUjgyOTFkVVJscS0ya1NId21hRFhEZFMzbw?oc=5",
+     "source": "日本経済新聞",
+     "published": "2026-10-22T10:13:05+09:00"
     },
     {
-     "title": "PHP欠陥、九州企業で一部サービス停止 西日本シティ銀行やJR九州",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMVFsZlVsQUNYS2szMVBjZ3JVOVVzZldjNlZEMkFDZ25XZFVXRTl1b1o3WWpLZDBJMGUwQ3RvMl9FcEJwOEtRNjBBNV9sZHp5eUlPaE9GVHlhdDlGNUdxaXF2ZXZqRDQxNU16SA?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-22T08:00:11+09:00"
+     "title": "多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？",
+     "url": "https://internet.watch.impress.co.jp/docs/news/2150203.html",
+     "source": "INTERNET Watch",
+     "published": "2026-10-22T10:12:34+09:00"
     },
     {
-     "title": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQdHgxaTFrN3lzaXF1NmcxRUNQZl94T0VQbW9ZYXFlRWx4MjJ1UE00V1UwQ3ZrTjBDemdveWFtR0lXQnNsZy0tZkZDMHJ1WUZWQ0ZUUTJBNGU3eUkxa0RsZWkwSkZoM1BBMFltZg?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-22T07:34:52+09:00"
+     "title": "「介護サービス情報公表システム」が一時停止中 PHP問題受けて 厚生労働省",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ca1FZUnNHdHNWXzdtS1lzRnNzbF8wUXE3dmZUZzlIN2ZVUW1BQ2FPTm01S2hwNzZmNE5PTmtOUVFUbEEwU3VYUFZiMHVXV1Q1M3AyV0JzSQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T09:54:35+09:00"
     }
    ],
    "watch": false,
@@ -48,10 +48,10 @@
   {
    "kw": "子吉川",
    "level": "high",
-   "d24": 30,
+   "d24": 33,
    "baseline": 0.0,
-   "ratio": 60.0,
-   "consecutive": 4,
+   "ratio": 66.0,
+   "consecutive": 5,
    "days": [
     0,
     0,
@@ -59,13 +59,19 @@
     0,
     0,
     0,
-    30
+    33
    ],
    "latest": [
-    "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
-    "https://news.web.nhk/newsweb/na/nd-20261022de63278"
+    "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5"
    ],
    "samples": [
+    {
+     "title": "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T09:56:59+09:00"
+    },
     {
      "title": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63278",
@@ -77,12 +83,6 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5",
      "source": "Yahoo!ニュース",
      "published": "2026-10-22T06:15:10+09:00"
-    },
-    {
-     "title": "秋田 子吉川で一時 氾濫特別警報 危険な場所に近づかないで",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261021de63227",
-     "source": "NHK 主要",
-     "published": "2026-10-22T04:32:10+09:00"
     }
    ],
    "watch": false,
@@ -91,10 +91,10 @@
   {
    "kw": "氾濫特別警報",
    "level": "high",
-   "d24": 19,
+   "d24": 21,
    "baseline": 0.0,
-   "ratio": 38.0,
-   "consecutive": 4,
+   "ratio": 42.0,
+   "consecutive": 5,
    "days": [
     0,
     0,
@@ -102,7 +102,7 @@
     0,
     0,
     0,
-    19
+    21
    ],
    "latest": [
     "秋田で「レベル5氾濫特別警報」　雨量が10月観測史上1位を更新",
@@ -132,55 +132,12 @@
    "alerted_at": "2026-10-21T20:15:22.457768+09:00"
   },
   {
-   "kw": "欠陥",
-   "level": "high",
-   "d24": 17,
-   "baseline": 0.3,
-   "ratio": 34.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    2,
-    0,
-    0,
-    0,
-    17
-   ],
-   "latest": [
-    "PHP欠陥、九州企業で一部サービス停止 西日本シティ銀行やJR九州",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMVFsZlVsQUNYS2szMVBjZ3JVOVVzZldjNlZEMkFDZ25XZFVXRTl1b1o3WWpLZDBJMGUwQ3RvMl9FcEJwOEtRNjBBNV9sZHp5eUlPaE9GVHlhdDlGNUdxaXF2ZXZqRDQxNU16SA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "PHP欠陥、九州企業で一部サービス停止 西日本シティ銀行やJR九州",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMVFsZlVsQUNYS2szMVBjZ3JVOVVzZldjNlZEMkFDZ25XZFVXRTl1b1o3WWpLZDBJMGUwQ3RvMl9FcEJwOEtRNjBBNV9sZHp5eUlPaE9GVHlhdDlGNUdxaXF2ZXZqRDQxNU16SA?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-22T08:00:11+09:00"
-    },
-    {
-     "title": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQdHgxaTFrN3lzaXF1NmcxRUNQZl94T0VQbW9ZYXFlRWx4MjJ1UE00V1UwQ3ZrTjBDemdveWFtR0lXQnNsZy0tZkZDMHJ1WUZWQ0ZUUTJBNGU3eUkxa0RsZWkwSkZoM1BBMFltZg?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-22T07:34:52+09:00"
-    },
-    {
-     "title": "PHPに欠陥 欧州各国でサイト遮断",
-     "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-22T06:57:25+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-22T00:59:41.108663+09:00"
-  },
-  {
    "kw": "重大",
    "level": "high",
-   "d24": 15,
+   "d24": 17,
    "baseline": 0.5,
-   "ratio": 30.0,
-   "consecutive": 3,
+   "ratio": 34.0,
+   "consecutive": 4,
    "days": [
     0,
     0,
@@ -188,13 +145,19 @@
     2,
     0,
     0,
-    15
+    17
    ],
    "latest": [
-    "PHPに重大な脆弱性 総理 大至急の対応促す（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWjRPV0tCcTBRdDV1cS0tcGdhdkpmNDFrT1pJU0E5eG1zVjRiTmdVS1ItRGZaS3pmX0ozUEQ1eVU5RjhrSDYyUDZ5T2d5d1gxQ3NPdDFIbFM5bFhLaXRXTW5tQU9tX1FGcGZfeU53M1NOZUtWSnNLRDY3WHlLZGM?oc=5"
+    "PHPの「重大」脆弱性はAIが見つけた　「GPT-5.6 Solで発見」とOpenAI　「今後、AIによる脆弱性発見が急増」",
+    "https://www.itmedia.co.jp/news/article/2610/22/2000002486/"
    ],
    "samples": [
+    {
+     "title": "PHPの「重大」脆弱性はAIが見つけた　「GPT-5.6 Solで発見」とOpenAI　「今後、AIによる脆弱性発見が急増」",
+     "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
+     "source": "ITmedia",
+     "published": "2026-10-22T08:27:53+09:00"
+    },
     {
      "title": "PHPに重大な脆弱性 総理 大至急の対応促す（FNNプライムオンライン（フジテレビ系））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWjRPV0tCcTBRdDV1cS0tcGdhdkpmNDFrT1pJU0E5eG1zVjRiTmdVS1ItRGZaS3pmX0ozUEQ1eVU5RjhrSDYyUDZ5T2d5d1gxQ3NPdDFIbFM5bFhLaXRXTW5tQU9tX1FGcGZfeU53M1NOZUtWSnNLRDY3WHlLZGM?oc=5",
@@ -202,16 +165,10 @@
      "published": "2026-10-22T06:20:38+09:00"
     },
     {
-     "title": "PHPに重大欠陥 WEB停止相次ぐ 総理も異例の呼びかけ",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50UFlfZktnUnl5TkFMdERXU2swNU44ZkVQWXhoenRDS2lmcDJMUEhkalBZb3JiaGlJVkNEaVJkNDRnRnN5SnBCajlEZnduUTJHbG1RMWU2TQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-22T04:26:24+09:00"
-    },
-    {
-     "title": "プログラミング言語「PHP」に重大欠陥で各国でサイト遮断 パリ警視庁のサイトも障害 対応に追われる",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbklrOXdXcnBHZ0MzNURHbVBUSXBjR3RFcDhseXlDUWVUNzNJRU0zSWFTSzc5M0ZxLWR0S3BzaFFCSGpGcnQxNTkyMW5pdXFGaGpPQ21rMFIxcFRSZzd4SHJ4eDJ1OVNEeHVtekUyVzFfcEp5aHZnVUt5SGpUbGM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T02:21:17+09:00"
+     "title": "プログラミング言語「PHP」に重大な脆弱性 企業や自治体などのHPで緊急停止対応相次ぐ 高市総理も大至急の対応促す",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95dTRNQ2hoY252bFpxMXdpeWZSU0ZkZVpQQVRJNnZVUXBDdkFfOWtFcGxOTUh5QmxlTjRxNGFHYUVJYmVPbTRoTXpSazlndw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-22T06:12:00+09:00"
     }
    ],
    "watch": false,
@@ -221,23 +178,29 @@
    "kw": "訂正",
    "level": "high",
    "d24": 13,
-   "baseline": 0.2,
+   "baseline": 0.3,
    "ratio": 26.0,
-   "consecutive": 5,
+   "consecutive": 6,
    "days": [
     0,
     0,
     1,
     0,
     0,
-    0,
+    1,
     13
    ],
    "latest": [
-    "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldTU0dVhidUh0QVdkME9GdU1CZXo5LUptYzJ4dVJ4NUljcTQzWGdTdlVzSHlwQjQzSUItWEIxVWNkdzdpWjY4a2IxRjBPRFZha3ZKNHNBbTFYTGtlN0pkVUlyZW9nYlFUcUxVc19fNlhRQQ?oc=5"
+    "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5"
    ],
    "samples": [
+    {
+     "title": "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T09:00:00+09:00"
+    },
     {
      "title": "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldTU0dVhidUh0QVdkME9GdU1CZXo5LUptYzJ4dVJ4NUljcTQzWGdTdlVzSHlwQjQzSUItWEIxVWNkdzdpWjY4a2IxRjBPRFZha3ZKNHNBbTFYTGtlN0pkVUlyZW9nYlFUcUxVc19fNlhRQQ?oc=5",
@@ -249,12 +212,49 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3RnZ01fbFFmWGVMQnFtNWdwc21xU0R2YWlkS29IcWRHU2VBRVFnNlB2eGdjaERJaVpFN3JQQ1lWSkFVUVZMREJMX0JsYzh0RVpaZml1RG1zSXJtOVgwbkhrZ3JQb2FUU1REdlpPRUJXTGYxYUdFeFlBaG90X1hZV0lIMWdQUi1XMXfSAY8BQVVfeXFMTTdJN2VsNUs5cmFXaUFnM0Zua1pQT3JLcjFHeDdSU2hqUXNXUnp3TklSeWRnQUhxWmRSY25SYllrOG9Ud2pLTVFUb3VkWTBIekMtNDZSaWdhU1RFT29YNVZXSFg0NWRFNGRVb1RreWlRMEhyYS1tYnhWZDR0enNKLUlOdURkYmZpTGlVcG1rdjQ?oc=5",
      "source": "ｄメニューニュース",
      "published": "2026-10-21T20:06:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-21T20:15:22.457768+09:00"
+  },
+  {
+   "kw": "返金",
+   "level": "high",
+   "d24": 12,
+   "baseline": 0.2,
+   "ratio": 24.0,
+   "consecutive": 6,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    12
+   ],
+   "latest": [
+    "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T09:00:00+09:00"
     },
     {
-     "title": "武部農相 衆院選公示日の寄付“全額返金し収支報告書を訂正”",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261021de63092",
-     "source": "NHK 経済",
-     "published": "2026-10-21T19:06:25+09:00"
+     "title": "武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-21T23:50:32+09:00"
+    },
+    {
+     "title": "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldTU0dVhidUh0QVdkME9GdU1CZXo5LUptYzJ4dVJ4NUljcTQzWGdTdlVzSHlwQjQzSUItWEIxVWNkdzdpWjY4a2IxRjBPRFZha3ZKNHNBbTFYTGtlN0pkVUlyZW9nYlFUcUxVc19fNlhRQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-21T20:06:42+09:00"
     }
    ],
    "watch": false,
@@ -263,9 +263,9 @@
   {
    "kw": "武部農相",
    "level": "high",
-   "d24": 12,
-   "baseline": 0.3,
-   "ratio": 24.0,
+   "d24": 11,
+   "baseline": 0.5,
+   "ratio": 22.0,
    "consecutive": 1,
    "days": [
     1,
@@ -273,8 +273,8 @@
     0,
     0,
     0,
-    1,
-    12
+    2,
+    11
    ],
    "latest": [
     "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
@@ -304,69 +304,32 @@
    "alerted_at": "2026-10-21T20:15:22.457768+09:00"
   },
   {
-   "kw": "返金",
-   "level": "high",
-   "d24": 12,
-   "baseline": 0.0,
-   "ratio": 24.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    12
-   ],
-   "latest": [
-    "武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-21T23:50:32+09:00"
-    },
-    {
-     "title": "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldTU0dVhidUh0QVdkME9GdU1CZXo5LUptYzJ4dVJ4NUljcTQzWGdTdlVzSHlwQjQzSUItWEIxVWNkdzdpWjY4a2IxRjBPRFZha3ZKNHNBbTFYTGtlN0pkVUlyZW9nYlFUcUxVc19fNlhRQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-21T20:06:42+09:00"
-    },
-    {
-     "title": "武部農相　寄付返金を報告　週刊誌報道めぐり収支報告書を訂正",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3RnZ01fbFFmWGVMQnFtNWdwc21xU0R2YWlkS29IcWRHU2VBRVFnNlB2eGdjaERJaVpFN3JQQ1lWSkFVUVZMREJMX0JsYzh0RVpaZml1RG1zSXJtOVgwbkhrZ3JQb2FUU1REdlpPRUJXTGYxYUdFeFlBaG90X1hZV0lIMWdQUi1XMXfSAY8BQVVfeXFMTTdJN2VsNUs5cmFXaUFnM0Zua1pQT3JLcjFHeDdSU2hqUXNXUnp3TklSeWRnQUhxWmRSY25SYllrOG9Ud2pLTVFUb3VkWTBIekMtNDZSaWdhU1RFT29YNVZXSFg0NWRFNGRVb1RreWlRMEhyYS1tYnhWZDR0enNKLUlOdURkYmZpTGlVcG1rdjQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-21T20:06:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-21T20:15:22.457768+09:00"
-  },
-  {
    "kw": "速やか",
    "level": "high",
    "d24": 11,
-   "baseline": 0.2,
+   "baseline": 0.3,
    "ratio": 22.0,
-   "consecutive": 4,
+   "consecutive": 1,
    "days": [
     1,
     0,
     0,
     0,
     0,
-    0,
+    1,
     11
    ],
    "latest": [
-    "高市総理「速やかに対応の準備を」　プログラミング言語「PHP」に脆弱性",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVpUVkFKTFlueGxDZmFUVzhhMzRFdHdpak0zRl8xQ2lvLXhkdUhDNDR1LTlZVGtfOWdYbHZkckhkZUNNV3k2MlpNZ3R4bUFVSnk1YWtGUTBVamNoYzJKdXpDLUZyLUE2b3F6Wk1rUXNvQmxiekdmZkJpZFh3bXRiNEpreW1hUHI0RmRuVTUtOFJOVlZzMjFhVFdNTEVpMGlqNmktMTlxNTNVaDVWdTBaNnJNZUNPdXRmSG9FUVVHbHJHN1BGVk1EdVV5dGpSMHhWWXR0SWNtZUFaeldXZ0M00gGPAUFVX3lxTE9rN0VGYnhMel9USF91ZWtrVC1GcW5yUGlENzdLcHEyTXg5a3dYTUpBR09MLV9FVHpQWlBfVkc0ODdJQlYwUXlqRWo2YlFSLVB6Z0NMR1lRVTZ2aGRkRmo4d1BUNWRpLWhoX29IN1JWbXJUdThlUjFidWFVS2hld0xBeVhENEpUeHN3bWtXVHc4?oc=5"
+    "米も速やかな対応要請",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdjFNc1ZfdVJjdzY5NUNXbWVKdmxObW1iNVlCVi01eXREQUdoMW9YRjNnSDdCQ191ZEZSRUc1ZGVQU0VpUHlTNFczRGpEN2N6T1E5RkZLWGpMSWF1dUE?oc=5"
    ],
    "samples": [
+    {
+     "title": "米も速やかな対応要請",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdjFNc1ZfdVJjdzY5NUNXbWVKdmxObW1iNVlCVi01eXREQUdoMW9YRjNnSDdCQ191ZEZSRUc1ZGVQU0VpUHlTNFczRGpEN2N6T1E5RkZLWGpMSWF1dUE?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-10-22T00:02:19+09:00"
+    },
     {
      "title": "高市総理「速やかに対応の準備を」　プログラミング言語「PHP」に脆弱性",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVpUVkFKTFlueGxDZmFUVzhhMzRFdHdpak0zRl8xQ2lvLXhkdUhDNDR1LTlZVGtfOWdYbHZkckhkZUNNV3k2MlpNZ3R4bUFVSnk1YWtGUTBVamNoYzJKdXpDLUZyLUE2b3F6Wk1rUXNvQmxiekdmZkJpZFh3bXRiNEpreW1hUHI0RmRuVTUtOFJOVlZzMjFhVFdNTEVpMGlqNmktMTlxNTNVaDVWdTBaNnJNZUNPdXRmSG9FUVVHbHJHN1BGVk1EdVV5dGpSMHhWWXR0SWNtZUFaeldXZ0M00gGPAUFVX3lxTE9rN0VGYnhMel9USF91ZWtrVC1GcW5yUGlENzdLcHEyTXg5a3dYTUpBR09MLV9FVHpQWlBfVkc0ODdJQlYwUXlqRWo2YlFSLVB6Z0NMR1lRVTZ2aGRkRmo4d1BUNWRpLWhoX29IN1JWbXJUdThlUjFidWFVS2hld0xBeVhENEpUeHN3bWtXVHc4?oc=5",
@@ -378,12 +341,6 @@
      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63209",
      "source": "NHK 主要",
      "published": "2026-10-21T22:31:00+09:00"
-    },
-    {
-     "title": "武部農水大臣、公選法違反疑いの寄付か 会見で「速やかに事実関係確認」（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZi1tTXRFUS1CekdRNTd3MlhqT0JzNG9Oal9zQ0V0dHVDRTJWdGRuejJ2UElHVnVJMUpQUXVRVUJnZ3dEN2NSbHBVYW5zYWVyMGhXa0xZVERoNFlDU01qYWpRdVBTRmJ6NGlONlZsNktmZVpRX2NCb2JlQUJ2Tlk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-21T16:12:23+09:00"
     }
    ],
    "watch": false,
@@ -393,23 +350,29 @@
    "kw": "武部農水大臣",
    "level": "high",
    "d24": 11,
-   "baseline": 0.0,
+   "baseline": 0.2,
    "ratio": 22.0,
-   "consecutive": 4,
+   "consecutive": 1,
    "days": [
     0,
     0,
     0,
     0,
     0,
-    0,
+    1,
     11
    ],
    "latest": [
-    "武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5"
+    "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5"
    ],
    "samples": [
+    {
+     "title": "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T09:00:00+09:00"
+    },
     {
      "title": "武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5",
@@ -421,24 +384,18 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibVEzbTNvcDJidm42cEM4elVoUS1qZkNGSU5VcGhUN0Fmekg5c2pPVlRMem5qUFBtZXJnYXR6ai1BckkwVmY0SG5qcnl3NlBlNDR6V3NUc2R6c3JKT2xKVEdhYUVpVlFENG8wZHlpYVFYVEdXa3dsVU9yT2VFYTA?oc=5",
      "source": "Yahoo!ニュース",
      "published": "2026-10-21T19:32:20+09:00"
-    },
-    {
-     "title": "「官邸の身体検査は」野党追及 武部農水大臣 献金めぐる週刊誌報道「返金や政治資金収支報告書の訂正を行うよう指示」",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GMWIyaGFoeFFFN0xOd0JOU2tCWEo1aVdTY3Z6WTl2bzJVSzV1aFh5eFNTX2Y0VmZsbVItMHVFOWsyUzUyWXdmTlhWaHpDb01od0ZfbGQ0VzllU3UyLTVKY0pZa1ZqVzFldVVJSFEza21uSm9nMlo2cEhfNGo1NUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-21T18:15:12+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-21T20:15:22.457768+09:00"
   },
   {
-   "kw": "貿易赤字",
+   "kw": "PHP欠陥",
    "level": "high",
-   "d24": 11,
+   "d24": 10,
    "baseline": 0.0,
-   "ratio": 22.0,
-   "consecutive": 1,
+   "ratio": 20.0,
+   "consecutive": 4,
    "days": [
     0,
     0,
@@ -446,34 +403,34 @@
     0,
     0,
     0,
-    11
+    10
    ],
    "latest": [
-    "原油価格高騰で上半期の貿易赤字が2兆8184億円と前年同期の2倍に 代替調達進みアメリカからの輸入額は9倍に",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UY2tmX3dpMDN0eHExYjFjaXI3Vk8xNjVVQlgxd20tcEVhaGFqYlJJUl9rOUhoSzVFUHJOLUJ3YW94bHhMYmtTdVo0QjEtLVpRT0dPTkhiTXFoM25SUmFRaUxDUUtBRFJQRTNURlBpbmxxS0JlRWtHMTBtSG1PX2c?oc=5"
+    "PHP欠陥、京都や滋賀の企業などで一部サービス停止",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZ01HVjJNNG5VOHEtSVM1MXdzUlBCcldDaHlEaUFXNmRwNXFkSkRRQVA1LVh3M0ktU2NObzM3UHJvTmRPeGFadlNXZUxUT0dkU0hMUjgyOTFkVVJscS0ya1NId21hRFhEZFMzbw?oc=5"
    ],
    "samples": [
     {
-     "title": "原油価格高騰で上半期の貿易赤字が2兆8184億円と前年同期の2倍に 代替調達進みアメリカからの輸入額は9倍に",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UY2tmX3dpMDN0eHExYjFjaXI3Vk8xNjVVQlgxd20tcEVhaGFqYlJJUl9rOUhoSzVFUHJOLUJ3YW94bHhMYmtTdVo0QjEtLVpRT0dPTkhiTXFoM25SUmFRaUxDUUtBRFJQRTNURlBpbmxxS0JlRWtHMTBtSG1PX2c?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-21T12:35:31+09:00"
+     "title": "PHP欠陥、京都や滋賀の企業などで一部サービス停止",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZ01HVjJNNG5VOHEtSVM1MXdzUlBCcldDaHlEaUFXNmRwNXFkSkRRQVA1LVh3M0ktU2NObzM3UHJvTmRPeGFadlNXZUxUT0dkU0hMUjgyOTFkVVJscS0ya1NId21hRFhEZFMzbw?oc=5",
+     "source": "日本経済新聞",
+     "published": "2026-10-22T10:13:05+09:00"
     },
     {
-     "title": "【図解】貿易赤字、2兆8184億円＝原油高・円安で輸入最大―今年度上半期（時事通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vcERjd05jcml5STJuOXh3dURRS3ZlRXdHRFlDR1lZWWozdGVlbTNLM2U2Tks3enZvVk1kVmxyX2dLUjhwbi1qNWJNcXBybkRrYjRrSFVpV3JUT3MwbG90OTNoSW05SldXaGRxNDYyYVJ0UkRjZ1Q0ZnFZVFJQdlU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-21T11:36:33+09:00"
+     "title": "ＰＨＰ欠陥、企業対応急ぐ サービス停止、修正後再開（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uczlNOUJlcE55cWZIQjZtZV94V3haX1VnbHBCOWN4STNXaEo1Mm9rbDRQdHFuM004OXBlTFA4Ukx0S0hOa1JCN2Z6MXFLLUU?oc=5",
+     "source": "熊本日日新聞社",
+     "published": "2026-10-22T09:46:00+09:00"
     },
     {
-     "title": "貿易赤字、２兆８１８４億円 原油高・円安で輸入最大―今年度上半期",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyMHpTT3N5THYwX0NQckxZNVBmUWJHakFrMFpyVktOR19wSTN6Nm05ZXp5MVlUamVLamNldlRJNFAwVlhJUThZdnVxSHJUREdoVXdxOFZxR29GTW9JcFN0Q3pEOA?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-21T11:34:00+09:00"
+     "title": "PHP欠陥、九州企業で一部サービス停止 西日本シティ銀行やJR九州",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMVFsZlVsQUNYS2szMVBjZ3JVOVVzZldjNlZEMkFDZ25XZFVXRTl1b1o3WWpLZDBJMGUwQ3RvMl9FcEJwOEtRNjBBNV9sZHp5eUlPaE9GVHlhdDlGNUdxaXF2ZXZqRDQxNU16SA?oc=5",
+     "source": "日本経済新聞",
+     "published": "2026-10-22T08:00:11+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-21T14:54:44.262054+09:00"
+   "alerted_at": "2026-10-22T10:42:00.301456+09:00"
   },
   {
    "kw": "政権発足",
@@ -519,6 +476,49 @@
    "alerted_at": "2026-10-21T20:15:22.457768+09:00"
   },
   {
+   "kw": "寄付",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.3,
+   "ratio": 18.0,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    9
+   ],
+   "latest": [
+    "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T09:00:00+09:00"
+    },
+    {
+     "title": "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldTU0dVhidUh0QVdkME9GdU1CZXo5LUptYzJ4dVJ4NUljcTQzWGdTdlVzSHlwQjQzSUItWEIxVWNkdzdpWjY4a2IxRjBPRFZha3ZKNHNBbTFYTGtlN0pkVUlyZW9nYlFUcUxVc19fNlhRQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-21T20:06:42+09:00"
+    },
+    {
+     "title": "武部農相　寄付返金を報告　週刊誌報道めぐり収支報告書を訂正",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3RnZ01fbFFmWGVMQnFtNWdwc21xU0R2YWlkS29IcWRHU2VBRVFnNlB2eGdjaERJaVpFN3JQQ1lWSkFVUVZMREJMX0JsYzh0RVpaZml1RG1zSXJtOVgwbkhrZ3JQb2FUU1REdlpPRUJXTGYxYUdFeFlBaG90X1hZV0lIMWdQUi1XMXfSAY8BQVVfeXFMTTdJN2VsNUs5cmFXaUFnM0Zua1pQT3JLcjFHeDdSU2hqUXNXUnp3TklSeWRnQUhxWmRSY25SYllrOG9Ud2pLTVFUb3VkWTBIekMtNDZSaWdhU1RFT29YNVZXSFg0NWRFNGRVb1RreWlRMEhyYS1tYnhWZDR0enNKLUlOdURkYmZpTGlVcG1rdjQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-21T20:06:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-22T00:59:41.108663+09:00"
+  },
+  {
    "kw": "都心",
    "level": "high",
    "d24": 8,
@@ -562,10 +562,10 @@
    "alerted_at": "2026-10-21T20:15:22.457768+09:00"
   },
   {
-   "kw": "寄付",
+   "kw": "予防",
    "level": "high",
    "d24": 8,
-   "baseline": 0.3,
+   "baseline": 0.0,
    "ratio": 16.0,
    "consecutive": 1,
    "days": [
@@ -573,79 +573,36 @@
     0,
     0,
     0,
-    2,
+    0,
     0,
     8
    ],
    "latest": [
-    "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldTU0dVhidUh0QVdkME9GdU1CZXo5LUptYzJ4dVJ4NUljcTQzWGdTdlVzSHlwQjQzSUItWEIxVWNkdzdpWjY4a2IxRjBPRFZha3ZKNHNBbTFYTGtlN0pkVUlyZW9nYlFUcUxVc19fNlhRQQ?oc=5"
+    "多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？",
+    "https://internet.watch.impress.co.jp/docs/news/2150203.html"
    ],
    "samples": [
     {
-     "title": "武部農相 寄付返金を報告 週刊誌報道めぐり収支報告書を訂正",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldTU0dVhidUh0QVdkME9GdU1CZXo5LUptYzJ4dVJ4NUljcTQzWGdTdlVzSHlwQjQzSUItWEIxVWNkdzdpWjY4a2IxRjBPRFZha3ZKNHNBbTFYTGtlN0pkVUlyZW9nYlFUcUxVc19fNlhRQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-21T20:06:42+09:00"
+     "title": "多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？",
+     "url": "https://internet.watch.impress.co.jp/docs/news/2150203.html",
+     "source": "INTERNET Watch",
+     "published": "2026-10-22T10:12:34+09:00"
     },
     {
-     "title": "武部農相　寄付返金を報告　週刊誌報道めぐり収支報告書を訂正",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3RnZ01fbFFmWGVMQnFtNWdwc21xU0R2YWlkS29IcWRHU2VBRVFnNlB2eGdjaERJaVpFN3JQQ1lWSkFVUVZMREJMX0JsYzh0RVpaZml1RG1zSXJtOVgwbkhrZ3JQb2FUU1REdlpPRUJXTGYxYUdFeFlBaG90X1hZV0lIMWdQUi1XMXfSAY8BQVVfeXFMTTdJN2VsNUs5cmFXaUFnM0Zua1pQT3JLcjFHeDdSU2hqUXNXUnp3TklSeWRnQUhxWmRSY25SYllrOG9Ud2pLTVFUb3VkWTBIekMtNDZSaWdhU1RFT29YNVZXSFg0NWRFNGRVb1RreWlRMEhyYS1tYnhWZDR0enNKLUlOdURkYmZpTGlVcG1rdjQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-21T20:06:00+09:00"
+     "title": "「サーバー乗っ取りやデータ破壊も」PHP重大欠陥でサイト一時停止の動き オランダ政府機関などで予防遮断 直ちにアップデートを推奨",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mRXNpaGpiaW9wSVZHeXZqWmdlTFEwc01OLTV4RjZQNTVadnFRNEpQczRFdWpUd3B2amlTRGN0TVhxZU9ZSTJPaXpmLTFwOE1vZXdLQVV5WQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T00:18:41+09:00"
     },
     {
-     "title": "公明党・民主改革の会、武部農相に説明要求 国契約企業から寄付巡り",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hRzYzMDFCLXVqbUlsbFlVTmEzZmxZc2NoQW4zWVpFTHVjTDRON2tUMnZQUl9oTjBLMXdUN0dqZ0syZ1hUeGJDVUdPXzRTdmhsbk0tZHVhWmZoUnFCZ1hIcWhtRmUxNjdoanFIag?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-21T19:35:25+09:00"
+     "title": "「サーバー乗っ取りやデータ破壊も」PHP重大欠陥で企業がサイト一時停止 オランダ政府機関など世界中で予防遮断の動き 直ちにアップデートを推奨（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YZ0c1Z3hBTXpLM0dkNW5FTjJpeDNybm96aE9WeUkxVmVubXVVTThxTGhMUXpSZ3pUM2lTRlc5bktCTHFyZ3gzUmFCUFlyTmxWMElRM3JIZkFWUm1NNWxDekg4OTJnbk9NWklBTUlpZ0NoWjZldkRCM3B2MVk3M1k?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T00:18:11+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-22T00:59:41.108663+09:00"
-  },
-  {
-   "kw": "警報",
-   "level": "high",
-   "d24": 44,
-   "baseline": 2.8,
-   "ratio": 15.5,
-   "consecutive": 5,
-   "days": [
-    2,
-    1,
-    2,
-    4,
-    6,
-    2,
-    44
-   ],
-   "latest": [
-    "【台風情報】大型で猛烈な台風30号 非常に強い勢力であすにも沖縄先島諸島に接近 週末にかけ西・東日本で警報級大雨か",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lOThmcEFXaEtEZVBUaVlHajdRSXdyQmhwbWtrMVRSeWZJc2RLNzJpbFBXVEVjS0hLbktLaFFPM29HQzNFT2xmX1kyT3VSYUVsYTJqYWVsRlJUMS1jWUVFWlF1R3lsQWdLbWJVdjBTZ0ZXTXFob19XMWpzODA4Tnc?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【台風情報】大型で猛烈な台風30号 非常に強い勢力であすにも沖縄先島諸島に接近 週末にかけ西・東日本で警報級大雨か",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lOThmcEFXaEtEZVBUaVlHajdRSXdyQmhwbWtrMVRSeWZJc2RLNzJpbFBXVEVjS0hLbktLaFFPM29HQzNFT2xmX1kyT3VSYUVsYTJqYWVsRlJUMS1jWUVFWlF1R3lsQWdLbWJVdjBTZ0ZXTXFob19XMWpzODA4Tnc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T08:07:50+09:00"
-    },
-    {
-     "title": "秋田で「レベル5氾濫特別警報」　雨量が10月観測史上1位を更新",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0owSUVQSldYT2VJX0s1dllBQnhTSEVHRDRFSy10TkZ6OHJjdWJkbkpieEIzMEZXcEJ2NjhCczJOTnhJMjZvRXI3aHRZdHpDb2dsY2I1cFNJVVRqV3Z6OEstTTZmM3phYnJCczBiejVPcGo2TnN3T1MxalB6TU1yWDBwYjAyMDA0OHJjSVFNY3diX0FyMkMxMEFfXy1teDVQcjZndmh4WlZxSTd1WldMN25rczBDbWZGODRBa0lqbTNGeUJEeHRoSTZIdkJzUl9icU9QYnI2OGhKcnZ50gGMAUFVX3lxTE1WbjhfT05jbTU5ZHpyWl9xeFAtN3JpZHNkcWFXTDJ3Y3Zvc05keWVRX09HM3ZYaUZTUUxhRUJfLVZBZ2hUSHFqUm90eWVNRmQ3QVRDQklzU3FLY2xmSGpQYVE5VWtvM2tmY045YkVpSXdUVGw2eENBcTZHNU5VcWRPV2p3dnpXUVlVdEFL?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-22T07:02:48+09:00"
-    },
-    {
-     "title": "「台風30号」早めの対策を 西・東日本で警報級大雨か（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zTVpJYlh0OXM2NnpDWDltUmhtb0xUMzctSzFxSm1uSVhXSHBoLTRGeFp1RkRpcTZpWjlHRFd5bjY3NGpsZ1c5T1JoR2l4X252X3hfMF9ycjhHOGgzV3Z0MmhZNWRkWlBydHFFeHozWmE3MUIwNzRvRVV6aE9PLTg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T06:21:20+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T16:08:34.892553+09:00"
   },
   {
    "kw": "見直し検討",
@@ -771,49 +728,6 @@
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40UjRGZkZXdjkxUzlHNV92RlNmX3BNd3BldVJEOHhSaXpfTlZoSkQ0bjhXTmtWQktDbTF3VDR0cnY2NWFzaEpYMHR5S0d3TzdyOVJyUVhMS2tnaEtjVGtPdFExa0Utb2lfMGJSQmFxV2dqdw?oc=5",
      "source": "テレ朝NEWS",
      "published": "2026-10-21T18:43:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-22T00:59:41.108663+09:00"
-  },
-  {
-   "kw": "予防",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.0,
-   "ratio": 14.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    7
-   ],
-   "latest": [
-    "「サーバー乗っ取りやデータ破壊も」PHP重大欠陥でサイト一時停止の動き オランダ政府機関などで予防遮断 直ちにアップデートを推奨",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mRXNpaGpiaW9wSVZHeXZqWmdlTFEwc01OLTV4RjZQNTVadnFRNEpQczRFdWpUd3B2amlTRGN0TVhxZU9ZSTJPaXpmLTFwOE1vZXdLQVV5WQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「サーバー乗っ取りやデータ破壊も」PHP重大欠陥でサイト一時停止の動き オランダ政府機関などで予防遮断 直ちにアップデートを推奨",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mRXNpaGpiaW9wSVZHeXZqWmdlTFEwc01OLTV4RjZQNTVadnFRNEpQczRFdWpUd3B2amlTRGN0TVhxZU9ZSTJPaXpmLTFwOE1vZXdLQVV5WQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-22T00:18:41+09:00"
-    },
-    {
-     "title": "「サーバー乗っ取りやデータ破壊も」PHP重大欠陥で企業がサイト一時停止 オランダ政府機関など世界中で予防遮断の動き 直ちにアップデートを推奨（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YZ0c1Z3hBTXpLM0dkNW5FTjJpeDNybm96aE9WeUkxVmVubXVVTThxTGhMUXpSZ3pUM2lTRlc5bktCTHFyZ3gzUmFCUFlyTmxWMElRM3JIZkFWUm1NNWxDekg4OTJnbk9NWklBTUlpZ0NoWjZldkRCM3B2MVk3M1k?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T00:18:11+09:00"
-    },
-    {
-     "title": "札幌市公式ホームページが緊急停止＿重大な脆弱性発覚で予防措置＿21日午後9時から〈北海道札幌市〉",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11WThVYk1pQ0pSMGdHLURCeDk5R1hHSDIwUXU5TWZLS0V4aFhSWWl0T0pwQ2psUmI2WkdsOUQyMWdXVDZmZzB3N19WSE5KQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-21T22:25:00+09:00"
     }
    ],
    "watch": false,
@@ -949,90 +863,90 @@
    "alerted_at": "2026-10-21T20:15:22.457768+09:00"
   },
   {
-   "kw": "上半期",
+   "kw": "氾濫注意報",
    "level": "high",
-   "d24": 11,
-   "baseline": 0.8,
-   "ratio": 13.2,
-   "consecutive": 4,
+   "d24": 7,
+   "baseline": 0.0,
+   "ratio": 14.0,
+   "consecutive": 3,
    "days": [
     0,
     0,
     0,
     0,
     0,
-    5,
-    11
+    0,
+    7
    ],
    "latest": [
-    "上半期１２．８兆円の赤字＝米アンソロピックのＩＰＯ書類―報道",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tbUdEWGdCTWZDTHVKR2VMcHByOWtmVjE3TF9TQTJVU3FzbjQ4RlV4TmloMHY5TmtPbG5jSGVMSWVORU9CZDZ0V181dElIQi1vZGV2N3ZvNVJia0Izb19QYjl3ZGhjYTdOdnRMa2pSdkNjNmRoRHVGMUk1a2nSAYIBQVVfeXFMTW9DQ2w0OUtzbVY1RjBLOTNVa0VSQm5JNFhVSlkwYU1IRjVIZnM0RU5GLVdaeVdnWUQtenBxQUNrM2F3QkwxeUd5Y3JlelFTdDdjZ1d1OHVaelJaNDF1YktpeElrUTNjdTdURThJdTh2c1c5T3FnV0QxSDQ3d2E5a1VtQQ?oc=5"
+    "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5"
    ],
    "samples": [
     {
-     "title": "上半期１２．８兆円の赤字＝米アンソロピックのＩＰＯ書類―報道",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tbUdEWGdCTWZDTHVKR2VMcHByOWtmVjE3TF9TQTJVU3FzbjQ4RlV4TmloMHY5TmtPbG5jSGVMSWVORU9CZDZ0V181dElIQi1vZGV2N3ZvNVJia0Izb19QYjl3ZGhjYTdOdnRMa2pSdkNjNmRoRHVGMUk1a2nSAYIBQVVfeXFMTW9DQ2w0OUtzbVY1RjBLOTNVa0VSQm5JNFhVSlkwYU1IRjVIZnM0RU5GLVdaeVdnWUQtenBxQUNrM2F3QkwxeUd5Y3JlelFTdDdjZ1d1OHVaelJaNDF1YktpeElrUTNjdTdURThJdTh2c1c5T3FnV0QxSDQ3d2E5a1VtQQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-21T15:43:00+09:00"
+     "title": "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T09:56:59+09:00"
     },
     {
-     "title": "原油価格高騰で上半期の貿易赤字が2兆8184億円と前年同期の2倍に 代替調達進みアメリカからの輸入額は9倍に",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UY2tmX3dpMDN0eHExYjFjaXI3Vk8xNjVVQlgxd20tcEVhaGFqYlJJUl9rOUhoSzVFUHJOLUJ3YW94bHhMYmtTdVo0QjEtLVpRT0dPTkhiTXFoM25SUmFRaUxDUUtBRFJQRTNURlBpbmxxS0JlRWtHMTBtSG1PX2c?oc=5",
+     "title": "秋田県で記録的大雨 子吉川は「レベル2氾濫注意報」に切り替え（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-21T12:35:31+09:00"
+     "published": "2026-10-22T06:15:10+09:00"
     },
     {
-     "title": "【図解】貿易赤字、2兆8184億円＝原油高・円安で輸入最大―今年度上半期（時事通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vcERjd05jcml5STJuOXh3dURRS3ZlRXdHRFlDR1lZWWozdGVlbTNLM2U2Tks3enZvVk1kVmxyX2dLUjhwbi1qNWJNcXBybkRrYjRrSFVpV3JUT3MwbG90OTNoSW05SldXaGRxNDYyYVJ0UkRjZ1Q0ZnFZVFJQdlU?oc=5",
+     "title": "【速報】秋田県を流れる子吉川「レベル2氾濫注意報」に切り替え 気象庁 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUVxY01yR3RXT2RFVDdHc3d6WnVESVdvQW5WbWFiRTlXZ0NnaDNVWk1RVkhMbkdCdjFxeTFTSlVrV0hDOHA2blNLMlBRSFZyd3ZUYzdhaE1EVnhIdmtjTnBPNHFzNWZZYm9HeFZrbS11dERsMDhYMUV1RGNpLUxtenF3OFAtaV9nMFY0U2Zn?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-21T11:36:33+09:00"
+     "published": "2026-10-22T02:52:35+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-21T09:59:19.007555+09:00"
+   "alerted_at": "2026-10-22T08:19:26.627690+09:00"
   },
   {
-   "kw": "到達",
+   "kw": "秋田",
    "level": "high",
-   "d24": 11,
-   "baseline": 0.8,
+   "d24": 33,
+   "baseline": 2.5,
    "ratio": 13.2,
-   "consecutive": 1,
+   "consecutive": 6,
    "days": [
-    2,
+    1,
+    1,
+    11,
     1,
     0,
     1,
-    0,
-    1,
-    11
+    33
    ],
    "latest": [
-    "日銀、物価上昇率２％到達判断へ １０月会合、１４年かけ実現か",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Q052cWdFcGNwSEhZTDlvOVFiUm9CTE5fQUx1cjZ2N2JJZzhqZHFSeTh4Sk9ab2wtYzgtVWZXbEtNQlozRmd4NThVbHJzQ2l1SndzeHZnS1U0dE03ZFE?oc=5"
+    "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5"
    ],
    "samples": [
     {
-     "title": "日銀、物価上昇率２％到達判断へ １０月会合、１４年かけ実現か",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Q052cWdFcGNwSEhZTDlvOVFiUm9CTE5fQUx1cjZ2N2JJZzhqZHFSeTh4Sk9ab2wtYzgtVWZXbEtNQlozRmd4NThVbHJzQ2l1SndzeHZnS1U0dE03ZFE?oc=5",
-     "source": "沖縄タイムス社",
-     "published": "2026-10-21T15:34:39+09:00"
-    },
-    {
-     "title": "日銀、物価上昇率2％到達判断へ 10月会合、14年かけ実現か",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UYnh4RDFya1B6SktKckwtSWNRTzlEQWY5TWg4aEtheEhpZTR4ZzRrdV9weEZBYmJ6WmE2WDhsRzB1RWpoUmxoSEc1SQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-21T15:34:00+09:00"
-    },
-    {
-     "title": "日銀、物価上昇率2％到達判断へ 10月会合、14年かけ実現か（共同通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9razN6R1R5enRScjNZR3JIeEZHSXJCbG5la2ZCMi1ZaU8xTnZvalc1cWFvYlZqdE1aRmNYUjRnR0ZESlBMWGlxS3dFYXZNWEhqWnRIREpTXzh4d1N5Z1Jwd2FiLTJNRnNpd0hVY3AyaFB3M1lJLTh5Wk5qZjFyMVk?oc=5",
+     "title": "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-21T13:34:13+09:00"
+     "published": "2026-10-22T09:56:59+09:00"
+    },
+    {
+     "title": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63278",
+     "source": "NHK 主要",
+     "published": "2026-10-22T07:22:19+09:00"
+    },
+    {
+     "title": "秋田で「レベル5氾濫特別警報」　雨量が10月観測史上1位を更新",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0owSUVQSldYT2VJX0s1dllBQnhTSEVHRDRFSy10TkZ6OHJjdWJkbkpieEIzMEZXcEJ2NjhCczJOTnhJMjZvRXI3aHRZdHpDb2dsY2I1cFNJVVRqV3Z6OEstTTZmM3phYnJCczBiejVPcGo2TnN3T1MxalB6TU1yWDBwYjAyMDA0OHJjSVFNY3diX0FyMkMxMEFfXy1teDVQcjZndmh4WlZxSTd1WldMN25rczBDbWZGODRBa0lqbTNGeUJEeHRoSTZIdkJzUl9icU9QYnI2OGhKcnZ50gGMAUFVX3lxTE1WbjhfT05jbTU5ZHpyWl9xeFAtN3JpZHNkcWFXTDJ3Y3Zvc05keWVRX09HM3ZYaUZTUUxhRUJfLVZBZ2hUSHFqUm90eWVNRmQ3QVRDQklzU3FLY2xmSGpQYVE5VWtvM2tmY045YkVpSXdUVGw2eENBcTZHNU5VcWRPV2p3dnpXUVlVdEFL?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-22T07:02:48+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-21T14:54:44.262054+09:00"
+   "alerted_at": "2026-10-17T23:04:35.653733+09:00"
   },
   {
    "kw": "プログラム",
@@ -1078,49 +992,6 @@
    "alerted_at": "2026-10-22T00:59:41.108663+09:00"
   },
   {
-   "kw": "秋田",
-   "level": "high",
-   "d24": 30,
-   "baseline": 2.5,
-   "ratio": 12.0,
-   "consecutive": 5,
-   "days": [
-    1,
-    0,
-    12,
-    1,
-    0,
-    1,
-    30
-   ],
-   "latest": [
-    "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
-    "https://news.web.nhk/newsweb/na/nd-20261022de63278"
-   ],
-   "samples": [
-    {
-     "title": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63278",
-     "source": "NHK 主要",
-     "published": "2026-10-22T07:22:19+09:00"
-    },
-    {
-     "title": "秋田で「レベル5氾濫特別警報」　雨量が10月観測史上1位を更新",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0owSUVQSldYT2VJX0s1dllBQnhTSEVHRDRFSy10TkZ6OHJjdWJkbkpieEIzMEZXcEJ2NjhCczJOTnhJMjZvRXI3aHRZdHpDb2dsY2I1cFNJVVRqV3Z6OEstTTZmM3phYnJCczBiejVPcGo2TnN3T1MxalB6TU1yWDBwYjAyMDA0OHJjSVFNY3diX0FyMkMxMEFfXy1teDVQcjZndmh4WlZxSTd1WldMN25rczBDbWZGODRBa0lqbTNGeUJEeHRoSTZIdkJzUl9icU9QYnI2OGhKcnZ50gGMAUFVX3lxTE1WbjhfT05jbTU5ZHpyWl9xeFAtN3JpZHNkcWFXTDJ3Y3Zvc05keWVRX09HM3ZYaUZTUUxhRUJfLVZBZ2hUSHFqUm90eWVNRmQ3QVRDQklzU3FLY2xmSGpQYVE5VWtvM2tmY045YkVpSXdUVGw2eENBcTZHNU5VcWRPV2p3dnpXUVlVdEFL?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-22T07:02:48+09:00"
-    },
-    {
-     "title": "秋田県で記録的大雨 子吉川は「レベル2氾濫注意報」に切り替え（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T06:15:10+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T23:04:35.653733+09:00"
-  },
-  {
    "kw": "岩井コスモ",
    "level": "high",
    "d24": 6,
@@ -1158,49 +1029,6 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclE4YncyNHBTWkhuR3dkS1pVT2hBODVGeEZtQkl5MVE4ajZFMVdIM1lWTnFIM3hTSUhLZWhxWXhFTDAzWTJUdjFmd1hXcTkyOFVfWWdZUnR0dERyTkVTb2hHNUF3dHlEcFFPNl9ZUE14azJCcWRyZVJRLV9NN293TmdSekpqbWhQdW54X2d30gGTAUFVX3lxTE56bjAwOVM2Ul9jbWpIRjZVaDZBVHFiSWxaX3QwOEpfZ0wwbzZFWHl2NzJYQ3dYQmdQRV91UGhJeURLOTVoVFRYSGJCXzFZV2QzZnJ0ekhfbE4zU1NpX0pick9JeUlkUl9Gd1BqMTdGX2duaXRvcVhqNDFhczNFcHhJcnpsSFdpWVY1RXJVbFB2b1JVbw?oc=5",
      "source": "ｄメニューニュース",
      "published": "2026-10-21T14:41:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-21T20:15:22.457768+09:00"
-  },
-  {
-   "kw": "マネックス",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.0,
-   "ratio": 12.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "マネックス証券、「証券総合取引口座」新規開設受付を一時停止。不正アクセス試行の形跡を確認し、予防的措置として",
-    "https://internet.watch.impress.co.jp/docs/news/2150058.html"
-   ],
-   "samples": [
-    {
-     "title": "マネックス証券、「証券総合取引口座」新規開設受付を一時停止。不正アクセス試行の形跡を確認し、予防的措置として",
-     "url": "https://internet.watch.impress.co.jp/docs/news/2150058.html",
-     "source": "INTERNET Watch",
-     "published": "2026-10-21T16:50:35+09:00"
-    },
-    {
-     "title": "マネックスが証券口座開設を一時停止",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTkxGY19ZZGNXU1ZOTVFKT3ZWUHkwNmlzU3pHa29TMTJBTjdUOEJ5SW9SWFl2MVVfLWw1dFd2ZG91Sm1MQkd3ay1tOXk4eE9zSDhaZm9yODM2QWtnYVE?oc=5",
-     "source": "沖縄タイムス社",
-     "published": "2026-10-21T12:37:01+09:00"
-    },
-    {
-     "title": "【速報】マネックスが証券口座開設を一時停止",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1OURSZXFVZ3o0Wk43Y29EblNPVTdPTEh2UGR2RjFXUEVTWmVRZUdUbUw4OUFzMElTQ3pNMGVYVWlRVzhKWDgyb0I3Yw?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-21T12:37:01+09:00"
     }
    ],
    "watch": false,
@@ -1336,12 +1164,12 @@
    "alerted_at": "2026-10-22T08:19:26.627690+09:00"
   },
   {
-   "kw": "氾濫注意報",
+   "kw": "氾濫発生",
    "level": "high",
    "d24": 6,
    "baseline": 0.0,
    "ratio": 12.0,
-   "consecutive": 2,
+   "consecutive": 1,
    "days": [
     0,
     0,
@@ -1352,70 +1180,156 @@
     6
    ],
    "latest": [
-    "秋田県で記録的大雨 子吉川は「レベル2氾濫注意報」に切り替え（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5"
+    "【レベル5氾濫特別警報】秋田・子吉川で越水による氾濫発生中（21時15分時点） (FNNプライムオンライン（フジテレビ系）)",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmk5bDNZTWozUzRyU2tDcVlMdTVzZkc0eWFFd3R2SXVtSVBMa1BNZVVWZVlDNjI0ck9LcFhfMTlEWEI3bmZVc3ZmWTdrLTlEbHNGZVp2N3JTb2R3a3dncXptVE4tWl9rU1VSb255cDlMVTliTjZpYUxiU1kyVHNwYzBqSjE5U3dILUQ5Ykhn?oc=5"
    ],
    "samples": [
     {
-     "title": "秋田県で記録的大雨 子吉川は「レベル2氾濫注意報」に切り替え（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5",
+     "title": "【レベル5氾濫特別警報】秋田・子吉川で越水による氾濫発生中（21時15分時点） (FNNプライムオンライン（フジテレビ系）)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmk5bDNZTWozUzRyU2tDcVlMdTVzZkc0eWFFd3R2SXVtSVBMa1BNZVVWZVlDNjI0ck9LcFhfMTlEWEI3bmZVc3ZmWTdrLTlEbHNGZVp2N3JTb2R3a3dncXptVE4tWl9rU1VSb255cDlMVTliTjZpYUxiU1kyVHNwYzBqSjE5U3dILUQ5Ykhn?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-22T06:15:10+09:00"
+     "published": "2026-10-21T21:16:19+09:00"
     },
     {
-     "title": "【速報】秋田県を流れる子吉川「レベル2氾濫注意報」に切り替え 気象庁 (TBS NEWS DIG Powered by JNN)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUVxY01yR3RXT2RFVDdHc3d6WnVESVdvQW5WbWFiRTlXZ0NnaDNVWk1RVkhMbkdCdjFxeTFTSlVrV0hDOHA2blNLMlBRSFZyd3ZUYzdhaE1EVnhIdmtjTnBPNHFzNWZZYm9HeFZrbS11dERsMDhYMUV1RGNpLUxtenF3OFAtaV9nMFY0U2Zn?oc=5",
+     "title": "【レベル5氾濫特別警報】子吉川に発表 《氾濫発生》 21:15時点 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFFJQmlvM2FDWHk0ZFRrakE1cHFNZzdfcjFRNUswN0ltbHYxRWRFbmJ2Zl85S3pNajE5eGo2UURxVkZWbXlaeWZDUjI5dHNvalZXV1U5VmtkOHkyOGp4elV4cnJza0lweDZqRHdJdHlsU1VNcjZqUVB1c3pjZnZqWXVGR2tLR1pBSmtaRGtR?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-22T02:52:35+09:00"
+     "published": "2026-10-21T21:16:13+09:00"
     },
     {
-     "title": "秋田・子吉川 氾濫注意報に切替",
-     "url": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-22T02:38:29+09:00"
+     "title": "秋田・子吉川で氾濫発生 「レベル5」氾濫特別警報（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04elhQWWVjZ1dsWTdmUktnWF9fUE9KX19nU3I5QmJwTDNKRzlfN2kyOWdMME56MEVQdWUybUZhdEpMVWVkRmVFS0pwSDI2NUF0dkdaODBpeVNTZlRUYWZyUUgzSXg4V1ZCZTBXeVhGZ00tbGhRYWFjaXFQa1JQY00?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-21T20:31:13+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-22T08:19:26.627690+09:00"
+   "alerted_at": "2026-10-22T10:42:00.301456+09:00"
+  },
+  {
+   "kw": "警告",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.5,
+   "ratio": 12.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "世界各国でPHPに対する警告 「サイト一時停止を検討すべき」（テレビ朝日系（ANN））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVUx3M1RQb0FSc3pkMktrRzBBazVnOVJMeUVycVdhX3V4aXQzWlBqTGpnWTlzbDJHdWsyZDc1WVdoUjlLTmEybEZJZHJnR3dyeFVhME41WnE1bEZGYng0X2dlZ3l6WTI3RG9LdjRwZVRjaXV0a21Hank3cmZOYTA?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "世界各国でPHPに対する警告 「サイト一時停止を検討すべき」（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVUx3M1RQb0FSc3pkMktrRzBBazVnOVJMeUVycVdhX3V4aXQzWlBqTGpnWTlzbDJHdWsyZDc1WVdoUjlLTmEybEZJZHJnR3dyeFVhME41WnE1bEZGYng0X2dlZ3l6WTI3RG9LdjRwZVRjaXV0a21Hank3cmZOYTA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T07:06:02+09:00"
+    },
+    {
+     "title": "PHPに重大な脆弱性　米でも警告　ファイルやデータベースに直接アクセスの恐れ",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGVLR1BJX0V1bk5jQXlYbjNvVGViZHpIUlJaczdWV1hpM05Ob1l3TzVfTHRDUEJPbnZ4blpxNGpsTVBYTGN0R2g5RnlHOTlqSVhBb1ZBYmthNWM5SzZiaGFpc2RwTzdtVUNTWmRiMUdiSndDenR0eDd5MlNSc0d6X0FUVTd6Wkdwd05aMHdyRTMwREVnSG5zRNIBiwFBVV95cUxQRTJRTnBPREsxTjUxQ1U2N0FkNEVSZUFfVVdHQnd5RndmOURsLWhiNE8zcnh3dWNkSUZiLUl5TV9YLXNwSnl3emdKNGVpbXZsTUR4X3I0MkJQcU16bXNVYXZQUzAwYk9oREYzaXktdnhpdmQwTzJsVk5YZl9oaFZpam9pMllacXpfSWxN?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-22T01:25:49+09:00"
+    },
+    {
+     "title": "【速報】政府「サイト侵害の可能性」と警告",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oeGFOTC0zMzFPWGNTN1VnSFNCSkJwb2hmSUdiQ2pYMkdiSWVJb1A3Mk1PQ2lMaGNwMHIwUE00ZFA1NGFMbmRBR0JKRQ?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-21T23:25:58+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-22T10:42:00.301456+09:00"
+  },
+  {
+   "kw": "到達",
+   "level": "high",
+   "d24": 11,
+   "baseline": 1.0,
+   "ratio": 11.0,
+   "consecutive": 2,
+   "days": [
+    2,
+    1,
+    0,
+    1,
+    0,
+    2,
+    11
+   ],
+   "latest": [
+    "【物価上昇２％到達】悲願目前、賃上げ伴わず 経済に冷え込みリスクも",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZDVfUjhkaGl0RGNWVlBYS01TaEF1ejZWTEJLU1FJeDUxaldnRUdVME0xejA1UzBtcVJ1WnBPV2hZbExmWF80SV9qWVNkLXZrTGFHdzVLdkYwaWhidnc?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【物価上昇２％到達】悲願目前、賃上げ伴わず 経済に冷え込みリスクも",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZDVfUjhkaGl0RGNWVlBYS01TaEF1ejZWTEJLU1FJeDUxaldnRUdVME0xejA1UzBtcVJ1WnBPV2hZbExmWF80SV9qWVNkLXZrTGFHdzVLdkYwaWhidnc?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-10-22T10:30:24+09:00"
+    },
+    {
+     "title": "日銀、物価上昇率２％到達判断へ １０月会合、１４年かけ実現か",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Q052cWdFcGNwSEhZTDlvOVFiUm9CTE5fQUx1cjZ2N2JJZzhqZHFSeTh4Sk9ab2wtYzgtVWZXbEtNQlozRmd4NThVbHJzQ2l1SndzeHZnS1U0dE03ZFE?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-10-21T15:34:39+09:00"
+    },
+    {
+     "title": "日銀、物価上昇率2％到達判断へ 10月会合、14年かけ実現か",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UYnh4RDFya1B6SktKckwtSWNRTzlEQWY5TWg4aEtheEhpZTR4ZzRrdV9weEZBYmJ6WmE2WDhsRzB1RWpoUmxoSEc1SQ?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-21T15:34:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-21T14:54:44.262054+09:00"
   },
   {
    "kw": "レベル",
    "level": "high",
-   "d24": 34,
-   "baseline": 3.3,
-   "ratio": 10.2,
-   "consecutive": 5,
+   "d24": 37,
+   "baseline": 3.5,
+   "ratio": 10.6,
+   "consecutive": 6,
    "days": [
     6,
     1,
     0,
     4,
-    5,
+    6,
     4,
-    34
+    37
    ],
    "latest": [
-    "秋田で「レベル5氾濫特別警報」　雨量が10月観測史上1位を更新",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0owSUVQSldYT2VJX0s1dllBQnhTSEVHRDRFSy10TkZ6OHJjdWJkbkpieEIzMEZXcEJ2NjhCczJOTnhJMjZvRXI3aHRZdHpDb2dsY2I1cFNJVVRqV3Z6OEstTTZmM3phYnJCczBiejVPcGo2TnN3T1MxalB6TU1yWDBwYjAyMDA0OHJjSVFNY3diX0FyMkMxMEFfXy1teDVQcjZndmh4WlZxSTd1WldMN25rczBDbWZGODRBa0lqbTNGeUJEeHRoSTZIdkJzUl9icU9QYnI2OGhKcnZ50gGMAUFVX3lxTE1WbjhfT05jbTU5ZHpyWl9xeFAtN3JpZHNkcWFXTDJ3Y3Zvc05keWVRX09HM3ZYaUZTUUxhRUJfLVZBZ2hUSHFqUm90eWVNRmQ3QVRDQklzU3FLY2xmSGpQYVE5VWtvM2tmY045YkVpSXdUVGw2eENBcTZHNU5VcWRPV2p3dnpXUVlVdEFL?oc=5"
+    "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5"
    ],
    "samples": [
+    {
+     "title": "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T09:56:59+09:00"
+    },
+    {
+     "title": "愛媛県でインフル注意報レベル 県が対策呼びかけ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zNG1ENUVZaF95d2JHZVpGQWpPRF9aZWRRcEhoLUNtUzBIYVY3b1dTSGljS3hPeGRZbmRDcFVySVk2dUIzRVdhcVFreV9IckI2ZWE1bDhkeS1KcW5Ic3VN?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T08:44:22+09:00"
+    },
     {
      "title": "秋田で「レベル5氾濫特別警報」　雨量が10月観測史上1位を更新",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0owSUVQSldYT2VJX0s1dllBQnhTSEVHRDRFSy10TkZ6OHJjdWJkbkpieEIzMEZXcEJ2NjhCczJOTnhJMjZvRXI3aHRZdHpDb2dsY2I1cFNJVVRqV3Z6OEstTTZmM3phYnJCczBiejVPcGo2TnN3T1MxalB6TU1yWDBwYjAyMDA0OHJjSVFNY3diX0FyMkMxMEFfXy1teDVQcjZndmh4WlZxSTd1WldMN25rczBDbWZGODRBa0lqbTNGeUJEeHRoSTZIdkJzUl9icU9QYnI2OGhKcnZ50gGMAUFVX3lxTE1WbjhfT05jbTU5ZHpyWl9xeFAtN3JpZHNkcWFXTDJ3Y3Zvc05keWVRX09HM3ZYaUZTUUxhRUJfLVZBZ2hUSHFqUm90eWVNRmQ3QVRDQklzU3FLY2xmSGpQYVE5VWtvM2tmY045YkVpSXdUVGw2eENBcTZHNU5VcWRPV2p3dnpXUVlVdEFL?oc=5",
      "source": "ｄメニューニュース",
      "published": "2026-10-22T07:02:48+09:00"
-    },
-    {
-     "title": "秋田県で記録的大雨 子吉川は「レベル2氾濫注意報」に切り替え（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T06:15:10+09:00"
-    },
-    {
-     "title": "【速報】秋田県を流れる子吉川「レベル2氾濫注意報」に切り替え 気象庁 (TBS NEWS DIG Powered by JNN)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUVxY01yR3RXT2RFVDdHc3d6WnVESVdvQW5WbWFiRTlXZ0NnaDNVWk1RVkhMbkdCdjFxeTFTSlVrV0hDOHA2blNLMlBRSFZyd3ZUYzdhaE1EVnhIdmtjTnBPNHFzNWZZYm9HeFZrbS11dERsMDhYMUV1RGNpLUxtenF3OFAtaV9nMFY0U2Zn?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T02:52:35+09:00"
     }
    ],
    "watch": false,
@@ -1425,15 +1339,15 @@
    "kw": "時点",
    "level": "high",
    "d24": 18,
-   "baseline": 1.8,
-   "ratio": 9.8,
-   "consecutive": 5,
+   "baseline": 2.0,
+   "ratio": 9.0,
+   "consecutive": 6,
    "days": [
     0,
     0,
     0,
     5,
-    4,
+    5,
     2,
     18
    ],
@@ -1459,49 +1373,6 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZUkZ6UzRvTGZkRGxyY1BhMm1sVDNJUVVGLTdHUmpuazJZb1ZvRjF0LU5XTm9TYVR0WHBBM3pVUWtSTGZnLUpkUzNpeFNSbTVkVFFJcDhJdDRqMU5KRjJfOGhrLUxLWTJvaXVGdmg1cVYzMmFtaV84Tng1OW5DdTQ?oc=5",
      "source": "Yahoo!ニュース",
      "published": "2026-10-22T04:27:26+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T21:52:59.861526+09:00"
-  },
-  {
-   "kw": "修正",
-   "level": "high",
-   "d24": 15,
-   "baseline": 1.7,
-   "ratio": 9.0,
-   "consecutive": 5,
-   "days": [
-    1,
-    3,
-    0,
-    1,
-    4,
-    1,
-    15
-   ],
-   "latest": [
-    "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」",
-    "https://www.itmedia.co.jp/news/article/2610/22/2000002480/"
-   ],
-   "samples": [
-    {
-     "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」",
-     "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002480/",
-     "source": "ITmedia",
-     "published": "2026-10-22T00:53:13+09:00"
-    },
-    {
-     "title": "ＰＨＰ修正プログラムを公開",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmOWkwNWJqcENMMW9xcW4td1phbm1mWlNkN2lLeENhVzk5b3hrcDM1YW9IbjZ2U1NqYmk1eXJJM0ZEYU1KazJ5YnlDVkRLb1ZURlRDVDRLRVVLNWMtQTVCNWxadkQzaWMt?oc=5",
-     "source": "カナロコ",
-     "published": "2026-10-21T22:55:22+09:00"
-    },
-    {
-     "title": "【速報】PHP修正プログラムを公開",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxbkJkUE0wUENiMFhYMDllMEJna1QtZlhGSnV6N0dyUXdLZURwdzRXUk9kOWRYRDBaWUx1Zzl5a3FtUmFCS2kyQktMWQ?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-21T22:55:22+09:00"
     }
    ],
    "watch": false,
@@ -1551,49 +1422,6 @@
    "alerted_at": "2026-10-21T14:54:44.262054+09:00"
   },
   {
-   "kw": "真夏",
-   "level": "high",
-   "d24": 23,
-   "baseline": 2.7,
-   "ratio": 8.6,
-   "consecutive": 7,
-   "days": [
-    0,
-    0,
-    3,
-    3,
-    4,
-    6,
-    23
-   ],
-   "latest": [
-    "中心気圧は900hPa…「猛烈な勢力」台風30号が“急カーブ”で列島直撃のおそれ 台風がもたらした“季節外れの真夏日”…全国157地点で【news23】 | TBS NEWS DIG",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94UkR0T1NaMGZjUTZ4SE5qY21mOVFlWXExSElTMVZ5ekYwREE3VU55RHhfdmhOcjRvMDh0S2kybnEzMTEtNFpURVZiQ1RicTVOVFpVN0RHMA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "中心気圧は900hPa…「猛烈な勢力」台風30号が“急カーブ”で列島直撃のおそれ 台風がもたらした“季節外れの真夏日”…全国157地点で【news23】 | TBS NEWS DIG",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94UkR0T1NaMGZjUTZ4SE5qY21mOVFlWXExSElTMVZ5ekYwREE3VU55RHhfdmhOcjRvMDh0S2kybnEzMTEtNFpURVZiQ1RicTVOVFpVN0RHMA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-22T00:57:25+09:00"
-    },
-    {
-     "title": "台風30号“猛烈な勢力”九州接近の恐れ　東京都心は“史上最遅”真夏日",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVE50Qk5nVTVub25uYXYycC1GYm9rUmpnbi1GanVrdkZmTVA4V2tCQXdHUDJUWUdTSzI5cGRhQmpHY1dNLWQyQTliVnJCSm1SYmZ2M0tGcDA3Vl9mMk5EYXVMSDFhX1N5NE45d2d5dDZzTnZGZ1pHYng4TlY5aWJ4WjBrY0hncWvSAYwBQVVfeXFMTkVFNjZTNVo3d0lmbVNDLWw3NTVCWVhmLXFaXzUyUmVISU1rS0FZNE1LYlVYNGlUME9sY3NfcUZ4X3BQRGItY09Na2xLNFFRRzNNSExFVG82SEJSV2ZYel9iLVZpRG9heVAzRkY3dUNZTElJeG54S1FsRUtsM0NFbTRxNzRQZnVheUd4bWI?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-22T00:25:20+09:00"
-    },
-    {
-     "title": "台風30号 九州接近のおそれ 各地で“最も遅い真夏日”に 台風25号から1カ月 今も残る被害",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1OXhGd094cl9veFI4UzZiM0p2ak9ZRVZvRjlVcF92WThNWFYtVWNuOVZVR3d2LS1CcUxaWEJiZ2F2ZUZLSmtNblkyZlFWOXJ6bUxVS1I1YWwzTTBfem16UlJOeGxYMWxYcHlnVkxqaVZxY25kXzhDV1pUYXFXM2M?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-22T00:18:24+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-21T09:59:19.007555+09:00"
-  },
-  {
    "kw": "見直し",
    "level": "high",
    "d24": 10,
@@ -1635,6 +1463,49 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-22T00:59:41.108663+09:00"
+  },
+  {
+   "kw": "統計",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.8,
+   "ratio": 8.4,
+   "consecutive": 4,
+   "days": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    3,
+    7
+   ],
+   "latest": [
+    "富山で「真夏日」 富山市と魚津市は統計開始以来で最も遅い記録 強い南風で気温が上昇",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtZHhHUWRyQjVEQlY4b0YxNTBwX2ZLaVlMNEwzOGtTMEh1dVRfSWQtS2tGZ0pEelJZbTZyMVQ4QnpGd3ktUUxVbVgzczROUQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "富山で「真夏日」 富山市と魚津市は統計開始以来で最も遅い記録 強い南風で気温が上昇",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtZHhHUWRyQjVEQlY4b0YxNTBwX2ZLaVlMNEwzOGtTMEh1dVRfSWQtS2tGZ0pEelJZbTZyMVQ4QnpGd3ktUUxVbVgzczROUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-21T17:45:00+09:00"
+    },
+    {
+     "title": "東京都心で30.3℃(午後1時すぎ) 統計史上「最も遅い真夏日」 | TBS NEWS DIG",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LQ0wxTDRWUG9IeE80QWJNaXZ2eUc1Vm9pcmx5M0xVOGZaUmtYbWV2VVVMdmxnb2ZGSUxfYTUxQUpQaFpQWS1wSUF1cVFoVVc2czdqOXVoVQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-21T13:47:35+09:00"
+    },
+    {
+     "title": "東京都心で30.3℃(午後1時すぎ) 統計史上「最も遅い真夏日」 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzNNRy1HWnFYVThvVzk1cHZKckl3UHpscUpXcEVic0JkUFV6Mm1VeFBIRndXbHFmYnNHMHIxb2xUY3RZMDJodWlsa09vQXA4X0l0SVNCcjNYMGNpd1IwQ0FQYUdiMjFBRU83ZTh1YmNrS2haTElTRVo0dzBHVk43OVhlOEpCTDBkajNfNHRR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-21T13:46:46+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-21T14:54:44.262054+09:00"
   },
   {
    "kw": "前線",
@@ -1680,59 +1551,686 @@
    "alerted_at": "2026-10-22T00:59:41.108663+09:00"
   },
   {
-   "kw": "避難",
+   "kw": "修正",
    "level": "high",
    "d24": 16,
-   "baseline": 2.2,
-   "ratio": 7.4,
-   "consecutive": 4,
+   "baseline": 2.0,
+   "ratio": 8.0,
+   "consecutive": 1,
    "days": [
     1,
+    3,
+    0,
     2,
     3,
     3,
-    3,
-    1,
     16
    ],
    "latest": [
-    "「暗い中の移動は危険 無理な避難せず上の階へ」気象庁 浸水リスク地域で車を利用しないよう呼びかけ 秋田県・子吉川に「レベル5氾濫特別警報」",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0TG5wN0JWaFF1MWh2UVV2cUNzQmFSV0twaWpEa2gtZzBTeWRMZktwdDNmeEh1S0NJRDZvWnAyU3VPR1lyNjJkdDdYVW5KVEdwY2M4ZFFUWQ?oc=5"
+    "ＰＨＰ欠陥、企業対応急ぐ サービス停止、修正後再開（共同通信）",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uczlNOUJlcE55cWZIQjZtZV94V3haX1VnbHBCOWN4STNXaEo1Mm9rbDRQdHFuM004OXBlTFA4Ukx0S0hOa1JCN2Z6MXFLLUU?oc=5"
    ],
    "samples": [
     {
-     "title": "「暗い中の移動は危険 無理な避難せず上の階へ」気象庁 浸水リスク地域で車を利用しないよう呼びかけ 秋田県・子吉川に「レベル5氾濫特別警報」",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0TG5wN0JWaFF1MWh2UVV2cUNzQmFSV0twaWpEa2gtZzBTeWRMZktwdDNmeEh1S0NJRDZvWnAyU3VPR1lyNjJkdDdYVW5KVEdwY2M4ZFFUWQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-21T21:15:50+09:00"
+     "title": "ＰＨＰ欠陥、企業対応急ぐ サービス停止、修正後再開（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uczlNOUJlcE55cWZIQjZtZV94V3haX1VnbHBCOWN4STNXaEo1Mm9rbDRQdHFuM004OXBlTFA4Ukx0S0hOa1JCN2Z6MXFLLUU?oc=5",
+     "source": "熊本日日新聞社",
+     "published": "2026-10-22T09:46:00+09:00"
     },
     {
-     "title": "「暗い中の移動は危険 無理な避難せず上の階へ」気象庁 浸水リスク地域で車を利用しないよう呼びかけ 秋田県・子吉川に「レベル5氾濫特別警報」 (TBS NEWS DIG Powered by JNN)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlhPTUd1S1d6WU1iSllTdllENWpaSE5WX3B0eDV1dU41SjlJNUZRQ3E3TUd6bzFiNWs2c3c5eFZkQ2FVN1lOVXVvYklrT1VNcnp1VXJFanNZN0RvOTFGNXdiRWdvQWtJZUpKeVBvZ1ExemdOa2dITUZRTDJYSUN2cUNzVHBrUGpfaW9xXzdn?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-21T21:14:55+09:00"
+     "title": "米当局、「PHP脆弱性」の即修正を勧告 - 困難ならオフラインに",
+     "url": "https://www.security-next.com/191766",
+     "source": "Security NEXT",
+     "published": "2026-10-22T09:17:39+09:00"
     },
     {
-     "title": "【独自】相次ぐ大雨影響で計23人死亡の千葉 3割超の自治体｢避難情報｣発令基準の見直し検討 台風25号の被害から1カ月",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHd6dFVMMnJrRVk4QU51Tk1ubU1EaDhhXzBqUU54MnYtLVktTEt1c1NhOFJwZ1NoZGhaaXhGUkhWUG9hX3YtdThwRlFQRllnUzZSa0VfVXFhazRFWDZuaW9qMFVaTWpWYk0zVmVINk9tcW1OQXJ3V1N2S0tVYUFOYk1ER0xFcWRtUDQzTk9B?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-21T20:13:42+09:00"
+     "title": "「GitLab」に深刻な脆弱性 - 旧ブランチにも修正を提供",
+     "url": "https://www.security-next.com/191760",
+     "source": "Security NEXT",
+     "published": "2026-10-22T08:23:07+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-22T00:59:41.108663+09:00"
+   "alerted_at": "2026-10-14T21:52:59.861526+09:00"
+  },
+  {
+   "kw": "マネックス",
+   "level": "high",
+   "d24": 4,
+   "baseline": 0.3,
+   "ratio": 8.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    4
+   ],
+   "latest": [
+    "マネックス証券、「証券総合取引口座」新規開設受付を一時停止。不正アクセス試行の形跡を確認し、予防的措置として",
+    "https://internet.watch.impress.co.jp/docs/news/2150058.html"
+   ],
+   "samples": [
+    {
+     "title": "マネックス証券、「証券総合取引口座」新規開設受付を一時停止。不正アクセス試行の形跡を確認し、予防的措置として",
+     "url": "https://internet.watch.impress.co.jp/docs/news/2150058.html",
+     "source": "INTERNET Watch",
+     "published": "2026-10-21T16:50:35+09:00"
+    },
+    {
+     "title": "マネックスが証券口座開設を一時停止",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTkxGY19ZZGNXU1ZOTVFKT3ZWUHkwNmlzU3pHa29TMTJBTjdUOEJ5SW9SWFl2MVVfLWw1dFd2ZG91Sm1MQkd3ay1tOXk4eE9zSDhaZm9yODM2QWtnYVE?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-10-21T12:37:01+09:00"
+    },
+    {
+     "title": "【速報】マネックスが証券口座開設を一時停止",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1OURSZXFVZ3o0Wk43Y29EblNPVTdPTEh2UGR2RjFXUEVTWmVRZUdUbUw4OUFzMElTQ3pNMGVYVWlRVzhKWDgyb0I3Yw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-21T12:37:01+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-21T20:15:22.457768+09:00"
+  },
+  {
+   "kw": "真夏",
+   "level": "high",
+   "d24": 22,
+   "baseline": 2.8,
+   "ratio": 7.8,
+   "consecutive": 7,
+   "days": [
+    0,
+    0,
+    3,
+    3,
+    4,
+    7,
+    22
+   ],
+   "latest": [
+    "中心気圧は900hPa…「猛烈な勢力」台風30号が“急カーブ”で列島直撃のおそれ 台風がもたらした“季節外れの真夏日”…全国157地点で【news23】 | TBS NEWS DIG",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94UkR0T1NaMGZjUTZ4SE5qY21mOVFlWXExSElTMVZ5ekYwREE3VU55RHhfdmhOcjRvMDh0S2kybnEzMTEtNFpURVZiQ1RicTVOVFpVN0RHMA?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "中心気圧は900hPa…「猛烈な勢力」台風30号が“急カーブ”で列島直撃のおそれ 台風がもたらした“季節外れの真夏日”…全国157地点で【news23】 | TBS NEWS DIG",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94UkR0T1NaMGZjUTZ4SE5qY21mOVFlWXExSElTMVZ5ekYwREE3VU55RHhfdmhOcjRvMDh0S2kybnEzMTEtNFpURVZiQ1RicTVOVFpVN0RHMA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T00:57:25+09:00"
+    },
+    {
+     "title": "台風30号“猛烈な勢力”九州接近の恐れ　東京都心は“史上最遅”真夏日",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVE50Qk5nVTVub25uYXYycC1GYm9rUmpnbi1GanVrdkZmTVA4V2tCQXdHUDJUWUdTSzI5cGRhQmpHY1dNLWQyQTliVnJCSm1SYmZ2M0tGcDA3Vl9mMk5EYXVMSDFhX1N5NE45d2d5dDZzTnZGZ1pHYng4TlY5aWJ4WjBrY0hncWvSAYwBQVVfeXFMTkVFNjZTNVo3d0lmbVNDLWw3NTVCWVhmLXFaXzUyUmVISU1rS0FZNE1LYlVYNGlUME9sY3NfcUZ4X3BQRGItY09Na2xLNFFRRzNNSExFVG82SEJSV2ZYel9iLVZpRG9heVAzRkY3dUNZTElJeG54S1FsRUtsM0NFbTRxNzRQZnVheUd4bWI?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-22T00:25:20+09:00"
+    },
+    {
+     "title": "台風30号 九州接近のおそれ 各地で“最も遅い真夏日”に 台風25号から1カ月 今も残る被害",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1OXhGd094cl9veFI4UzZiM0p2ak9ZRVZvRjlVcF92WThNWFYtVWNuOVZVR3d2LS1CcUxaWEJiZ2F2ZUZLSmtNblkyZlFWOXJ6bUxVS1I1YWwzTTBfem16UlJOeGxYMWxYcHlnVkxqaVZxY25kXzhDV1pUYXFXM2M?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T00:18:24+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-21T09:59:19.007555+09:00"
+  },
+  {
+   "kw": "注意報",
+   "level": "high",
+   "d24": 9,
+   "baseline": 1.2,
+   "ratio": 7.7,
+   "consecutive": 4,
+   "days": [
+    5,
+    1,
+    0,
+    0,
+    0,
+    1,
+    9
+   ],
+   "latest": [
+    "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T09:56:59+09:00"
+    },
+    {
+     "title": "愛媛県でインフル注意報レベル 県が対策呼びかけ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zNG1ENUVZaF95d2JHZVpGQWpPRF9aZWRRcEhoLUNtUzBIYVY3b1dTSGljS3hPeGRZbmRDcFVySVk2dUIzRVdhcVFreV9IckI2ZWE1bDhkeS1KcW5Ic3VN?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-22T08:44:22+09:00"
+    },
+    {
+     "title": "秋田県で記録的大雨 子吉川は「レベル2氾濫注意報」に切り替え（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-22T06:15:10+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-22T08:19:26.627690+09:00"
   }
  ],
  "events": [
+  {
+   "id": "ed3e31ae77370c47",
+   "title": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63326",
+   "source": "NHK 主要",
+   "published": "2026-10-22T10:40:39+09:00",
+   "keywords": []
+  },
+  {
+   "id": "72557f3d4a4f67a5",
+   "title": "【物価上昇２％到達】悲願目前、賃上げ伴わず 経済に冷え込みリスクも",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZDVfUjhkaGl0RGNWVlBYS01TaEF1ejZWTEJLU1FJeDUxaldnRUdVME0xejA1UzBtcVJ1WnBPV2hZbExmWF80SV9qWVNkLXZrTGFHdzVLdkYwaWhidnc?oc=5",
+   "source": "沖縄タイムス社",
+   "published": "2026-10-22T10:30:24+09:00",
+   "keywords": [
+    "到達"
+   ]
+  },
+  {
+   "id": "56b04008b0f1cf07",
+   "title": "東芝の電池がAmazonでセール中！　充電池やアルカリ乾電池、ボタン電池など　1000回の繰り返し充電に対応するニッケル水素充電池 単3×8本が2633円",
+   "url": "https://internet.watch.impress.co.jp/docs/shopping/2150208.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-22T10:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6a34a1ff3b20ac86",
+   "title": "乳児遺体遺棄した疑い 24歳女逮捕",
+   "url": "https://news.yahoo.co.jp/pickup/6599668?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-22T10:23:17+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0e6579f1d2d7e5bd",
+   "title": "【ＡＩ時代】軍拡、経済混乱の連鎖も データ消滅、「惨事」予見（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01TjZrdXFqbU9wSko0ZUlYTEMzZ1VuM2tTTW0wdXhrTm5zdW1lemFUSkNqMzE0aEtHT0Nzcjl6S19ucng4NS03cEFldTlIbEk?oc=5",
+   "source": "熊本日日新聞社",
+   "published": "2026-10-22T10:22:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8d84355a803d5b33",
+   "title": "アヘマ２０２７説明会 【ACHEMA Roadshow】 開催のご案内：時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iNXhkY1BoaXNlN0lEQ0dNb3F6Z24tUHp2OUpHTEZHNWVsMWZ2d0xsUkt1Mm5lck9JZ1R4N0Z4TEFwUDE4N1NqamdPQ1hNMmtpanBzTzFzMm96M3hkTWtRRWFBX0JzZnp6VEJN?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-22T10:16:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "222d94f0a8d85d2f",
+   "title": "PHP欠陥、京都や滋賀の企業などで一部サービス停止",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZ01HVjJNNG5VOHEtSVM1MXdzUlBCcldDaHlEaUFXNmRwNXFkSkRRQVA1LVh3M0ktU2NObzM3UHJvTmRPeGFadlNXZUxUT0dkU0hMUjgyOTFkVVJscS0ya1NId21hRFhEZFMzbw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-22T10:13:05+09:00",
+   "keywords": [
+    "PHP",
+    "PHP欠陥"
+   ]
+  },
+  {
+   "id": "d81569a32a5485a0",
+   "title": "多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？",
+   "url": "https://internet.watch.impress.co.jp/docs/news/2150203.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-22T10:12:34+09:00",
+   "keywords": [
+    "PHP",
+    "予防"
+   ]
+  },
+  {
+   "id": "7c65f8ea1f0bc908",
+   "title": "大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有",
+   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
+   "source": "ITmedia",
+   "published": "2026-10-22T10:11:54+09:00",
+   "keywords": []
+  },
+  {
+   "id": "529a0d4ef07fdcb5",
+   "title": "「新刊を扱う店が少なくなってる…広島にとって大きな損失」 創業80年超の古書店が新刊を初めて常設 【広島発】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMGpFdzhoTUFGOHFrbXdBM2xHRnFMRzJSWjRTbEIyd0pKcUR0a1FfcnVKdEVlaW16ZXRlc3FzaEFod3ZlWWNnLTNVR3IxQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T10:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0f18c43f364f615c",
+   "title": "「11月上旬までには実現するだろう」ゼレンスキー大統領 アメリカ、ロシア、ウクライナの3か国協議開催の提案を支持",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zUnRYazItZGNEN05PU05vM1JOMFBvcEZYUi1Qd3JEcnUzOEh5TnloRThYdFVlNkQ2dENrMVpHa2V3Ti13NGhsNGZvSm9FRHFqLVBlelU0Yw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T10:09:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "506c503a9284b66b",
+   "title": "東証、９円高 午前９時１５分現在",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vR2JUT0hhOXY1U00yeTBuNlAzUjMycWJkdEwtdFdJb0RMNDF4RXExN2RRRTJsVWRjM3BaNk9aX0VyMzJMLUlKVGs5MmNGS0VyRU51ZGlxTkNfSl83MFE?oc=5",
+   "source": "沖縄タイムス社",
+   "published": "2026-10-22T10:07:52+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0d80250ab905ee07",
+   "title": "東証、9円高　午前9時15分現在",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbXVDalNfT0l0ck50N3BBNTYyZG9VUGRTZEU1TFZKMmp0blVWZXhrcmJrdkk3TE1HN1NJYUFXUUZkMWRqRWtpNFFtaW1rNjByRDhQNlhwVjBjSXd3Zk9WV3JXT2Q5XzJ6VlpmRGlITTRVZDlfY0xzQzg0cjc5N09UNVc4dVdRaTNGeWpaZURlTDBGaWxfQzdTdTk5RVRqNDgyZE05N1QxT2lFcVZtUlF4dGx2V01wZUNOOWdfX2NUeHhtSGp0ZHZxRklzeE9vQ2NXeXZpQ01MT3VlSkI4N1JvNGhDUdIBkwFBVV95cUxNOUV6cWpjTWE2azNsOTVacFg5VW5NOERBSmV5N0ZWbTNqWlo4VGgwNWtFVVItbHIxbG5pbXFmSTBvVV93bm4xeGQyNmdUbzdwZ0NsdTc1THplbFlqYXhRTFdZb21yMlhSSDBFSkVSMUFGdVFhdmY5bThwMG1PY1g5WlhULVFzdkpoQWlSTlc4ZHJRdEE?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T10:07:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c1876478f08661ff",
+   "title": "10月22日（木）【熊本の天気】カラッとした秋晴れ RKK気象予報士の天気解説 ＜阿蘇や天草のライブカメラも配信中＞",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OUFY1WGh3VjlVU3dVdDFZam1JdEFKWTNhUlk2eTk2NU44MGtFNFRNVlRMakUzX0VuQ3diTzNlMHJIYmZLbVBQcDhaS2h1SUdWYVU2aVRnb2ZpX1dvQ1JoZTN0UUo?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T10:06:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dfe806a6e30780a1",
+   "title": "第75回日経広告賞の部門最優秀賞を受賞",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJd3oxbzl1TkZ2N1pMUlFSODV5VEVfeXFsbHVrS1ZLWndoLXZsd0s4c2ZkMjRFVk8xY1BnOWJNaFVJamM?oc=5",
+   "source": "Digital PR Platform",
+   "published": "2026-10-22T10:00:45+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ab1d37e87391b6c5",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月22日）",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mbmZRa0VlVUd4MEZsZE1ZZVJJY0RKcjBpSHh5ZHJiOHVDUkVRSGRCSVBwNjJ4VmVmc2t5OC1ERlI0enEtb0VVOEdLelpyc3VIcVp1RnZENkFUUkpJZC1NV21fMTE?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T10:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7d51de106131eff2",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月22日）",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1SXp2Sk5icWtnX3VqUjNnelBQZFpQUVdhS2xZQkxXb0R1TElQaEd2SVhXekZEbVRrT3BUb3F0Rzhic1hlcktGb2RsMnlfc3dYQmxHenNrN2dwQ1V4aWFVeTJQb3U?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T10:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8a1bdcf34b9527c1",
+   "title": "准教授の発表 学生の卒論と酷似か",
+   "url": "https://news.yahoo.co.jp/pickup/6599667?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-22T09:59:17+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c710ca19d23dcb9f",
+   "title": "秋田・子吉川「レベル2氾濫注意報」に 田畑が広範囲に冠水 人的被害の情報なし（午前9時現在）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR3ZWc0F6cHFKS1R0Vnd5UUZMRER4NzFyaUl3ZU5uTEl1NllzMEdGUk9zUFVsbHU3Y1lNbWJmTTFrWEx5Skdvb2o0N0lwUzZ1MlFpS3lGNzk2R19PWWh2eDdIVDU3VElwS3ZaQ1lxeVZXWVphZHpLY05jcHdTWXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T09:56:59+09:00",
+   "keywords": [
+    "レベル",
+    "子吉川",
+    "氾濫注意報",
+    "注意報",
+    "秋田"
+   ]
+  },
+  {
+   "id": "ab7585f9096c2cc0",
+   "title": "テレ朝系列局新人アナウンサー「GOODです」ひざ上ワンピ＆透け感黒ストッキングで美脚キラリ（日刊スポーツ）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yamZuWnU1TEYwQVJzdUJDWnQwbDRJeUR1N3NTUDNSbEw2cTZpRnY5OXE3azQzRG1SQUpNUnRqRTBaeUQzaWVQVXB0SWdJdjVYc05MUkFlNDc0N29oRXR0djdQaVA1ejl0S2ZVeDVOamJXRnFBSmtZWFFxWE43a0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T09:55:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e7475106cd65c924",
+   "title": "「介護サービス情報公表システム」が一時停止中 PHP問題受けて 厚生労働省",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ca1FZUnNHdHNWXzdtS1lzRnNzbF8wUXE3dmZUZzlIN2ZVUW1BQ2FPTm01S2hwNzZmNE5PTmtOUVFUbEEwU3VYUFZiMHVXV1Q1M3AyV0JzSQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T09:54:35+09:00",
+   "keywords": [
+    "PHP"
+   ]
+  },
+  {
+   "id": "5e08b0d5f8607923",
+   "title": "韓国発大容量カフェ なぜ日本上陸",
+   "url": "https://news.yahoo.co.jp/pickup/6599666?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-22T09:48:59+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1410a1dd53bb1990",
+   "title": "二酸化炭素排出しない化粧品工場を公開　7月からスキンケア商品など製造　コーセー",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkU4N2NSTmtYZi1IRXlXazd6LVJCMGd4QVZ4R19wU0ZDaUdMWlUycGRlUkxKZWFPY1lzOTZEQ01uUzNEc1ZNWGgyLTZvRmZFdHhyU1BnRGlma0JpUkhBYVlPRGZfS051VWY4a2FfR09CNkd3a3o2bVlhbUExZThwWjZrQTEyWE9NNUHSAY8BQVVfeXFMUGI4MmJGR0dTcWs2QV9rNk1zZkpfRUg1TXVHd1ZESVZlLU84M2NINGZVOXBZRlN4ZGE2SkdpQU9Mdk1nZWttMGJpRlcxSGUtUS1UM29UYkFSSTNzM19wOFpyRy16a0ZEc204aVFYcHpCcWRLV240MzVzLUFHUklyTm11RGpKVFhleDE1VjJpRFU?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T09:48:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1144fc05468c7ef0",
+   "title": "仕事探し困難「通信困窮」の実態",
+   "url": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-22T09:46:20+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ec9bd8aa01a836c5",
+   "title": "ＰＨＰ欠陥、企業対応急ぐ サービス停止、修正後再開（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uczlNOUJlcE55cWZIQjZtZV94V3haX1VnbHBCOWN4STNXaEo1Mm9rbDRQdHFuM004OXBlTFA4Ukx0S0hOa1JCN2Z6MXFLLUU?oc=5",
+   "source": "熊本日日新聞社",
+   "published": "2026-10-22T09:46:00+09:00",
+   "keywords": [
+    "PHP",
+    "PHP欠陥",
+    "修正"
+   ]
+  },
+  {
+   "id": "d3c52c2385413d51",
+   "title": "今こそ、日本国のために立ち上がろう。：時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCMEpnQUljdmFvbE4tLW1HMFoxVXoyM0RNaWM3N1NEOGRNTm40blhMSVFpYUlBTWpKTnRhd1EwakJUdTN2UFdGUEtJNUo4R1poUUduTTNic29wbU1Td1Y5cXFQNDBLNGx0a2hv?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-22T09:46:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8f6857202bba8d44",
+   "title": "Meta決算、売上高26％増も営業益37％減　AIエージェント「Muse」は1000万人超が利用開始",
+   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002489/",
+   "source": "ITmedia",
+   "published": "2026-10-22T09:43:02+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c0901aa89f63b2bd",
+   "title": "三菱UFJ銀行で一部サービス停止",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanFDM21EX2tpc3l0dVRERm94TGFZV3hkaUh0dlNrOGJubFVId2hoMnNEbkdtUDhkSkQwcUF2MUVuYTh2QXQwN08zaU9SMkVQSnlmb2JLQVgxeFVnSkVXOXFyd0tjM3hDU0lXemp4UHB0RWZGTkhqaHRObEsyY2hvSThkSW5nS0U5aU5KVGU4TGdIMjJza2JTNDlKNnZGS3Z00gGTAUFVX3lxTFBKelV6NEtqTHAtTFdpeUVyLUhTQWptQXBZTk91MzJDTkxTV1FpTVgyRWlQQ3hfLXNPUWJXWGFCWkc4NGJ3eTUzTEdHYXB6VUFpT2oweEYtc05UUl9tVWo2LWF0bERFU3FCZjA0dkV2SE1hVXdBS2dCaVpINVA5NjFnZmtCd0ZYVjVLVlJJMmx6c0ZwZw?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T09:37:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "75ca2b3515473f75",
+   "title": "社会人向け新教職課程 創設の方針",
+   "url": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-10-22T09:35:34+09:00",
+   "keywords": []
+  },
+  {
+   "id": "039946dedcec72ee",
+   "title": "清水エスパルスとBMWがコラボ 世界に1台だけの限定車 税込み726万円 10月21日から申し込み開始＝静岡",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GWXpQeWN2VTVDTWhrbWhUQkt2eXRvX0xLWUJ4cmJZZElGeDJxN3NKU1VjbFpaUG95WUFsM2doVFRPWWRub1N2aW9TOU16VGE1NXNTek9TRzFYUW56YWx5cGp2Wnk?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T09:34:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0492f78027b41b2f",
+   "title": "米メタ 7-9月期決算で26%増収",
+   "url": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-10-22T09:28:29+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b01d40ff0c20b19d",
+   "title": "クマ対策で知事選投票所に爆竹や鈴設置へ　福島・郡山市選管、目撃情報あった47カ所に",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbElRaXlIaTFITmUxbFM5akQtYjBYd0xYNjdVaGtOTUl0LW5WZXVzbjdsM2wtUnkyT2RvbWFvZTVqb0VNa3lBQUtqX1RvYUpWNjB3b0dzZ280eHNlY08wWlk0NXZ4MEw1djE2eWQ5Q2ZLNkp6eVhHSEthOTQ3VUFjcjNyWHhuS0HSAYwBQVVfeXFMUGU3dDRtRENGSURzUEFaRVRoZWlZOHJFeUhCVEhVUGNfY0d0anN3Mm5BaklmRnQ0R0NFeVVGRW1KVExyOEtZV3Z6SVVfREtaZFkxaHFKWF9rQ2Q3dFV1bXdUMlN3dmhDTTJTWUpGZkpQaURpN1FfZ01QNzV5WEFCWE04MXdxNDBzX1RtQTQ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T09:28:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "36502fcb9c793fd9",
+   "title": "マック「ドリンクとポテト」で390円　組み合わせは50通り　毎日午後2時から閉店まで",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2ZsUTgyZDYwYWU2MnVoXzV5OHhKSzJOWHAtdE1jMFN3dXhVb3RfNnQ0QXZLTHVmcGdDUlZBaHltVnY4YXRxeFlzbzFnbmQ5NVZldmVMN0s5RGNNMklfa0pyM2RIeFF5eWdYNXhELWNZTHhZS1hyLXpqQlNmV1dqQUhKQ09rNmtqVlHSAY8BQVVfeXFMTTdZN3JfaWZsTmswbjBwSDdJX0M2RS1FeFlYOWdISWNFNUlES2RmcmM5SWhQeENqMHg3SHpENnZBVlJOeC1pQW5Yc0E3UTFCTEZTRjZuNkpmdHlRaFE4X0htaHBYOVJxR1c0ZGtTOWZjYW5CanJaVTNGRFVTYmxZTWlxUVhWUHEtTnNweWVCbVU?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T09:24:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9821b5932da42d52",
+   "title": "東証、９円高",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82RVJqejE5X3lQRkZocEE3LXhZVEs2bzhERzZiUkhmVE4xSzNlRERDdXl4aE90bWwzaWp0OWVRM3F4U1Z4SDhoM25PR2tLZmtxUUFfQ0FNcnVoYmdKRVE?oc=5",
+   "source": "沖縄タイムス社",
+   "published": "2026-10-22T09:20:20+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4057c46759d87cc5",
+   "title": "東証、9円高",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFBpU0h0Zkc0MFhoMHhSdzV3cklkMjVyTVBSSjREX3RfbVlwV2lGRi1ZY0ZqaUxTblFtd2FhY2VFdTV6bjhtdXhoOEhYUC03OXd6Z0E4SWlXN0pOcmVsM3JIMnBmU1ZDb1ZBaHRIeS0xRXBZNWdmNkN4elplT3VucWhTUlpzY2FoSEFtX2JR0gGTAUFVX3lxTE5tbDhvMkpDbFgyTldEVkVnWGg1Q256b2lmaGZVS0tiQ1h5WHdGSG5URHlGY2xsc0VtUTZfYnB1MWxhMGxRSThRWXgtMHdtdENLNEtPeWdUSXRucjZ4WF9aR0J1aXNGU0xyeXA4WmhzcmhrMVV3UTFfWjM5anh4Nk5QM1REOFoyUEtPaWNrMWpqUG1GTQ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T09:20:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "122e46aa2af72866",
+   "title": "米当局、「PHP脆弱性」の即修正を勧告 - 困難ならオフラインに",
+   "url": "https://www.security-next.com/191766",
+   "source": "Security NEXT",
+   "published": "2026-10-22T09:17:39+09:00",
+   "keywords": [
+    "PHP",
+    "修正"
+   ]
+  },
+  {
+   "id": "31528869193db9d1",
+   "title": "東京株式　22日09時15分　",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXBmNkgxZWxIdWMyTjljdHRMaGNDTzdsU1BoVi1IX0NkaUMtRkl1NG5wU1hUOV9Ud043T1YxM0Q2SkZVR2Z5VU5ncnNXMlJrcDJiay1pejNsTldyMlVmVnlkOUQ2TC05WWN6WW9iUXVfZWpvVFo5X1AwM2tJaThWTmVhUmpobHhSLWlpRTZYYVZnZGPSAZMBQVVfeXFMT1FwZjZIMWVsSHVjMk45Y3R0TGhjQ083bFNQaFYtSF9DZGlDLUZJdTRucFNYVDlfVHdON09WMTNENkpGVUdmeVVOZ3JzVzJSa3AyYmstaXozbE5XcjJVZlZ5ZDlENkwtOVljellvYlF1X2Vqb1RaOV9QMDNrSWk4Vk5lYVJqaGx4Ui1paUU2WGFWZ2Rj?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T09:16:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "22fb3e5307ebe695",
+   "title": "東証、一時上昇に転じる",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NaWtmQ05NajlvU21qazN3YUU3OWRkMUlyOUFtSXR1bDE5Q2pLLWFzd05FZW9tQWpyWVQ2ckh3REtuVXVkREpWRzUteURiR0pMWWFsd0Z1V1JiczJxMWhQNDdMdlUyY3FC?oc=5",
+   "source": "カナロコ",
+   "published": "2026-10-22T09:05:03+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0366ff0b797f7c66",
+   "title": "情報抜き取りに15秒 悪用指摘のAI",
+   "url": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
+   "source": "Yahoo IT",
+   "published": "2026-10-22T09:04:11+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7bbf6351d8c60694",
+   "title": "東証、反落して始まる",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoeWQwVThtbXIzazdNZmMyXzZIOXBDSmZXbFhwZXNEM1hMOGFnWDhfb1ZDYzlSY3dVSGxKYk5qaDNiaVMwN1BWUXdheGs0SDE0clBwQVA2T3poSmRFLXhleDhYcl9aUkg3?oc=5",
+   "source": "カナロコ",
+   "published": "2026-10-22T09:03:55+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4de06f19d06f9583",
+   "title": "Tesla決算、営業益56％減　FSD契約は67％増の174万件　SpaceX合併は「昨日すべて話した」とマスク氏",
+   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002488/",
+   "source": "ITmedia",
+   "published": "2026-10-22T09:02:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c89ae9035ccc275f",
+   "title": "【ライブ】武部農水大臣が所信表明 参議院・農林水産委員会 “公選法違反”疑いの寄付は返金・政治資金収支報告書 訂正（2026年10月22日）",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkS1hFOWNrV0o2OExkRWVQOUJuZjRvaVlyQnNJZmdYcFV0VVlKTmtHUzVSbWhrbDd1bjhaWDcyTjV6YkxEc2xtLTF5S2stbDByUWVxUEozZURoZFBWUS1QRUNYTFg?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T09:00:00+09:00",
+   "keywords": [
+    "寄付",
+    "武部農水大臣",
+    "訂正",
+    "返金"
+   ]
+  },
+  {
+   "id": "ff6e7798501c78ed",
+   "title": "高市首相動静 2026年10月21日",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63313",
+   "source": "NHK 政治",
+   "published": "2026-10-22T08:56:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5d88c0532db7b525",
+   "title": "G7TV会議を首相欠席 与野党波紋",
+   "url": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-10-22T08:55:48+09:00",
+   "keywords": []
+  },
+  {
+   "id": "54577489ceca2cdf",
+   "title": "北朝鮮「拡声器放送」今月中にも再開へ…去年6月以来 金与正氏が国境要塞化の複数現場を視察",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3Z2FkQ1BiWUFoVzNkdkl6YXBxNkNsc3AzMjJFSFV4Y1p6U1JkZkNVU2VMMHFOY3p6bVVHTkVIM0liNE9VTHRvbGZqLXFQbGtBOEJWc01vOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T08:55:42+09:00",
+   "keywords": []
+  },
+  {
+   "id": "71b03522aa957140",
+   "title": "ロシア ウクライナ アメリカの3か国高官協議 11月再開か",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63271",
+   "source": "NHK 主要",
+   "published": "2026-10-22T08:52:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e6b96a5e4d00d808",
+   "title": "アメリカ国務省がサウジアラビアの大使館一部職員に退避命令 親イラン組織フーシ派の攻撃激化で",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5eHpLZVZWcGxaNTBYVWl1TWw5cGg2YTFEVlNTalFBNXpveV9tc0ZJZllLb3lmX2NBRXVJMVRGYlQ5c05aQnBPbEs3WjE2MG40M0h2QjA2VHJXQm5XSjBKMkdDWTZVdmF4T0c0am1idUlhSWN1UkFtYzBqcndRdW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T08:48:58+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5e43eb6a34475d71",
+   "title": "ハワイ移住した元テレ朝アナが、家族旅行で驚いたアメリカの“今”。自動運転タクシーに、建設費3400億円の巨大球体etc",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSXV6RkR0akFsUV9DeWxHeHpualVzb0FSNGhXcVBaMGl0MUwweVVZU1Zic3UwVl9ndWV2Vk9RLVBBOTcyUW9rNGN1Z1JfZ003V1RqOHl4YjdGOVNtZzFCbnd4b0hkck13YUIzbmVtbnpEVUNQOXU1XzhrbzhueUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T08:46:53+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5a8cf56b80f1ee95",
+   "title": "愛媛県でインフル注意報レベル 県が対策呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zNG1ENUVZaF95d2JHZVpGQWpPRF9aZWRRcEhoLUNtUzBIYVY3b1dTSGljS3hPeGRZbmRDcFVySVk2dUIzRVdhcVFreV9IckI2ZWE1bDhkeS1KcW5Ic3VN?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T08:44:22+09:00",
+   "keywords": [
+    "レベル",
+    "注意報"
+   ]
+  },
+  {
+   "id": "aaf556be711a6602",
+   "title": "Adobeそっくり「ArtCraft」の動画編集ツールを試す　AIで挙動を再現した“クローンソフト”はアリなのか",
+   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002485/",
+   "source": "ITmedia",
+   "published": "2026-10-22T08:43:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4a3379057160629f",
+   "title": "未成年への「オプチャ制限」はあるのか？ リスクと対策についてLINEヤフーに聞いた　「健全な交流」まで規制する理由はない――友だち追加QRコードの交換はNGだが、ゲームIDの交換はあり？",
+   "url": "https://internet.watch.impress.co.jp/docs/interview/2145470.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-22T08:32:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c8c1a63876fa770f",
+   "title": "【停電情報】甲斐市・甲府市で停電 約2430軒 【08時19分現在】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XQktHY1hvVWFuRTlScHRSTGo0S28zcWhXLUZzNkd6eEpMbnFRcGdaUnZ6aVBJOHlLZF93OF9wNEFoMFlOYXV2RTNMdGNCWmFacExyczY5T2VhblNTRkU4bFIxNUs?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T08:32:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "870a74d3327382a0",
+   "title": "北朝鮮・金与正氏、拡声器による宣伝放送「10月中にも稼働」 韓国への正当な措置と主張",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yRUpRaXJyRGhoeDZzcmJ0M2l4WEIxSEtqNmZONlJXMWRNWVptSmpUWUZIYm9DaTRBMV83NDI4RlQzM3pfbzduemhHMEdkQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T08:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "67f6a332ac711259",
+   "title": "PHPの「重大」脆弱性はAIが見つけた　「GPT-5.6 Solで発見」とOpenAI　「今後、AIによる脆弱性発見が急増」",
+   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
+   "source": "ITmedia",
+   "published": "2026-10-22T08:27:53+09:00",
+   "keywords": [
+    "PHP",
+    "重大"
+   ]
+  },
+  {
+   "id": "37f39c092e6d6442",
+   "title": "「GitLab」に深刻な脆弱性 - 旧ブランチにも修正を提供",
+   "url": "https://www.security-next.com/191760",
+   "source": "Security NEXT",
+   "published": "2026-10-22T08:23:07+09:00",
+   "keywords": [
+    "修正"
+   ]
+  },
+  {
+   "id": "f89ae425efe7a7c0",
+   "title": "15歳の男子高校生がオートバイを無免許運転でひき逃げか 乗用車と衝突してケガさせそのまま逃走",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UZzRFeUptWVlpc2d2OWZkYVU2eFRZTDJJZ0NfT2hsQ0sxVElncXNpUnJqdGZ5WWtRaVF5aHFuMHExSllMb1llSEFmZzJ3Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T08:20:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c86d044b64475828",
+   "title": "高橋塁 ゲイ公表までの葛藤を語る",
+   "url": "https://news.yahoo.co.jp/pickup/6599656?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-22T08:15:13+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ddb410b7708beebf",
+   "title": "妻の顔を殴るなど暴行、けがをさせた疑いで会社員の夫（39）を逮捕 香川県三豊市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWTNfeWJiU1lNRFk2RTVIWktVeWhZSUQxc2pwSDBHbHFPaHZib0FSRFdpY0tRNmdqZUg1WlpUYWpXWEFKdnFvLVVuVHhvN0hYMUhOLU13OA?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T08:08:00+09:00",
+   "keywords": []
+  },
   {
    "id": "b20349bff40b272d",
    "title": "【台風情報】大型で猛烈な台風30号 非常に強い勢力であすにも沖縄先島諸島に接近 週末にかけ西・東日本で警報級大雨か",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lOThmcEFXaEtEZVBUaVlHajdRSXdyQmhwbWtrMVRSeWZJc2RLNzJpbFBXVEVjS0hLbktLaFFPM29HQzNFT2xmX1kyT3VSYUVsYTJqYWVsRlJUMS1jWUVFWlF1R3lsQWdLbWJVdjBTZ0ZXTXFob19XMWpzODA4Tnc?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-22T08:07:50+09:00",
-   "keywords": [
-    "警報"
-   ]
+   "keywords": []
   },
   {
    "id": "08c0737cc4801a9c",
@@ -1784,7 +2282,7 @@
    "published": "2026-10-22T08:00:11+09:00",
    "keywords": [
     "PHP",
-    "欠陥"
+    "PHP欠陥"
    ]
   },
   {
@@ -1804,11 +2302,35 @@
    "keywords": []
   },
   {
+   "id": "eec2f8cc81c75cc6",
+   "title": "自分の水産食肉加工場に放火…所有者の41歳男を”再逮捕”保険金目的の詐欺容疑で逮捕済み―発生時に「工場にトラックがぶつかった」と通報もトラックは『無事』別の75歳男も逮捕〈北海道紋別市〉",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14ald5bW9XTlZvU0luckM5bmo2OXMwb0otSEFYMjQ5TXYxOVl6bERHNUF2YUZHU1VPazA0Tkp4TW1Ja3lTamppLVlkUlJwUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T07:50:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "4a94adfe0706fdfd",
    "title": "メタ社に制裁金約4兆円判決 16年米大統領選でユーザー情報漏洩　ニューメキシコ州",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0NnZngwTWpQZEM0Q3ItcjhLM3NHQTZ0Wm15RkxTTmdxVVpDdGVsYXZYMnNNWTRkSTRjR0Fzd2psYjlPMmJLQmt5WEkzWkNiQW1MOXZOT1FSY2xvU2Jza3NSMnBoWjVSN1dIN01ib3ViT2Vwc29RbVRHRVFwcTFtZWdZaWs5UdIBiwFBVV95cUxNQW1uLWVRSk5vRUFVQkdzeGV5MnVxYnBRM2hUSV9LV3RSaHU2dzNGazZMWGV0NXo4RUFoMlJ1NmJUbzNRUFRId0J1NjRLZmpGLWM5RlVfRVgxT19Jc3FSR0FJeEFkTVNSVlpUVE51RkctZmtXV0FRMkNzOHVBQUNvc2pYM3AxQkREbnRV?oc=5",
    "source": "ｄメニューニュース",
    "published": "2026-10-22T07:48:55+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9941c7a48a84468a",
+   "title": "米メタ、純利益３・６倍",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oTHdNTUliOEtZeWVISWc5N1lVYmQtSmdVQWtIeWJwaTcyNmZMYllRMUFkd21QSU0yZ3JJbmc2T2w0alNnMElHbFBNdjRyczdJZ1l2cXY0VFp6YnU1aFBrUWlhY0V6WHdI?oc=5",
+   "source": "カナロコ",
+   "published": "2026-10-22T07:44:40+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e471e2221b002d31",
+   "title": "米メタ、純利益3.6倍　7〜9月期、広告好調",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUVpYzJNMWNSTlVnaUViMmdyWVlLdVhNNzdUVlktU1JvcDBTTkQzME44S05RSjRHRU5zMEZRclVyeklHTXVLRm90UGZyc0pEQTlWWlJJNUVfT2tHekh3VXE1d0xtU0hBd21fVHp4RTYzall3U0swSDFNTkdvcFY1b3VaZFg0UWlKOGp5MXV0c0Y2dGvSAZMBQVVfeXFMTmFFaWMyTTFjUk5VZ2lFYjJncllZS3VYTTc3VFZZLVNSb3AwU05EMzBOOEtOUUo0R0VOczBGUXJVcnpJR011S0ZvdFBmcnNKREE5VlpSSTVFX09rR3pId1VxNXdMbVNIQXdtX1R6eEU2M2pZd1NLMEgxTU5Hb3BWNW91WmRYNFFpSjhqeTF1dHNGNnRr?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T07:44:00+09:00",
    "keywords": []
   },
   {
@@ -1843,8 +2365,7 @@
    "published": "2026-10-22T07:34:52+09:00",
    "keywords": [
     "PHP",
-    "プログラム",
-    "欠陥"
+    "プログラム"
    ]
   },
   {
@@ -1856,6 +2377,14 @@
    "keywords": [
     "PHP"
    ]
+  },
+  {
+   "id": "f0b725c1c17153b9",
+   "title": "【レバンガ北海道】富永啓生「ターンオーバーから流れを持っていかれた」後半だけで66失点、クラークが5本の3ポイントも富山に敗戦 ラモスはBリーグ通算300スティール達成",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVMmlXbHVMbHlObkZ1ak9QQV9faXNDazlJZUdfQnRhQ1RMbklLVlpwODZkcDdDQjFUMHVjNHZsOWV4UTN5TXRWblZQMmt2Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T07:30:00+09:00",
+   "keywords": []
   },
   {
    "id": "ccb3e1d9e6b76314",
@@ -1878,6 +2407,17 @@
    "keywords": []
   },
   {
+   "id": "7b2589d7472134fa",
+   "title": "世界各国でPHPに対する警告 「サイト一時停止を検討すべき」（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVUx3M1RQb0FSc3pkMktrRzBBazVnOVJMeUVycVdhX3V4aXQzWlBqTGpnWTlzbDJHdWsyZDc1WVdoUjlLTmEybEZJZHJnR3dyeFVhME41WnE1bEZGYng0X2dlZ3l6WTI3RG9LdjRwZVRjaXV0a21Hank3cmZOYTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T07:06:02+09:00",
+   "keywords": [
+    "PHP",
+    "警告"
+   ]
+  },
+  {
    "id": "d934bf85fe7e01c5",
    "title": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
@@ -1894,8 +2434,7 @@
    "keywords": [
     "レベル",
     "氾濫特別警報",
-    "秋田",
-    "警報"
+    "秋田"
    ]
   },
   {
@@ -1929,8 +2468,7 @@
    "source": "Yahoo 主要",
    "published": "2026-10-22T06:57:25+09:00",
    "keywords": [
-    "PHP",
-    "欠陥"
+    "PHP"
    ]
   },
   {
@@ -2040,14 +2578,20 @@
    "keywords": []
   },
   {
+   "id": "142f049a211e7d5b",
+   "title": "同僚女性に性的暴行か 飲食店従業員の36歳男を逮捕 勤務後に車で送る途中で犯行か 埼玉・三郷市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iblhXQXRwMWdRYXNiRHFQcjgyeF8tR1JxZG9SQ1k5dlRWdnBjVTlMOXp2WjBpejZJT1dGVUVDTTJVbmJmMlBWQ0dCdUd5Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T06:22:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "56d886802a1c7258",
    "title": "「台風30号」早めの対策を 西・東日本で警報級大雨か（FNNプライムオンライン（フジテレビ系））",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zTVpJYlh0OXM2NnpDWDltUmhtb0xUMzctSzFxSm1uSVhXSHBoLTRGeFp1RkRpcTZpWjlHRFd5bjY3NGpsZ1c5T1JoR2l4X252X3hfMF9ycjhHOGgzV3Z0MmhZNWRkWlBydHFFeHozWmE3MUIwNzRvRVV6aE9PLTg?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-22T06:21:20+09:00",
-   "keywords": [
-    "警報"
-   ]
+   "keywords": []
   },
   {
    "id": "828931f69e7d61f2",
@@ -2061,6 +2605,14 @@
    ]
   },
   {
+   "id": "14ef3b0c3174bc0c",
+   "title": "フランスの暴動や混乱 マクロン大統領「外国による情報操作あった」 11月に最大級デモ予定 沈静化見えず",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDZGdNV1JSR2dhT3JJdjctRGZ4RU1sd1NMYVpXM1JEZ1Fkb3VEaFRqdEoyLVhNMURMbElxaDVrNllEMzhzbTNhVk9NLTMyQUlKSHhQOVA1Q3JIVFlPdEd0OG1aMkxhUDBiT1ZHZFZiSU44RFhsRndoRjNnbDlZeWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T06:20:34+09:00",
+   "keywords": []
+  },
+  {
    "id": "5b6320b03a1e9928",
    "title": "秋田県で記録的大雨 子吉川は「レベル2氾濫注意報」に切り替え（FNNプライムオンライン（フジテレビ系））",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWDZDNWlreFZyNkxveHNTUnZsdGJsV1FWUWM4c2FuT3pIOGNiN0I0a2Vsd29zTHVZYmVnNUpKQVZVOVZzVEpreUg3SEN4Rzl1T2N4QW9iazB1dmxCRG5aLXJaZ0pZRHNkVTVTTVBsUWNiR3NueTlmVkM1NlE5WUE?oc=5",
@@ -2070,6 +2622,7 @@
     "レベル",
     "子吉川",
     "氾濫注意報",
+    "注意報",
     "秋田"
    ]
   },
@@ -2090,6 +2643,17 @@
    "keywords": []
   },
   {
+   "id": "00c7547c94f67078",
+   "title": "プログラミング言語「PHP」に重大な脆弱性 企業や自治体などのHPで緊急停止対応相次ぐ 高市総理も大至急の対応促す",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95dTRNQ2hoY252bFpxMXdpeWZSU0ZkZVpQQVRJNnZVUXBDdkFfOWtFcGxOTUh5QmxlTjRxNGFHYUVJYmVPbTRoTXpSazlndw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T06:12:00+09:00",
+   "keywords": [
+    "PHP",
+    "重大"
+   ]
+  },
+  {
    "id": "8431194eb7f957bb",
    "title": "消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63246",
@@ -2104,8 +2668,7 @@
    "source": "TBS NEWS DIG",
    "published": "2026-10-22T06:08:00+09:00",
    "keywords": [
-    "時点",
-    "警報"
+    "時点"
    ]
   },
   {
@@ -2122,6 +2685,14 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwNUVqa0g4MlgzSW5FM3JMUEVvbWtjTGsyakt1MDZneHdhbjJhMzNkcmYxWlpOd2IwV0Fod29mdjg4U2k0aFpvT2s0d1M2c0FXWDdfTXE5eHpjM3Q3bmQ2eHhxYlZCVXphRjY1UTcxY2FWcFpvZUE4Q1NrS2nSAYIBQVVfeXFMTVRUdU5Kc3Bydkg1Y1daVGdlaTNNRndLWmtuZjVjSDY2Sm0tMGoyUldzSUVlZnlCQmxheGJHamg4SGFialpHTjVtSV9HS2hTclIyNEh5TE5jYjhxZWtCMVhVTFQ3QTJFSGhqcDdQWFV3dm9qcmVSa1VaLVhIV3FrOC16dw?oc=5",
    "source": "ｄメニューニュース",
    "published": "2026-10-22T06:04:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5dd1d8df39ac2711",
+   "title": "【東京都】10/22の天気予報 (FNNプライムオンライン（フジテレビ系）)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1R6RUdDeWdkQllVX1dKWXJYYnNNM25aMUtqbnRyQWN3NjV0OHRtblphdzYyYzJ6TFhGd1lYWjFFWUdNOVJhc21uZ1EyT2cyOW1yMnRIS0hadEhiRm5DVmFNSXBUUnFhNmowbkp5aXRlRG5pTnQwLV9lUmR0eHRRR3dPQ3pGUms5Qk1WRW13?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T06:00:22+09:00",
    "keywords": []
   },
   {
@@ -2173,6 +2744,14 @@
    "keywords": []
   },
   {
+   "id": "e4bbe617f5e8b33b",
+   "title": "鳥取県・平井知事 “おばさん発言”めぐる報道が知事選不出馬の決め手になったかと問われ…「これは言うつもりはありませんでしたが、納得できません」「家族にも迷惑をかけるような事態を招いてしまったのかもしれない」会見で語られたこととは？政界引退？後継は？【質疑応答",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oTFA1NGhtM3JiZkpTc1ZIQVFnbUdiQWFEWEVqa0ZQcmdPd2t5Tnl4RW5ETlJEamFQSVZ1RDZ2U0NETFB3dnVwTkktbVpRMlJabWFoamN5dw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-22T06:00:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "e6239eb517f9f1b7",
    "title": "PHP欠陥 各国に影響 オランダ・イギリスなど一斉に注意喚起",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12bWVHYTlRQzA3TGxfR1lYclRiSXRVWHFGQ0JVWF9LNmlwWEVTSGt6R216YXQwanFESG10SklmZDVUQm11WVhPLXd6VWpaWldsSkgtQjZ5WQ?oc=5",
@@ -2180,7 +2759,7 @@
    "published": "2026-10-22T05:56:23+09:00",
    "keywords": [
     "PHP",
-    "欠陥"
+    "PHP欠陥"
    ]
   },
   {
@@ -2189,6 +2768,25 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxZ0JuVkpiOHh3V25peXd3TWk1d2dkbUNGN0hlZVVpLW5hRHBibHVTRlZYRVcwSU1KX3hwbUtaRlJwUy1nNTIwVnpDMA?oc=5",
    "source": "47NEWS",
    "published": "2026-10-22T05:56:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "92da5c272b0d6fdf",
+   "title": "PHP欠陥 各国に影響 オランダ・イギリスなど一斉に注意喚起（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EZk5XNkFJS2U3MVo1OHRxV0hnTVJGMThwQncyYWhrNXJwdl9SRnlYWERPZmJjRWdzRUg1Wmw0ZUFjbXZWRkRRTVdQRF9zWU5PVkd2bnlHRXQ0VEVnVUJFX19yTnZjN0d4QndsOUpYUG40VUplWmtEV0ZxeEEzeFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-22T05:53:44+09:00",
+   "keywords": [
+    "PHP",
+    "PHP欠陥"
+   ]
+  },
+  {
+   "id": "1d64df7a8f151609",
+   "title": "NY株式　　21日終値　　　　",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUlwckpBR2dyd0dRNEFBNEJXdXg2eTlrRENpU3pxaV9ScXBKNHhrZE1qUV94YUZyQk43NTJXRFM3YWFkb2o5UmpwVkFnMmNqQ0JuWlNHd0RFdXowdkF3NFhfREJzUHRmaUpabTdJZVc5TGdOeTBXNUFvTnJ6TklKZ2I1SDJPY2J6OTl1WEJobGVKR2fSAZMBQVVfeXFMUE1JcHJKQUdncndHUTRBQTRCV3V4Nnk5a0RDaVN6cWlfUnFwSjR4a2RNalFfeGFGckJONzUyV0RTN2FhZG9qOVJqcFZBZzJjakNCblpTR3dERXV6MHZBdzRYX0RCc1B0ZmlKWm03SWVXOUxnTnkwVzVBb05yek5JSmdiNUgyT2Niejk5dVhCaGxlSkdn?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-22T05:45:00+09:00",
    "keywords": []
   },
   {
@@ -2205,6 +2803,14 @@
    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63274",
    "source": "NHK 主要",
    "published": "2026-10-22T05:42:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "67ca2562b69fc74f",
+   "title": "試着用の有名ブランドのメガネ（5949円相当）を手に隠し店の外にスタコラ立ち去る…54歳配達業の男を窃盗容疑で逮捕「盗んだことに間違いありません」",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zenZoLXIxWi1xVEx6NkhhSlNxRHBldFc0cm9rcVJJc1gwdWxIdktnQzAyTHVNN1YtYTl4bU5jQkhVSHBYcm5TS0hBTkl2dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T05:30:00+09:00",
    "keywords": []
   },
   {
@@ -2229,6 +2835,14 @@
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63222",
    "source": "NHK 社会",
    "published": "2026-10-22T05:16:54+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a44a6aa3e7db3f83",
+   "title": "「準加盟」枠組みを設定へ カナダとEU、27年めどか",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JazQxd1M5Q1N1MmZSTVlmaGR5V3hYb3I0YVBWekEzZFRqcTJEeUd1NU8yLXVkUXphaHo5RzdFNlJSTFZETjN6N1BFYw?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-22T05:16:24+09:00",
    "keywords": []
   },
   {
@@ -2320,6 +2934,14 @@
    "keywords": []
   },
   {
+   "id": "32b3146eef6143ef",
+   "title": "【愛知県】10/22の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUTHBiWDU0M0VtTm1oQzdhSzBjWHVQVVR3SWEyVkZ2dktlMlNGeWwyUTZZUjZsell2NEtadUhfb0FNQy1jcHZ5SXlWUmFwdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-22T05:10:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "feeefb4bc1d20470",
    "title": "ヨーグルト飲料、血糖、睡眠、脂肪に照準 機能性表示、継続しやすく【経済トレンド／気になる商品】",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fOEk3WjZZc3lKX0Z2cmNOLW5oUHZKLWtfRC1jMy1QQWpUS3R0NmxER3ZodUhQaTNTYU5aaHNWZGxwQjVZWEdjcUUtRQ?oc=5",
@@ -2381,705 +3003,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tZWxsdWhHZTZia1NacjA1enFsNUlYRGtxbkhXcmY0RTFIdWU2T050RUs5YzBJdW9IMnlUb0NDNFdEamVldjB2d2JzNlRQVHlrVHJrWmEwdHlTVFNuUEtHVEctekdpdDQ?oc=5",
    "source": "日経ビジネス電子版",
    "published": "2026-10-22T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1f2315a893dd42d8",
-   "title": "アクティビストに狙われたダイキン 失敗を許容する文化を残せるか",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XZE9nTGFSc0EzeTcwOWRxZEhWS2djb3dKSTdhQWppTWJlYk5oWDBQOXo0bElBdWU3Q1lKN2F1SWh5YnFaX282ZEVhZ2RFNXdla3VGbWt6WGJEbjNKY21xVTc0OXNOcGs?oc=5",
-   "source": "日経ビジネス電子版",
-   "published": "2026-10-22T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "290bc33ca78f8aee",
-   "title": "チョコやコーヒーで広がる第三者認証 人権対応、ブランド価値高める3つの手法",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YR0Q5bk9KSzlXdE83Z0pxN0NJSkNfcDBocGpvNXd2MG8wS2VOazdfdGRYOEhnS1BjdGp2UHVydk5MNWxHa3QyYnlhRDNDdDdfTjJMaTVvZ2RTT205VmU2RktEdnl2Vjg?oc=5",
-   "source": "日経ビジネス電子版",
-   "published": "2026-10-22T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3320942e97deedf6",
-   "title": "福利厚生の利用率、部門別に表示 miiveが人事担当向け機能拡充",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JY2VRd0tlbU42b25jcEJUNGdIc2c5RERYM0VvdzQyMU9WOGw4dDE5WVo5dHNkUFRaZXdwWHA4MFJKNlhyQ2M1WkRQNmVlcFFMTWtIOXdZOTB4aEZOYXR6YWtQdUtXU3pmelI4aQ?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-22T05:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0a4ffaa9536a92aa",
-   "title": "チャットGPT、広告拡大　オープンAI、計89カ国に",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakhnU1BIeHZCa3ZCSjBuM3VfeWd5eDV5Uzk2MENCWVIzWTZFZGRDbUlkTWt6NnhXdm1fcm5DRUFEOXFqQ09MbjNfQXI4VjIwT1hsUjFRbmhmUFFZN3ZpaTZmcFYtUmxMbzh3NW55U2hiS2lfUlF4N3hIbk1JOU5OamFjQ3Zka25YSVFwS2JB0gGTAUFVX3lxTE9fNXdhS09ENTk3c1lpaWY1VWJQQ1dFNTBoajB5QTB1bmh5cVRsTEU3cWNFLWtaTUFQcXViUml3dTN2T0RINU5qbmc1M0tFTVdXd1ZqaS03a1JNODRVTHU4X21rLTRsbGQ1dnQ3LWJ2LVFsb0FGc1hveVRpdWxzNGhZTDd6Y2lqQk5sNzIwOHUtRHAwVQ?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T04:58:17+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ea9bf454b9704698",
-   "title": "ネパールのヒマラヤで登山中だった日本人2人が行方不明",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63265",
-   "source": "NHK 主要",
-   "published": "2026-10-22T04:37:11+09:00",
-   "keywords": []
-  },
-  {
-   "id": "602546f0d6b6373b",
-   "title": "【波浪警報】沖縄県・南大東村、北大東村に発表 04:19時点 (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHBqRWZ6RFBZaE1nVUNYVlhtdlRCUWNGU0laNzNFY1lHYjFWWmJfN01xWTROWWxxODhCT0xUX0dNeWhDdXZYd3p6NDZNV1plODhybmxudFdHRnNUeXFaeGtrUU1EeXdHN1V2dmE5c2dmS2V2UEpUbFBTWEpxblJzVHpRN2hzRU8yWENFUmN3?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T04:35:13+09:00",
-   "keywords": [
-    "時点",
-    "警報"
-   ]
-  },
-  {
-   "id": "adb592260554fce5",
-   "title": "秋田 子吉川で一時 氾濫特別警報 危険な場所に近づかないで",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261021de63227",
-   "source": "NHK 主要",
-   "published": "2026-10-22T04:32:10+09:00",
-   "keywords": [
-    "子吉川",
-    "氾濫特別警報",
-    "秋田",
-    "警報"
-   ]
-  },
-  {
-   "id": "ea6ab2c195a7ea34",
-   "title": "【波浪警報】沖縄県・南大東村、北大東村に発表 04:19時点（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZUkZ6UzRvTGZkRGxyY1BhMm1sVDNJUVVGLTdHUmpuazJZb1ZvRjF0LU5XTm9TYVR0WHBBM3pVUWtSTGZnLUpkUzNpeFNSbTVkVFFJcDhJdDRqMU5KRjJfOGhrLUxLWTJvaXVGdmg1cVYzMmFtaV84Tng1OW5DdTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T04:27:26+09:00",
-   "keywords": [
-    "時点",
-    "警報"
-   ]
-  },
-  {
-   "id": "d8a8f18f56c14b2c",
-   "title": "PHPに重大欠陥 WEB停止相次ぐ 総理も異例の呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50UFlfZktnUnl5TkFMdERXU2swNU44ZkVQWXhoenRDS2lmcDJMUEhkalBZb3JiaGlJVkNEaVJkNDRnRnN5SnBCajlEZnduUTJHbG1RMWU2TQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T04:26:24+09:00",
-   "keywords": [
-    "PHP",
-    "欠陥",
-    "重大"
-   ]
-  },
-  {
-   "id": "b69872273cd1b11a",
-   "title": "血管炎の治療薬「タブネオス」 新規患者への投与を控えるよう通知 年内にも承認取り消し判断へ 厚生労働省",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wbm53UllJdVFxZFJtZFZFRjVJWG82d3Q4OTJmaTlrdWYyYTFGYU84QjZvZmdFV1hVc1pYalppcUtnTjZzV3pHQmx2S1ZnRHRrSEptVXhvYw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T04:23:21+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c44e4ea0073989bc",
-   "title": "イラン国境でイスラエル軍模擬演習　米にも事前通告…攻撃誘発で反撃の理由作りか",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXdYanFBRVpVbTRUdUFpRmhYU0xiOEZuZWdRSDhiSmJtRVVrdm1aeDBQaTZUb2lHU09PUTM5TnlOdm5xYk43cVhGTW1aTWwzaGdhdEVJRWNUbkU4Z2x6RVBlaldVaTM2NWc4Z1JHa1JiMEszbXNudkJwNTJRTkVhU2dCRDN2QdIBiwFBVV95cUxNZWQyWmdpLTVabHFabk1EZXYydHU4OG12cWVVUE01TGFwcnc2YVQ2M3pCNWxkNERtbWdpanFMZUl0S2k4MTdwaEVQWUxSdmFjeTBEYUozR2lucTdSUmhqX093TmFrbDJPd2pTdDBhQkluXzBlVWItQ1I5UVdTbTZyRHd0Ti1VVXJpd3BF?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T03:58:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ced7628b758d2b68",
-   "title": "熊本県で最大震度1の地震 熊本県・熊本中央区、熊本東区、熊本西区、熊本南区、宇土市、宇城市、熊本美里町",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9la3FZLURCRzZwQjUyQ2hXZGVNdjVmX3p3aE5RNzkzTFdyc0lxMkZJbWFIbjhoN19OQThTczFZUXJCemhFSnJmUl93Y0JRVkZpODFDWlFsY1lOQ09kdldkN09ZME9zbndpUDUwM3pBaW53b0RmRmQzUk9paE5KTGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T03:01:14+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1314c7b0ca326589",
-   "title": "為替相場　　22日（日本時間　3時）",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0o4NklqTk9wM3lyUGoxQjRndHhEZHJ1MmdJRVV2RXFlbWExbFZSX1I1TG5Uc0E4cFNiUUtaODVjcm1mWVA3Q28wYy1FWEFSSHdhelJfQkRNcEl0aW1hU29ROGNBa3YyLVRGRFZhenBZQUhqNWRlU3Jra1Vtcy1oa2hvM1RQMnVqa3VqWnhrTEgwaWPSAZMBQVVfeXFMT2dKODZJak5PcDN5clBqMUI0Z3R4RGRydTJnSUVVdkVxZW1hMWxWUl9SNUxuVHNBOHBTYlFLWjg1Y3JtZllQN0NvMGMtRVhBUkh3YXpSX0JETXBJdGltYVNvUThjQWt2Mi1URkRWYXpwWUFIajVkZVNya2tVbXMtaGtobzNUUDJ1amt1alp4a0xIMGlj?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T03:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "00952029f11b98e1",
-   "title": "【速報】秋田県を流れる子吉川「レベル2氾濫注意報」に切り替え 気象庁 (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUVxY01yR3RXT2RFVDdHc3d6WnVESVdvQW5WbWFiRTlXZ0NnaDNVWk1RVkhMbkdCdjFxeTFTSlVrV0hDOHA2blNLMlBRSFZyd3ZUYzdhaE1EVnhIdmtjTnBPNHFzNWZZYm9HeFZrbS11dERsMDhYMUV1RGNpLUxtenF3OFAtaV9nMFY0U2Zn?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T02:52:35+09:00",
-   "keywords": [
-    "レベル",
-    "子吉川",
-    "氾濫注意報",
-    "秋田"
-   ]
-  },
-  {
-   "id": "f01cdf658af27753",
-   "title": "「コミックシーモア」 最大でおよそ420万件の個人情報流出",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Pd18xMlV1UTNBLWpLYVhpUjVnUUNBblpEbDREQmNnVWpZUXR0QzB0VUdtYkROcVh0Q3dUMUZrTTZ2RGFsRmpTVWlWRTJjbFMzazltY3d2bw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T02:45:37+09:00",
-   "keywords": []
-  },
-  {
-   "id": "90286b7a2796d710",
-   "title": "88歳の父死亡 傷害疑いで娘を逮捕",
-   "url": "https://news.yahoo.co.jp/pickup/6599636?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-22T02:45:27+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4c667fb1b71da139",
-   "title": "「MMX」探査機 機能正常を確認",
-   "url": "https://news.yahoo.co.jp/pickup/6599628?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-22T02:44:30+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0b68a5029506d28d",
-   "title": "自民 衆院定数の削減幅を31で調整",
-   "url": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
-   "source": "Yahoo 国内",
-   "published": "2026-10-22T02:42:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ffa8ee6d18f181e6",
-   "title": "秋田県を流れる子吉川 レベル５氾濫特別警報をレベル２に切り替え 気象庁",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0UlIzSmRkQWtvdGdFcUVNWnZIcnYtczZ5TmFTWTZ0N1B5eFdLbWhaTDc5YTF1bFo2d2dPaDhFd21JSFVfRlFxTmJNWVQyUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-22T02:38:45+09:00",
-   "keywords": [
-    "レベル",
-    "子吉川",
-    "氾濫特別警報",
-    "秋田",
-    "警報"
-   ]
-  },
-  {
-   "id": "04a1e44a6fff6463",
-   "title": "秋田・子吉川 氾濫注意報に切替",
-   "url": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-22T02:38:29+09:00",
-   "keywords": [
-    "子吉川",
-    "氾濫注意報",
-    "秋田"
-   ]
-  },
-  {
-   "id": "c1cb492c5f981717",
-   "title": "【速報】秋田・子吉川のレベル5氾濫特別警報をレベル2氾濫注意報に切り替え　気象庁",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWk1uTG5aY2Z6N2VCdnlsQUlUbVhMUVc0MEVCdUozd0IyTjBMYmhaWWxDd3YwSWdJNEJFZWh3MVI3ck9qSTFSUDR3YkZVRGZMOXVBaW1ndTljMzFpS0Y4M21BMjVNRUFkbFlRR29VT3N2VG1Cd3V5MU5NWFBfR0tkbjNVcVBJT0HSAYwBQVVfeXFMTTNiMUREMHJGLUZzU2YtZ2kxVm9oSHNIYVFvYllpdkxHa2pKSXJfWGJrOG5hU0FDUzFMNjJ2WUJfb0xSVzZXNW1odlM4TGJpcEdzWmxNd01CMmVGSnNld2N6TkxLeTA5aUJTYXZoaW4zcGVwaXp6REJLZkJrTld4V1ByOHM5TVRPbHlJRDg?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T02:36:17+09:00",
-   "keywords": [
-    "レベル",
-    "子吉川",
-    "氾濫注意報",
-    "氾濫特別警報",
-    "秋田",
-    "警報"
-   ]
-  },
-  {
-   "id": "c0a9dcd81f9474b2",
-   "title": "【速報】秋田県を流れる子吉川「レベル2氾濫注意報」に切り替え 気象庁（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZUIwcGsxN0xqVE9jZm1TOHZmV2xHSTBNRE1MbUlaQ2wtb0lxc1FnWHBUdXZRZ01iUkRXbWJVMVNYYXBnZkZkQjVXZ3ZhdUFoRUpwUlVvTEtEWTJDOHpvRjU2TnFMRzdrMDYyX29PbzNjTU01Y1FyN283ZUdvMTA?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T02:34:35+09:00",
-   "keywords": [
-    "レベル",
-    "子吉川",
-    "氾濫注意報",
-    "秋田"
-   ]
-  },
-  {
-   "id": "5d168a7d5602909e",
-   "title": "【速報】秋田県を流れる子吉川「レベル2氾濫注意報」に切り替え 気象庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZRXlFZmw3ZUh5T0FEUVlpcU5HQVgwQkxIek1XbEhDRFBpZ2VndllIc2tiejVia3I1djhJYUptSnZsSU1qeUhwMVNmN1hWa1BuOXBDNHZ2aw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T02:28:24+09:00",
-   "keywords": [
-    "レベル",
-    "子吉川",
-    "氾濫注意報",
-    "秋田"
-   ]
-  },
-  {
-   "id": "699c4c41f7aa652f",
-   "title": "プログラミング言語「PHP」に重大欠陥で各国でサイト遮断 パリ警視庁のサイトも障害 対応に追われる",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbklrOXdXcnBHZ0MzNURHbVBUSXBjR3RFcDhseXlDUWVUNzNJRU0zSWFTSzc5M0ZxLWR0S3BzaFFCSGpGcnQxNTkyMW5pdXFGaGpPQ21rMFIxcFRSZzd4SHJ4eDJ1OVNEeHVtekUyVzFfcEp5aHZnVUt5SGpUbGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T02:21:17+09:00",
-   "keywords": [
-    "PHP",
-    "欠陥",
-    "重大"
-   ]
-  },
-  {
-   "id": "733c2c6c4d06a763",
-   "title": "青森県で最大震度1の地震 青森県・東通村（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SHU4bGlBWlk0RlJsQTU0dHlCV0M2MW9yS09ENERCd1ludlJyVU1YcVJaLW82dHljNjBtNk04Y0cwb1NJd0ZwWUxqWnI2NXhJZFJaV2xPeUQ3TjBqa1gwRjJRY0RRMXNIUDBCU0M0UFlIaTExbTZuQ1FyRXFlZUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T02:21:17+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c3d2073c5a0774ca",
-   "title": "震度1 浦河沖 2026年10月22日02:10ごろ 地震詳細",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVZNNi1Vc0stNGJ2eF8xR3VTaFNYQU5OOWdtVmRmRGdwR3lBMXRDckZkSExzbTgwYmtHamtXU3R5QXIxZnVkWFl2UW5LdnIwbFpCTGIzdXVDTUc4YmlfUUhJUm85MnhJQU5uUjQtQ3VKMHFjMEg5UVJidXlhemhIRXBB?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T02:16:43+09:00",
-   "keywords": []
-  },
-  {
-   "id": "af533f7ff7d0bcdb",
-   "title": "青森県で最大震度1の地震 青森県・東通村",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YM1pDZXFFREp6elNtbTJFaFJmT1AxbzBPc2hCOUJMcVo0blloV1NOQURmczZJcHV1dnJKZ0J6ZnRwOGV1VTVSZ2w0YXZLR2dUbWg0dDJnaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T02:13:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e1a9c68274493a5f",
-   "title": "企業理念を建築空間に実装、インナーブランディング強化",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QTUpfWko3QWozM1IxeVFDUFEybFEtNWp6TUdBeF9ZTVg0Zk5VZ1YwQXM3akI5WU9FYnc3OGpObjRYRTdyOXROMFFzVkdfUVUzM3JsMktRVndKMzZPUUYwaTRRS1J2N0ZTZnJYdA?oc=5",
-   "source": "日経クロステック",
-   "published": "2026-10-22T02:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "608eef4178d8156a",
-   "title": "プーチン大統領「米露ウクライナ協議 11月中旬に再開の用意」 場所はUAEのアブダビか",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjbFdWWGYzcmZRNXEtZGNKeE9JSmdUTFhESTlkMEhMbVdYS3dtRUhEWVB3ZWF3aW1qY1A4QTVMakpoOFRXSkN4eWM2d3FESk9JMG54N0Zja0Z5bGYyT09xQ2lQVHc0TDkzSG1uU2pWMFhmWC1jaDBSSVhSUmFyV2s?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T01:56:42+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a1acbfd9f91fd26b",
-   "title": "AIデータセンターに自家発電を要求 電気代高騰など住民不満を抑える狙い（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQmdNSUh5Yk03VTBiNmxvZlBUQnlPQnR2cFVFMFljOEpmNFFyc1MtWVNkLXhMV0lYMGc4ZFUzcFJWbXFsZ1FWRGtfeGZ5Tl93dWd3YlRxamo1SXo5bUtkc0xaSUdTcnp6amY1UW1XYURJeklNTThWRVFaaGM2Y2s?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T01:48:09+09:00",
-   "keywords": [
-    "電気"
-   ]
-  },
-  {
-   "id": "89b4b509b77d28b9",
-   "title": "「ウクライナ軍に参加」でロシアに拘束 74歳アメリカ人男性解放 トランプ氏「プーチン氏に直接要請した」",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qQ3BXaldlUFRjMU05SGJqajdEZlhySU16aVBlUVRtQW1IRTl3ZHhYQWU2aF9DWHhERzB0VHNJY1lrdXpJVGRJN2U0dEpHQ09sY19xWFRFaXhGN194UV9obFJwcUc5QmNvZS11M2U1WHBfcmdCX1lQaDdoRWFFQWc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T01:32:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "95dd810d0eef9fe0",
-   "title": "PHPに重大な脆弱性　米でも警告　ファイルやデータベースに直接アクセスの恐れ",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGVLR1BJX0V1bk5jQXlYbjNvVGViZHpIUlJaczdWV1hpM05Ob1l3TzVfTHRDUEJPbnZ4blpxNGpsTVBYTGN0R2g5RnlHOTlqSVhBb1ZBYmthNWM5SzZiaGFpc2RwTzdtVUNTWmRiMUdiSndDenR0eDd5MlNSc0d6X0FUVTd6Wkdwd05aMHdyRTMwREVnSG5zRNIBiwFBVV95cUxQRTJRTnBPREsxTjUxQ1U2N0FkNEVSZUFfVVdHQnd5RndmOURsLWhiNE8zcnh3dWNkSUZiLUl5TV9YLXNwSnl3emdKNGVpbXZsTUR4X3I0MkJQcU16bXNVYXZQUzAwYk9oREYzaXktdnhpdmQwTzJsVk5YZl9oaFZpam9pMllacXpfSWxN?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T01:25:49+09:00",
-   "keywords": [
-    "PHP",
-    "重大"
-   ]
-  },
-  {
-   "id": "5c55ef4617718191",
-   "title": "プーチン大統領がウィットコフ特使と会談 3か国協議を11月中旬に 再開用意伝える",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KX2FFcFFNX2xiOTJqd2NNRFpqa1kzQnZIcXNPUXBva1U2S2RjQ3JLdUdpT3hqbEtEMl9ybmxTNXFpZVlNMXI0dThUWlJDOXdPb1pqVVAzWQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T01:22:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "35931bb545ca2950",
-   "title": "証券各社でシステム委託先への聞き取りなど対応急ぐ 岩井コスモ証券 不正アクセス受け (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGlHUGZoaFM0aTVURVRmVm1iS3ZPaUN2ZFhpTWFic005RnlhQ1ZfTlQ3WVUxeDdiZWd5cU1YeGFRSG5WMkc5eHk5MDNLZkpwRk9mbkFkSTNyekNpaGozaWdIbXlpVEpxZkFLT1BKZzAzNkU3ZnNIZlFMSndkNU9zcm1OWUNhVEdYdC1JQmFB?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T01:12:25+09:00",
-   "keywords": []
-  },
-  {
-   "id": "323bb948a3e6b05b",
-   "title": "北朝鮮　韓国への拡声器放送再開か 金与正氏「10月中に全ての国境線で」再開を予告",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHBoVmF0VHlqeEVMSEMzMy1Ra1BPU2ZLdDZkSFRHYy1qaExPZkcwUEhCWlZpZ0ZXY192YUxvX08zMGlvNnNGR1BfalRwMlVGLUVHR2dmUGtJY3lVMVQzME05alJlLVBtSHMyYVhGUmVDMFI5YTQ4bnhIU21kMHF2dHJFYUhHQdIBiwFBVV95cUxQR3FOSWJLc0tkZWJRbnNvYXRCcTJSa0hIZTF1czI5MXM4aEtDclFYSFBJUlVOYW0zaWtIb1lEZnRuTjVURmRxSU1YY2x4QjVtSXc1MlFITFRjdUFJREFyZ1paYkFhdENURjFteGJnRzYyUF9ZajFfcllQSFM4S3BUM0Z1Rk1zb2JKeG9j?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T01:06:29+09:00",
-   "keywords": []
-  },
-  {
-   "id": "914fb6b631665a1d",
-   "title": "中心気圧は900hPa…「猛烈な勢力」台風30号が“急カーブ”で列島直撃のおそれ 台風がもたらした“季節外れの真夏日”…全国157地点で【news23】 | TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94UkR0T1NaMGZjUTZ4SE5qY21mOVFlWXExSElTMVZ5ekYwREE3VU55RHhfdmhOcjRvMDh0S2kybnEzMTEtNFpURVZiQ1RicTVOVFpVN0RHMA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T00:57:25+09:00",
-   "keywords": [
-    "真夏"
-   ]
-  },
-  {
-   "id": "4fb963ce738d05c8",
-   "title": "中国AI発展に向けデータ事業担う国有企業を設立",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261021de63217",
-   "source": "NHK 経済",
-   "published": "2026-10-22T00:55:50+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b50912666171549f",
-   "title": "【波浪警報】沖縄県・那覇市、宜野湾市、浦添市などに発表 00:19時点 (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEJHaVdnblBWWWlXTlc3cXN1ODZzb1ZnZ2dZemRnU0dFeVpKNDhPZXdsNUhMRzFEbWIwQVAzMFJzVUozaFNjU2lwMEt5THBUTG52V0VoSVpzeFdXM3BlRlFoZ0k0d3p4dm9GNWExM04zd2NWVE1oRHpLUFJwUlN5SU5BS1FSaFVCLUdZMXF3?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:55:07+09:00",
-   "keywords": [
-    "時点",
-    "警報"
-   ]
-  },
-  {
-   "id": "a0f0b6d92c51fdd6",
-   "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」",
-   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002480/",
-   "source": "ITmedia",
-   "published": "2026-10-22T00:53:13+09:00",
-   "keywords": [
-    "PHP",
-    "レベル",
-    "修正"
-   ]
-  },
-  {
-   "id": "469a76ce45a24126",
-   "title": "「AIの支援得てPHPの欠陥発見」",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OZEg1XzhuRU50LW16c0FIc3V0VmFuN0lKcWtyWE5iRTJReF8yVGpYMGJRLTVsZThPckh2WTZXeFA4QWluQTRCZHgzZEwwY2hoS2Z2dkJUN3ZhOU5TY0w5MWdPOA?oc=5",
-   "source": "nippon.com",
-   "published": "2026-10-22T00:50:03+09:00",
-   "keywords": [
-    "PHP",
-    "欠陥"
-   ]
-  },
-  {
-   "id": "e824313d955c72c1",
-   "title": "証券各社でシステム委託先への聞き取りなど対応急ぐ 岩井コスモ証券 不正アクセス受け（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56R1ptZ05sVGE5U0tSTWttSGE3RWQtd1NKSTRPakYtUzhlZDMxV1kyTnNKUElRaVZnV3BJbjR1M1NGeThfWHFFV0h1aHhRaFlIbHBERXg1b1ZOdmtsOXBBa0F5V1A0Q0tEdURNeGZ2YkJhajg5eENxZjBYX2hhUUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:48:06+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8869a8bbc4094ff0",
-   "title": "金融関係者「会社を揺るがす」“勝手に売買”不正アクセスの新手口",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFZ4bUhaeklIY1h6VHhVLXJQMGlSeWw2dER3ZTBVckVNLWZkTDNua1RhVWNsRXdXdmJWMlB5dFpXZXlGcHR5ZTdfUWkwYlJDTEFEQkJLT0x3UUlzcmp3SGVPY3M5Q3JPMmF6T0hkOFY0dGVhZlJJbHljRXBNd1hBQWJsd3pmR2NfMnfSAY8BQVVfeXFMTWF3Y3c0UGphajhIVWx0ZlpOb3JtbF90ekZialpXNmlnYVlCNjZsRmx2UWJhcjV2d2Y1dFlQUVFuc1Jydm5LUFFEZDdXcnZhT3BtTDc2cjNacE8zbUFyM0xTYzhrdmhpRFI5MHdhSkVaSmc4dHRhUGUtRGNRajVYWW9UTFk3TFJCSUNCNEJYRUU?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T00:45:29+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c45378b803f92777",
-   "title": "「食べる場所」から「つながる場所」へ “食べるだけじゃない”進化形社食（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KQ3dxeWM3dXhpS1NTczVqQkh1R1A4bl9VTXBQcEJzaUNyQzVRdVFBYjYyZmpEdXRIT1lmVEpON3FVRXlrY0xFWkhMZTdJVVhTbklSSTIzUWxrcUg4LUc1N3pRN3RhWlFwXzlDcjNFZ1hneGpmcHE5YlBBZHFWSVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:42:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "bc0f37f60d010ca0",
-   "title": "秋田・子吉川に「レベル5氾濫特別警報」 気象庁と国土交通省が会見（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Ykx2TGRRbWxpVFRzR2JJNnExUjdfZHhvSEIwcVdwZkRTcXJxMV9nLWRVSU5udTZOc0lQTklyMFBrdVcwTzFnUVNkNXpNYUZUa1BrQndDSGFqSTBIeXZ2VG0tNHhNV0p0QklybTVIZVRxb01EZ2NUSDR5amxDaDg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:42:22+09:00",
-   "keywords": [
-    "レベル",
-    "子吉川",
-    "氾濫特別警報",
-    "秋田",
-    "警報"
-   ]
-  },
-  {
-   "id": "93f8a291c53ac41c",
-   "title": "「思いきり走りたい」iPS細胞“移植手術”患者が会見　実用化へ大きな一歩",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYkl5cHhySExHcmJnaTdYcndibTZaYkFma2o0ZHlWQjd3YVFmS1F5RjZEXzRGQm80ZVgxUzBLZU15bWt1XzhUbS1zZG13bktJNXhILTIzYUxYN3Fzdzk0RXZZZnpjRTc4VExSLXN4VmR6R19KZzV1dkI2MERuUkdLZndrdVhnekHSAYwBQVVfeXFMUFZQemJYZEpjYW5xX1VMbUp3dGZXNzhOY2ZFcFduMnlRUzBDbmhqelJDZUMtSV8zS2pBd0VaVmR6WXUwdkRydm44NGtIOUZlN2JnSVNXNG9EWHBBWXFjOGZzNXkwOGZpRUF4X2RiOF9BWFpfZ1JqOWFJeVN3UzN5c1UtNHlpRUlDN25xQjg?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T00:41:37+09:00",
-   "keywords": [
-    "iPS"
-   ]
-  },
-  {
-   "id": "27c493e93aa817b5",
-   "title": "大和証券、PHPで口座開設など一時停止",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FXRVpvdVZXbXUweW15Q0E0bzViQVFjOURxV01tTmY2RWRwcG8zWDNHWmpIVk9iY2FCNURZTDBZbTI4T2VwQ0RnenY2b1JINm5EWll5Q2V5UWZ4TEozUTZKWWJPR0pROTZZbmFFVE5qOGt4SkFQcE1aRnhfZE5LVFNIRzlZczdIeGs1TEFB0gGTAUFVX3lxTE8zSXFIb0tHZzYtMnVLS3dIT0FNZmM3SUQxcGpEZWU5cmctUWdkckJXQmtOSkZDN0I1ZENtNU9YVU1uR1lQTEtucldJNVhvd0t2OGFXT2JXbUNPZGFya3FGUkhJQm1CdHhrc3U5a3F2cjF4enNiTE84dUtXRG1DY2p6TXBfQk1fM3ZLa3pVWkExMl9wQQ?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T00:39:35+09:00",
-   "keywords": [
-    "PHP"
-   ]
-  },
-  {
-   "id": "76dbebc7c5f99aec",
-   "title": "証券各社でシステム委託先への聞き取りなど対応急ぐ 岩井コスモ証券 不正アクセス受け",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zM0p6dmkzOENldkhJOWJsNTNRU2VXU3VxSWRXOV9uWTg1ZjZzekhYc1VsczFvLXdGd2lSLUh6Q0xTeGFvSERjZ1AwZThub3hxam5jY3k2OA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T00:36:28+09:00",
-   "keywords": []
-  },
-  {
-   "id": "59e1a5765b216a12",
-   "title": "企業への不正アクセス相次ぐ 大手小売りや鉄道会社にも影響（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVmFVLU5qSmZfUkx0elRsR0pHYmpEamQ2ZTVZLUY5ak9tbXgzYmM0NEtrSUZxdmxPQ0p4M25KMThKR1V4SFFJNzdqWDFPRzc3N1BHQTFBU2o4bGw3cmRMelZJbXlXQ1NNNm1Tc0dqR2pNYWpGd01zVnhMZy1xUXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:35:15+09:00",
-   "keywords": []
-  },
-  {
-   "id": "bc4908c75f6611b9",
-   "title": "大和証券、ＰＨＰで口座開設など一時停止",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QWm55ODNlQTREejdBVkw4NFFMc1ZMeWExVkVhWkluMkxGLU9oSi1uc245RXNrQmdtemd4c254aEFxT0Vpc3FPcVFERXlhS3d6dHBXVHBhRHpPMlZWSkE?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-22T00:33:11+09:00",
-   "keywords": [
-    "PHP"
-   ]
-  },
-  {
-   "id": "22b17a37723b98be",
-   "title": "日証協 2040年に向け社債市場の整備進める方針発表",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63239",
-   "source": "NHK 経済",
-   "published": "2026-10-22T00:32:37+09:00",
-   "keywords": []
-  },
-  {
-   "id": "36cbb93144e3b9af",
-   "title": "血管炎治療薬「タブネオス」の投与見合わせ要請 服用後に23人死亡 承認取り消しも（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sSkFQNEo0T3EtTktSRW5QNEd3SU5YREp1cWs2UGFVeXdNVmlpRlM1UnFZNUFCMTdGUXJFNXpDTEhiZi1vdUtGd2NOdW5ET1kzalZ4S2g0ckZWWkI3Nkx1dllWSGdaMjVxekEwa0hEWWRkZ3dVUC1GbmZaQ1lEcHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:29:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "256de4ff8fca7df7",
-   "title": "台風30号“猛烈な勢力”九州接近の恐れ　東京都心は“史上最遅”真夏日",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVE50Qk5nVTVub25uYXYycC1GYm9rUmpnbi1GanVrdkZmTVA4V2tCQXdHUDJUWUdTSzI5cGRhQmpHY1dNLWQyQTliVnJCSm1SYmZ2M0tGcDA3Vl9mMk5EYXVMSDFhX1N5NE45d2d5dDZzTnZGZ1pHYng4TlY5aWJ4WjBrY0hncWvSAYwBQVVfeXFMTkVFNjZTNVo3d0lmbVNDLWw3NTVCWVhmLXFaXzUyUmVISU1rS0FZNE1LYlVYNGlUME9sY3NfcUZ4X3BQRGItY09Na2xLNFFRRzNNSExFVG82SEJSV2ZYel9iLVZpRG9heVAzRkY3dUNZTElJeG54S1FsRUtsM0NFbTRxNzRQZnVheUd4bWI?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-22T00:25:20+09:00",
-   "keywords": [
-    "東京都心",
-    "真夏",
-    "都心"
-   ]
-  },
-  {
-   "id": "b38d2322e0533add",
-   "title": "【波浪警報】沖縄県・那覇市、宜野湾市、浦添市などに発表 00:19時点",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1seHczN01BT2Y1V1dscTNpWkRYVE5ycXQyRXZjQ1ZBSmpma2hKRW1aNFAwUWphbGV0Vmg3YUNhbTB4aEY5TDdnazhKVWUwSGFPaUVRWlB6OWg2VURjVEk4WUpNVy0?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T00:19:00+09:00",
-   "keywords": [
-    "時点",
-    "警報"
-   ]
-  },
-  {
-   "id": "398a3ac8dea025f4",
-   "title": "「サーバー乗っ取りやデータ破壊も」PHP重大欠陥でサイト一時停止の動き オランダ政府機関などで予防遮断 直ちにアップデートを推奨",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mRXNpaGpiaW9wSVZHeXZqWmdlTFEwc01OLTV4RjZQNTVadnFRNEpQczRFdWpUd3B2amlTRGN0TVhxZU9ZSTJPaXpmLTFwOE1vZXdLQVV5WQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-22T00:18:41+09:00",
-   "keywords": [
-    "PHP",
-    "予防",
-    "欠陥",
-    "重大"
-   ]
-  },
-  {
-   "id": "49e869f34fb75006",
-   "title": "台風30号 九州接近のおそれ 各地で“最も遅い真夏日”に 台風25号から1カ月 今も残る被害",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1OXhGd094cl9veFI4UzZiM0p2ak9ZRVZvRjlVcF92WThNWFYtVWNuOVZVR3d2LS1CcUxaWEJiZ2F2ZUZLSmtNblkyZlFWOXJ6bUxVS1I1YWwzTTBfem16UlJOeGxYMWxYcHlnVkxqaVZxY25kXzhDV1pUYXFXM2M?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:18:24+09:00",
-   "keywords": [
-    "真夏"
-   ]
-  },
-  {
-   "id": "9dfd39211c11ee85",
-   "title": "「サーバー乗っ取りやデータ破壊も」PHP重大欠陥で企業がサイト一時停止 オランダ政府機関など世界中で予防遮断の動き 直ちにアップデートを推奨（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YZ0c1Z3hBTXpLM0dkNW5FTjJpeDNybm96aE9WeUkxVmVubXVVTThxTGhMUXpSZ3pUM2lTRlc5bktCTHFyZ3gzUmFCUFlyTmxWMElRM3JIZkFWUm1NNWxDekg4OTJnbk9NWklBTUlpZ0NoWjZldkRCM3B2MVk3M1k?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:18:11+09:00",
-   "keywords": [
-    "PHP",
-    "予防",
-    "欠陥",
-    "重大"
-   ]
-  },
-  {
-   "id": "73faef561273ae1f",
-   "title": "海外拠点の競争力はコストからケイパビリティーへ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xbEd6a0t4b1dabHRzVFRJZ3pNanI5TjU5RGIyZjc2U3VrSmNfeklrNlZmQllyQ1F6SlJpalRialhpdVNPUmNxanE2dldabnE1Z0Z3cA?oc=5",
-   "source": "ps.nikkei.com",
-   "published": "2026-10-22T00:12:36+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b7f63aaf5c417ab0",
-   "title": "プーチン大統領がウィトコフ特使と会談 アメリカ・ロシア・ウクライナの3者交渉提案（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GakVVQzlFU2lSd3U2Rl8wa2RFUnZDWW5BTDNlVWNraENXcFBwV3EwaG5BeVpkYmFLRUZJeldYSmlIaEpzUmdqRDY2emhDdXJuOU5JY1NZXy1LMjZSam9GaDB4blpPdURpS0w1N3BtWEhNRC1aNXJOZDFBZTJyRDg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-22T00:10:42+09:00",
-   "keywords": []
-  },
-  {
-   "id": "27ecbf8266ccd7d0",
-   "title": "フランス10年もの国債利回り5％に 24年ぶりの高水準",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261021de63221",
-   "source": "NHK 経済",
-   "published": "2026-10-22T00:04:29+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7f9850cae23e31aa",
-   "title": "住宅で75歳女性の遺体発見 体には刃物によるものとみられる複数の切り傷 沖縄・宜野湾市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96OU9uQWxpVzY4VHFMZGhzcll0b1NQOVZBZFhuel8teXJ0ZFNsa2VkWXhvV3VxQzFLUmlUMVhiTUNiNERQeWJNdnhNYmo1dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-22T00:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "bcef01142d3f2cf5",
-   "title": "重要希土類イットリウム、日本の備蓄「数カ月」で底をつく恐れ",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FWnR2U3F3aDdqMXdwNGZ3SE4yZlR2cGhSZVhzY1hMOWdHckU1Ql9vbkU1SG0wN2hNXzMtMTZic0RmTlpnSHc2cFNzVERfbU9WUm9JeDd5bDN2bDFXTExpdEJjR0oxMUFMRVJCS1E3TTl5Q1BzcXhN?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-22T00:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2c7cc81616da205c",
-   "title": "「PHP」に2件の深刻なRCE脆弱性 - アップデートを公開",
-   "url": "https://www.security-next.com/191749",
-   "source": "Security NEXT",
-   "published": "2026-10-21T23:55:07+09:00",
-   "keywords": [
-    "PHP"
-   ]
-  },
-  {
-   "id": "1a232f5c0538c97b",
-   "title": "ホームページの緊急メンテナンス相次ぐ 「PHP」に重大な脆弱性（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b1pEbHhodWQ2eDBXN0lzLURnUmh2Y3hoSk1jdTlxM3pyV2VDVlVublBVaHpaWXVtZThkdW5KTGw5Xzk0SnhlV1d3T0NlZFI2bUpHOFhPUmpSR2lDNzMteV9YVThSQ0V3VXRZa3E1TXMtT0JHSl9idnlCX0VPUWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-21T23:54:23+09:00",
-   "keywords": [
-    "PHP",
-    "重大"
-   ]
-  },
-  {
-   "id": "f86ee5cf11bbe006",
-   "title": "両陛下が来月「海づくり大会」のため大阪府を訪問へ サイバー攻撃により一部の日程を変更",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05ak9xVG41anJxLTNzRm8tc1pUcjkyZXhEQVZKLU1Lb2ZZM2NsLTM0ZG1HNm5vdzduZDF0SHBtMWN1RnN0QkpqaXRjM0NEdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-21T23:52:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "75bc45d571890a56",
-   "title": "震度2 日高地方中部 2026年10月21日23:41ごろ 地震詳細",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjVuSzB0RS1pR2NFWmxXOW9jTkphdHBYeEk5QnhmV0ZGaVFqcEM1V2R0bFVRMGJ2ckE5VlB2eE5nVWRYSUxjeXNSLUFweGItTFZtZC1iQ3hGY2RWaGt2REhENWZZeDNsTEdQOGZ2OC1oV3g5dDQ3b0hkT1FWLVNLUDNR?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-21T23:51:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c15aa8ec67a7afdc",
-   "title": "武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-21T23:50:32+09:00",
-   "keywords": [
-    "武部農水大臣",
-    "返金"
-   ]
-  },
-  {
-   "id": "c3ed4bdb86706d70",
-   "title": "プログラム言語PHPに重大欠陥 ウェブ7割で使用、攻撃の恐れ（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNXY0QjJpMlhUMGtNaEhVcDF0U3ZOZE0tdG9lal9IMGkzQ1MwTzdJbXprWHhJTWlEVTJ4VDgzUkkwb0x1SVVLODhFMWtsNjdleWJNYVJzcXNqTVgwTVJYdnpDN2pDMzNqOEZHZXR5YXFRTHc1M1ExdVMtdm51cXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-21T23:50:32+09:00",
-   "keywords": [
-    "PHP",
-    "プログラム",
-    "欠陥",
-    "重大"
-   ]
-  },
-  {
-   "id": "36ac6ecb5561c2ef",
-   "title": "「ちぃたん☆」訴訟 2審で賠償命じられた須崎市が上告",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261021de63220",
-   "source": "NHK 社会",
-   "published": "2026-10-21T23:50:31+09:00",
-   "keywords": []
-  },
-  {
-   "id": "00e9d4fb6096c378",
-   "title": "ホームページの緊急メンテナンス相次ぐ 「PHP」に重大な脆弱性",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CLUFnRXlNS1I0SDBwTVVGRlVOZnRsRjRQcXJyMnBaZkdtYUNIOW5aQ1dVS0tmRDNQYUM1Vk02ZHNXaF9TM0tJRG9PUmU1Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-21T23:50:00+09:00",
-   "keywords": [
-    "PHP",
-    "重大"
-   ]
-  },
-  {
-   "id": "49c51dde4e05f4fb",
-   "title": "北海道で最大震度2の地震 北海道・千歳市、厚真町、むかわ町、平取町、新冠町、新ひだか町、足寄町、本別町",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXJsbnVKXzV5c08xREtWejRIZ3NnQm9pV3p4WHc1Nm5HcnRiai13MkxQalA2TmNnd01fR3NVVmNfSFNjS2o3aXNTRG1lRE1maHdURVJlWDVzdkROLWtoaTJDR2RyNGg0VlNwbG1ZNjh6aV9uV1gwaTB1V2xCeEhhSTAwWmJoWUV0TTNacW9R?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-21T23:46:13+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7eb0793c7835d702",
-   "title": "福岡県済生会八幡総合病院の職員が患者を撮影した動画などをＳＮＳにアップしたとして謝罪 北九州・八幡西区",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkNVZJYVZlaGZ1V2dvbUNoVTRaNWZRZVAyOWJmYjg4c000YWxFS2h3VzdmcmlwNUZ0c1pSQ3JZRzQxS0VGNWVXSjVvRW05bkFBZ2xReWRubw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-21T23:46:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4883d1e70f59e09e",
-   "title": "フランス大規模デモ 2日連続の「夜間外出禁止令」現場にはロープ張られ…厳戒態勢 週末には政府「軍配備」も検討",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdWExSXM3V2Z5MjBpZ0lHYlpaMTVpcGlrNkFzYS1iLVM4bDZ2R0ZIcm1HRElyb2hVSVFjVjRyN0tidENDTWR2VG9jRWMwOGZNQUowdHM0Z0tIZ3F4RnZZN1dFUm5qUjAwazNLclk0V2JnY293RFpxNEVSTEpHUGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-21T23:44:21+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b7bcc678b465a75e",
-   "title": "北海道で最大震度2の地震 北海道・千歳市、厚真町、むかわ町、平取町、新冠町、新ひだか町、足寄町、本別町、浦幌町",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yV0RYOXc0bDNRX3RzbVdzbVBnMzFpbGo5dFZFWUd6QWVseTlfcEh5WW1La3hLb0U4akNHZnFBMkF5WnFrUXNBUjVIcEE2N2RkQl85d2lSakxUY3AyTWZaai0tbk1TMWxNTWMzanlKcDhFRXFCVTJBc1ZhSTBseVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-21T23:44:19+09:00",
    "keywords": []
   }
  ]
