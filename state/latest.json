@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-25T01:48:27.390556+09:00",
- "new_events": 73,
+ "generated": "2026-10-25T04:15:46.841236+09:00",
+ "new_events": 31,
  "keywords": [
   {
    "kw": "能動",
@@ -48,10 +48,10 @@
   {
    "kw": "サイバー防御",
    "level": "high",
-   "d24": 13,
+   "d24": 14,
    "baseline": 0.0,
-   "ratio": 26.0,
-   "consecutive": 3,
+   "ratio": 28.0,
+   "consecutive": 4,
    "days": [
     0,
     0,
@@ -59,7 +59,7 @@
     0,
     0,
     0,
-    13
+    14
    ],
    "latest": [
     "「政府は能動的サイバー防御の活用を」 国民民主党・玉木雄一郎代表",
@@ -175,6 +175,92 @@
    "alerted_at": "2026-10-25T01:48:27.390556+09:00"
   },
   {
+   "kw": "不正取引",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.3,
+   "ratio": 14.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    7
+   ],
+   "latest": [
+    "GMO、不正取引の被害額を補償へ　見舞金5000円も　「お名前.com」FX用VPSへのサイバー攻撃で",
+    "https://www.itmedia.co.jp/news/article/2610/24/2000002566/"
+   ],
+   "samples": [
+    {
+     "title": "GMO、不正取引の被害額を補償へ　見舞金5000円も　「お名前.com」FX用VPSへのサイバー攻撃で",
+     "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
+     "source": "ITmedia",
+     "published": "2026-10-24T17:51:04+09:00"
+    },
+    {
+     "title": "GMOインターネットが政府に「能動的サイバー防御」適用を要請 実現なら初適用に 不正アクセスで口座情報流出や不正取引も",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aGdJcDBzVnF4b1BvLWtmWkctZk1CWG9uWjdPR2dneW9mVlN3X2VqVjZ0VENCbTR5SjJRMURnM0dLaDE0dnlVZEF1aDVjU05PX2oxZklFeXBJRFE2RG56Y1N3ZGpHVXRBRmNPMjYxRU1tUXV5Qm5ydENrWFFGOUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T17:10:30+09:00"
+    },
+    {
+     "title": "【速報】GMO 不正取引の被害補償へ 「能動的サイバー防御」の適用も政府に要請",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBINUcxeWpZNExjN0d0R1Z1b3NHejZKeEVMU3liWVJIM0FKS093YzFCZmprN2M1MkRYTW1pYUNlZHNKZllOLVpoQ2VCXy15Z1BmSUdFWkRRcGxLYUJ6X0Y5czJ3Rk9DRndKcDY5Q0trX3B1UQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-24T14:54:46+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-24T18:08:18.440414+09:00"
+  },
+  {
+   "kw": "金正恩",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.3,
+   "ratio": 14.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    7
+   ],
+   "latest": [
+    "金正恩氏が訪中「友好継承」 習指導部歓待、国境で会談（共同通信）",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdHMtdUJVSG9VMDh1Zk41a2ZjRnRaT3VKRzVCclZrV2d4ZlFKZUxrOFREMlVUR3NTTzBJVTZxTXAtTi1OWkZRWlBoRHNUQ1k?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "金正恩氏が訪中「友好継承」 習指導部歓待、国境で会談（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdHMtdUJVSG9VMDh1Zk41a2ZjRnRaT3VKRzVCclZrV2d4ZlFKZUxrOFREMlVUR3NTTzBJVTZxTXAtTi1OWkZRWlBoRHNUQ1k?oc=5",
+     "source": "熊本日日新聞社",
+     "published": "2026-10-24T21:52:04+09:00"
+    },
+    {
+     "title": "金正恩氏 李強首相と会談 日帰りで帰国の可能性",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DM2k0djBhMGs1eGFlY0d2SVlOc21DcnJZYk1Lc1M2Q1ROWDBIRUR6aC1yellFeEpTY29QaWNlcjlKSXEwWlVJVVIxQWVKbzRtTm5rYjRDa2dBcjlYS0JwZGhRcjdCR1F0aUYtYVNjRTlnbl85eTNoOFNR?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-24T20:15:45+09:00"
+    },
+    {
+     "title": "金正恩総書記が中国を電撃訪問か 開通直後の「中朝鴨緑江大橋」を通過 北朝鮮に思惑も",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JeWhzS245T2NnRnlIYnpqOFJZUGppTERuUDNiWlBJd1VZTldZbzFscTV4eHplT1VqZTlfSVU1WHZYZlFJTWpnaGt3eS1iejFSRkVGZEJTaw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-24T18:16:25+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-24T22:20:38.658557+09:00"
+  },
+  {
    "kw": "広範囲",
    "level": "high",
    "d24": 9,
@@ -218,49 +304,6 @@
    "alerted_at": "2026-10-24T22:20:38.658557+09:00"
   },
   {
-   "kw": "停戦",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.5,
-   "ratio": 12.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    3,
-    6
-   ],
-   "latest": [
-    "メラニア夫人が仲介 ロシア・ウクライナが“局地的停戦”で合意 「彼女が自ら始めた取り組み」トランプ大統領も成果強調",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTmp3QjlKaFI5TWhlc1VhZk9DdnZIenhRcG5kRDlybW8yeWswUEFLZFc1alM2Mi1Eak80NDk1dENDZGtYUzFiRExDN09SUFAxYUZ0c3czUTNUeXJfbTA1UTVweFZDTm5hYmlnSnJVOW5Gdmw5VmNvNXdCM196cGM?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "メラニア夫人が仲介 ロシア・ウクライナが“局地的停戦”で合意 「彼女が自ら始めた取り組み」トランプ大統領も成果強調",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTmp3QjlKaFI5TWhlc1VhZk9DdnZIenhRcG5kRDlybW8yeWswUEFLZFc1alM2Mi1Eak80NDk1dENDZGtYUzFiRExDN09SUFAxYUZ0c3czUTNUeXJfbTA1UTVweFZDTm5hYmlnSnJVOW5Gdmw5VmNvNXdCM196cGM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T12:39:22+09:00"
-    },
-    {
-     "title": "ウクライナ南部で停戦へ トランプ氏の夫人が“主導”",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZTTdXS0NJY3dkenJBZVpQMTQ4akZFcHBicDUzWDhDY2xyREJGVXQ1dGZycXNFOEhZWlBWMDdiRDJPR0V6U2ZIeUJVTjI0QQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-24T07:52:00+09:00"
-    },
-    {
-     "title": "ウ南部停戦へ トランプ氏夫人仲介",
-     "url": "https://news.yahoo.co.jp/pickup/6599882?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-24T07:18:09+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-24T09:03:12.213610+09:00"
-  },
-  {
    "kw": "インファ",
    "level": "high",
    "d24": 6,
@@ -302,92 +345,6 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-24T22:20:38.658557+09:00"
-  },
-  {
-   "kw": "金正恩",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.3,
-   "ratio": 12.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    2,
-    0,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "金正恩氏 李強首相と会談 日帰りで帰国の可能性",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DM2k0djBhMGs1eGFlY0d2SVlOc21DcnJZYk1Lc1M2Q1ROWDBIRUR6aC1yellFeEpTY29QaWNlcjlKSXEwWlVJVVIxQWVKbzRtTm5rYjRDa2dBcjlYS0JwZGhRcjdCR1F0aUYtYVNjRTlnbl85eTNoOFNR?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "金正恩氏 李強首相と会談 日帰りで帰国の可能性",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DM2k0djBhMGs1eGFlY0d2SVlOc21DcnJZYk1Lc1M2Q1ROWDBIRUR6aC1yellFeEpTY29QaWNlcjlKSXEwWlVJVVIxQWVKbzRtTm5rYjRDa2dBcjlYS0JwZGhRcjdCR1F0aUYtYVNjRTlnbl85eTNoOFNR?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-24T20:15:45+09:00"
-    },
-    {
-     "title": "金正恩総書記が中国を電撃訪問か 開通直後の「中朝鴨緑江大橋」を通過 北朝鮮に思惑も",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JeWhzS245T2NnRnlIYnpqOFJZUGppTERuUDNiWlBJd1VZTldZbzFscTV4eHplT1VqZTlfSVU1WHZYZlFJTWpnaGt3eS1iejFSRkVGZEJTaw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-24T18:16:25+09:00"
-    },
-    {
-     "title": "【更新中】北朝鮮・金正恩総書記が中国・丹東を電撃訪問か 約1年ぶりの訪中 目的は不明【情報まとめ】",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85MVdGWk5GV25ybkxaOU1yU3FkRTNlX25Xang3NV9NODh3VVhzRWpVeU9tdUtwMGxQSFhmSGdWUE9qVEFMMXhpOVZrdFpYaUdYdTZXTVJrWF9Ta3hIdGhCS2pGTzFwZ3BnY2lpN2w2MGZETHRtSUdtMWR3?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-24T16:41:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-24T22:20:38.658557+09:00"
-  },
-  {
-   "kw": "不正取引",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.3,
-   "ratio": 12.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    0,
-    1,
-    6
-   ],
-   "latest": [
-    "GMO、不正取引の被害額を補償へ　見舞金5000円も　「お名前.com」FX用VPSへのサイバー攻撃で",
-    "https://www.itmedia.co.jp/news/article/2610/24/2000002566/"
-   ],
-   "samples": [
-    {
-     "title": "GMO、不正取引の被害額を補償へ　見舞金5000円も　「お名前.com」FX用VPSへのサイバー攻撃で",
-     "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
-     "source": "ITmedia",
-     "published": "2026-10-24T17:51:04+09:00"
-    },
-    {
-     "title": "GMOインターネットが政府に「能動的サイバー防御」適用を要請 実現なら初適用に 不正アクセスで口座情報流出や不正取引も",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aGdJcDBzVnF4b1BvLWtmWkctZk1CWG9uWjdPR2dneW9mVlN3X2VqVjZ0VENCbTR5SjJRMURnM0dLaDE0dnlVZEF1aDVjU05PX2oxZklFeXBJRFE2RG56Y1N3ZGpHVXRBRmNPMjYxRU1tUXV5Qm5ydENrWFFGOUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T17:10:30+09:00"
-    },
-    {
-     "title": "【速報】GMO 不正取引の被害補償へ 「能動的サイバー防御」の適用も政府に要請",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBINUcxeWpZNExjN0d0R1Z1b3NHejZKeEVMU3liWVJIM0FKS093YzFCZmprN2M1MkRYTW1pYUNlZHNKZllOLVpoQ2VCXy15Z1BmSUdFWkRRcGxLYUJ6X0Y5czJ3Rk9DRndKcDY5Q0trX3B1UQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-24T14:54:46+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-24T18:08:18.440414+09:00"
   },
   {
    "kw": "高校駅伝",
@@ -519,12 +476,55 @@
    "alerted_at": "2026-10-24T22:20:38.658557+09:00"
   },
   {
-   "kw": "無事",
+   "kw": "ダブル台風",
    "level": "high",
    "d24": 6,
-   "baseline": 0.7,
-   "ratio": 9.0,
+   "baseline": 0.0,
+   "ratio": 12.0,
    "consecutive": 4,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "【台風情報】ダブル台風の進路予想 台風30号は25日午後9時には九州の西に達する見込み 台風31号は29日午後9時には非常に強い勢力で南鳥島近海に達する見込み (FNNプライムオンライン)",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXFiTXpkTmpycFhDdktMZVFMMUFvSG5SZzF2UmliT1RFWEgtcTM3TEk5VW5NRVdvbU1sNm1KNkhGbGJzb1R2TzdBUGZUcEE3QmtscHZaS1RWbXdfeS1TZEk3U1JraUoxT2xLRXRBdmNNekg2ZGlPQ0pNYWxDMEsyNVhzQVhLczdtanJiYlVB?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【台風情報】ダブル台風の進路予想 台風30号は25日午後9時には九州の西に達する見込み 台風31号は29日午後9時には非常に強い勢力で南鳥島近海に達する見込み (FNNプライムオンライン)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXFiTXpkTmpycFhDdktMZVFMMUFvSG5SZzF2UmliT1RFWEgtcTM3TEk5VW5NRVdvbU1sNm1KNkhGbGJzb1R2TzdBUGZUcEE3QmtscHZaS1RWbXdfeS1TZEk3U1JraUoxT2xLRXRBdmNNekg2ZGlPQ0pNYWxDMEsyNVhzQVhLczdtanJiYlVB?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T22:51:24+09:00"
+    },
+    {
+     "title": "【台風情報】ダブル台風の進路予想 台風30号は25日午後9時には九州の西に達する見込み 台風31号は29日午後9時には非常に強い勢力で南鳥島近海に達する見込み（FNNプライムオンライン）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naWtvdnREbi05UWgxV2M0OUtpcUo2QkpIeEdLQlRvdmpYdTh3d0ItRVRrZmhlRnI0S2VsdmMyZExzVHZPRHhHaTdRTW1tSHFiY3JSQVkyNU1jMGp4akZFdnN1YUZ0ZzdWUFFCQ2F6V1dCcHd6NTdZU3RZa0hjdE0?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T22:51:24+09:00"
+    },
+    {
+     "title": "【台風情報】ダブル台風の進路予想 台風30号は26日（月）に西日本に接近する見込み 関東甲信は前線や台風30号から変わる温帯低気圧の影響で26日（月）から27日（火）にかけて警報級の大雨となる可能性 (FNNプライムオンライン)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUdDTFRiOHBNMkJuQ0MzZUd3aHlPQ3NOQzdwWlhBRkZZcF9MMHFfbFpZSjI1eUpXNnRfdW81aGFET0YzYkR2cDJrcXI3TDJHckdKamRRQ01ZVkhyZkNiVHNSOEd1XzhZVlpjbU9tRGM3ZmdkVGNMaE1ya0tybURyQ2ppLVpVdU1xc1haYjRR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T19:36:26+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-25T04:15:46.841236+09:00"
+  },
+  {
+   "kw": "無事",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 5,
    "days": [
     1,
     1,
@@ -532,7 +532,7 @@
     0,
     1,
     0,
-    6
+    7
    ],
    "latest": [
     "行方不明だった大阪・生野区の男子中学生（14）を無事発見 けがなし 大阪府警",
@@ -552,10 +552,10 @@
      "published": "2026-10-24T17:55:24+09:00"
     },
     {
-     "title": "【速報】行方不明だった14歳の男子中学生を無事に発見 14日朝に自宅を出たあと所在分からず けがなく事件などに巻き込まれた形跡なし 公園にいるところを警察官が発見",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wal84N3pwSVd1N3Z3SlZTaHhpM25mVWRuV21ITjQxLTB0VTEzWnV3OHZlUlVlYm9xZ2w1Z3VndWVJVDBNa2RuRUZLMGt2UQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-24T17:30:45+09:00"
+     "title": "【 中川翔子 】双子の長男が病院へ「検査して無事大丈夫でホッとしました どうか双子健康に幸せに長生きしてほしいよ」 「人生について考える時間が増えました」と振り返る",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsOUZTNEFGeDh2UmE0dzMwcGdtOXl5X3JEWFV6MnhSMU5SRUNFaTNfcUxFaW1mTEJ5VFV0ZVNOelpWbm5YOVhBRVNUdnAxa3dLZFR2QUE5SQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-24T17:54:00+09:00"
     }
    ],
    "watch": false,
@@ -605,12 +605,98 @@
    "alerted_at": "2026-10-25T01:48:27.390556+09:00"
   },
   {
+   "kw": "訪中",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.7,
+   "ratio": 9.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    6
+   ],
+   "latest": [
+    "金正恩氏が訪中「友好継承」 習指導部歓待、国境で会談（共同通信）",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdHMtdUJVSG9VMDh1Zk41a2ZjRnRaT3VKRzVCclZrV2d4ZlFKZUxrOFREMlVUR3NTTzBJVTZxTXAtTi1OWkZRWlBoRHNUQ1k?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "金正恩氏が訪中「友好継承」 習指導部歓待、国境で会談（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdHMtdUJVSG9VMDh1Zk41a2ZjRnRaT3VKRzVCclZrV2d4ZlFKZUxrOFREMlVUR3NTTzBJVTZxTXAtTi1OWkZRWlBoRHNUQ1k?oc=5",
+     "source": "熊本日日新聞社",
+     "published": "2026-10-24T21:52:04+09:00"
+    },
+    {
+     "title": "【更新中】北朝鮮・金正恩総書記が中国・丹東を電撃訪問か 約1年ぶりの訪中 目的は不明【情報まとめ】",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85MVdGWk5GV25ybkxaOU1yU3FkRTNlX25Xang3NV9NODh3VVhzRWpVeU9tdUtwMGxQSFhmSGdWUE9qVEFMMXhpOVZrdFpYaUdYdTZXTVJrWF9Ta3hIdGhCS2pGTzFwZ3BnY2lpN2w2MGZETHRtSUdtMWR3?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-24T16:41:00+09:00"
+    },
+    {
+     "title": "金正恩総書記が中国・丹東を電撃訪問か 約1年ぶりの訪中 目的は不明",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CbGNLMnBaZEdkODFUVlJVS1NDVE9GaDZIQnBiQ19EZUtKNnlGQUdNYVJuTmQzSXV0bjZWWVBrdDNoX0djd2RPenNxdF9lT1dnekh1eUxQQWxHOVhQZ1I4Y3o4RkxDMVNjbmdTY2l2bXBEd3NXZXNWbS1R?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-24T16:26:27+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-25T04:15:46.841236+09:00"
+  },
+  {
+   "kw": "停戦",
+   "level": "high",
+   "d24": 5,
+   "baseline": 0.7,
+   "ratio": 7.5,
+   "consecutive": 5,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    5
+   ],
+   "latest": [
+    "メラニア夫人が仲介 ロシア・ウクライナが“局地的停戦”で合意 「彼女が自ら始めた取り組み」トランプ大統領も成果強調",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTmp3QjlKaFI5TWhlc1VhZk9DdnZIenhRcG5kRDlybW8yeWswUEFLZFc1alM2Mi1Eak80NDk1dENDZGtYUzFiRExDN09SUFAxYUZ0c3czUTNUeXJfbTA1UTVweFZDTm5hYmlnSnJVOW5Gdmw5VmNvNXdCM196cGM?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "メラニア夫人が仲介 ロシア・ウクライナが“局地的停戦”で合意 「彼女が自ら始めた取り組み」トランプ大統領も成果強調",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTmp3QjlKaFI5TWhlc1VhZk9DdnZIenhRcG5kRDlybW8yeWswUEFLZFc1alM2Mi1Eak80NDk1dENDZGtYUzFiRExDN09SUFAxYUZ0c3czUTNUeXJfbTA1UTVweFZDTm5hYmlnSnJVOW5Gdmw5VmNvNXdCM196cGM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T12:39:22+09:00"
+    },
+    {
+     "title": "ウクライナ南部で停戦へ トランプ氏の夫人が“主導”",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZTTdXS0NJY3dkenJBZVpQMTQ4akZFcHBicDUzWDhDY2xyREJGVXQ1dGZycXNFOEhZWlBWMDdiRDJPR0V6U2ZIeUJVTjI0QQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-24T07:52:00+09:00"
+    },
+    {
+     "title": "ウ南部停戦へ トランプ氏夫人仲介",
+     "url": "https://news.yahoo.co.jp/pickup/6599882?source=rss",
+     "source": "Yahoo 主要",
+     "published": "2026-10-24T07:18:09+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-24T09:03:12.213610+09:00"
+  },
+  {
    "kw": "GMO",
    "level": "high",
-   "d24": 24,
+   "d24": 26,
    "baseline": 3.5,
-   "ratio": 6.9,
-   "consecutive": 4,
+   "ratio": 7.4,
+   "consecutive": 5,
    "days": [
     0,
     1,
@@ -618,7 +704,7 @@
     3,
     7,
     8,
-    24
+    26
    ],
    "latest": [
     "能動的サイバー防御をGMO要請 適用は政府判断、重大・緊急性考慮",
@@ -646,49 +732,6 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-23T05:49:56.324585+09:00"
-  },
-  {
-   "kw": "テロ",
-   "level": "high",
-   "d24": 5,
-   "baseline": 0.8,
-   "ratio": 6.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    1,
-    3,
-    0,
-    0,
-    1,
-    5
-   ],
-   "latest": [
-    "ヨルダンの教会で銃撃事件 3人組が乱射後に逃走 テロか",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dF9qT1duMWRYQmZFWXJOQ0h5YnhGYzZSTGxZZGs0QXFMNDFtekdIeDRuU21hQllZbU1BbW92WHFRZkZ5eC1iUWFYT3JOMng2U0hYYnJBNjVieEVCS010SmsycE0xTUdjY0t4UzNlUExicWNLcEgtbmpB?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "ヨルダンの教会で銃撃事件 3人組が乱射後に逃走 テロか",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dF9qT1duMWRYQmZFWXJOQ0h5YnhGYzZSTGxZZGs0QXFMNDFtekdIeDRuU21hQllZbU1BbW92WHFRZkZ5eC1iUWFYT3JOMng2U0hYYnJBNjVieEVCS010SmsycE0xTUdjY0t4UzNlUExicWNLcEgtbmpB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-24T12:16:04+09:00"
-    },
-    {
-     "title": "仏パリ郊外で次々に銃撃1人死亡5人けが テロ事件とみて捜査",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64655",
-     "source": "NHK 主要",
-     "published": "2026-10-24T10:00:00+09:00"
-    },
-    {
-     "title": "パリ郊外で男が発砲 1人死亡5人負傷 人種差別的なテロの可能性も (FNNプライムオンライン（フジテレビ系）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUJXMUI0M1BoR21xWEN6WGhrYU5HWmtVMkJFRmRVY0ZxM1U2Y3NuaW1meXBBOVZ3N3ZHa2ROQ3lsSFJXSXM3eklIQWU5SE9qazlrbVV5QjI0MDBxVUR1cnFyRHZ0WnhRNC1JVGxVYXY2UXhibkZvY0dGVTNoR3piak5lamJCRnhhc29kQUFB?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T03:44:45+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-24T13:36:35.647135+09:00"
   },
   {
    "kw": "改正皇室典範",
@@ -915,8 +958,8 @@
    "days": [
     0,
     2,
-    3,
-    7,
+    4,
+    6,
     8,
     0,
     15
@@ -1164,49 +1207,6 @@
    "alerted_at": "2026-10-24T09:03:12.213610+09:00"
   },
   {
-   "kw": "青森",
-   "level": "high",
-   "d24": 9,
-   "baseline": 2.7,
-   "ratio": 3.4,
-   "consecutive": 6,
-   "days": [
-    2,
-    2,
-    3,
-    4,
-    5,
-    0,
-    9
-   ],
-   "latest": [
-    "青森県東通村の沖合約22キロで漁船が炎上し沈没 男性船長は救助されけがなし (FNNプライムオンライン（フジテレビ系）)",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTNYeGZ1WkJNQ3Bma0hqTlhhOG1UQkRDVVJ0WFh5V0pQRm05aHV6U3lLekdNT05jSk44alFpZk9lWVVyNFlGeXhFNy1wUTlBZm9Ed1N4VTBSX252bm04VEsyNXVCdDVzTXQwaEpsbDdrWjMwbUtfdlEydHJycnp3Nnk3bmRGX05jWDhfSnh3?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "青森県東通村の沖合約22キロで漁船が炎上し沈没 男性船長は救助されけがなし (FNNプライムオンライン（フジテレビ系）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTNYeGZ1WkJNQ3Bma0hqTlhhOG1UQkRDVVJ0WFh5V0pQRm05aHV6U3lLekdNT05jSk44alFpZk9lWVVyNFlGeXhFNy1wUTlBZm9Ed1N4VTBSX252bm04VEsyNXVCdDVzTXQwaEpsbDdrWjMwbUtfdlEydHJycnp3Nnk3bmRGX05jWDhfSnh3?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T16:27:22+09:00"
-    },
-    {
-     "title": "青森県東通村の沖合約22キロで漁船が炎上し沈没 男性船長は救助されけがなし（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5dW11SG5MalpJY3VwUG5hcUtMWjZJWjRZdXlCbGZWbjllYjlETDZRbHg0TzJaWFNobEFacTdvSEZ0WHY5LXVxemtZTF9FT3FWVG5YRy14Nm1fY1Z2aW5PU2VfbDVVWW1RdGtxOHR3c1ZMMmRJM3M0SjBQbS1wQ1U?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T16:27:22+09:00"
-    },
-    {
-     "title": "青森県で最大震度1の地震 青森県・平内町 (TBS NEWS DIG Powered by JNN)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGV6TGVoTVdoeEVsSDJUd2tXY2tZU0ZEd2Z4ZDlDNl81ZGpadzhUMW9mMURrYkJMZ3BSaV9sQlJOS3VEUjdhOWVfeVI3T3RGYmhOWE9qQXNyN0c2MHFsVFoyOVcydzNETHMyZm91Z0ZMbXRkLTNzT19zNjhQMVM0eHV5cHR6QnhmVFZYRWtB?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T12:49:13+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
-  },
-  {
    "kw": "津波",
    "level": "high",
    "d24": 4,
@@ -1252,10 +1252,10 @@
   {
    "kw": "九州",
    "level": "high",
-   "d24": 26,
+   "d24": 28,
    "baseline": 8.5,
-   "ratio": 3.1,
-   "consecutive": 10,
+   "ratio": 3.3,
+   "consecutive": 11,
    "days": [
     3,
     5,
@@ -1263,7 +1263,7 @@
     13,
     9,
     18,
-    26
+    28
    ],
    "latest": [
     "台風30号 九州に接近へ 前線停滞で警報級大雨か（FNNプライムオンライン（フジテレビ系））",
@@ -1277,16 +1277,59 @@
      "published": "2026-10-25T01:03:21+09:00"
     },
     {
-     "title": "【台風情報】ダブル台風の進路予想 台風30号は25日午後9時には九州の西に達する見込み 台風31号は29日午後9時には非常に強い勢力で南鳥島近海に達する見込み（FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naWtvdnREbi05UWgxV2M0OUtpcUo2QkpIeEdLQlRvdmpYdTh3d0ItRVRrZmhlRnI0S2VsdmMyZExzVHZPRHhHaTdRTW1tSHFiY3JSQVkyNU1jMGp4akZFdnN1YUZ0ZzdWUFFCQ2F6V1dCcHd6NTdZU3RZa0hjdE0?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T22:51:24+09:00"
+     "title": "【台風情報】台風30号が九州接近へ 26日は薩摩・大隅・種子島・屋久島で警報級大雨のおそれ 薩摩150ミリ予想 暴風・高潮にも注意",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tT25wX3BVa3ljdU5TMEVVM09CRUNrUHlCRnVEVVllUWhxc3hDclFpMzNTNUd1MlZaR0VURGktX19LY0lyWmNVLW5WMGNYWVg2RVpOQk9LQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-24T23:24:00+09:00"
     },
     {
-     "title": "鹿児島県で最大震度1の地震 鹿児島県・鹿児島市、枕崎市、南さつま市、南九州市（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNWh3UzVGU01qYWhDUGlaR19WdTlmTWN3bGxNNFB6a1A2Q2prNTgtSTduWXNPLTQ2R1hlUG05WC1pVFNqeDRwRms1VGVxVHFTN201THM5S2E4aFVycktUVzlVa3hSYjFlYXdyUkpTbjY0QVRMd01DRTNSYzNRNG8?oc=5",
+     "title": "【台風情報】ダブル台風の進路予想 台風30号は25日午後9時には九州の西に達する見込み 台風31号は29日午後9時には非常に強い勢力で南鳥島近海に達する見込み (FNNプライムオンライン)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXFiTXpkTmpycFhDdktMZVFMMUFvSG5SZzF2UmliT1RFWEgtcTM3TEk5VW5NRVdvbU1sNm1KNkhGbGJzb1R2TzdBUGZUcEE3QmtscHZaS1RWbXdfeS1TZEk3U1JraUoxT2xLRXRBdmNNekg2ZGlPQ0pNYWxDMEsyNVhzQVhLczdtanJiYlVB?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-24T21:12:17+09:00"
+     "published": "2026-10-24T22:51:24+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "青森",
+   "level": "high",
+   "d24": 8,
+   "baseline": 2.8,
+   "ratio": 2.8,
+   "consecutive": 6,
+   "days": [
+    2,
+    2,
+    3,
+    6,
+    3,
+    1,
+    8
+   ],
+   "latest": [
+    "青森県東通村の沖合約22キロで漁船が炎上し沈没 男性船長は救助されけがなし (FNNプライムオンライン（フジテレビ系）)",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTNYeGZ1WkJNQ3Bma0hqTlhhOG1UQkRDVVJ0WFh5V0pQRm05aHV6U3lLekdNT05jSk44alFpZk9lWVVyNFlGeXhFNy1wUTlBZm9Ed1N4VTBSX252bm04VEsyNXVCdDVzTXQwaEpsbDdrWjMwbUtfdlEydHJycnp3Nnk3bmRGX05jWDhfSnh3?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "青森県東通村の沖合約22キロで漁船が炎上し沈没 男性船長は救助されけがなし (FNNプライムオンライン（フジテレビ系）)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTNYeGZ1WkJNQ3Bma0hqTlhhOG1UQkRDVVJ0WFh5V0pQRm05aHV6U3lLekdNT05jSk44alFpZk9lWVVyNFlGeXhFNy1wUTlBZm9Ed1N4VTBSX252bm04VEsyNXVCdDVzTXQwaEpsbDdrWjMwbUtfdlEydHJycnp3Nnk3bmRGX05jWDhfSnh3?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T16:27:22+09:00"
+    },
+    {
+     "title": "青森県東通村の沖合約22キロで漁船が炎上し沈没 男性船長は救助されけがなし（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5dW11SG5MalpJY3VwUG5hcUtMWjZJWjRZdXlCbGZWbjllYjlETDZRbHg0TzJaWFNobEFacTdvSEZ0WHY5LXVxemtZTF9FT3FWVG5YRy14Nm1fY1Z2aW5PU2VfbDVVWW1RdGtxOHR3c1ZMMmRJM3M0SjBQbS1wQ1U?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T16:27:22+09:00"
+    },
+    {
+     "title": "青森県で最大震度1の地震 青森県・平内町 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGV6TGVoTVdoeEVsSDJUd2tXY2tZU0ZEd2Z4ZDlDNl81ZGpadzhUMW9mMURrYkJMZ3BSaV9sQlJOS3VEUjdhOWVfeVI3T3RGYmhOWE9qQXNyN0c2MHFsVFoyOVcydzNETHMyZm91Z0ZMbXRkLTNzT19zNjhQMVM0eHV5cHR6QnhmVFZYRWtB?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T12:49:13+09:00"
     }
    ],
    "watch": false,
@@ -1386,8 +1429,8 @@
    "ratio": 2.6,
    "consecutive": 3,
    "days": [
-    0,
     1,
+    0,
     2,
     1,
     0,
@@ -1474,8 +1517,8 @@
    "days": [
     5,
     2,
-    5,
-    13,
+    6,
+    12,
     4,
     15,
     16
@@ -1508,63 +1551,20 @@
    "alerted_at": "2026-10-14T16:08:34.892553+09:00"
   },
   {
-   "kw": "村上龍",
-   "level": "high",
-   "d24": 4,
-   "baseline": 2.2,
-   "ratio": 1.8,
-   "consecutive": 7,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    13,
-    4
-   ],
-   "latest": [
-    "作家・村上龍さん（74）死去 「経済的な勝ち負けだけが充実した人生の基準ではない」news23の取材に語っていた不確かな時代の“希望”【news23】（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WdDhIeDRFekJhcFNBekJLYmlSSzNaQ2dXMVZ2bjA5MUkxUXgtNG8wLVFHamV4eUFpaU04U3ZMaDhETmNCOHg0SElxQm8yWGZFa0t1RkNob21PTlBpLVV0RWZGRE5pUjlOZGRxMmFMYlRDSTNVV3FwLU83VVdNVmc?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "作家・村上龍さん（74）死去 「経済的な勝ち負けだけが充実した人生の基準ではない」news23の取材に語っていた不確かな時代の“希望”【news23】（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WdDhIeDRFekJhcFNBekJLYmlSSzNaQ2dXMVZ2bjA5MUkxUXgtNG8wLVFHamV4eUFpaU04U3ZMaDhETmNCOHg0SElxQm8yWGZFa0t1RkNob21PTlBpLVV0RWZGRE5pUjlOZGRxMmFMYlRDSTNVV3FwLU83VVdNVmc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T16:30:36+09:00"
-    },
-    {
-     "title": "岡部まりも追悼「卓越した観察力、語彙力、そして他者に対する無邪気な愛情…」≪追悼・村上龍さん≫＜br /＞＜br /＞",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41MXRMQU1ocW5jcWtfaUdvVWU4UXVYdzZPaS13dlVQWWxhcld6dm9MenVZVVoyY01xRTB0REU2clJVYU1hTTdMUDY0RDRWd1pMeGM2YTVyS0FRUllKaGFzZk9pRTdoNzlSeDhWRVdPVG4?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-24T11:44:00+09:00"
-    },
-    {
-     "title": "テレ東、村上龍さんが残した言葉で追悼「作家は、死なず、ただ立ち去るのみ」《追悼・村上龍さん》",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rMGpScE9lalkyWjBNYXJvOHdkdllOVXdjc3NobjJmQWFZYlctV1h6by02WEtON3pYVDd5THlnVFpXdVQ2LUVsMV9JTF9jRmNTckJBc2NCSzVEVi10Zzl2Tk1qVHlSR2xQODBwYVlhLTA?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-24T11:12:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-23T23:05:18.039953+09:00"
-  },
-  {
    "kw": "大雨",
    "level": "high",
-   "d24": 26,
+   "d24": 27,
    "baseline": 16.2,
-   "ratio": 1.6,
-   "consecutive": 15,
+   "ratio": 1.7,
+   "consecutive": 16,
    "days": [
-    2,
-    6,
+    3,
+    5,
     9,
     20,
     31,
     29,
-    26
+    27
    ],
    "latest": [
     "台風30号 九州に接近へ 前線停滞で警報級大雨か（FNNプライムオンライン（フジテレビ系））",
@@ -1578,16 +1578,16 @@
      "published": "2026-10-25T01:03:21+09:00"
     },
     {
+     "title": "【台風情報】台風30号が九州接近へ 26日は薩摩・大隅・種子島・屋久島で警報級大雨のおそれ 薩摩150ミリ予想 暴風・高潮にも注意",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tT25wX3BVa3ljdU5TMEVVM09CRUNrUHlCRnVEVVllUWhxc3hDclFpMzNTNUd1MlZaR0VURGktX19LY0lyWmNVLW5WMGNYWVg2RVpOQk9LQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-24T23:24:00+09:00"
+    },
+    {
      "title": "【台風情報】30号は26日に西日本接近へ 離れていても警報級大雨おそれ 31号の日本への影響は？【気象庁の進路予想・アンサンブル】全国週間天気予報",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsenNLMlozcXNmRDVuZWlrWUozZFFjbExVUmkyNFZsd19OelZHRC1Vd09WdFhpcnhOTHlkSWFnR2hOLVdQUDdfdk1UTjk0QmhJMDZXOTdNVEVKcnk2R0hRcm5XVmE?oc=5",
      "source": "TBS NEWS DIG",
      "published": "2026-10-24T22:51:00+09:00"
-    },
-    {
-     "title": "【台風情報】ダブル台風の進路予想 台風30号は26日（月）に西日本に接近する見込み 関東甲信は前線や台風30号から変わる温帯低気圧の影響で26日（月）から27日（火）にかけて警報級の大雨となる可能性 (FNNプライムオンライン)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUdDTFRiOHBNMkJuQ0MzZUd3aHlPQ3NOQzdwWlhBRkZZcF9MMHFfbFpZSjI1eUpXNnRfdW81aGFET0YzYkR2cDJrcXI3TDJHckdKamRRQ01ZVkhyZkNiVHNSOEd1XzhZVlpjbU9tRGM3ZmdkVGNMaE1ya0tybURyQ2ppLVpVdU1xc1haYjRR?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T19:36:26+09:00"
     }
    ],
    "watch": false,
@@ -1637,55 +1637,55 @@
    "alerted_at": "2026-10-24T13:36:35.647135+09:00"
   },
   {
-   "kw": "トランプ",
+   "kw": "テロ",
    "level": "high",
-   "d24": 14,
-   "baseline": 9.2,
+   "d24": 2,
+   "baseline": 1.3,
    "ratio": 1.5,
-   "consecutive": 9,
+   "consecutive": 3,
    "days": [
-    9,
-    13,
-    12,
-    14,
     0,
-    7,
-    14
+    1,
+    3,
+    0,
+    0,
+    4,
+    2
    ],
    "latest": [
-    "トランプ大統領「もう一度攻撃するかもしれない」イランへの軍事作戦の再開示唆 「その気になれば国を掌握できる」と強硬姿勢",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE93Z3RVN1A4RjZoVDFVOVZybTZMbFVsUklEQ2FzaTU1a1dUQmc0OFpoUl8zQk5sUlZmclEwaGs0RWRIS1VONWR4ckdPYm9QeDl4Y2lyNElFbnppOHdVR2Q0WTlGb3VDczFFTVFEbERyVlNtSnFfUHJZc2NjTGJRZUU?oc=5"
+    "ヨルダンの教会で銃撃事件 3人組が乱射後に逃走 テロか",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dF9qT1duMWRYQmZFWXJOQ0h5YnhGYzZSTGxZZGs0QXFMNDFtekdIeDRuU21hQllZbU1BbW92WHFRZkZ5eC1iUWFYT3JOMng2U0hYYnJBNjVieEVCS010SmsycE0xTUdjY0t4UzNlUExicWNLcEgtbmpB?oc=5"
    ],
    "samples": [
     {
-     "title": "トランプ大統領「もう一度攻撃するかもしれない」イランへの軍事作戦の再開示唆 「その気になれば国を掌握できる」と強硬姿勢",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93Z3RVN1A4RjZoVDFVOVZybTZMbFVsUklEQ2FzaTU1a1dUQmc0OFpoUl8zQk5sUlZmclEwaGs0RWRIS1VONWR4ckdPYm9QeDl4Y2lyNElFbnppOHdVR2Q0WTlGb3VDczFFTVFEbERyVlNtSnFfUHJZc2NjTGJRZUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T12:52:19+09:00"
+     "title": "ヨルダンの教会で銃撃事件 3人組が乱射後に逃走 テロか",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dF9qT1duMWRYQmZFWXJOQ0h5YnhGYzZSTGxZZGs0QXFMNDFtekdIeDRuU21hQllZbU1BbW92WHFRZkZ5eC1iUWFYT3JOMng2U0hYYnJBNjVieEVCS010SmsycE0xTUdjY0t4UzNlUExicWNLcEgtbmpB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-24T12:16:04+09:00"
     },
     {
-     "title": "メラニア夫人が仲介 ロシア・ウクライナが“局地的停戦”で合意 「彼女が自ら始めた取り組み」トランプ大統領も成果強調",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTmp3QjlKaFI5TWhlc1VhZk9DdnZIenhRcG5kRDlybW8yeWswUEFLZFc1alM2Mi1Eak80NDk1dENDZGtYUzFiRExDN09SUFAxYUZ0c3czUTNUeXJfbTA1UTVweFZDTm5hYmlnSnJVOW5Gdmw5VmNvNXdCM196cGM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-24T12:39:22+09:00"
+     "title": "仏パリ郊外で次々に銃撃1人死亡5人けが テロ事件とみて捜査",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64655",
+     "source": "NHK 主要",
+     "published": "2026-10-24T10:00:00+09:00"
     },
     {
-     "title": "トランプ政権、カナダに課している50％関税を一部撤廃へ 中間選挙前に激戦州候補から負担軽減求める声",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlb3RIM0Y3am1UWUpJOGFsUGdZQ0pYUlB4QUpHcUdWOW9nWlVoVlR6SENjTzBFYVlOci05dm53Q0RKclMtRzAyelhwNnVRQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-24T11:08:00+09:00"
+     "title": "パリ郊外で男が発砲 1人死亡5人負傷 人種差別的なテロの可能性も (FNNプライムオンライン（フジテレビ系）)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUJXMUI0M1BoR21xWEN6WGhrYU5HWmtVMkJFRmRVY0ZxM1U2Y3NuaW1meXBBOVZ3N3ZHa2ROQ3lsSFJXSXM3eklIQWU5SE9qazlrbVV5QjI0MDBxVUR1cnFyRHZ0WnhRNC1JVGxVYXY2UXhibkZvY0dGVTNoR3piak5lamJCRnhhc29kQUFB?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-24T03:44:45+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-14T08:08:17.917751+09:00"
+   "alerted_at": "2026-10-24T13:36:35.647135+09:00"
   },
   {
    "kw": "接近",
    "level": "high",
-   "d24": 21,
+   "d24": 22,
    "baseline": 15.3,
    "ratio": 1.4,
-   "consecutive": 11,
+   "consecutive": 12,
    "days": [
     2,
     2,
@@ -1693,7 +1693,7 @@
     13,
     25,
     37,
-    21
+    22
    ],
    "latest": [
     "台風30号 九州に接近へ 前線停滞で警報級大雨か（FNNプライムオンライン（フジテレビ系））",
@@ -1713,10 +1713,10 @@
      "published": "2026-10-25T00:55:00+09:00"
     },
     {
-     "title": "【台風情報】30号は26日に西日本接近へ 離れていても警報級大雨おそれ 31号の日本への影響は？【気象庁の進路予想・アンサンブル】全国週間天気予報",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsenNLMlozcXNmRDVuZWlrWUozZFFjbExVUmkyNFZsd19OelZHRC1Vd09WdFhpcnhOTHlkSWFnR2hOLVdQUDdfdk1UTjk0QmhJMDZXOTdNVEVKcnk2R0hRcm5XVmE?oc=5",
+     "title": "【台風情報】台風30号が九州接近へ 26日は薩摩・大隅・種子島・屋久島で警報級大雨のおそれ 薩摩150ミリ予想 暴風・高潮にも注意",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tT25wX3BVa3ljdU5TMEVVM09CRUNrUHlCRnVEVVllUWhxc3hDclFpMzNTNUd1MlZaR0VURGktX19LY0lyWmNVLW5WMGNYWVg2RVpOQk9LQQ?oc=5",
      "source": "TBS NEWS DIG",
-     "published": "2026-10-24T22:51:00+09:00"
+     "published": "2026-10-24T23:24:00+09:00"
     }
    ],
    "watch": false,
@@ -1725,11 +1725,67 @@
  ],
  "events": [
   {
+   "id": "e791cf33f504c5d7",
+   "title": "ウクライナ 「スターリンク」の通信速度制限が全面的に解除と発表",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zWTlMN3FEdFNsV0JEWm5MaXRGR09admpHZWFOWXJBOG9NdlNheXg0akpFMW5zV1VPaW5BeW10SGp2MVpqOHhzZGljQ0JXQXhOZTlweHprQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-25T02:19:21+09:00",
+   "keywords": []
+  },
+  {
+   "id": "031117ea5aef5358",
+   "title": "［FT］IMF、アジアは「ゾンビ企業の温床」と警告 中国で特に深刻",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nR1d1cnh4ejJkUmNZVVJVSkZBcVUtb0N2R0VrNGxKRzZqM1lsWU5QVXFSN3VoWlVyQWRLdVJvSFNBX2ZvSFhLUkpFdzR0MHl4NVhBd3lzX0dPZ2lUNDF1WGVqanRBejJQWnQtNQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-25T02:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9eb96a7a78b7c185",
+   "title": "知人女性の遺体を仙台市のコインパーキング車内に遺棄か 28歳の男を逮捕…殺害も示唆 近隣住民「女性の夫が『連絡が取れない』と」 千葉県警（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PbzBpVzl6MmdDZEEtNExZMmpFRHJSVlJUUGZ2NVBobHZWMnpOMEtRdE1RdS1fMWtzMlZQUGtQRUJGV3BOS0lEQm1RQ0R1Z0c5YmNIMmZTQThIVWZSb01URjZtdzBEeVI3SVV2NFlrQUs4cVZjajByX1FjUVIySVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-25T01:29:04+09:00",
+   "keywords": []
+  },
+  {
+   "id": "bde8a81480f652b9",
+   "title": "『はだかんぼうたち』の原作本（文庫本）を抽選で30名様にプレゼント！｜ニュース｜オシドラサタデー『はだかんぼうたち』",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpcjRWYzhpOW5BVTJvOEVLZEt5Yl9tY1RrOGtlVlVia1UzWUJicDhxdjZkMl9JeThQbDljcXZERXZFaUlaTWh5R1ZNRmRqbksxMHR5cGxWTTdQMkk1MWV2Y2hXSQ?oc=5",
+   "source": "テレビ朝日",
+   "published": "2026-10-25T01:24:27+09:00",
+   "keywords": []
+  },
+  {
+   "id": "80b21672fc50a82d",
+   "title": "S＆P 500の指数情報・推移",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CYUlyUG83cXdIaU84Q1g4dlhEbjJvNlJROFBNYWFKUzJYTmVTRXY1aVo5Sld6emQ1MzcwR29jUWg4Y2FqTlR1d2FZd2hhMU9uX0I0?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-10-25T01:23:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "128a6230b0365ee3",
+   "title": "【 堀ちえみ 】 「根源判明した!」長年悩んだ右膝痛の原因は足の甲に 歩き方の癖に気づかされ「意識してクセづけないと」",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGN4TUxCR09HRTR5RGkwU0ZfZ0FwZFJVT29ONXAyc3NCUXM4bXhEV0x5YXROeG0yTThjOGRjSUdQczVrdFJyTlJhc2paTnpzZmhVVUYza2p5dEF3bkQwNUhjeEpDYW8taUg0ZFpjd2xlTWJrdlF3ZUJSTC1TVi1uQ19QZWJsSzI2WjJpb2V3?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-25T01:22:26+09:00",
+   "keywords": []
+  },
+  {
    "id": "e1bf9cd1c62614a7",
    "title": "さいたま市のアパートで火事 男性死亡 「部屋から出火」と通報（FNNプライムオンライン（フジテレビ系））",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rLW4ta0F1U1VKRWI4ZnByN0gxU3Fyc19EY2VvWngtR2dlVmpwT2puMmVuaEZKU0pxcktvd01PYlJhTjBLM1MySk9ZWURJZXNkQklLc1BiR2hHYTlfSnpGRzlpb0ZzTG9ZY2dLWTRpQWU1ZnQ0dFRsMzJ6QVlkTUk?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-25T01:07:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "61623f8d6e71f375",
+   "title": "「人間業でないレベルの攻撃」が急増 不正アクセスで流出や停止 今後は？",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZeUdXajAzYkEzZmtNaEcyU1lGZVNxdWExWEY4M0M5NEZyMnFLdXlCUDVzXzlrWjFFRDFFXzI1NS1NdUpCM1QzT045SHNVc2l4aXdjZFotRXUzZmtMYXYwblB1TDhJalVTTE1KVGJ2QTlDQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-25T01:07:00+09:00",
    "keywords": []
   },
   {
@@ -1769,6 +1825,22 @@
    "keywords": [
     "接近"
    ]
+  },
+  {
+   "id": "c547575c67b281a3",
+   "title": "中間選挙「AIデータセンター」争点に急浮上 全米で広がる「反対運動」 銃撃も",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yVGFGZHllRVZUNVVRMkp6b2xxNkNBV2JrU3BoQmpKUVJiSFMwT05keEprQzYzWTJEUGhCdjlpbEo4dU82QXNKXzJyYXdHVTM4LTBlZ3dFRGs3V2xxTGpIWGFpdVN5V1hEenpXZEc5cTNzLU81cVNVNXpR?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-25T00:50:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "80e01da7cd644124",
+   "title": "フランス全土で再び大規模な抗議デモ 7万人の警察官ら配置し厳戒態勢 ルーブル美術館など閉館措置【パリ中継】",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WSFNfd3hkTGlNSEFUZzFwNDVpSG5sTThCcE9ZSmpSU3pIRFg4VVVvYXdqUjNBQTVlNGZzejdXbUhXUGJKckJHMUoyVUU5cGRpcG8zSjc0bEJKelh5dWsydUdubWlNeng0dU9XWXdEQUxpMzZUN3FmcnJrdUdBUTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-25T00:47:34+09:00",
+   "keywords": []
   },
   {
    "id": "e0b691bacc83cd82",
@@ -1821,6 +1893,18 @@
    "keywords": []
   },
   {
+   "id": "e89cc331c9057def",
+   "title": "【台風情報】台風30号が九州接近へ 26日は薩摩・大隅・種子島・屋久島で警報級大雨のおそれ 薩摩150ミリ予想 暴風・高潮にも注意",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tT25wX3BVa3ljdU5TMEVVM09CRUNrUHlCRnVEVVllUWhxc3hDclFpMzNTNUd1MlZaR0VURGktX19LY0lyWmNVLW5WMGNYWVg2RVpOQk9LQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-24T23:24:00+09:00",
+   "keywords": [
+    "九州",
+    "大雨",
+    "接近"
+   ]
+  },
+  {
    "id": "8b98f47a0ae5118f",
    "title": "10月24日（土）今日は同級会後の三行日記｜moon",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1uYlg5WHNCc05GY0o5Vm04MDRTdUMtUlN1bDBJZV9JS0JPYVFydndIUkwzaG1PdVFQUmY0?oc=5",
@@ -1851,6 +1935,18 @@
    "source": "Yahoo!ニュース",
    "published": "2026-10-24T22:51:24+09:00",
    "keywords": [
+    "ダブル台風",
+    "九州"
+   ]
+  },
+  {
+   "id": "4413a447f8091e85",
+   "title": "【台風情報】ダブル台風の進路予想 台風30号は25日午後9時には九州の西に達する見込み 台風31号は29日午後9時には非常に強い勢力で南鳥島近海に達する見込み (FNNプライムオンライン)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXFiTXpkTmpycFhDdktMZVFMMUFvSG5SZzF2UmliT1RFWEgtcTM3TEk5VW5NRVdvbU1sNm1KNkhGbGJzb1R2TzdBUGZUcEE3QmtscHZaS1RWbXdfeS1TZEk3U1JraUoxT2xLRXRBdmNNekg2ZGlPQ0pNYWxDMEsyNVhzQVhLczdtanJiYlVB?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-24T22:51:24+09:00",
+   "keywords": [
+    "ダブル台風",
     "九州"
    ]
   },
@@ -1971,6 +2067,17 @@
    "source": "Yahoo 主要",
    "published": "2026-10-24T21:52:55+09:00",
    "keywords": []
+  },
+  {
+   "id": "d56f4ae539fa2bc4",
+   "title": "金正恩氏が訪中「友好継承」 習指導部歓待、国境で会談（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdHMtdUJVSG9VMDh1Zk41a2ZjRnRaT3VKRzVCclZrV2d4ZlFKZUxrOFREMlVUR3NTTzBJVTZxTXAtTi1OWkZRWlBoRHNUQ1k?oc=5",
+   "source": "熊本日日新聞社",
+   "published": "2026-10-24T21:52:04+09:00",
+   "keywords": [
+    "訪中",
+    "金正恩"
+   ]
   },
   {
    "id": "15fa9d97096b243f",
@@ -2218,6 +2325,14 @@
    "keywords": []
   },
   {
+   "id": "c5afc0375144de92",
+   "title": "西条市の河川で高齢男性の死者発見 警察は当時の詳しい状況を調べる【愛媛】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5udHM5dVpEOG5HdjMwQW54akVxZ2V2Wjd3Z3ROYVE4U2dHQVUxTDEyWGJtWHV6VGZ5WXFuNXBsLWZCdTczV1BHNXRSaGZxdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-24T20:00:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "c552d674cce20aa5",
    "title": "【速報】倉敷市で軽乗用車が電柱に衝突 6歳の女の子が意識不明の重体【岡山】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pLVpYd0NrNmFrcXh0Z0hjNWdZUTg4TWd4ejVwbzBuM3JFOS01eWhQbFpHVVBnYVBjNnNGSmVxYi1GU0RtVWpNcGZkZFpraXpPVFdvc2tNMA?oc=5",
@@ -2239,6 +2354,14 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wLU4zaE5obE9XSlVCQWtKUThuV3hnNUdwOFh6aG11WDFYbWNxbGhQZ2tpZzBPUFFycEpsQlBvMENYWEJPd08xY1hSVE53bHVLZkt1M3hpTHdIQ3BWTlZtOGlsQm1ZU2tUMFJ1dmVsNEk?oc=5",
    "source": "テレ朝NEWS",
    "published": "2026-10-24T19:46:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1fb016a18acde24e",
+   "title": "クラウド移行で3強激突",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnB1REpiTzNzbXdXcFRtOTU3bUZ4bDdyMnRLOUZ6ajNodDFyMURuTWM1VzhzRVFHUW5oVkVsUmt4TDBJbWRqaHEzUy15Z3RPSXduT2tEZFVDMVZYbEgtR3dNTVdaTFUxWEd3SWw2dHhsU2hCeHZESDcyZFdTUS1uTEExaXdLWUlvWnl6MC01MEg5RUtVRTNaWTRid3ZGdGNiWnFNOHFHOFRlR2p6eUZYX0dQVDJkNzktM1RhYU83X2pscEV1?oc=5",
+   "source": "日経クロステック",
+   "published": "2026-10-24T19:45:12+09:00",
    "keywords": []
   },
   {
@@ -2281,6 +2404,7 @@
    "published": "2026-10-24T19:36:26+09:00",
    "keywords": [
     "(月)",
+    "ダブル台風",
     "大雨",
     "接近"
    ]
@@ -2511,6 +2635,14 @@
    "keywords": []
   },
   {
+   "id": "e3d10ddd5323561d",
+   "title": "【和歌山県】10/25の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hLUh2VzdYX0x4Z1Z5M3l6ckdyd1J2NG1UdnQ4b0VGcHNTWFFzclBxV21saE9ja3JqaW5QQUhXbXNlZDJIRW1LeTh3NlE2QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-24T19:30:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "a6ba2c938f9d9128",
    "title": "【台風情報】ダブル台風の進路予想 台風30号は26日(月)に西日本に接近する見込み 関東甲信は前線や台風30号から変わる温帯低気圧の影響で26日(月)から27日(火)にかけて警報級の大雨となる可能性",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtaDJRMDIxeFloZWNDQ1NjX0Y0ckFtS3FhbUhKN3ZVUTloQlpLMGs4WUZrOC1mWk8wcUFEYlV0Q2JwaUExZ2JvNi1vZV9JUQ?oc=5",
@@ -2518,6 +2650,7 @@
    "published": "2026-10-24T19:28:00+09:00",
    "keywords": [
     "(月)",
+    "ダブル台風",
     "大雨",
     "接近"
    ]
@@ -2540,6 +2673,14 @@
     "上陸",
     "九州"
    ]
+  },
+  {
+   "id": "c87b2484e242249f",
+   "title": "地中に77年間眠っていた“幻のトンネル”！？大阪「亀の瀬隧道」の歴史を紐解く旅",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xNEExRll6X244bFFQTUNmZDQyVktoYUNsQ2dvN1dZMW95T1pJT3dpODJsWFZ1Skp2ajM1SDZlN2VLTnhvMkRBaEFYSFA0dkpCWXVlZk1rSEU3TktoazE4?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-24T19:25:00+09:00",
+   "keywords": []
   },
   {
    "id": "e301adac07949b2f",
@@ -2664,6 +2805,14 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50T1VzWUhWR014Qkt0a1JYNEFUUGhtU1FjSWRJdGdIOU5xQnFQY2pKUjlPVFlfbENoY1J1YkdadlNITWlxNnd4SlBMWjVrWF9RSVZiY1BpZF9IeWNOWHF1ZE9TcU94ZzZuU0VLVWZUOU1VNXRDeE5wZ0hlY1FLYUU?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-24T18:53:17+09:00",
+   "keywords": []
+  },
+  {
+   "id": "06b84f911a52bb2a",
+   "title": "未就学児向けイベント「hinataのキッズフェスタ」開催",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWER5M05nNkl4RkdvOHZ5TGFpUFVqRlpfLTAzY1dOc3ZmaFpLUGlWMDcxRURUallnTGt2bkk2Tmk5Q3E3SjYtME82YkxLSHBGS0E5aGZaSHNWdXJIaGU0djVvMF8?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-24T18:49:00+09:00",
    "keywords": []
   },
   {
@@ -2861,160 +3010,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPNnh0dWs3c194ZXFGbGNyRnRhcUxqcEd3T1c0MWM2U0U3a3Uwb0haakFyVjlXWnZNWkJLYV9DY21NM2t1TzVXclZLN0dKNzVjbmZpeENwdk1kakNBbURqdkhwVWo0NExxUU1HQ0ViMXBjUQ?oc=5",
    "source": "テレ朝NEWS",
    "published": "2026-10-24T18:15:11+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8792e67470ba92b4",
-   "title": "リニア中央新幹線 地下ホーム初公開 まちはどう変わる？",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261024de64791",
-   "source": "NHK 社会",
-   "published": "2026-10-24T18:11:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "bf6066a3108c5619",
-   "title": "GMO、「能動的サイバー防御」発動を政府に要請　「お名前.com」FX用VPSへの攻撃で",
-   "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002567/",
-   "source": "ITmedia",
-   "published": "2026-10-24T18:10:34+09:00",
-   "keywords": [
-    "GMO",
-    "サイバー防御",
-    "能動",
-    "要請"
-   ]
-  },
-  {
-   "id": "53bcd2be4d496e2e",
-   "title": "SVリーグ・アクアフェアリーズ ホーム開幕戦で東レアローズ滋賀と対戦 フルセットの末 今季初黒星",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaUDgwWnoyNW51VllCRjNRZE1EaTZ3eDFZdEFuNHpfcEhodkxBM0FScVFtOVVpSXZtZU1kdDlKUkhYVFpVUzdDeFJsMzRKQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-24T18:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e2c872ecff65e8e2",
-   "title": "熊本の被災地応援に、ロゴ作成　3市町、消費促進に",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtQ0liam1WQjB1WGJFeC03bTE1TGRQeTVBSER6TzhaRG4yRHYtU1Q0S3VEMmJOX05hYUZCMUN3WV80X0NrTTBJbi1yTk83MVpVaW9Ga3F5WWFaQmVLdXA4d0dEUmpkWEk0dUJ4T0tnS0JnU2Rl0gF0QVVfeXFMUC1DSWJqbVZCMHVYYkV4LTdtMTVMZFB5NUFIRHpPOFpEbjJEdi1TVDRLdUQyYk5fTmFhRkIxQ3dZXzRfQ2tNMEluLXJOTzcxWlVpb0ZrcXlZYVpCZUt1cDh3R0RSamRYSTR1QnhPS2dLQmdTZGU?oc=5",
-   "source": "Infoseek",
-   "published": "2026-10-24T18:08:40+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6da97ad474160647",
-   "title": "邦人記者拘束「許されず」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15TF9oZDJTSnhGRzNlMGRSeHR0ZnRwTzBkZGNYdlFtM2F6enFLd3BMRHppUS1jTjBLTFMyWUx0RnNYVW8wdE1kdEtjc010ZHR0Uzhr?oc=5",
-   "source": "湘南経済新聞",
-   "published": "2026-10-24T18:05:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f6886a57722fdcb9",
-   "title": "【九州北部地方】台風30号 九州への最接近は26日(月) 前線の影響もあり大雨の恐れ 福岡 山口 佐賀 長崎 大分 熊本",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96SEZaNlR1cjBrQmZOSXJHdUhEdVFNbUhzMnhIUkNqZ0lSZzZqZXliNVBQYXVXX05lTEJFSHRKU2RjcEpFNFgtNEg0Vk12b0dPZlRhbGZqcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-24T18:00:00+09:00",
-   "keywords": [
-    "(月)",
-    "九州",
-    "大雨",
-    "接近"
-   ]
-  },
-  {
-   "id": "d7fcea237be27256",
-   "title": "行方不明だった大阪・生野区の男子中学生（14）を無事発見 けがなし 大阪府警",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BeXI2ck5YTXRPWU5OTGM2c21zVnpyenRWbnpOZ1ZPTnVGX0hFbUNMNmxxUnpLV0pUQWJiOUxDM19FWTNhbUo1U3pQUUFMTU42Z1hFWnJYUnA5dXhvbnRGbk1PSmRNZFRmam1mU0ZzSGZTQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-24T17:59:06+09:00",
-   "keywords": [
-    "無事"
-   ]
-  },
-  {
-   "id": "c0ee8950081055f8",
-   "title": "福井梨莉華がカレンダーを発売「すてきな場所で撮りました」 テーマは“王道”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEaWMza2F4RWEyS3o3MW5jZnkwQURKYXFtSzZnZV9lMDVxWXdmQ2U5Mjl1SjhmWC1TNGRXcGFIUmNwaHAyaHpkQ2tEY2hyOFV6VzZEUUxNWDg5YlBXOEswNTY0NG5kdmFDLVF0OW4zWXE?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-24T17:57:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7099524529ee28a9",
-   "title": "【 中川翔子 】双子の長男が病院へ「検査して無事大丈夫でホッとしました どうか双子健康に幸せに長生きしてほしいよ」 「人生について考える時間が増えました」と振り返る (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2lCSHc1YVM5TG1XdHloTHlPYmZxR0dGcmRmMnRoNllkS1p0clZhY2dHMC1XemZKT0phUzVudDJGNTBMclBXV0NpQnQ5bDBIR05TNHp0cUt6bjBQSUFwY3c2LXRYbnY2SDFZMzlKbTBvbm44amFtQy1OVGhjWEF3dGJMaVpQQTNYcHhsR3Vn?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-24T17:55:24+09:00",
-   "keywords": [
-    "無事"
-   ]
-  },
-  {
-   "id": "8fc2d9c8e6baa0d2",
-   "title": "テニス モンフィス離婚後初の声明",
-   "url": "https://news.yahoo.co.jp/pickup/6599955?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-24T17:54:08+09:00",
-   "keywords": []
-  },
-  {
-   "id": "219b524619847358",
-   "title": "国際色豊かな学園祭 ＡＰＵで「天空祭」開幕",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2Z1ZyXzNOdG9yemhGWG9GcVZOanBXTGJmM01GZDJ4LVRBcjU4eUdxVFgxOVJWS2NBeDVxeWlIOThDcTBwc2hMMC1rb2NCTkZMRjBubmxnOVNyTF94U09TUV9mUVU?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-24T17:54:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "806784aa04ca79f9",
-   "title": "ガソリン補助縮小「必要」 自民幹部、電気ガス前向き（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IYm5FYlFNVHNnYnd0dl9hcEVGeWpkVjRUNUFxVjdERjFjVnVoMU91OVlaR2pFSlppRUU1LUViNnlreHU0U1A3QjZkTUV3QWxPbFhYTkZXWVJpMFFMY1dJeFBiZnpxR0QwaVk3WDktMkZIUWJSUXdVWGZ0T1lqOHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-24T17:53:40+09:00",
-   "keywords": []
-  },
-  {
-   "id": "41fa207401231eaa",
-   "title": "ガソリン補助縮小「必要」　自民幹部、電気ガス前向き",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RTDJETW90cHdxNjJEaF9rMWFCbWFpbndXWHQtbkhtVElibDRXVHJQU0RaS1pIUkJHQU04OVFHOTNEVXlsNm5McDNfRkQ0VkRORllVeUdrN1pPU3JCWUZkbHc4eXc1WGJSeDRaWk56c1ljQVVs0gF0QVVfeXFMTlFMMkRNb3Rwd3E2MkRoX2sxYUJtYWlud1dYdC1uSG1USWJsNFdUclBTRFpLWkhSQkdBTTg5UUc5M0RVeWw2bkxwM19GRDRWRE5GWVV5R2s3Wk9TckJZRmRsdzh5dzVYYlJ4NFpaTnpzWWNBVWw?oc=5",
-   "source": "Infoseek",
-   "published": "2026-10-24T17:53:40+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1c1f3fe36ecc56c6",
-   "title": "暴走するAI その正体と攻防",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdnp1Y3R4QU1OTTgyU2l3anh0RXZWMEN4bWNGQUIwanA4OW9uay1kaEZrMnpBX3pZMVIyUzFiTjlJbDVIMWRoZDE0MjYxQWxoLWtPd2g4RS1jUQ?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-24T17:51:16+09:00",
-   "keywords": []
-  },
-  {
-   "id": "021a252daffce5fe",
-   "title": "GMO、不正取引の被害額を補償へ　見舞金5000円も　「お名前.com」FX用VPSへのサイバー攻撃で",
-   "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
-   "source": "ITmedia",
-   "published": "2026-10-24T17:51:04+09:00",
-   "keywords": [
-    "GMO",
-    "不正取引",
-    "見舞"
-   ]
-  },
-  {
-   "id": "f7533d7707abd548",
-   "title": "プロバスケットボールBリーグB.ONE 岩手ビッグブルズ 新潟アルビレックスBBに逆転勝ち",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Od2I3QTVmYnJVNTZxTzBWZlh3UlE2b3paVVowUTAxWkduRjVvTXNHN3JYbGQ0YVJPOF9wbnBoX04wUkt4NDVYekVEbzQwRXhiOHRmQ3Frcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-24T17:48:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "43056eff47659af2",
-   "title": "巨人 松井秀喜新監督 球団施設を訪れスタッフなどにあいさつ",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261024de64835",
-   "source": "NHK 主要",
-   "published": "2026-10-24T17:46:00+09:00",
    "keywords": []
   }
  ]
