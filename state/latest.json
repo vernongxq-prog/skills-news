@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-28T03:18:44.132123+09:00",
+ "generated": "2026-10-28T07:30:01.948300+09:00",
  "new_events": 145,
  "keywords": [
   {
    "kw": "道府県",
    "level": "high",
-   "d24": 11,
+   "d24": 12,
    "baseline": 0.0,
-   "ratio": 22.0,
-   "consecutive": 4,
+   "ratio": 24.0,
+   "consecutive": 5,
    "days": [
     0,
     0,
@@ -16,7 +16,7 @@
     0,
     0,
     0,
-    11
+    12
    ],
    "latest": [
     "副首都 要件満たせば4道府県指定",
@@ -57,8 +57,8 @@
     0,
     0,
     0,
-    0,
     2,
+    0,
     11
    ],
    "latest": [
@@ -91,10 +91,10 @@
   {
    "kw": "指定",
    "level": "high",
-   "d24": 12,
+   "d24": 13,
    "baseline": 0.7,
-   "ratio": 18.0,
-   "consecutive": 5,
+   "ratio": 19.5,
+   "consecutive": 6,
    "days": [
     1,
     1,
@@ -102,7 +102,7 @@
     0,
     0,
     2,
-    12
+    13
    ],
    "latest": [
     "副首都 要件満たせば4道府県指定",
@@ -175,6 +175,49 @@
    "alerted_at": "2026-10-27T15:17:50.677730+09:00"
   },
   {
+   "kw": "懸賞",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.0,
+   "ratio": 18.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    9
+   ],
+   "latest": [
+    "GMOが有力情報に1.5億円の懸賞金 攻撃者特定へきょう正午から情報受け付け 300万円上限に見舞金も",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUWxWelp0cldPMkd5dUdGYjJhZXRjZE1NX0hIR3laZGtmMm1mTm1VQi1KOHFNMmFJclRmWi1vdkRyTmwyVUZEN253ay13dVdROHdJMmRlWVdmbUFzbXNhU0FXeWxSdmVpa3lTb2tDVjRhR192eDJMTVYxM0ZTcjA?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "GMOが有力情報に1.5億円の懸賞金 攻撃者特定へきょう正午から情報受け付け 300万円上限に見舞金も",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUWxWelp0cldPMkd5dUdGYjJhZXRjZE1NX0hIR3laZGtmMm1mTm1VQi1KOHFNMmFJclRmWi1vdkRyTmwyVUZEN253ay13dVdROHdJMmRlWVdmbUFzbXNhU0FXeWxSdmVpa3lTb2tDVjRhR192eDJMTVYxM0ZTcjA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T06:58:20+09:00"
+    },
+    {
+     "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+     "source": "NHK 主要",
+     "published": "2026-10-28T05:07:26+09:00"
+    },
+    {
+     "title": "GMO不正アクセス ハッカー特定に懸賞金1億5000万円 顧客へ見舞金支払いも発表（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFZrU3pMN0RxYU1HNFpTWFJEN09vYzg5ekVRcjhnQk1SS1ZFNGEwcnNpQmM1VDVCN1YtSk9FYm4wU2xTZGhuTmxBMF9qTjVjNUREQmo4QzFtWUZYOTNjamcwbEdabFd0Z2NWQ0w0a3lnM1RjZGI5dGtGcnI1Nzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T04:25:13+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-28T07:30:01.948300+09:00"
+  },
+  {
    "kw": "GMO攻撃",
    "level": "high",
    "d24": 8,
@@ -218,98 +261,12 @@
    "alerted_at": "2026-10-28T03:18:44.132123+09:00"
   },
   {
-   "kw": "希望退職",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.0,
-   "ratio": 14.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    7
-   ],
-   "latest": [
-    "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-27T12:15:38+09:00"
-    },
-    {
-     "title": "希望退職を約6万人募集 米マイクロソフト AIに巨額投資",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GM2cxYmtiNXo2R0toamhpMUxBa3dndV9TQm9jWVdiVVMwbTZnZ1VfVjU0QVlEVE81OU0zdlM1VlBXU0pKalJGUW5RTXBCcW9fX0c2VTQxbE5Wb2dKYjlpYXM5UDBBV3pTbjYyTEFzQnJHQWhfaFJ4M2JB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T10:57:41+09:00"
-    },
-    {
-     "title": "マイクロソフトが新たな人員削減案を発表 約6万人に希望退職を募集 全従業員の4分の1超",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1SU0wZzhTblluak5WNTREN0h4VkF5NmpRcVozREVIYm5CVUtvRllZWGZ4UThtVTNySlBDYmNnSWY1aGRGNTZJUmx2bUxrWEdsV3FuaHAtUFhJTjJNNzI5WlU0Q09Yd2VSVTN1dGtlWmlRd01tZUFIT1ctOHZ3RW8?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-27T08:31:43+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T15:17:50.677730+09:00"
-  },
-  {
-   "kw": "IPO",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.5,
-   "ratio": 14.0,
-   "consecutive": 5,
-   "days": [
-    1,
-    0,
-    0,
-    0,
-    0,
-    2,
-    7
-   ],
-   "latest": [
-    "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
-    "https://www.itmedia.co.jp/news/article/2610/27/2000002644/"
-   ],
-   "samples": [
-    {
-     "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
-     "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
-     "source": "ITmedia",
-     "published": "2026-10-27T20:30:12+09:00"
-    },
-    {
-     "title": "26年上半期の売上高、14倍＝米アンソロピック、史上最大IPOか(時事通信)",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGVOTERYcWI5YTYyMTJER1VxUHRzd3lqbjU3VVZLeUNycFQtS242ZjRkYlJaUVRsczYwOFRhT25BaDJyMkpRYTlLbG9XZEhfY293ZlNjY3plMllhQ0k1b1FZck4xdDQ1UjVSbUlCNnF0dDluVFJVT0NONjJhZmtES05raU4zVUU?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "published": "2026-10-27T11:00:37+09:00"
-    },
-    {
-     "title": "米アンソロピックが上場へ書類公開 11月中旬ごろ “史上最大”のIPOとなる可能性も 約16兆円調達の見通し 創業からわずか5年",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fYUY1QmNOVV9KN2dCd1VUSE9pbkxaM2FONnJ3czBGV0dqUU9SVmZuaTQwaU5GQmlYcDdEUkF1cldNRFAzZ1Y1WXNsQkpWU1pDYlMzeFd6VQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T09:55:34+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T15:17:50.677730+09:00"
-  },
-  {
    "kw": "GMO不正アクセス",
    "level": "high",
-   "d24": 7,
+   "d24": 8,
    "baseline": 0.5,
-   "ratio": 14.0,
-   "consecutive": 4,
+   "ratio": 16.0,
+   "consecutive": 5,
    "days": [
     0,
     0,
@@ -317,13 +274,19 @@
     0,
     1,
     2,
-    7
+    8
    ],
    "latest": [
-    "GMO不正アクセス 警視庁が捜査",
-    "https://news.yahoo.co.jp/pickup/6600351?source=rss"
+    "GMO不正アクセス ハッカー特定に懸賞金1億5000万円 顧客へ見舞金支払いも発表（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFZrU3pMN0RxYU1HNFpTWFJEN09vYzg5ekVRcjhnQk1SS1ZFNGEwcnNpQmM1VDVCN1YtSk9FYm4wU2xTZGhuTmxBMF9qTjVjNUREQmo4QzFtWUZYOTNjamcwbEdabFd0Z2NWQ0w0a3lnM1RjZGI5dGtGcnI1Nzg?oc=5"
    ],
    "samples": [
+    {
+     "title": "GMO不正アクセス ハッカー特定に懸賞金1億5000万円 顧客へ見舞金支払いも発表（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFZrU3pMN0RxYU1HNFpTWFJEN09vYzg5ekVRcjhnQk1SS1ZFNGEwcnNpQmM1VDVCN1YtSk9FYm4wU2xTZGhuTmxBMF9qTjVjNUREQmo4QzFtWUZYOTNjamcwbEdabFd0Z2NWQ0w0a3lnM1RjZGI5dGtGcnI1Nzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T04:25:13+09:00"
+    },
     {
      "title": "GMO不正アクセス 警視庁が捜査",
      "url": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
@@ -335,12 +298,6 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42eDlEUTU3cUlJNFVDNmlHUmlwTWg3UzJFanBBa2dfQXUxQXA1YUpjeV8yejBlZXJZbVRUUHNYTEFPT3kwS3dSY0oxdjdfdlN4VFc3Y0lVTnhzRzRXZ3c4T0dDT1k0Ym40dlpDU3JYN1NXM2c?oc=5",
      "source": "テレ朝NEWS",
      "published": "2026-10-27T20:59:17+09:00"
-    },
-    {
-     "title": "GMO不正アクセス 個人情報も晒される 今できる対策は？ 専門家に聞く",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vZEk3a0RIV1VmUVRlbThNOVhodC0xaUlZekpwbEZYcGNMSlBCbGkwb2NpaHpvVkhGNlAweWRJTDExOXFMemVtVHNUNWJJRXFxV3ZxbDAycWkweUpPdDItc2xKVkxtMXdvZk90YzNRM0tVZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T17:33:17+09:00"
     }
    ],
    "watch": false,
@@ -390,49 +347,6 @@
    "alerted_at": "2026-10-28T03:18:44.132123+09:00"
   },
   {
-   "kw": "続投",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.0,
-   "ratio": 14.0,
-   "consecutive": 4,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    7
-   ],
-   "latest": [
-    "イスラエルの総選挙投票始まる 午前10時時点投票率が1981年以来最高に 現職続投なるか",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sMmFieFJVZk1ROWhtTWFvSV84UVBTZEduM0xQcTZENXZHZ2hyT3NCX3JuV2s2TmhUWGljMjNZTkVkUmxNRUVtb2M4VFlWU2NFMDhhOXlzTGtRSk9pX1BkQTBXYklDWW1kVDF3VmRMUUlaSlhvcEl1M1lR?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "イスラエルの総選挙投票始まる 午前10時時点投票率が1981年以来最高に 現職続投なるか",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sMmFieFJVZk1ROWhtTWFvSV84UVBTZEduM0xQcTZENXZHZ2hyT3NCX3JuV2s2TmhUWGljMjNZTkVkUmxNRUVtb2M4VFlWU2NFMDhhOXlzTGtRSk9pX1BkQTBXYklDWW1kVDF3VmRMUUlaSlhvcEl1M1lR?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T23:36:15+09:00"
-    },
-    {
-     "title": "イスラエル総選挙 投票始まる ネタニヤフ首相の続投が焦点（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IYjJpRGdOMVNjVjJWMnEtMWtVVjVmTjBobUVHZXFvbENCQzBVOEotQ05WV3FneUtTTXRzdzBrNzJOWWZ0cWJmM1loQXk4QlVacVp6b2lwR09BOHNBTWc5UjhRcmxULUY2d2NIa2syRS1pM2RzeUJUdHpCQmFCSDA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-27T16:47:19+09:00"
-    },
-    {
-     "title": "イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66339",
-     "source": "NHK 主要",
-     "published": "2026-10-27T15:06:29+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T21:34:08.914510+09:00"
-  },
-  {
    "kw": "PC",
    "level": "high",
    "d24": 10,
@@ -441,11 +355,11 @@
    "consecutive": 2,
    "days": [
     2,
-    0,
-    2,
-    0,
+    1,
+    1,
     0,
     1,
+    0,
     10
    ],
    "latest": [
@@ -612,8 +526,8 @@
    "ratio": 12.0,
    "consecutive": 3,
    "days": [
-    0,
-    2,
+    1,
+    1,
     1,
     0,
     0,
@@ -734,133 +648,262 @@
    "alerted_at": "2026-10-28T03:18:44.132123+09:00"
   },
   {
-   "kw": "無罪",
+   "kw": "続投",
    "level": "high",
-   "d24": 11,
-   "baseline": 1.0,
-   "ratio": 11.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    3,
-    0,
-    0,
-    3,
-    11
-   ],
-   "latest": [
-    "自己保身の主張が腹立たしい…争点“抗拒不能”とは 元検事正2年ぶり公判で無罪主張",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5PY1lqLWp4eVVuTTlUaFBMZmltaXhRdnlJdXRfN0N3TDBTcHZqWTBUU2tNUmV3c0tsWGE2bm96aGpRNnFtakh6UldCaVktQ2thNllHS3BoY2JWVjlBc20xUFZaY2FJSm15dndmR01ldnBWQQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "自己保身の主張が腹立たしい…争点“抗拒不能”とは 元検事正2年ぶり公判で無罪主張",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PY1lqLWp4eVVuTTlUaFBMZmltaXhRdnlJdXRfN0N3TDBTcHZqWTBUU2tNUmV3c0tsWGE2bm96aGpRNnFtakh6UldCaVktQ2thNllHS3BoY2JWVjlBc20xUFZaY2FJSm15dndmR01ldnBWQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-28T01:46:00+09:00"
-    },
-    {
-     "title": "“性的暴行”大阪地検元トップの裁判 初公判から2年ぶり開廷 一転無罪を主張の理由は",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SkM2MEdtcnhYSjRkX3ZJMzZFWXE0Qndva2lNdVdOTVlEekpKOWQzakVUN1RlbFlHeGM2OHBBcGUxc2Jldko4bEJhd0N5ajlQdDJRT18zdmx2bjZVX0RmMWNCeVNRazBXNC02eEdmU3lrQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T19:57:10+09:00"
-    },
-    {
-     "title": "4歳児暴行死 母親の元交際相手に2審も無罪判決 東京高裁",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00ak1GZlJ2cVNDaWtkNE1qaTB4dThtdUxlSmpNV3NlYXNUVU1IUXB5cHZqVDRtVkdtTFczWGFnamhJYTFKcE9PMC1uZGNRZlVTdlhldHRIZ0tyWjNKTFB0U3NYXzd2MkhxX0xaamdMb0g3Zw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T17:39:30+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
-  },
-  {
-   "kw": "小笠原近海",
-   "level": "high",
-   "d24": 9,
-   "baseline": 0.8,
-   "ratio": 10.8,
-   "consecutive": 7,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    9
-   ],
-   "latest": [
-    "【台風情報】中心気圧940hPa・最大瞬間風速70m/sで31日ごろ小笠原近海へ【雨・風シミュレーション11月7日（土）まで】非常に強い台風31号 気象庁の進路予想",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tdFlIVW5NdG5KcEhvUHRkWVZMNGFQZlRwT2kyYlhpYkpmWjU0aVVxeVRzYUg5WVRRcEhpTndoRzVZWWpUM1drOG1kUVV1dzR1dnYtelh6bw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【台風情報】中心気圧940hPa・最大瞬間風速70m/sで31日ごろ小笠原近海へ【雨・風シミュレーション11月7日（土）まで】非常に強い台風31号 気象庁の進路予想",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tdFlIVW5NdG5KcEhvUHRkWVZMNGFQZlRwT2kyYlhpYkpmWjU0aVVxeVRzYUg5WVRRcEhpTndoRzVZWWpUM1drOG1kUVV1dzR1dnYtelh6bw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T23:38:00+09:00"
-    },
-    {
-     "title": "【台風情報】中心気圧940hPa,最大瞬間風速70mで 31日ごろ小笠原近海へ【雨・風シミュレーション11月7日（土）まで】非常に強い台風31号 気象庁の進路予想",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lbjBiMUZPUXNQX0tXejQtRnJ0Qml4MGdEb1RON3RKa2ZhLWZDYi1KN3M1SEk5TDltVG1iYXZqTnZxQ2k3ZXdTRTZuYjVxZVJuemh4eXI4Q2p6dDVsZll2aHdpV3U?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T19:24:00+09:00"
-    },
-    {
-     "title": "【台風情報】台風31号（インファ） ｢非常に強い｣勢力で小笠原近海に接近へ 最大瞬間風速70m/s 今後の予想進路は? ※雨と風のシミュレーション（気象庁）",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43QlpuM0U3YWFYWDdFOVBGR2JMdkRIRnNiTFFRM0NwS1JrVzZXUXRKWGtHQzZ1QlNGT3ppbEx2VzgyYzlDOC1vRmdJalNIb1U0M1JjQXdYcw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T17:24:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T10:11:14.180185+09:00"
-  },
-  {
-   "kw": "募集",
-   "level": "high",
-   "d24": 10,
-   "baseline": 1.0,
-   "ratio": 10.0,
+   "d24": 6,
+   "baseline": 0.2,
+   "ratio": 12.0,
    "consecutive": 4,
    "days": [
-    1,
-    1,
     0,
-    2,
     0,
-    2,
-    10
+    0,
+    0,
+    0,
+    1,
+    6
    ],
    "latest": [
-    "【第2期 受講者募集開始】日本経済新聞社とビジネスコーチ共同主催「日経エグゼクティブコーチ資格取得プログラム」2027年1月16日開講",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YlJrT2RNSlpxMDVBcXVrempCYTlKWUlDSEJmSlNyRkJaaW53b2dicnpFcXRidTQxaGF0RmE5Y2daMnM1SkVzd1hkWFNneEViTVk0UUJhOTlBZ0RPcWpPcFBoMHM1ek1Tcnc?oc=5"
+    "イスラエルの総選挙投票始まる 午前10時時点投票率が1981年以来最高に 現職続投なるか",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sMmFieFJVZk1ROWhtTWFvSV84UVBTZEduM0xQcTZENXZHZ2hyT3NCX3JuV2s2TmhUWGljMjNZTkVkUmxNRUVtb2M4VFlWU2NFMDhhOXlzTGtRSk9pX1BkQTBXYklDWW1kVDF3VmRMUUlaSlhvcEl1M1lR?oc=5"
    ],
    "samples": [
     {
-     "title": "【第2期 受講者募集開始】日本経済新聞社とビジネスコーチ共同主催「日経エグゼクティブコーチ資格取得プログラム」2027年1月16日開講",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YlJrT2RNSlpxMDVBcXVrempCYTlKWUlDSEJmSlNyRkJaaW53b2dicnpFcXRidTQxaGF0RmE5Y2daMnM1SkVzd1hkWFNneEViTVk0UUJhOTlBZ0RPcWpPcFBoMHM1ek1Tcnc?oc=5",
-     "source": "PR TIMES",
-     "published": "2026-10-27T15:00:27+09:00"
-    },
-    {
-     "title": "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-27T12:15:38+09:00"
-    },
-    {
-     "title": "希望退職を約6万人募集 米マイクロソフト AIに巨額投資",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GM2cxYmtiNXo2R0toamhpMUxBa3dndV9TQm9jWVdiVVMwbTZnZ1VfVjU0QVlEVE81OU0zdlM1VlBXU0pKalJGUW5RTXBCcW9fX0c2VTQxbE5Wb2dKYjlpYXM5UDBBV3pTbjYyTEFzQnJHQWhfaFJ4M2JB?oc=5",
+     "title": "イスラエルの総選挙投票始まる 午前10時時点投票率が1981年以来最高に 現職続投なるか",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sMmFieFJVZk1ROWhtTWFvSV84UVBTZEduM0xQcTZENXZHZ2hyT3NCX3JuV2s2TmhUWGljMjNZTkVkUmxNRUVtb2M4VFlWU2NFMDhhOXlzTGtRSk9pX1BkQTBXYklDWW1kVDF3VmRMUUlaSlhvcEl1M1lR?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-27T10:57:41+09:00"
+     "published": "2026-10-27T23:36:15+09:00"
+    },
+    {
+     "title": "イスラエル総選挙 投票始まる ネタニヤフ首相の続投が焦点（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IYjJpRGdOMVNjVjJWMnEtMWtVVjVmTjBobUVHZXFvbENCQzBVOEotQ05WV3FneUtTTXRzdzBrNzJOWWZ0cWJmM1loQXk4QlVacVp6b2lwR09BOHNBTWc5UjhRcmxULUY2d2NIa2syRS1pM2RzeUJUdHpCQmFCSDA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-27T16:47:19+09:00"
+    },
+    {
+     "title": "イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66339",
+     "source": "NHK 主要",
+     "published": "2026-10-27T15:06:29+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-27T10:11:14.180185+09:00"
+   "alerted_at": "2026-10-27T21:34:08.914510+09:00"
+  },
+  {
+   "kw": "ユニクロ",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.0,
+   "ratio": 12.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6
+   ],
+   "latest": [
+    "ユニクロが靴下の価格改定中止 16日の発表から一転 「靴下は生活必需品の象徴的な商品」 これからもソックスまとめ買いは3足990円（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS3lhbEN4ZjZBUUVPaUVJdFhOQlZUdjlaTHprN2w5OGtqT2NXUmVqRnJ0djVXTGVBQXBYWWgzMFZ1V2VRdzMtcjJ4eTIxQTYxYUtFOHVyRTN4UkVJcWZ5Rjd1UTUtcm5yUjgzQlFONWc0RkRaZFFZTWxxbm1jSFE?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "ユニクロが靴下の価格改定中止 16日の発表から一転 「靴下は生活必需品の象徴的な商品」 これからもソックスまとめ買いは3足990円（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS3lhbEN4ZjZBUUVPaUVJdFhOQlZUdjlaTHprN2w5OGtqT2NXUmVqRnJ0djVXTGVBQXBYWWgzMFZ1V2VRdzMtcjJ4eTIxQTYxYUtFOHVyRTN4UkVJcWZ5Rjd1UTUtcm5yUjgzQlFONWc0RkRaZFFZTWxxbm1jSFE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T00:33:37+09:00"
+    },
+    {
+     "title": "ユニクロが靴下の価格改定中止 16日の発表から一転 「靴下は生活必需品の象徴的な商品」 これからもソックスまとめ買いは3足990円",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uV3U1QzlsY1Z0WEpKczZ4UjRtOVJoSnRmTGJianBITjVQY0hNVnhLRVVOZG1nN0Z4ZmtZdmhad3dnd3J5M2EyVHl6bTlfMFZYNkxjSkVnMA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T00:32:21+09:00"
+    },
+    {
+     "title": "ユニクロ、ソックスの値上げ中止 まとめ買いも継続：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96MVVoN0ZuMEwxVThyc1FGV1dwdUJIc3R3X0lIRWVIYWp3M2MtVzA2VVlhR29iWkJiY092QkRDaU9VbUlKLW9xYmNxMEF2a3E2dWR6RUtlN0RvS0I0NmNGMU0wRQ?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-27T21:17:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-20T02:20:54.347131+09:00"
+  },
+  {
+   "kw": "自転車",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    2,
+    0,
+    1,
+    1,
+    7
+   ],
+   "latest": [
+    "自転車「青切符」導入から半年 ながら・傘差し運転いまだ後絶たず 車道走行9割超「危険を感じた」 子ども“同乗ルール”見直し議論も",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JZV9GN0lUTHgtekI2dmd3cjhMQVpGampCNFltUG5zNzZCT3FUTkE2THpjeFhsam9MYkhla184WGhyVnBZUnh6V3AyNm9hUQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "自転車「青切符」導入から半年 ながら・傘差し運転いまだ後絶たず 車道走行9割超「危険を感じた」 子ども“同乗ルール”見直し議論も",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JZV9GN0lUTHgtekI2dmd3cjhMQVpGampCNFltUG5zNzZCT3FUTkE2THpjeFhsam9MYkhla184WGhyVnBZUnh6V3AyNm9hUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-28T06:10:00+09:00"
+    },
+    {
+     "title": "自転車2人乗りの規則見直し 都内で安全性を検討する会議",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66691",
+     "source": "NHK 主要",
+     "published": "2026-10-27T23:43:47+09:00"
+    },
+    {
+     "title": "栗原市内で自転車がトラックにはねられる事故 60代男性意識不明の重体 宮城",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1seDVCT0w5UVU1MkV6SGg2bV9WRmczNEtXVGFuX1l4VlJFa01Ba0psd2FwQTBlSnhFYk1JM1E2bW11dDJVWUtKNVpBYXlkNjhHR0NYdHJiMXEtdXNoX0EtZzFKbUE?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-27T21:13:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-28T03:18:44.132123+09:00"
+  },
+  {
+   "kw": "喜び",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 3,
+   "days": [
+    1,
+    2,
+    0,
+    1,
+    0,
+    0,
+    7
+   ],
+   "latest": [
+    "アキダイ・秋葉代表が国会質疑に 食料品の消費減税「下がった喜びは多分1か月もたない」（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NalJIbm5NcUR1T3JIamdCVlg4ak14RlFOV3Jiak9ycW5nNDBrd3VUc21XaERwbE5UMVJaMVVXSXFEU0RVeDRSR3NJZ1hSQVBLQzIza3lYU3pzYjlUNjNWQkxPU2dSV1otaWRCSVJOeHFLTFU3eU8yeW0wWWRrSFE?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "アキダイ・秋葉代表が国会質疑に 食料品の消費減税「下がった喜びは多分1か月もたない」（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NalJIbm5NcUR1T3JIamdCVlg4ak14RlFOV3Jiak9ycW5nNDBrd3VUc21XaERwbE5UMVJaMVVXSXFEU0RVeDRSR3NJZ1hSQVBLQzIza3lYU3pzYjlUNjNWQkxPU2dSV1otaWRCSVJOeHFLTFU3eU8yeW0wWWRrSFE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T00:27:37+09:00"
+    },
+    {
+     "title": "アキダイ・秋葉代表が国会質疑に 食料品の消費減税「下がった喜びは多分1か月もたない」",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTG5yUHYzYm1wNXVDeUtuTmU3MkRRcDlRenl6dXhQeVNpM2lrM2FxZzFpdXd1VnJ6Ujh2VGZKRVBJV05HSDVJeWRCQXRudzdoM05YcFg2aw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T00:27:24+09:00"
+    },
+    {
+     "title": "世界文化賞受賞者が会見 「この上ない栄誉」喜び語る（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVa2hSQXBuTDlXamhxcFIwNmkwbFY1RmhPakRCV05rbWdIWHlZZy1CN3ZPVW9mRmhSQlNra2FZbGY5N1NIWkFMTV8xNGJ6aVRPM2Fwd1MxejNaNkNjSFpUbHdkb0dhN3RsaE5HWFJvQXpVcW1KeUtIVUFjZHVtdFk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-27T21:35:29+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-28T03:18:44.132123+09:00"
+  },
+  {
+   "kw": "ネタニヤフ首相",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 6,
+   "days": [
+    0,
+    0,
+    2,
+    0,
+    0,
+    2,
+    7
+   ],
+   "latest": [
+    "【速報】イスラエル総選挙 出口調査でネタニヤフ首相の与党陣営が獲得議席数で野党陣営を下回る",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5cS1MZ0p4SVRXZkRaNVAtZTF4cWJESjI5VHhwZWJSOGkybHgzNjlGR1ZQaTlvaEFRMXJuLUN5UDhIVjhOUFIxZkhjQzJSbW0tWGJGYUVoQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【速報】イスラエル総選挙 出口調査でネタニヤフ首相の与党陣営が獲得議席数で野党陣営を下回る",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5cS1MZ0p4SVRXZkRaNVAtZTF4cWJESjI5VHhwZWJSOGkybHgzNjlGR1ZQaTlvaEFRMXJuLUN5UDhIVjhOUFIxZkhjQzJSbW0tWGJGYUVoQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T05:33:23+09:00"
+    },
+    {
+     "title": "「交代させる時が来た」ネタニヤフ首相の政党が苦戦…イスラエル総選挙の投票始まる",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDcFFna0xCOFRfSVhEa1NsbHNEVVlRRXV1VHFvM2stM2praTZwNGpRVkJlV0hHTHYwbUlTSEh1bXR6YTFaeDkzSld4ekY4NHpyYWZROEgxN3BFNTJPVnk2Yl9sbl91RmtEVUVsQ24yS2IwY1VQRjhGUzJB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-27T23:41:00+09:00"
+    },
+    {
+     "title": "イスラエル総選挙で投票始まる ネタニヤフ首相に国民の審判は？ 野党陣営はハマス奇襲攻撃の責任追及【現地中継】",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42SlhKTHg5Qk5kZkV3b2xxc2hGWlRqZXVHRllhdHdPWV9yRjZSRWdXcDhsWGFUSTRxV0ptbHRFTDNVRTNfOUgwcHpGVFhEUldpZUQ3a1FzTQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-27T18:28:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-28T03:18:44.132123+09:00"
+  },
+  {
+   "kw": "一転",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 2,
+   "days": [
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    7
+   ],
+   "latest": [
+    "ユニクロが靴下の価格改定中止 16日の発表から一転 「靴下は生活必需品の象徴的な商品」 これからもソックスまとめ買いは3足990円（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS3lhbEN4ZjZBUUVPaUVJdFhOQlZUdjlaTHprN2w5OGtqT2NXUmVqRnJ0djVXTGVBQXBYWWgzMFZ1V2VRdzMtcjJ4eTIxQTYxYUtFOHVyRTN4UkVJcWZ5Rjd1UTUtcm5yUjgzQlFONWc0RkRaZFFZTWxxbm1jSFE?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "ユニクロが靴下の価格改定中止 16日の発表から一転 「靴下は生活必需品の象徴的な商品」 これからもソックスまとめ買いは3足990円（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS3lhbEN4ZjZBUUVPaUVJdFhOQlZUdjlaTHprN2w5OGtqT2NXUmVqRnJ0djVXTGVBQXBYWWgzMFZ1V2VRdzMtcjJ4eTIxQTYxYUtFOHVyRTN4UkVJcWZ5Rjd1UTUtcm5yUjgzQlFONWc0RkRaZFFZTWxxbm1jSFE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T00:33:37+09:00"
+    },
+    {
+     "title": "ユニクロが靴下の価格改定中止 16日の発表から一転 「靴下は生活必需品の象徴的な商品」 これからもソックスまとめ買いは3足990円",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uV3U1QzlsY1Z0WEpKczZ4UjRtOVJoSnRmTGJianBITjVQY0hNVnhLRVVOZG1nN0Z4ZmtZdmhad3dnd3J5M2EyVHl6bTlfMFZYNkxjSkVnMA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T00:32:21+09:00"
+    },
+    {
+     "title": "ユニクロ、靴下まとめ買い継続へ　「販売終了」一転",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMC1pSFBDNjhZR0VmZFdXNHRQLXFzSGNPUHYyc0hlRVVnZlBUYkNNdFZOeW9jUzhQVl96VkV4aHJPT2g5am9ZQVVqNzN3TUJiSmZ6SHJOckNjUndxMl8yZ0RBSXZqQW5vTGJMbGM1RE9JOTAydEhRd3RpTml3Rng2czFNMjEyY3VsclZROXg2cEpWZVHSAZMBQVVfeXFMTjAtaUhQQzY4WUdFZmRXVzR0UC1xc0hjT1B2MnNIZUVVZ2ZQVGJDTXRWTnlvY1M4UFZfelZFeGhyT09oOWpvWUFVajczd01CYkpmekhyTnJDY1J3cTJfMmdEQUl2akFub0xiTGxjNURPSTkwMnRIUXd0aU5pd0Z4NnMxTTIxMmN1bHJWUTl4NnBKVmVR?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-27T21:03:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-28T07:30:01.948300+09:00"
   },
   {
    "kw": "閲覧",
@@ -906,133 +949,47 @@
    "alerted_at": "2026-10-20T02:20:54.347131+09:00"
   },
   {
-   "kw": "自転車",
+   "kw": "走行",
    "level": "high",
    "d24": 6,
    "baseline": 0.7,
    "ratio": 9.0,
-   "consecutive": 3,
+   "consecutive": 1,
    "days": [
     0,
+    1,
     0,
-    2,
-    0,
+    1,
     1,
     1,
     6
    ],
    "latest": [
-    "自転車2人乗りの規則見直し 都内で安全性を検討する会議",
-    "https://news.web.nhk/newsweb/na/nd-20261027de66691"
+    "小田急江ノ島線で列車と衝突 線路を車で200m走行 女性死亡",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE14Q0dadW1zXzU4bWhtVk5LZDUxQ3VHOUdKbnRGRWFjNHhra2RBTlJDck9Eb2x4UHhQaUZmczVqb0pFZ3N5a3VRYk1pSi1qUlJ2b1lPbVNMNUc1bmppRjF4MW1FM0swa25BT201SWVKZ1VCdw?oc=5"
    ],
    "samples": [
     {
-     "title": "自転車2人乗りの規則見直し 都内で安全性を検討する会議",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66691",
-     "source": "NHK 主要",
-     "published": "2026-10-27T23:43:47+09:00"
-    },
-    {
-     "title": "栗原市内で自転車がトラックにはねられる事故 60代男性意識不明の重体 宮城",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1seDVCT0w5UVU1MkV6SGg2bV9WRmczNEtXVGFuX1l4VlJFa01Ba0psd2FwQTBlSnhFYk1JM1E2bW11dDJVWUtKNVpBYXlkNjhHR0NYdHJiMXEtdXNoX0EtZzFKbUE?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T21:13:00+09:00"
-    },
-    {
-     "title": "「ながら」「傘差し」自転車で違法運転相次ぐ 車道走行に9割超「危険感じた」新制度に課題も “2人乗り”ルール見直し検討へ",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50UjVWVEJCUDlJYjVJVXI5ZThBZEhJalQ2dDNwNGlJZElNRUYxZFBpUloxeE9WcG1uYVhMVHRfUmxsaU1iN2JmbjQxdk5hcU9UQXIwVVo0TDZ6MVlLM1UtaGd2d01DYS1fMUx5TFhWNWtqWkxmM0VoZF9oZmhwbGs?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-27T19:40:31+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-28T03:18:44.132123+09:00"
-  },
-  {
-   "kw": "喜び",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.7,
-   "ratio": 9.0,
-   "consecutive": 2,
-   "days": [
-    1,
-    2,
-    0,
-    1,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "アキダイ・秋葉代表が国会質疑に 食料品の消費減税「下がった喜びは多分1か月もたない」（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NalJIbm5NcUR1T3JIamdCVlg4ak14RlFOV3Jiak9ycW5nNDBrd3VUc21XaERwbE5UMVJaMVVXSXFEU0RVeDRSR3NJZ1hSQVBLQzIza3lYU3pzYjlUNjNWQkxPU2dSV1otaWRCSVJOeHFLTFU3eU8yeW0wWWRrSFE?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "アキダイ・秋葉代表が国会質疑に 食料品の消費減税「下がった喜びは多分1か月もたない」（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NalJIbm5NcUR1T3JIamdCVlg4ak14RlFOV3Jiak9ycW5nNDBrd3VUc21XaERwbE5UMVJaMVVXSXFEU0RVeDRSR3NJZ1hSQVBLQzIza3lYU3pzYjlUNjNWQkxPU2dSV1otaWRCSVJOeHFLTFU3eU8yeW0wWWRrSFE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-28T00:27:37+09:00"
-    },
-    {
-     "title": "アキダイ・秋葉代表が国会質疑に 食料品の消費減税「下がった喜びは多分1か月もたない」",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nTG5yUHYzYm1wNXVDeUtuTmU3MkRRcDlRenl6dXhQeVNpM2lrM2FxZzFpdXd1VnJ6Ujh2VGZKRVBJV05HSDVJeWRCQXRudzdoM05YcFg2aw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-28T00:27:24+09:00"
-    },
-    {
-     "title": "消費減税「喜びは1カ月」 2年後値上がり懸念とスーパー側",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFbHZyaEJmUVhqYTJxQ0xib1lxcHVlSFNXS1JZT1RRTVVBTWhGSXBuSVRtUWw1NkEtM0RfWTBRRFpVbFA0OGNlNG5EOA?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-27T17:57:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-28T03:18:44.132123+09:00"
-  },
-  {
-   "kw": "ネタニヤフ首相",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.7,
-   "ratio": 9.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    1,
-    1,
-    0,
-    2,
-    6
-   ],
-   "latest": [
-    "「交代させる時が来た」ネタニヤフ首相の政党が苦戦…イスラエル総選挙の投票始まる",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDcFFna0xCOFRfSVhEa1NsbHNEVVlRRXV1VHFvM2stM2praTZwNGpRVkJlV0hHTHYwbUlTSEh1bXR6YTFaeDkzSld4ekY4NHpyYWZROEgxN3BFNTJPVnk2Yl9sbl91RmtEVUVsQ24yS2IwY1VQRjhGUzJB?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「交代させる時が来た」ネタニヤフ首相の政党が苦戦…イスラエル総選挙の投票始まる",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDcFFna0xCOFRfSVhEa1NsbHNEVVlRRXV1VHFvM2stM2praTZwNGpRVkJlV0hHTHYwbUlTSEh1bXR6YTFaeDkzSld4ekY4NHpyYWZROEgxN3BFNTJPVnk2Yl9sbl91RmtEVUVsQ24yS2IwY1VQRjhGUzJB?oc=5",
+     "title": "小田急江ノ島線で列車と衝突 線路を車で200m走行 女性死亡",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Q0dadW1zXzU4bWhtVk5LZDUxQ3VHOUdKbnRGRWFjNHhra2RBTlJDck9Eb2x4UHhQaUZmczVqb0pFZ3N5a3VRYk1pSi1qUlJ2b1lPbVNMNUc1bmppRjF4MW1FM0swa25BT201SWVKZ1VCdw?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-27T23:41:00+09:00"
+     "published": "2026-10-28T07:25:12+09:00"
     },
     {
-     "title": "イスラエル総選挙で投票始まる ネタニヤフ首相に国民の審判は？ 野党陣営はハマス奇襲攻撃の責任追及【現地中継】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42SlhKTHg5Qk5kZkV3b2xxc2hGWlRqZXVHRllhdHdPWV9yRjZSRWdXcDhsWGFUSTRxV0ptbHRFTDNVRTNfOUgwcHpGVFhEUldpZUQ3a1FzTQ?oc=5",
+     "title": "自転車「青切符」導入から半年 ながら・傘差し運転いまだ後絶たず 車道走行9割超「危険を感じた」 子ども“同乗ルール”見直し議論も",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JZV9GN0lUTHgtekI2dmd3cjhMQVpGampCNFltUG5zNzZCT3FUTkE2THpjeFhsam9MYkhla184WGhyVnBZUnh6V3AyNm9hUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-28T06:10:00+09:00"
+    },
+    {
+     "title": "小田急線の線路を軽乗用車が約200ｍ走行…車の高齢女性1人死亡 乗客乗員にけがなし 28日の運転計画は「決まり次第お知らせ」",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NZEExTkdIZk9nSDZWamh0VmRJYlJfUkZmOHZxZDhyVmVJVTB5QWw2UnY2RGR4bGNvYVMybmk3OE84T04wQnFjMGo2Nk91dGRJMVM3RGhsMA?oc=5",
      "source": "TBS NEWS DIG",
-     "published": "2026-10-27T18:28:00+09:00"
-    },
-    {
-     "title": "イスラエル総選挙 投票始まる ネタニヤフ首相の続投が焦点（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IYjJpRGdOMVNjVjJWMnEtMWtVVjVmTjBobUVHZXFvbENCQzBVOEotQ05WV3FneUtTTXRzdzBrNzJOWWZ0cWJmM1loQXk4QlVacVp6b2lwR09BOHNBTWc5UjhRcmxULUY2d2NIa2syRS1pM2RzeUJUdHpCQmFCSDA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-27T16:47:19+09:00"
+     "published": "2026-10-28T02:02:25+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-28T03:18:44.132123+09:00"
+   "alerted_at": "2026-10-28T07:30:01.948300+09:00"
   },
   {
    "kw": "否認",
@@ -1044,8 +1001,8 @@
    "days": [
     1,
     0,
-    3,
-    1,
+    4,
+    0,
     0,
     0,
     7
@@ -1078,133 +1035,47 @@
    "alerted_at": "2026-10-20T02:20:54.347131+09:00"
   },
   {
-   "kw": "マイクロソフト",
+   "kw": "首都",
    "level": "high",
-   "d24": 8,
-   "baseline": 1.0,
-   "ratio": 8.0,
-   "consecutive": 3,
+   "d24": 13,
+   "baseline": 1.7,
+   "ratio": 7.8,
+   "consecutive": 6,
    "days": [
     0,
     3,
-    3,
-    0,
-    0,
-    0,
-    8
+    1,
+    1,
+    1,
+    4,
+    13
    ],
    "latest": [
-    "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5"
+    "副首都 要件満たせば4道府県指定",
+    "https://news.yahoo.co.jp/pickup/6600343?source=rss"
    ],
    "samples": [
     {
-     "title": "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5",
+     "title": "副首都 要件満たせば4道府県指定",
+     "url": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
+     "source": "Yahoo 国内",
+     "published": "2026-10-27T21:56:31+09:00"
+    },
+    {
+     "title": "副首都 4道府県を要件満たせば指定 北海道、愛知、大阪、福岡（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NnNvNGplWVhZSFpmMWU3TXNUeFNfaF9GdnNKR2M0cWN6cF9FUFBNMDZlUzNmS20wbTQxOXlaTTBhSjV2RGNQRkdqM3I3Y1VqdWgzd1BaWDBFS2hPMTNzdnhabGRScEdwdDVkWTBpaXJyVDBnSmJuUno3RWxqMFk?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-27T12:15:38+09:00"
+     "published": "2026-10-27T19:57:07+09:00"
     },
     {
-     "title": "希望退職を約6万人募集 米マイクロソフト AIに巨額投資",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GM2cxYmtiNXo2R0toamhpMUxBa3dndV9TQm9jWVdiVVMwbTZnZ1VfVjU0QVlEVE81OU0zdlM1VlBXU0pKalJGUW5RTXBCcW9fX0c2VTQxbE5Wb2dKYjlpYXM5UDBBV3pTbjYyTEFzQnJHQWhfaFJ4M2JB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T10:57:41+09:00"
-    },
-    {
-     "title": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
-     "source": "NHK 経済",
-     "published": "2026-10-27T10:56:00+09:00"
+     "title": "副首都 4道府県を要件満たせば指定 北海道、愛知、大阪、福岡 (テレビ朝日系（ANN）)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTS1CV3lfMUFsOEN6Tjg4clVQZjkyNmNFVmNNZ0h1U1NUWWo1elRNRzhCQnZ1blVjUzhzYU5TMGFoRzltWjVwN19fTk9td0tobk5FYnZFUG1rQWxHTE1QcEZQUTdXRXZYYVg1UUZ5V1loNzZUVVpNOGRxV0VOSGZONzU3a01UMlVxNGhhcEl3?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-27T19:57:07+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-23T17:51:32.443179+09:00"
-  },
-  {
-   "kw": "パッケージ",
-   "level": "high",
-   "d24": 4,
-   "baseline": 0.5,
-   "ratio": 8.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    3,
-    4
-   ],
-   "latest": [
-    "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ　高市首相がサイバー閣僚会議の初会合で指示",
-    "https://www.itmedia.co.jp/news/article/2610/27/2000002620/"
-   ],
-   "samples": [
-    {
-     "title": "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ　高市首相がサイバー閣僚会議の初会合で指示",
-     "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
-     "source": "ITmedia",
-     "published": "2026-10-27T12:18:21+09:00"
-    },
-    {
-     "title": "缶詰なのに「レンチンOK」！？板チョコで「ストレス解消」？食品パッケージ進化中【THE TIME,】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yUDJmbmxmajFVNDVYX25EbjVVQjJmazJmWXRxcmFiSHVENnlkdFdKbWV6azE2ZUx0SWo4Tl9xYVBGSHBtdW5GZ0tZLWE4RVJRLTA4Qi1PQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T10:00:00+09:00"
-    },
-    {
-     "title": "米MS 6万人に退職パッケージ提示",
-     "url": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
-     "source": "Yahoo 経済",
-     "published": "2026-10-27T07:27:23+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T15:17:50.677730+09:00"
-  },
-  {
-   "kw": "アンサンブル予報",
-   "level": "high",
-   "d24": 4,
-   "baseline": 0.5,
-   "ratio": 8.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    3,
-    4
-   ],
-   "latest": [
-    "【台風情報】31号 日本列島付近に進むアンサンブル予報も 31日には小笠原近海へ935hPaまで発達予想 【雨・風シミュレーション11月6日まで】気象庁の進路予想",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zV2dsWVBMVUpEUWdrU0N3c0F1c05uR0JvaTEtcWVONzgxX0JCWVpXYkJoTl9ac3BlY1VDTUhWSFBVemoybmlwUVhnWUNPeF96eXVESk9pTQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【台風情報】31号 日本列島付近に進むアンサンブル予報も 31日には小笠原近海へ935hPaまで発達予想 【雨・風シミュレーション11月6日まで】気象庁の進路予想",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zV2dsWVBMVUpEUWdrU0N3c0F1c05uR0JvaTEtcWVONzgxX0JCWVpXYkJoTl9ac3BlY1VDTUhWSFBVemoybmlwUVhnWUNPeF96eXVESk9pTQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T10:32:00+09:00"
-    },
-    {
-     "title": "【台風情報】台風31号（インファ）は非常に強い勢力で1日に小笠原諸島へと接近 アンサンブル予報では一部関東に近づく予想も",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xQnhKdlZVdGdjRnh1ZllJdmlNYjc5ZXQzZ1JiUGRrS3U2b1FMTUJ2MzUtRFBNNHF1TTNqTE9XN3hVelJ2VDVybjVwYXVnSDBPUXl0ZW5YSm1LU2hVNmcxcXVzdUM?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T10:03:00+09:00"
-    },
-    {
-     "title": "【台風情報】31号 日本列島付近に進むアンサンブル予報も「非常に強い」勢力で31日ごろ小笠原近海へ 最大瞬間風速70m予想 【雨風シミュレーション】気象庁の進路予想",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Uc3owMThVZEppZUFPblZHTUhtNmxRaXBITkJJb0ctbTVCUHh0VDVvZW1SeUt3OW5DM3FEQndhRnVhZ2RPOUNqVDZHSExadjc3NVhZZUlaQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T06:40:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T15:17:50.677730+09:00"
+   "alerted_at": "2026-10-20T19:17:55.872347+09:00"
   },
   {
    "kw": "漫画",
@@ -1250,49 +1121,6 @@
    "alerted_at": "2026-10-27T15:17:50.677730+09:00"
   },
   {
-   "kw": "ネタニヤフ",
-   "level": "high",
-   "d24": 10,
-   "baseline": 1.3,
-   "ratio": 7.5,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    1,
-    1,
-    1,
-    5,
-    10
-   ],
-   "latest": [
-    "「この4年はただただ悲惨」イスラエル総選挙、ネタニヤフ政権に“審判の時”イスラエルの投票所で見えた市民の“本音”【news23】",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wUVZWRFpoRmpTUlVXMzRSZjNLMUhabzJkcnlWWFlaSVctdWMyM1J6SXV6OWR2cDcxQ29tRVljNW5lc1JFUGJnTlNtV2ZjVEY4YU9CWkxjaw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「この4年はただただ悲惨」イスラエル総選挙、ネタニヤフ政権に“審判の時”イスラエルの投票所で見えた市民の“本音”【news23】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wUVZWRFpoRmpTUlVXMzRSZjNLMUhabzJkcnlWWFlaSVctdWMyM1J6SXV6OWR2cDcxQ29tRVljNW5lc1JFUGJnTlNtV2ZjVEY4YU9CWkxjaw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-28T01:38:20+09:00"
-    },
-    {
-     "title": "「交代させる時が来た」ネタニヤフ首相の政党が苦戦…イスラエル総選挙の投票始まる",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDcFFna0xCOFRfSVhEa1NsbHNEVVlRRXV1VHFvM2stM2praTZwNGpRVkJlV0hHTHYwbUlTSEh1bXR6YTFaeDkzSld4ekY4NHpyYWZROEgxN3BFNTJPVnk2Yl9sbl91RmtEVUVsQ24yS2IwY1VQRjhGUzJB?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T23:41:00+09:00"
-    },
-    {
-     "title": "イスラエル総選挙で投票始まる ネタニヤフ首相に国民の審判は？ 野党陣営はハマス奇襲攻撃の責任追及【現地中継】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42SlhKTHg5Qk5kZkV3b2xxc2hGWlRqZXVHRllhdHdPWV9yRjZSRWdXcDhsWGFUSTRxV0ptbHRFTDNVRTNfOUgwcHpGVFhEUldpZUQ3a1FzTQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T18:28:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T15:17:50.677730+09:00"
-  },
-  {
    "kw": "人口",
    "level": "high",
    "d24": 6,
@@ -1300,8 +1128,8 @@
    "ratio": 7.2,
    "consecutive": 3,
    "days": [
-    0,
     1,
+    0,
     1,
     0,
     2,
@@ -1336,227 +1164,55 @@
    "alerted_at": "2026-10-27T15:17:50.677730+09:00"
   },
   {
-   "kw": "予告",
+   "kw": "無罪",
    "level": "high",
-   "d24": 12,
-   "baseline": 1.8,
-   "ratio": 6.5,
-   "consecutive": 4,
+   "d24": 9,
+   "baseline": 1.3,
+   "ratio": 6.8,
+   "consecutive": 5,
    "days": [
-    1,
-    1,
-    1,
-    1,
     0,
-    7,
-    12
-   ],
-   "latest": [
-    "対GMO不正アクセス 攻撃側が「予告通り」利用者の個人情報を公開か",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE15a1pXY0tvd1g2TmM4b2R1dWplY1RaYzV3N1hSODd5TGtzREVrYnR3QkdVb0ZmNlVMR29FNG9VdktWeV9LZ0xlMnVyeXN5Ukc3U0E5c196czFjRFJZUmxpamJ2QlB1a3BCc1d5U0tHekpDdw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "対GMO不正アクセス 攻撃側が「予告通り」利用者の個人情報を公開か",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15a1pXY0tvd1g2TmM4b2R1dWplY1RaYzV3N1hSODd5TGtzREVrYnR3QkdVb0ZmNlVMR29FNG9VdktWeV9LZ0xlMnVyeXN5Ukc3U0E5c196czFjRFJZUmxpamJ2QlB1a3BCc1d5U0tHekpDdw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T14:01:41+09:00"
-    },
-    {
-     "title": "【更新中】GMOへ不正アクセス 攻撃側が利用者の個人情報を公開か…氏名や住所も 「予告通り個人情報を公開」とサイトに 専門家は閲覧しないよう注意呼びかけ",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5WTdGd3ZpSHMyUGo0TWthMWQxeVNoU1ljZkRlc2VDcW5SZXlYQ0ZMXzgwZEJYQVNKUmY3MnVKSmYyaWxXSFk3RmtjdUFyeF9YYW9GaGEzOEdkOWdzSkU5akhYUDkzQXZMRGJUMjF3aVp2dw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T14:00:00+09:00"
-    },
-    {
-     "title": "まもなく「ランサムウェア」攻撃の予告期限 GMOはPCの電源OFFを呼びかけ",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45Mm9oYm1KSTMtZVFsUkRBNDR3aWEyQmYzeDVvakdQaGxtaDhVOHFpZ2JvWWV4REoyR1lLR3IyaDgzMGdSNTVWOS1XT1NVNDZoakwtaGlrekw1N1ZpbFl5cXRqMWF0cllrSXBvYWlhanJEUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T12:09:34+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-27T06:46:10.438177+09:00"
-  },
-  {
-   "kw": "アンソロピック",
-   "level": "high",
-   "d24": 11,
-   "baseline": 1.8,
-   "ratio": 6.0,
-   "consecutive": 1,
-   "days": [
+    0,
     3,
     0,
-    0,
-    0,
     1,
-    7,
-    11
-   ],
-   "latest": [
-    "アンソロピック、企業向け従量課金で8割稼ぐ OpenAIの逆張りで成長",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TklOT0JsT3gxQUplT005Yno1eVJNbXdpdjdUbFBzbEwyc01FellMQ2plRmlWMlZTSUJjRk04eXRxOFptZFpWbFAySUhwNHVwRERGeXVPWFlXa3pWdjctTE9rR0ItaGlTcUNzTg?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "アンソロピック、企業向け従量課金で8割稼ぐ OpenAIの逆張りで成長",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TklOT0JsT3gxQUplT005Yno1eVJNbXdpdjdUbFBzbEwyc01FellMQ2plRmlWMlZTSUJjRk04eXRxOFptZFpWbFAySUhwNHVwRERGeXVPWFlXa3pWdjctTE9rR0ItaGlTcUNzTg?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-28T02:00:00+09:00"
-    },
-    {
-     "title": "対話型AI開発のアンソロピック上場が前進 目論見書提出 15兆円超調達で史上最大か",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01WHVzblA3aU1VR1lDZnNXaXhFT3h0MTBxMFhPQlhoMTZMUy1CRE9wSExBWWJnOUItcmY4YWVPelVUTkRJellGR1lMMzBIOTVEVFN4VzJJQ2ZoQXZQcXNGdjJ0ckhCenRZcWRnQ2ppQTlUQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T12:23:56+09:00"
-    },
-    {
-     "title": "26年上半期の売上高、14倍＝米アンソロピック、史上最大IPOか(時事通信)",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGVOTERYcWI5YTYyMTJER1VxUHRzd3lqbjU3VVZLeUNycFQtS242ZjRkYlJaUVRsczYwOFRhT25BaDJyMkpRYTlLbG9XZEhfY293ZlNjY3plMllhQ0k1b1FZck4xdDQ1UjVSbUlCNnF0dDluVFJVT0NONjJhZmtES05raU4zVUU?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "published": "2026-10-27T11:00:37+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T08:08:17.917751+09:00"
-  },
-  {
-   "kw": "東北",
-   "level": "high",
-   "d24": 6,
-   "baseline": 1.0,
-   "ratio": 6.0,
-   "consecutive": 6,
-   "days": [
-    0,
-    0,
-    1,
-    1,
-    0,
     4,
-    6
+    9
    ],
    "latest": [
-    "28日にかけ北海道と東北は台風並みの暴風 12月並みの寒気により雪の所も 東京地方や近畿地方で木枯らし1号の可能性",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHcm5EY25SNzBZa2hIcnVzb1Z0WVBVZ1dlVzZOZmswZ0RjRmtTell1Z2pTQ1I3NXZtZ0hEWWVPWnpfM01PTnpsRTdqcHJZdw?oc=5"
+    "自己保身の主張が腹立たしい…争点“抗拒不能”とは 元検事正2年ぶり公判で無罪主張",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5PY1lqLWp4eVVuTTlUaFBMZmltaXhRdnlJdXRfN0N3TDBTcHZqWTBUU2tNUmV3c0tsWGE2bm96aGpRNnFtakh6UldCaVktQ2thNllHS3BoY2JWVjlBc20xUFZaY2FJSm15dndmR01ldnBWQQ?oc=5"
    ],
    "samples": [
     {
-     "title": "28日にかけ北海道と東北は台風並みの暴風 12月並みの寒気により雪の所も 東京地方や近畿地方で木枯らし1号の可能性",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHcm5EY25SNzBZa2hIcnVzb1Z0WVBVZ1dlVzZOZmswZ0RjRmtTell1Z2pTQ1I3NXZtZ0hEWWVPWnpfM01PTnpsRTdqcHJZdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-27T15:15:00+09:00"
+     "title": "自己保身の主張が腹立たしい…争点“抗拒不能”とは 元検事正2年ぶり公判で無罪主張",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PY1lqLWp4eVVuTTlUaFBMZmltaXhRdnlJdXRfN0N3TDBTcHZqWTBUU2tNUmV3c0tsWGE2bm96aGpRNnFtakh6UldCaVktQ2thNllHS3BoY2JWVjlBc20xUFZaY2FJSm15dndmR01ldnBWQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-28T01:46:00+09:00"
     },
     {
-     "title": "「東北ずん子・ずんだもん」地元企業は利用自由 震災復興へ誕生15年",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4aVhPaWRYRXlYaWVOak1KQ0tQQmduZTBBNmJzT09wRzd6bzhEaGxTQzFGbmJPb3JVVk1NZTVVRlZPem9VZ19IdXFZYU9HRmEzS2JVanFUd0tLU1UzMndGT05hY0h1S1lfY01URA?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-27T12:15:00+09:00"
+     "title": "“性的暴行”大阪地検元トップの裁判 初公判から2年ぶり開廷 一転無罪を主張の理由は",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SkM2MEdtcnhYSjRkX3ZJMzZFWXE0Qndva2lNdVdOTVlEekpKOWQzakVUN1RlbFlHeGM2OHBBcGUxc2Jldko4bEJhd0N5ajlQdDJRT18zdmx2bjZVX0RmMWNCeVNRazBXNC02eEdmU3lrQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-27T19:57:10+09:00"
     },
     {
-     "title": "東北地方気象解説情報（暴風・高波・落雷）",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yUzg2S05qcWE4VHZ1bllLblYwUk5RTmg5TVdjYlB4R3BmZWprVXR1bVUyN0V0aWEtMzA3cjA1MzZYOElQZ3docTFFRGtvQXQ0dENZNzdLRVFpcHpUVXZ2M3lOUTY?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T09:55:00+09:00"
+     "title": "4歳児暴行死 母親の元交際相手に2審も無罪判決 東京高裁",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00ak1GZlJ2cVNDaWtkNE1qaTB4dThtdUxlSmpNV3NlYXNUVU1IUXB5cHZqVDRtVkdtTFczWGFnamhJYTFKcE9PMC1uZGNRZlVTdlhldHRIZ0tyWjNKTFB0U3NYXzd2MkhxX0xaamdMb0g3Zw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-27T17:39:30+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
-   "kw": "顧客",
-   "level": "high",
-   "d24": 22,
-   "baseline": 3.8,
-   "ratio": 5.7,
-   "consecutive": 7,
-   "days": [
-    5,
-    1,
-    5,
-    0,
-    1,
-    11,
-    22
-   ],
-   "latest": [
-    "GMO、身代金1.5億円を拒否 攻撃者は顧客1人の情報公開か",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Zd0hhWEYxT1luOEtHWTVkUkpIR2JiVzFDLWo1My1ibHJSd3dQMUhpY2pmTGwyT2tmeTljeWJyXy1wbFR0blE5QVh0OA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "GMO、身代金1.5億円を拒否 攻撃者は顧客1人の情報公開か",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Zd0hhWEYxT1luOEtHWTVkUkpIR2JiVzFDLWo1My1ibHJSd3dQMUhpY2pmTGwyT2tmeTljeWJyXy1wbFR0blE5QVh0OA?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-27T22:48:00+09:00"
-    },
-    {
-     "title": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66670",
-     "source": "NHK 経済",
-     "published": "2026-10-27T22:29:53+09:00"
-    },
-    {
-     "title": "ＧＭＯの顧客情報公開 見舞金、最大３００万円―不正アクセス、懸賞金１．５億円",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53d21WZmxQV2JCcW9HS01WRUhNOW44UW5mbWxjSTFCZFhqa2ZZNGpmaGJjclRGV0lzN0RvX2Z1NUNHTHlCRTBVc0xvUmJaU3ZwUUZLY09YN1FTMDlDMmlnVTI2aw?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-27T21:04:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-15T02:47:55.885068+09:00"
-  },
-  {
-   "kw": "安保",
-   "level": "high",
-   "d24": 8,
-   "baseline": 1.5,
-   "ratio": 5.3,
-   "consecutive": 5,
-   "days": [
-    1,
-    0,
-    3,
-    4,
-    1,
-    0,
-    8
-   ],
-   "latest": [
-    "安保3文書の有識者会議“増税も選択肢として排除せず”の意見",
-    "https://news.web.nhk/newsweb/na/nd-20261027de66665"
-   ],
-   "samples": [
-    {
-     "title": "安保3文書の有識者会議“増税も選択肢として排除せず”の意見",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66665",
-     "source": "NHK 社会",
-     "published": "2026-10-27T22:05:32+09:00"
-    },
-    {
-     "title": "経済安保予算なども「防衛関係費」へ 米国の要求に配慮も今後5年間で「GDP比3.5％」は明記せず 防衛財源確保のために法人税引き上げ案も",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtbEpYdWZwallUaWNMVS1rTXJ2bXFkYkU4M0h6blU2WER2dFBvUGlLOU9GUVJZemU0WUZEd1pZWGF6Q2VZV0V4UG1PS2d6TWRMVnY0S3Vkdw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T17:47:21+09:00"
-    },
-    {
-     "title": "日・バングラデシュ首脳会談 経済・安保で連携強化を確認",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tS09pcDE4MDM5bmkzbUtDcUNjd2szcTRnZmhYS1IwQjFwdHAxQ2VDMFBhMFdmbENHMy1UVjZ4a3BXdDY1cVItQnNKVXdTLU1sNE5BWGx2eWtKRHhiS3JvczRlakxUM0tGbGNpcTdvU3FQY0U?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-27T14:45:39+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
-  },
-  {
    "kw": "支払い",
    "level": "high",
-   "d24": 7,
+   "d24": 9,
    "baseline": 1.3,
-   "ratio": 5.2,
-   "consecutive": 3,
+   "ratio": 6.8,
+   "consecutive": 1,
    "days": [
     0,
     2,
@@ -1564,56 +1220,62 @@
     0,
     0,
     1,
-    7
+    9
    ],
    "latest": [
-    "“GMO攻撃側”利用者の情報公開か さらなる見舞金の支払い検討",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1cXZ3WEFCX1N2TWQ4T1dtTnJsMEowM1VqWnZjeE45eGtWZmFhZDhZQUNDM05xZTZzOU1zUndvczFKd2tDR1oxRDJfcDFUQQ?oc=5"
+    "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+    "https://news.web.nhk/newsweb/na/nd-20261028de66716"
    ],
    "samples": [
+    {
+     "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+     "source": "NHK 主要",
+     "published": "2026-10-28T05:07:26+09:00"
+    },
+    {
+     "title": "GMO不正アクセス ハッカー特定に懸賞金1億5000万円 顧客へ見舞金支払いも発表（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFZrU3pMN0RxYU1HNFpTWFJEN09vYzg5ekVRcjhnQk1SS1ZFNGEwcnNpQmM1VDVCN1YtSk9FYm4wU2xTZGhuTmxBMF9qTjVjNUREQmo4QzFtWUZYOTNjamcwbEdabFd0Z2NWQ0w0a3lnM1RjZGI5dGtGcnI1Nzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T04:25:13+09:00"
+    },
     {
      "title": "“GMO攻撃側”利用者の情報公開か さらなる見舞金の支払い検討",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1cXZ3WEFCX1N2TWQ4T1dtTnJsMEowM1VqWnZjeE45eGtWZmFhZDhZQUNDM05xZTZzOU1zUndvczFKd2tDR1oxRDJfcDFUQQ?oc=5",
      "source": "FNNプライムオンライン",
      "published": "2026-10-27T14:54:00+09:00"
-    },
-    {
-     "title": "武部農水大臣「選挙運動の実態ない」約86万円支払いのカメラマンめぐり選管に登録訂正依頼 “公選法違反の疑い”を否定",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rY2Q2cHdlbDVkUDFMdFRZZXNvS21ZLTk1MHNuaTVhQi1HdUFxSzFyb1RzeFVhMHRVOTVKdzA2ZDM3OWNaRmEyY3RfZ3hjSGkxUEF5SHF3VQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T12:20:00+09:00"
-    },
-    {
-     "title": "GMO“身代金支払い”正午に期限 バックアップとりPCの電源落とすよう呼びかけ 攻撃者側「利用者のデータなどを知人に送信」",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PSDZzVGg0T3BlUTBncHJnYjlISkV0b084ZUhmeXJmemdoeGdTYlp1dGdGZW1zUFAtOEdtNFk2cWhBRktpNGJsMm9Pd2RWdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-27T11:32:00+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-27T15:17:50.677730+09:00"
   },
   {
-   "kw": "イスラエル",
+   "kw": "ネタニヤフ",
    "level": "high",
-   "d24": 11,
-   "baseline": 2.2,
-   "ratio": 5.1,
-   "consecutive": 10,
+   "d24": 10,
+   "baseline": 1.5,
+   "ratio": 6.7,
+   "consecutive": 6,
    "days": [
+    0,
     0,
     2,
     0,
-    0,
-    1,
-    10,
-    11
+    3,
+    4,
+    10
    ],
    "latest": [
-    "「この4年はただただ悲惨」イスラエル総選挙、ネタニヤフ政権に“審判の時”イスラエルの投票所で見えた市民の“本音”【news23】",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wUVZWRFpoRmpTUlVXMzRSZjNLMUhabzJkcnlWWFlaSVctdWMyM1J6SXV6OWR2cDcxQ29tRVljNW5lc1JFUGJnTlNtV2ZjVEY4YU9CWkxjaw?oc=5"
+    "【速報】イスラエル総選挙 出口調査でネタニヤフ首相の与党陣営が獲得議席数で野党陣営を下回る",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5cS1MZ0p4SVRXZkRaNVAtZTF4cWJESjI5VHhwZWJSOGkybHgzNjlGR1ZQaTlvaEFRMXJuLUN5UDhIVjhOUFIxZkhjQzJSbW0tWGJGYUVoQQ?oc=5"
    ],
    "samples": [
+    {
+     "title": "【速報】イスラエル総選挙 出口調査でネタニヤフ首相の与党陣営が獲得議席数で野党陣営を下回る",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5cS1MZ0p4SVRXZkRaNVAtZTF4cWJESjI5VHhwZWJSOGkybHgzNjlGR1ZQaTlvaEFRMXJuLUN5UDhIVjhOUFIxZkhjQzJSbW0tWGJGYUVoQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T05:33:23+09:00"
+    },
     {
      "title": "「この4年はただただ悲惨」イスラエル総選挙、ネタニヤフ政権に“審判の時”イスラエルの投票所で見えた市民の“本音”【news23】",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wUVZWRFpoRmpTUlVXMzRSZjNLMUhabzJkcnlWWFlaSVctdWMyM1J6SXV6OWR2cDcxQ29tRVljNW5lc1JFUGJnTlNtV2ZjVEY4YU9CWkxjaw?oc=5",
@@ -1625,59 +1287,182 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDcFFna0xCOFRfSVhEa1NsbHNEVVlRRXV1VHFvM2stM2praTZwNGpRVkJlV0hHTHYwbUlTSEh1bXR6YTFaeDkzSld4ekY4NHpyYWZROEgxN3BFNTJPVnk2Yl9sbl91RmtEVUVsQ24yS2IwY1VQRjhGUzJB?oc=5",
      "source": "テレ朝NEWS",
      "published": "2026-10-27T23:41:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-27T15:17:50.677730+09:00"
+  },
+  {
+   "kw": "募集",
+   "level": "high",
+   "d24": 8,
+   "baseline": 1.3,
+   "ratio": 6.0,
+   "consecutive": 4,
+   "days": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    4,
+    8
+   ],
+   "latest": [
+    "【第2期 受講者募集開始】日本経済新聞社とビジネスコーチ共同主催「日経エグゼクティブコーチ資格取得プログラム」2027年1月16日開講",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YlJrT2RNSlpxMDVBcXVrempCYTlKWUlDSEJmSlNyRkJaaW53b2dicnpFcXRidTQxaGF0RmE5Y2daMnM1SkVzd1hkWFNneEViTVk0UUJhOTlBZ0RPcWpPcFBoMHM1ek1Tcnc?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【第2期 受講者募集開始】日本経済新聞社とビジネスコーチ共同主催「日経エグゼクティブコーチ資格取得プログラム」2027年1月16日開講",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92YlJrT2RNSlpxMDVBcXVrempCYTlKWUlDSEJmSlNyRkJaaW53b2dicnpFcXRidTQxaGF0RmE5Y2daMnM1SkVzd1hkWFNneEViTVk0UUJhOTlBZ0RPcWpPcFBoMHM1ek1Tcnc?oc=5",
+     "source": "PR TIMES",
+     "published": "2026-10-27T15:00:27+09:00"
     },
     {
-     "title": "イスラエルの総選挙投票始まる 午前10時時点投票率が1981年以来最高に 現職続投なるか",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sMmFieFJVZk1ROWhtTWFvSV84UVBTZEduM0xQcTZENXZHZ2hyT3NCX3JuV2s2TmhUWGljMjNZTkVkUmxNRUVtb2M4VFlWU2NFMDhhOXlzTGtRSk9pX1BkQTBXYklDWW1kVDF3VmRMUUlaSlhvcEl1M1lR?oc=5",
+     "title": "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-27T12:15:38+09:00"
+    },
+    {
+     "title": "希望退職を約6万人募集 米マイクロソフト AIに巨額投資",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GM2cxYmtiNXo2R0toamhpMUxBa3dndV9TQm9jWVdiVVMwbTZnZ1VfVjU0QVlEVE81OU0zdlM1VlBXU0pKalJGUW5RTXBCcW9fX0c2VTQxbE5Wb2dKYjlpYXM5UDBBV3pTbjYyTEFzQnJHQWhfaFJ4M2JB?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-27T23:36:15+09:00"
+     "published": "2026-10-27T10:57:41+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-27T10:11:14.180185+09:00"
+  },
+  {
+   "kw": "小笠原近海",
+   "level": "high",
+   "d24": 7,
+   "baseline": 1.2,
+   "ratio": 6.0,
+   "consecutive": 7,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    7,
+    7
+   ],
+   "latest": [
+    "【台風情報】中心気圧940hPa・最大瞬間風速70m/sで31日ごろ小笠原近海へ【雨・風シミュレーション11月7日（土）まで】非常に強い台風31号 気象庁の進路予想",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tdFlIVW5NdG5KcEhvUHRkWVZMNGFQZlRwT2kyYlhpYkpmWjU0aVVxeVRzYUg5WVRRcEhpTndoRzVZWWpUM1drOG1kUVV1dzR1dnYtelh6bw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【台風情報】中心気圧940hPa・最大瞬間風速70m/sで31日ごろ小笠原近海へ【雨・風シミュレーション11月7日（土）まで】非常に強い台風31号 気象庁の進路予想",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tdFlIVW5NdG5KcEhvUHRkWVZMNGFQZlRwT2kyYlhpYkpmWjU0aVVxeVRzYUg5WVRRcEhpTndoRzVZWWpUM1drOG1kUVV1dzR1dnYtelh6bw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-27T23:38:00+09:00"
+    },
+    {
+     "title": "【台風情報】中心気圧940hPa,最大瞬間風速70mで 31日ごろ小笠原近海へ【雨・風シミュレーション11月7日（土）まで】非常に強い台風31号 気象庁の進路予想",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lbjBiMUZPUXNQX0tXejQtRnJ0Qml4MGdEb1RON3RKa2ZhLWZDYi1KN3M1SEk5TDltVG1iYXZqTnZxQ2k3ZXdTRTZuYjVxZVJuemh4eXI4Q2p6dDVsZll2aHdpV3U?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-27T19:24:00+09:00"
+    },
+    {
+     "title": "【台風情報】台風31号（インファ） ｢非常に強い｣勢力で小笠原近海に接近へ 最大瞬間風速70m/s 今後の予想進路は? ※雨と風のシミュレーション（気象庁）",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43QlpuM0U3YWFYWDdFOVBGR2JMdkRIRnNiTFFRM0NwS1JrVzZXUXRKWGtHQzZ1QlNGT3ppbEx2VzgyYzlDOC1vRmdJalNIb1U0M1JjQXdYcw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-27T17:24:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-27T10:11:14.180185+09:00"
+  },
+  {
+   "kw": "イスラエル",
+   "level": "high",
+   "d24": 12,
+   "baseline": 2.3,
+   "ratio": 5.1,
+   "consecutive": 11,
+   "days": [
+    1,
+    1,
+    0,
+    0,
+    5,
+    7,
+    12
+   ],
+   "latest": [
+    "【速報】イスラエル総選挙 投票終了 出口調査で野党が与党をリード",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tQkxsRW1vSlRaaVlEQWJVS3N5U1B1NFd4ZjRBam40dEJ5Umthd1VVNVFDZWZmOHlvLW1PdW1ESVZhVmk0VEgzeTVnMmxoNldtTnRVeVV6RW4tWUsybWdZbzRBNG81aEdoLVd2bm5rUk41NDRYZUdWMVJ3?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【速報】イスラエル総選挙 投票終了 出口調査で野党が与党をリード",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tQkxsRW1vSlRaaVlEQWJVS3N5U1B1NFd4ZjRBam40dEJ5Umthd1VVNVFDZWZmOHlvLW1PdW1ESVZhVmk0VEgzeTVnMmxoNldtTnRVeVV6RW4tWUsybWdZbzRBNG81aEdoLVd2bm5rUk41NDRYZUdWMVJ3?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-28T05:51:08+09:00"
+    },
+    {
+     "title": "【速報】イスラエル総選挙 出口調査でネタニヤフ首相の与党陣営が獲得議席数で野党陣営を下回る",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5cS1MZ0p4SVRXZkRaNVAtZTF4cWJESjI5VHhwZWJSOGkybHgzNjlGR1ZQaTlvaEFRMXJuLUN5UDhIVjhOUFIxZkhjQzJSbW0tWGJGYUVoQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T05:33:23+09:00"
+    },
+    {
+     "title": "「この4年はただただ悲惨」イスラエル総選挙、ネタニヤフ政権に“審判の時”イスラエルの投票所で見えた市民の“本音”【news23】",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wUVZWRFpoRmpTUlVXMzRSZjNLMUhabzJkcnlWWFlaSVctdWMyM1J6SXV6OWR2cDcxQ29tRVljNW5lc1JFUGJnTlNtV2ZjVEY4YU9CWkxjaw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T01:38:20+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-19T09:22:33.571478+09:00"
   },
   {
-   "kw": "発行",
+   "kw": "顧客",
    "level": "high",
-   "d24": 8,
-   "baseline": 1.7,
-   "ratio": 4.8,
-   "consecutive": 5,
+   "d24": 20,
+   "baseline": 4.0,
+   "ratio": 5.0,
+   "consecutive": 8,
    "days": [
-    0,
-    0,
-    0,
-    0,
     3,
-    7,
-    8
+    2,
+    4,
+    0,
+    1,
+    14,
+    20
    ],
    "latest": [
-    "セイファート[9213]：資本業務提携契約の締結、及び第三者割当による新株式の発行に関するお知らせ 2026年10月27日(適時開示) ：日経会社情報DIGITAL",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QRTZJcmJLWDJQWWFReUNVaHBQSWJhVVlWa0FPRzd1R1d5T1hxbGJxOGlzZ3ZIeWo0WVdPbWVsM2M2VjVKOGViYU1JZUhNaEJBN3RNdndCaHd4Q1cxbTFHNExua2tmLVZwSVE?oc=5"
+    "GMO不正アクセス ハッカー特定に懸賞金1億5000万円 顧客へ見舞金支払いも発表（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFZrU3pMN0RxYU1HNFpTWFJEN09vYzg5ekVRcjhnQk1SS1ZFNGEwcnNpQmM1VDVCN1YtSk9FYm4wU2xTZGhuTmxBMF9qTjVjNUREQmo4QzFtWUZYOTNjamcwbEdabFd0Z2NWQ0w0a3lnM1RjZGI5dGtGcnI1Nzg?oc=5"
    ],
    "samples": [
     {
-     "title": "セイファート[9213]：資本業務提携契約の締結、及び第三者割当による新株式の発行に関するお知らせ 2026年10月27日(適時開示) ：日経会社情報DIGITAL",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QRTZJcmJLWDJQWWFReUNVaHBQSWJhVVlWa0FPRzd1R1d5T1hxbGJxOGlzZ3ZIeWo0WVdPbWVsM2M2VjVKOGViYU1JZUhNaEJBN3RNdndCaHd4Q1cxbTFHNExua2tmLVZwSVE?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-27T16:00:00+09:00"
+     "title": "GMO不正アクセス ハッカー特定に懸賞金1億5000万円 顧客へ見舞金支払いも発表（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFZrU3pMN0RxYU1HNFpTWFJEN09vYzg5ekVRcjhnQk1SS1ZFNGEwcnNpQmM1VDVCN1YtSk9FYm4wU2xTZGhuTmxBMF9qTjVjNUREQmo4QzFtWUZYOTNjamcwbEdabFd0Z2NWQ0w0a3lnM1RjZGI5dGtGcnI1Nzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T04:25:13+09:00"
     },
     {
-     "title": "区役所で停電 住民票発行などに影響 高圧ケーブルに不具合の可能性 復旧の見通し立たず 広島",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1maXptbEF0NHo5MTJQRnhvZmhaZmQ5NVpaRGxDc0MySGVLZm1aaWt1eFZqbzlzdVRLQ3JxSkxKWEVHY2RwZUdsYUtLcVk0XzZxbmNXYlNBYw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-27T14:43:00+09:00"
+     "title": "GMO、身代金1.5億円を拒否 攻撃者は顧客1人の情報公開か",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Zd0hhWEYxT1luOEtHWTVkUkpIR2JiVzFDLWo1My1ibHJSd3dQMUhpY2pmTGwyT2tmeTljeWJyXy1wbFR0blE5QVh0OA?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-27T22:48:00+09:00"
     },
     {
-     "title": "ギフティグループ、不正アクセスでeギフトが不正に発行、約5.5億円の損失見込み",
-     "url": "https://internet.watch.impress.co.jp/docs/news/2151480.html",
-     "source": "INTERNET Watch",
-     "published": "2026-10-27T13:59:12+09:00"
+     "title": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66670",
+     "source": "NHK 経済",
+     "published": "2026-10-27T22:29:53+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-20T02:20:54.347131+09:00"
+   "alerted_at": "2026-10-15T02:47:55.885068+09:00"
   },
   {
    "kw": "水俣",
@@ -1688,8 +1473,8 @@
    "consecutive": 1,
    "days": [
     0,
-    0,
-    6,
+    3,
+    3,
     0,
     0,
     2,
@@ -1721,9 +1506,997 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-24T03:21:52.740601+09:00"
+  },
+  {
+   "kw": "希望退職",
+   "level": "high",
+   "d24": 3,
+   "baseline": 0.7,
+   "ratio": 4.5,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    3
+   ],
+   "latest": [
+    "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "マイクロソフト6万人対象に「希望退職」募集 ゲーム事業やAIサービス部門などアメリカ・イギリス・インド・カナダ4カ国",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRDlsOVRYM1h0UUZtRkIybDBiZXN2cUU0UDloa1FTbWF2djVsM0tvcVFDSGRGR0N1NVU3aGJoZjUycmJxNVNSR0RtbmMyV21tTHpFT0dHblVxQ0dLTGoxZm9DbG43WTlmSUVNOFg0RzNfelp2NHdKWVo2YjF2V1k?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-27T12:15:38+09:00"
+    },
+    {
+     "title": "希望退職を約6万人募集 米マイクロソフト AIに巨額投資",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GM2cxYmtiNXo2R0toamhpMUxBa3dndV9TQm9jWVdiVVMwbTZnZ1VfVjU0QVlEVE81OU0zdlM1VlBXU0pKalJGUW5RTXBCcW9fX0c2VTQxbE5Wb2dKYjlpYXM5UDBBV3pTbjYyTEFzQnJHQWhfaFJ4M2JB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-27T10:57:41+09:00"
+    },
+    {
+     "title": "マイクロソフトが新たな人員削減案を発表 約6万人に希望退職を募集 全従業員の4分の1超",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1SU0wZzhTblluak5WNTREN0h4VkF5NmpRcVozREVIYm5CVUtvRllZWGZ4UThtVTNySlBDYmNnSWY1aGRGNTZJUmx2bUxrWEdsV3FuaHAtUFhJTjJNNzI5WlU0Q09Yd2VSVTN1dGtlWmlRd01tZUFIT1ctOHZ3RW8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-27T08:31:43+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-27T15:17:50.677730+09:00"
+  },
+  {
+   "kw": "GMO",
+   "level": "high",
+   "d24": 60,
+   "baseline": 16.3,
+   "ratio": 3.7,
+   "consecutive": 11,
+   "days": [
+    3,
+    8,
+    7,
+    36,
+    6,
+    38,
+    60
+   ],
+   "latest": [
+    "GMO“脅迫” 警視庁が不正アクセス禁止法違反容疑で捜査 関係者や被害者から聴取 実態解明急ぐ",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdGVnRzU2ZXhrNFVVVkwzeC1aWE42bnd5NmFfaDdPMGlEZ2k5TU1qN1FKS2pkZklmNW9INFY5U29JcjZjZVJlTzJNaXdMUGZtNHJYU09vQk9GUDFHQjA3bzFKZW15UHkyd2JfQUlyQ2NfWEhfa0JXYkFOQlFIbzg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "GMO“脅迫” 警視庁が不正アクセス禁止法違反容疑で捜査 関係者や被害者から聴取 実態解明急ぐ",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdGVnRzU2ZXhrNFVVVkwzeC1aWE42bnd5NmFfaDdPMGlEZ2k5TU1qN1FKS2pkZklmNW9INFY5U29JcjZjZVJlTzJNaXdMUGZtNHJYU09vQk9GUDFHQjA3bzFKZW15UHkyd2JfQUlyQ2NfWEhfa0JXYkFOQlFIbzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T07:04:19+09:00"
+    },
+    {
+     "title": "GMOが有力情報に1.5億円の懸賞金 攻撃者特定へきょう正午から情報受け付け 300万円上限に見舞金も",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUWxWelp0cldPMkd5dUdGYjJhZXRjZE1NX0hIR3laZGtmMm1mTm1VQi1KOHFNMmFJclRmWi1vdkRyTmwyVUZEN253ay13dVdROHdJMmRlWVdmbUFzbXNhU0FXeWxSdmVpa3lTb2tDVjRhR192eDJMTVYxM0ZTcjA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-28T06:58:20+09:00"
+    },
+    {
+     "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+     "source": "NHK 主要",
+     "published": "2026-10-28T05:07:26+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-23T05:49:56.324585+09:00"
+  },
+  {
+   "kw": "大幅",
+   "level": "high",
+   "d24": 8,
+   "baseline": 2.2,
+   "ratio": 3.7,
+   "consecutive": 1,
+   "days": [
+    3,
+    6,
+    4,
+    0,
+    0,
+    0,
+    8
+   ],
+   "latest": [
+    "【独自】備蓄米10万トン追加買い戻し 27年生産目安、大幅減産へ",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxYy1IRmZHdENuRzg4ZDgtUzRqdnhwaVZGckJEdkM3OURFQmFmZVJBODZBcFZvSUt6dEttSHVzVEE5MG1rcWxiMTJhTQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【独自】備蓄米10万トン追加買い戻し 27年生産目安、大幅減産へ",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxYy1IRmZHdENuRzg4ZDgtUzRqdnhwaVZGckJEdkM3OURFQmFmZVJBODZBcFZvSUt6dEttSHVzVEE5MG1rcWxiMTJhTQ?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-27T20:45:00+09:00"
+    },
+    {
+     "title": "日経平均寄与度ランキング（大引け）〜日経平均は大幅に4日ぶり反発、アドバンテストやソフトバンクGが2銘柄で約772円押上",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOW1WYkxMQ1FWd1ZfbGxUbGlKM2JtTlZNd1NvYnVOX1NaT19oN3FHRnFSbWFoZWE3MzNNQ3k2UVI0cTZvdUNidm1PZ1pMZVFBY1JfSmFmSk5mWUJqT3hIZXIzVDlOS1cwb3YtMGVUY3VQNENhWWtiQlBHUlVyZkpENG1DVWJHbTTSAYwBQVVfeXFMTVVHRVEyVDRlSk5DYVZ6QzJLNDhqeFNTeFhEc3BHV1VMVThJX1RfN1lvbmp0X0p0Sk13U2N2TUdSYW5KaDZ2cXRFMDUzejBWbnp1dVg3bE9MMTd4Q01GMGZUblFwNlFnM1NSRFNaYUZKTEVGUTFYdjlEcTJHOG42SzlLWFVaaWtOQWhDdmY?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-27T19:58:50+09:00"
+    },
+    {
+     "title": "日経平均は4日ぶり大幅反発、半導体関連株がけん引",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGhhc1V5Vk9Bc05IdGo1ZFdMeXNfTVFPLW9CVE1vZ2tfcmx5TUpvM0RucXFRc0QwQmM0UmNjb1czNmExUVZUaENpUGxqTkc4NmZxaURzTFNpYmNfU1lwYmxyWXZ1WFphZTZRMjRjTTE4VXd2SnVPUHB2aDN0NmcyekpCdFdDbGPSAYwBQVVfeXFMTzhfUHpsZHU4Nkl3c3N6U3NSSkRNMTJwc2RJaUtaMHJYX1VpSzZMQnR6UEpWZG03MTZObl8tYXZBTHVqSnFoV1ZXZWs3WGlXY1hKZmt5TGlmbnJYR1lIOS1qS3ZCNGZqaHBmbkpobzRUN1FteXU4WmlsVnp6UnpTbTB1cXJ5Z3RRdHJYQzk?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-27T18:01:50+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T10:55:08.346362+09:00"
+  },
+  {
+   "kw": "投票",
+   "level": "high",
+   "d24": 11,
+   "baseline": 3.3,
+   "ratio": 3.3,
+   "consecutive": 6,
+   "days": [
+    0,
+    1,
+    0,
+    2,
+    12,
+    5,
+    11
+   ],
+   "latest": [
+    "【速報】イスラエル総選挙 投票終了 出口調査で野党が与党をリード",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tQkxsRW1vSlRaaVlEQWJVS3N5U1B1NFd4ZjRBam40dEJ5Umthd1VVNVFDZWZmOHlvLW1PdW1ESVZhVmk0VEgzeTVnMmxoNldtTnRVeVV6RW4tWUsybWdZbzRBNG81aEdoLVd2bm5rUk41NDRYZUdWMVJ3?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【速報】イスラエル総選挙 投票終了 出口調査で野党が与党をリード",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tQkxsRW1vSlRaaVlEQWJVS3N5U1B1NFd4ZjRBam40dEJ5Umthd1VVNVFDZWZmOHlvLW1PdW1ESVZhVmk0VEgzeTVnMmxoNldtTnRVeVV6RW4tWUsybWdZbzRBNG81aEdoLVd2bm5rUk41NDRYZUdWMVJ3?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-28T05:51:08+09:00"
+    },
+    {
+     "title": "「この4年はただただ悲惨」イスラエル総選挙、ネタニヤフ政権に“審判の時”イスラエルの投票所で見えた市民の“本音”【news23】",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wUVZWRFpoRmpTUlVXMzRSZjNLMUhabzJkcnlWWFlaSVctdWMyM1J6SXV6OWR2cDcxQ29tRVljNW5lc1JFUGJnTlNtV2ZjVEY4YU9CWkxjaw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-28T01:38:20+09:00"
+    },
+    {
+     "title": "「交代させる時が来た」ネタニヤフ首相の政党が苦戦…イスラエル総選挙の投票始まる",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDcFFna0xCOFRfSVhEa1NsbHNEVVlRRXV1VHFvM2stM2praTZwNGpRVkJlV0hHTHYwbUlTSEh1bXR6YTFaeDkzSld4ekY4NHpyYWZROEgxN3BFNTJPVnk2Yl9sbl91RmtEVUVsQ24yS2IwY1VQRjhGUzJB?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-27T23:41:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T20:33:50.539875+09:00"
+  },
+  {
+   "kw": "安保",
+   "level": "high",
+   "d24": 6,
+   "baseline": 1.8,
+   "ratio": 3.3,
+   "consecutive": 6,
+   "days": [
+    0,
+    0,
+    7,
+    1,
+    0,
+    3,
+    6
+   ],
+   "latest": [
+    "安保3文書で「拒否力」防衛の柱に",
+    "https://news.yahoo.co.jp/pickup/6600361?source=rss"
+   ],
+   "samples": [
+    {
+     "title": "安保3文書で「拒否力」防衛の柱に",
+     "url": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
+     "source": "Yahoo 国内",
+     "published": "2026-10-28T07:04:42+09:00"
+    },
+    {
+     "title": "安保3文書の有識者会議“増税も選択肢として排除せず”の意見",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66665",
+     "source": "NHK 社会",
+     "published": "2026-10-27T22:05:32+09:00"
+    },
+    {
+     "title": "経済安保予算なども「防衛関係費」へ 米国の要求に配慮も今後5年間で「GDP比3.5％」は明記せず 防衛財源確保のために法人税引き上げ案も",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtbEpYdWZwallUaWNMVS1rTXJ2bXFkYkU4M0h6blU2WER2dFBvUGlLOU9GUVJZemU0WUZEd1pZWGF6Q2VZV0V4UG1PS2d6TWRMVnY0S3Vkdw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-27T17:47:21+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-17T08:35:56.692405+09:00"
   }
  ],
  "events": [
+  {
+   "id": "6691af407c4e7d84",
+   "title": "小田急江ノ島線で列車と衝突 線路を車で200m走行 女性死亡",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Q0dadW1zXzU4bWhtVk5LZDUxQ3VHOUdKbnRGRWFjNHhra2RBTlJDck9Eb2x4UHhQaUZmczVqb0pFZ3N5a3VRYk1pSi1qUlJ2b1lPbVNMNUc1bmppRjF4MW1FM0swa25BT201SWVKZ1VCdw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T07:25:12+09:00",
+   "keywords": [
+    "走行"
+   ]
+  },
+  {
+   "id": "868c34b310e79e4c",
+   "title": "草間リチャード舞台復帰 頭下げる",
+   "url": "https://news.yahoo.co.jp/pickup/6600359?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-28T07:22:52+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c1ef05fe61763d4e",
+   "title": "ブラジル大統領選で敗北のボルソナロ氏、アメリカへ逃亡か",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eU1wMzRtNWJiM1BNU1lSbDI0djVlTVp4OXdBM0FzcE5GaDN5U2RCUExXZ054dER0bms1dlp0ZmVCdmlBRWFiWjd1bEFzTUhoTjFvVkVQUmRLS1NtckJ4RmRSaU4?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T07:17:21+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f19ff42d482be439",
+   "title": "山梨の女性死亡事件　台湾で夫を拘束　高額保険か",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66734",
+   "source": "NHK 主要",
+   "published": "2026-10-28T07:15:10+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2399549b515dfaf8",
+   "title": "ビルの窓の清掃中に転落か 死亡",
+   "url": "https://news.yahoo.co.jp/pickup/6600362?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-28T07:14:38+09:00",
+   "keywords": []
+  },
+  {
+   "id": "94124081c6e610a6",
+   "title": "「ここはアメリカだぞ！下がれ！」 国連総会で米・キューバ代表が怒声の応酬",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YNVhYcVdBUV91emZkZEJRcWQ4eHRqY3RHU3U1NEJBbWZXaDB5azZhaExhcWdTN3lpMS1qLWlLQWF5SDdGaVJyTjV6NThydF96QURyS1JMYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T07:14:20+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6d7c568c7a508d65",
+   "title": "サイバー攻撃、サイト経由型が急増 弱点探索にＡＩ活用か―セキュリティー大手",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uc05pcmNrZDh5SmllbGFOZE9zbUhtaXl5NnAwZnI4dHBPRkhCNklOaktjQ2hXR1N3Uy02ZzUydk5pUjkyYVF5UTBtN0l5cjVzcUZhMVBIeEIxNEt6U1ZzS3I0Yw?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-28T07:11:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "bf2c6811f5ba590b",
+   "title": "ＮＹ円下落、１５８円近辺",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCOTFuVTJxZzV2d25vYm9RSmN3V1VTc2RQNjRZQTAwODVMS0RoLVpIV0p4VWhkSmExYnVsSjBpcVVOUW9NcFRMcXV2akN1a2o2b0J2RjBkLVRWWk1hT3FRakhsTE9XSmd4RmxLQ1ByMUwzZ1JmUlNIZEdobnPSAYIBQVVfeXFMTmd5cHoyNlRfMVJ2VE1vcnpnSldGd0E0X0lONzRaVVJIbENlc2NWd0tXWWIyVExFblU4Z0I2UGVMaVlnRTVVVkR0QUVVU1lTRzBVdzR1OC0zcTZjQ2h6WTBXYWNnS1h1UGliVms2bl8xOER1WmpsUmVnQXo1d29iTkNsZw?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-28T07:09:38+09:00",
+   "keywords": []
+  },
+  {
+   "id": "aeb40807605a257a",
+   "title": "【鉄路は残るのか】JR北海道が単独では維持困難な“黄色線区“8区間900km…地元との協議が始まる 「上下分離方式」撤回で仕切り直し…かつて4000kmあった北海道の鉄道は2200kmあまりに（FNNプライムオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBORFFCelB3ME40NElZZXlLNDZXX3Q0MGpIekhlTE5kNG5XMUNXMXo1eFY3dFB3dlVLa0FhX1NmT3k0c0gtMzhnT1pxbzhUY0JNRk1vanh4NHgxd29WaHByRG1fUnFGUF9tUFR2RHczVFhzLTZtQkRBbzEwOVJPN1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T07:06:25+09:00",
+   "keywords": []
+  },
+  {
+   "id": "561d2c157319241a",
+   "title": "「突然現れたらどうする?」クマへの脅威感じる人が6割 目撃経験は2人に1人 秋田県民アンケートから見えた備えの現在地 専門家が遭遇時の対処法と対策を解説（FNNプライムオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uRlFucV9jel9GSmNSdkVFVS12X3QtMVF3d2RMTlNGV2ZpLUlvSnVvMlhNN1RCUjAxN2ljQXVKcC0tcmdvNHdFekRweExWSWtJVU5xTm8zcV9OTnpQYm5yVl80OHZVaHl0ZW5YVjhwTUEyYTBzdGk1U1RIcWJwQTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T07:05:09+09:00",
+   "keywords": []
+  },
+  {
+   "id": "052834106ebeb561",
+   "title": "安保3文書で「拒否力」防衛の柱に",
+   "url": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-10-28T07:04:42+09:00",
+   "keywords": [
+    "安保"
+   ]
+  },
+  {
+   "id": "b12f15c16ff1ac88",
+   "title": "GMO“脅迫” 警視庁が不正アクセス禁止法違反容疑で捜査 関係者や被害者から聴取 実態解明急ぐ",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdGVnRzU2ZXhrNFVVVkwzeC1aWE42bnd5NmFfaDdPMGlEZ2k5TU1qN1FKS2pkZklmNW9INFY5U29JcjZjZVJlTzJNaXdMUGZtNHJYU09vQk9GUDFHQjA3bzFKZW15UHkyd2JfQUlyQ2NfWEhfa0JXYkFOQlFIbzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T07:04:19+09:00",
+   "keywords": [
+    "GMO"
+   ]
+  },
+  {
+   "id": "2a12f22bcce48065",
+   "title": "西高東低の冬型の気圧配置で風強まる 北日本で暴風警戒",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66726",
+   "source": "NHK 主要",
+   "published": "2026-10-28T07:01:17+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f836ab460f7a6ab1",
+   "title": "フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66719",
+   "source": "NHK 主要",
+   "published": "2026-10-28T07:00:44+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3cc4e1509f27497b",
+   "title": "NY円下落、158円近辺(時事通信)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUFjVWJkaERJWF9lb2VlYjNfeHl1eUlqc29taHFobko5ZlJuTExMUW95RnFTbVczSVZaQlMtcmFLZ0R4X19yRUJUUVRSX3VoZVNIY05mWE1WYTJNUFllak9OUEM0d2xJVkpZaVlMR0QtY1Y5N2p4OXJkTkJtZU1tRWI1djVkNnc?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-10-28T07:00:08+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f815dc6cf75633ec",
+   "title": "SCS評価制度、「対策しているつもり」だけでは取れない！？　IIJに聞く★3取得の実務　【後編】対応を機に規程をゼロから作り直す企業も",
+   "url": "https://internet.watch.impress.co.jp/docs/special/2149615.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-28T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "df8d7ab0f4fda986",
+   "title": "【王将社長射殺事件】DNA付着の“たばこの吸い殻”発見→なぜ逮捕まで約9年かかった？元科捜研が見解「被疑者登録がないと合致しない」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mbF9Na0hOSi11Z1Bob2FIRC0wNmhsb1Nzc1h6Y0hpeEVRd1R2UGItZ1A1R1dNbUNoaDlaUnR1U3BVRjRxcHRXMVlEY1I1N3BrVjRfWWE3NWNtb2Z3T1NheDNQXzNVYzJ3b1BBSjVadFU0QQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e82e7fcd8cde1566",
+   "title": "「VMwareからの離脱」は総意 しかし完全な脱出企業は4％",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yXzdRVWwxc1RjUlJia3lMRmR5U2YzaGNSc3VTYkxvZ3hubF9VaExSQy1UWWZ1a3M2bHl1Wk9MNkZ3UHFkVWMyekkzWmZXU2lJSTRZcjFTWnpiVjQxOE5fT09TTDl5N3lKRkZxQ2N3VEsxQQ?oc=5",
+   "source": "日経クロステック",
+   "published": "2026-10-28T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "bdfafaaa0e44850f",
+   "title": "フィンランドとノルウェーの首脳がプーチン大統領と電話会談",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66723",
+   "source": "NHK 主要",
+   "published": "2026-10-28T06:58:54+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ccc4cb1cbf0681a9",
+   "title": "GMOが有力情報に1.5億円の懸賞金 攻撃者特定へきょう正午から情報受け付け 300万円上限に見舞金も",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUWxWelp0cldPMkd5dUdGYjJhZXRjZE1NX0hIR3laZGtmMm1mTm1VQi1KOHFNMmFJclRmWi1vdkRyTmwyVUZEN253ay13dVdROHdJMmRlWVdmbUFzbXNhU0FXeWxSdmVpa3lTb2tDVjRhR192eDJMTVYxM0ZTcjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T06:58:20+09:00",
+   "keywords": [
+    "GMO",
+    "懸賞"
+   ]
+  },
+  {
+   "id": "ebbb38e4ebdb3649",
+   "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+   "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-28T06:55:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1dc0db99bcede874",
+   "title": "熊本地震から3カ月 38人死亡1000人以上が避難所生活 県が「復旧・復興プラン」案を公表 11市町を重点地域に",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVWxLTTd0S085UmY2YXhRWnBERHdqZmtCQVA4ZS1NVUg2YVh4MzBjektKMnJESnZiY0dWUmJnRGpGaEs1c203S1NRS1RKMmx6OWdYSk80SXdsdG9kcW9Edmc0NHZSQmF6U3VWRndhNEYyVXBhYXc5VWtXUUtueVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T06:53:38+09:00",
+   "keywords": []
+  },
+  {
+   "id": "84101c5bb2b1ca79",
+   "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
+   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+   "source": "ITmedia",
+   "published": "2026-10-28T06:53:37+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d0842de03ab3191b",
+   "title": "DeNA監督「まだ終わっていない」",
+   "url": "https://news.yahoo.co.jp/pickup/6600360?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-28T06:53:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "24e9efd2e2b15959",
+   "title": "【台風情報】台風31号（インファ） ｢非常に強い｣勢力で日本の南海上へ 最大瞬間風速70m/s 今後の予想進路は? ※雨と風のシミュレーション（気象庁）",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15c3QxVTRNWXlyVDFXUWJYMk9FX3R2Q3BpeDNpYUd4b3NfemJLWkI1Z3k5Y1JvVlpaQzAyVE0tRlVaQUpYTTN5c1J3QlRaUk5ONy1pZWgwVQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T06:47:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9a4dff3f96bd7345",
+   "title": "NY円、158円近辺",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTFIU0JHMGRCNXVDVVdhRW5FWXVRZnJQel9NaEFidUkxYTBNRVJkNU03cXlSUy1yUk1RVi14dGpKYWdjVm9OTEZaNWlYSVZ1ZWEyNDRzZWF3OE9lNjlEMW9nY2Ztbl8xZjNra2dSX0FFZkJSaldGa2lKek1nRU9XSE44c1lYUUVRQkpmSG9YSnRQQ1nSAZMBQVVfeXFMUEUxSFNCRzBkQjV1Q1VXYUVuRVl1UWZyUHpfTWhBYnVJMWEwTUVSZDVNN3F5UlMtclJNUVYteHRqSmFnY1ZvTkxGWjVpWElWdWVhMjQ0c2VhdzhPZTY5RDFvZ2NmbW5fMWYza2tnUl9BRWZCUmpXRmtpSnpNZ0VPV0hOOHNZWFFFUUJKZkhvWEp0UENZ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-28T06:47:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "cac364c5d256fd52",
+   "title": "【動画】Pickup NEWS（10月28日）",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66622",
+   "source": "NHK 社会",
+   "published": "2026-10-28T06:45:20+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6f86a0076f4aa120",
+   "title": "車が踏切から線路に進入 列車に追突され80代女性死亡 小田急江ノ島線が一時運転見合わせ けさ始発から再開",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fYjNqMXhXR1YwNUlJbWZQcHJJZ0ZSZ3o1cGVRbjlRbVV6Wm9wQjlzVDJQUUd0QUt6QldianhNYWR4dzhUa3V4Z180T0hMTjMxMlFQUWN1NnRtQzEzcUZDbVBzZlZSTGk2cVU1S3AyNURtV3ZxcXRtWDJQZzZMVlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T06:42:34+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6666724cc15ae15d",
+   "title": "【速報】蔵王と泉ヶ岳で初冠雪 蔵王は平年並み 泉ヶ岳は平年より16日早く観測 宮城",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iQjFKS3ZwcktIS21RQkJDdFBHSkF4cHNGOGx1MHhVcFpKRS1EVmI1Sm16MGJYZEpaY1BDeXB1eS1IUzhEZ080OUZrcmxnYUtOYzRHNG9jbw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T06:38:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "208dfa77b6ba485b",
+   "title": "NY円、157円90銭〜158円ちょうど",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3NGLWNrcjduc3pBR0RiUlhjc0JxNnZpazR1ODhMVGlGMUNRRUdXS0plbVZrd0plRXByQmwtSm9UTVZiUXFvb0pnTndUMHNCQi1qR2hIOWtzTTFObUl5a3ZCeXk0TFc2TWpBX1BLSG5hWFpJUVRHZ0lKeWc0d2c1YXZSX3lsRWxCTmJJQmNn0gGTAUFVX3lxTE5TX1lrZko4RUJBZGlYOXdMc1k5RU1xc3ZjekhRQk43MGl6TEloak1uWDMtSDFqSWlwS2wyZV9PalJPbGZsTUdaSm5oYzRqZl9NbHBTOVotV0FkTFlOdzZmanNpSFFCMU5rWUhIc1RJX3NrRmtEOElqME9sVW5xQ2xCWGxuRHZ0NUlqWHFFQVl3OXU1bw?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-28T06:34:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d6c14b2ce29cd878",
+   "title": "エムバペ選手が謝罪 中国巡り騒動",
+   "url": "https://news.yahoo.co.jp/pickup/6600358?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-28T06:34:22+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ec4f6359d009f283",
+   "title": "ブロードバンドタワーとNTT東日本、「IOWN APN」で東京～北海道間1000km超のストレージ統合を実証",
+   "url": "https://internet.watch.impress.co.jp/docs/news/2151646.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-28T06:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "790a4d3d1ef31247",
+   "title": "富山大空襲の戦災資料、展示場所は「県庁が展示場にふさわしい」 の声も 市内に唯一残る戦災建築",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XSzBVSDdZZFFOUHFXR2F4ekNwTDI2cnBvdXZOaWM2bllLNzduNklORURzTWpTNG9OanlQbUVpN25jZkdrSmhENkNzTHlVdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T06:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2012f42ac651f447",
+   "title": "【10月28日 きょうの天気】北日本は日中も雪が降りふぶくところも 全国的に北西の風が強まり木枯らし1号の可能性",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xQVZzN2ZMclc2M3czRVJhWVpzdzhmemZVbzF5VF9FUkdtMzd6RldwZGttRkUydVllTmJkN0FEVTlBcm1xcDdFY0p5YUYxOEUzZWhOdmNGLXk3eVhVVlZZX2pKUDhXbEladHlubWVOWVlrbnpRUUVIdU9DVGJvV28?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T06:24:03+09:00",
+   "keywords": []
+  },
+  {
+   "id": "62d13ab36778a8b3",
+   "title": "独自：国産ＬＮＧ船、３０年めど建造",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUNlc1BZN0dYMkVObjFJUEJmcnQ4bHBDNjJFYnhEUDNjNlVmSUg5aWV2ckpyeEQxb3JVaENtMXNFOTRULUhwQ3drb0FHbmVISHAyVDVpZ1BIRmdFQ0JFUU9tc0JhY3BxMHJlRV9aSHZ5c0JENlpEd3VFbWpjTUN1VjhvcXI4UV9zNmFfTDZaTWk0MzQ1cjVMM2xPVXphNkdVd01TMG1Oa201VmxiNnZOYy10REZwLXQ3aTJRLUdMc3J1US1KQUd0YW9lZGtOQy1B0gGAAUFVX3lxTFA3Sm1ZX2dLMVV5dVNCQVVUODJJMGw5bVQxZDloM0JFaTdfblRRQmtUSUdhTkpIRmtXdHU0Wm0xTUFNbFpxdzFaRlhFN08tWW1IalJkeU1aSTRlMTkzX1FESmhUX093NTlOa3MwQVdOdjdMcjFHTzFjLXZPRFgtTXM5?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-28T06:18:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ca26413bc866b8ee",
+   "title": "【台風情報】非常に強い勢力「台風31号(インファ)」最大瞬間風速70m/s・中心気圧935hPaまで発達予想...今後の進路、日本への影響は？11月7日にかけての雨と風のシミュレーション【気象庁28日3時50分発表】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlVjVXS1BhcTFaY1ZGT3JwSnJTcGhBbzJfWjNlT0NQaEM3NXVCWFFoaFNOM1NHZi14R3BDVm1tZENvaWNsRG5pLUZ4ZWhtYWNoeXJuXzJTaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T06:18:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c605475ba0055af1",
+   "title": "自転車「青切符」導入から半年 ながら・傘差し運転いまだ後絶たず 車道走行9割超「危険を感じた」 子ども“同乗ルール”見直し議論も",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JZV9GN0lUTHgtekI2dmd3cjhMQVpGampCNFltUG5zNzZCT3FUTkE2THpjeFhsam9MYkhla184WGhyVnBZUnh6V3AyNm9hUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T06:10:00+09:00",
+   "keywords": [
+    "自転車",
+    "走行"
+   ]
+  },
+  {
+   "id": "85c99a38b9bc8dd5",
+   "title": "旅行中に夫婦げんか 夫が妻を殴り傷害の現行犯で逮捕 たまたまパトロール中の警察官が犯行目撃",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vcDZFUENHdzZQdmJrbFhvVFo3aEptMGJodEY4cE1EbVZNMXpyaFRFZE55dFc2bXcwTFBzR3ltSDk0ZW1tOGdkc1lNZ2pYUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T06:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3ddc33275be68b21",
+   "title": "原付の男性死亡 高速道で車と衝突",
+   "url": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-28T06:09:03+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4100276254d8398d",
+   "title": "アイシン、採用ライバルはAI企業 車部品は「勤務地確約」で学生誘引",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTHU1bWYydWtEQzhKZGZMQktObElFV3RiY2pDNnROQVhtZnVmTDhZRnd6QzJvdDU5U3lpRVpfR0QyWlplNXhvQzFYTENNTFpEemZ0cGJiRXZsTWQ5dEJ0UVA0M1Y2RGtZMkF0Yw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-28T06:06:50+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ea6ab9dce6891cb8",
+   "title": "モンスーンジャイアの正体は「巨大な水蒸気の塊」 中心部は晴れでも湿度80％の“湿湿状態” 列島大雨の仕組みも判明",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TGx0dUpGVjBuQXhiUlRnODdmbmR0M1FHYUFWdEM5dXVjMjQycXBBN3ZidWoyR3VFRUl3NTFiN2FzVW1BVFRra1hwM0lJVEVPcHlxOGgySGxVemdraDFvTEFFVUJJbDhhSklCNG5hd0ZxNXpEMTRGNDB3U1ZDX1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T06:05:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "323b00dd4892a1fe",
+   "title": "懸念が高まる「サプライチェーン攻撃」、被害企業はその後どう動いた？　1000社アンケートから浮かび上がった実像、そして「SCS評価制度」との向き合い方【Security Days Fall 2026】",
+   "url": "https://internet.watch.impress.co.jp/docs/event/2151587.html",
+   "source": "INTERNET Watch",
+   "published": "2026-10-28T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8d0d646e602d1b51",
+   "title": "家庭ゴミ有料化の動き加速 東京23区「まだですか」18区で検討課題に 北海道では「ゴミ袋10枚1735円」案で品切れ",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84U0dZZDY3WjRkcjdtR0V1MHZ4YldDMVhTZGlBeWVpOEpxNzRjX0N3b3k2WThHLU4xRy02QUNfcktYTFRZazlQWklHdmpXdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4be71b44f05859ef",
+   "title": "10月28日は「群馬県民の日」 群馬県が誕生した日を記念する日【今日は何の日】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90NE05XzY1LW1OQlktdWJxUTRlaE1tVzBkQXFKa0gyTE9iY1liUElraDFlRUZiYTBQa3BVMWdFTXhBaDRFSFdWcUFNNjEyUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "02fcd47b10f8c6c3",
+   "title": "愛子さま 青森・鳥取を初訪問 「父から聞いていまして」国宝土偶をご鑑賞 絵付け体験では「まずい…」と苦笑い",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xVEQzem4zc3lvcWFhdWdJT0cxa2VHWEFvekUyMEFxbmlrbl8yc0dGQzVvMDJZV0pUX21XOUVDX1VmTm1hTEtLaUlTLVFCdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "793b1b1d3aaf6cb3",
+   "title": "為替相場 28日（日本時間 6時）",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TSmpHajU4eFNnZDN2NkFybEFPREhOSjRQdWpaNl9NUnlpNjEyOGZpU1Rtc01lOVdvbmloa1k3aFFWR3R0VWlLT3lUYw?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-28T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dd94a7aac8e1a0fc",
+   "title": "NY株小幅続伸、15ドル高 AI買い戻しが相場支える",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yeVNZRE50VXdXTkxDcXBfQ0VXVGx5YVlHT3FKU0VZejNJeERicWpnb3JNaGpLalZyMi1xdlM5di13cURRSXVOZ0ZRQQ?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-28T05:59:41+09:00",
+   "keywords": []
+  },
+  {
+   "id": "cbe200153157301b",
+   "title": "奈良市に“死体遺棄” 結束バンドで交際女性の娘を殺害か 男再逮捕",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rdTMzRHBOZnhkRzdYdlBhRmFvR1JGVUc0SF9lZ1FTZzhlTkR4WHhNWF95U2FmUGRtUDNGTFZBbVBhdnVWVVpGdHVJdlRKMlQ3VTdNWVpiYTlDcjNWd3VHbmpxYXEwZ21jMC1lMHZqOE9udw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T05:57:03+09:00",
+   "keywords": []
+  },
+  {
+   "id": "cb6298d58ae696b3",
+   "title": "NY株式　　27日終値　　　　",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW5GYmJNd0UxblRWQzdtRFpPYXRQeGo1aVdTSWxrNlg1Z3JTMFhZMk4yS0NkQ0RmcTNFS2xqR3BCRjFyd2VEMjdpeFJNTzhORVlfejE3cTM3VndFbE1rOU55Skt2RFpUaE5GTUt6RlctVVcwZnZBcGdwZE1neHAxcm16VjJlWWNUQ0FpSTdn0gGTAUFVX3lxTFBHemp2RzVoUjFzSUpNLV8zeGNnUG01bVhGWm9Vd0F5RWQxRGx2NjR6amQ5Vjl4TlNDT20yNXBQUHluMlg2VFFPcGxzamlBUklWaURJekNSQzBiZHRTcktNcDI0ZmJldHlQUlRvRGFaaXBVcnVGbExSWjA4UlQ2SUhUbDgtZGU1amlBbzhqZnM4UXowTQ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-28T05:53:36+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4bbbc5dcff52e704",
+   "title": "山梨・富士河口湖町 ホテルに女性遺体 台湾司法当局が夫を逮捕 “共謀殺人”か",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4waFRQd2Z6YktTZW1xbzVtMjY5NjVqcDRvbzZfZnZRRFlXaEVDT0tWR1UyRkNLUUctWG1wQ1ZHZGdHcEp5YTFNVFZTR0dmTWJKYjM4MV9kdmdHaDc2cHFQbF8yZjhoSDVuYzZBWlRmZ0FSZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T05:53:06+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a2cc276a812ad5b3",
+   "title": "【速報】イスラエル総選挙 投票終了 出口調査で野党が与党をリード",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tQkxsRW1vSlRaaVlEQWJVS3N5U1B1NFd4ZjRBam40dEJ5Umthd1VVNVFDZWZmOHlvLW1PdW1ESVZhVmk0VEgzeTVnMmxoNldtTnRVeVV6RW4tWUsybWdZbzRBNG81aEdoLVd2bm5rUk41NDRYZUdWMVJ3?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T05:51:08+09:00",
+   "keywords": [
+    "イスラエル",
+    "投票"
+   ]
+  },
+  {
+   "id": "31b023e463f5dadd",
+   "title": "ＮＹ原油続落、終値９９ドル台 中東の協議継続合意で売り",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81WmlQcVl6OUJnSDJlUlBqQmUtMDJ0WkRkN1BuX0gxcWFKaFlYREI2aDdMcjJuYXlVWDhKem5MOUVJZGEySkRPYWF5VHZQZUZnU0JqTEJDdG5kMU5hNnc?oc=5",
+   "source": "沖縄タイムス社",
+   "published": "2026-10-28T05:48:05+09:00",
+   "keywords": []
+  },
+  {
+   "id": "74f65b5041eacbcf",
+   "title": "NY株式 27日終値",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wMDAwenk2TW0xTHVMQXZKYjVaV3R0R2kyNFJTb3NXd2xNLWgwN0xKR192eWZ1WjFLLVdkR0NDZWQwQ1FlaV9VWGZqNkw2cEg4aXNOOUtKTDRsU3N2N05ma0MzYw?oc=5",
+   "source": "nippon.com",
+   "published": "2026-10-28T05:46:33+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8142b72c99e55507",
+   "title": "【速報】イスラエル総選挙 出口調査でネタニヤフ首相の与党陣営が獲得議席数で野党陣営を下回る",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5cS1MZ0p4SVRXZkRaNVAtZTF4cWJESjI5VHhwZWJSOGkybHgzNjlGR1ZQaTlvaEFRMXJuLUN5UDhIVjhOUFIxZkhjQzJSbW0tWGJGYUVoQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T05:33:23+09:00",
+   "keywords": [
+    "イスラエル",
+    "ネタニヤフ",
+    "ネタニヤフ首相"
+   ]
+  },
+  {
+   "id": "8ed0688f49ef16ed",
+   "title": "フィジカルAI 農業分野で導入や開発の動き",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66720",
+   "source": "NHK 経済",
+   "published": "2026-10-28T05:33:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "db916242e7eb8b12",
+   "title": "熊本地震3か月 住まいの確保と在宅避難者への継続支援が課題",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66706",
+   "source": "NHK 主要",
+   "published": "2026-10-28T05:28:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c9570d2f4b9a3bb4",
+   "title": "ニュースワード「テラファブ」（時事通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3dnBISU00eGkzcW42cHNDd3ZTb0dKY2lWXzNQdnVDZ1JiQ245Tm9XT2ZrSWVMdFR6OHVjTHBHM3FrbUx1UDhBTVR2MmMxT251eGgySXN3R1c2bVMybHAxN2kwcVNrYUJ3Yk5uNkM2X2FJWXVlQm9VUS1fSzJpd1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T05:26:42+09:00",
+   "keywords": []
+  },
+  {
+   "id": "244fa82693411659",
+   "title": "【千葉県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIR204UkVWZGs1aXJDQ0M5VTE0cTREaENsUkxPSkhvWktKLVgxT0tZaXZOdjRyaThqQUQ0TjVvQW9ldjhXVUFWSzRPLUIyUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5954cf06b69f5b2a",
+   "title": "【大阪府】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SdDlMdG9zc0swUDJINGJLbGpXbTJMV0t5TXJUaGF0Z19QZGZKTGR1MVJGZTZZUjY5UE9DYnV0UE92dFVXZ1NMdXVZVVJlUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9174060b64686c43",
+   "title": "【宮城県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tOGdyckUtLWJOZVBqOFF6VnNfNlVzVWlidW5obktqdzFDVm80RWZxOTJuNVhTYk9GeDNRNlhQLUItcjdVZFpMYTljd0hXQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "fcf8f073e90fe7ed",
+   "title": "【広島県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VS0hOd1hlR1NiVFdscDV4VDhTNE9lOG1YY1F4clZnLW10cjYtYjhVVDEtTXZoQkhNQ0RLbmJrQVNDUW1DbG5kbHhEcFp3UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "507345dde22ec594",
+   "title": "【兵庫県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ydnROWklLSzZXVm1LcmRoQkpqMW8yOFdiQ3VHUjhwcmlUbWhzRllreDY2SEhjSVVRMFVUbzhYcU5FV1lSaFJtQ18yaVFQdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4abafd8d1e2b340a",
+   "title": "【東京都】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dllBVk5BLVRwalFRNjl1N0x3V1dBVk9uendLd05faFg2YjgxUmMxMTBJVmRxRHgwMGljZE1GWEFZNHJDSEE0Z3c1Y2Rzdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7378702307b14add",
+   "title": "【三重県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKakV1RW0xa0wySVhmT3hQUEN6QkFwRmtaWGhSbVpDdXctcnpkZW94di1HRmdxQmlmdl9NVFJDQ3V3N0ZzbGU5Yjlxa2M3dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a27b710aaf77ad01",
+   "title": "【山口県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TczEyRXVFbzF3bGMxQlVIMTc0dDNmcUVBNTNKczdlYmZVekZMSTBDMlpMZEdxVUNseTBmd29TSy1BMFJ4X1I2RkhKZlBGZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8dece061201bb46e",
+   "title": "【島根県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSb1JXVkoyaTVLLTBwMEJ1WjFtSkwwTDN3S3UyVEpiQkhSU2p2SDJlbVpCc1BQZ0N2NktIbGh6N0pFY1BSb2RISnFxbzJOZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c0e06888896d5fb8",
+   "title": "【岐阜県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qaGJBZjNTcUhocmxkREVrMmpERzNfSGNPNFFDNXc3UlRmeDcySk1CN201cUZjSFBsUkc2eXk3OUxmTUxXTGxoV2FnS1lrUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5b0139616f76f175",
+   "title": "【長崎県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIUG96emVfNHJrREhWOF9BcUV0YldkejZqaG1hUE8ydnpOWEhadWdSMWVJUXRBSy1vT2Z2eUw1TFl0ZFRnN2JlNnhBLURZdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2495189513fc1a87",
+   "title": "【大分県】10/28の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2ZVRQQWFwS01Kd2tKa01vRHpTNDBmNWt5ci1abTNCZXVLNTI4Z053ZXZCUk1zN09nVzZTNEE1ekR5NXhIRkFZOEFFQ1lqUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8174502ec1c48cc7",
+   "title": "定数31議席削減案 各党が賛否表明へ 国民 総合的に判断へ",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66708",
+   "source": "NHK 主要",
+   "published": "2026-10-28T05:09:33+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b7238f7c043d5eca",
+   "title": "日商、８年ぶりインド訪問団＝中小企業進出増へ、人材獲得期待も",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RWnJIWHp5OER0WGRPZFVtb0FhSXotaEpBdUZJTXJCRkdMZTJwQjZxRUNtTWFDZV9qb2Y3M1RJVGpVNEdMZG1GU282cE92azdELW9rTUlINl9XRTh5YlEtYUNOMW5TV3VDM3loeGktanpxMjZiOS02bm9vVEbSAYIBQVVfeXFMT0pENjRERFhJWjdGUkxwYm1fcVhGY1l0bnZLcXhDRVJUQUxFcGt6Y3RaUmdVT3VKSGMzT2Zrcm9EN09CRHNtTi1WZmJNSHkxRE13MzdLQmhBRmhNT1liTVk4V2lSN1RndzVuMzdERmhwbjVPclhqTjdmU0pFYUw1OG9VQQ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-28T05:09:25+09:00",
+   "keywords": []
+  },
+  {
+   "id": "301116b43c665e7e",
+   "title": "きょう日独首脳会談 サプライチェーン強じん化など確認へ",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66709",
+   "source": "NHK 政治",
+   "published": "2026-10-28T05:08:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e667647650f29cfb",
+   "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+   "source": "NHK 主要",
+   "published": "2026-10-28T05:07:26+09:00",
+   "keywords": [
+    "GMO",
+    "懸賞",
+    "支払い"
+   ]
+  },
+  {
+   "id": "206546a3a24a208a",
+   "title": "来年産の主食用米需要“今年比最大50万トン近く少ない見通し”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66679",
+   "source": "NHK 経済",
+   "published": "2026-10-28T05:03:44+09:00",
+   "keywords": []
+  },
+  {
+   "id": "80815a3f888914d6",
+   "title": "10月28日（水）【岩手県】 日中・夜間の交通取締情報",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uMEVsakhmZE4xOWJwVmRsTk5mejJUdk9pYlFtOEtlLXlLWlI5ZzJYZlRwNFVCWlRySDZHaHp0Z0ZRak10cW9kZXJtaEFmZGJvcFRZa25Kaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1b98820131a23d4a",
+   "title": "キーエンス、高収益のノウハウ外販 ソフト導入企業は1000社超に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWTNXc3YxUndoZGNZUTdjTFEwcmZ4OElKOXFaSUtEU0xQUGxEM1F0djc5c3JPMUQ2SXY2YU12TV94SWxjQzNwMHJSejBaMDZVZGdyQ3R6SGVBbDRWQklNbzcwZERSTmxMU3pDYw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-28T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0fa296179364562b",
+   "title": "静銀経営コンサルティングとデジライズ、中小企業のAI導入を伴走支援",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ESlFscEQySC1GR2xPOUxIdDNEcnJFQVdmVVlTUzhTUXMxUEFCVHl2TXpQemNYRE00UzgzeDB4OVpxZnk0OWJIMjA4U3ExNHVZRmFkLXVGamlLT3haOXdYS1pTMFdOU0lSMHRzTw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-28T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ba3260f2e7013f99",
+   "title": "「国内洋上風力、今が買い」 公募事業に救済策、企業は営業まき直し",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vZlB0eTRaY2hPSEJyejA1S3pFWmFlSGlJWXNGNlBPNmRjaGJjY3dvdUxaV2xxNGRKUkVPbi01aW5oTFJHUkkxS2VBc2RhbVM2NjRGSXI2Q0FFbGtTNjVJT1ZPZDRqc0ZqQkdQQw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-28T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4b3e6a66692e4436",
+   "title": "中東向けに「ノンアル」かば焼き 埼玉企業、市場開拓に動く",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43cFNYbTVMSjRiODJpNk5IQ0IxRHhIT2k4MlEyZTJJWEZvdWVUMmhhS2xBc0dVZWhTdUZpR3otczN5emtzdFBqZFBoeWJjcU4zc0FWZXFqRm1Gd29ReXFSbG55aURZZmlxR0dmSg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-28T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b42be0eba1850cf4",
+   "title": "27歳経営者が挑んだ米企業買収、買収期限3日前で1億円不足のギリギリ勝負",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wM21NUTFseHlqdlZJdG0wRlNEdjZiSWhuSmh6dVlZV2Y1SENxZGlrRkFmdHBRZ1hjbnlGOEtTOE1QbFloRGZLT2lnaW9qTWdKZkU4M0toS1ZEVlgzRnhFbkpfS2lHWm8?oc=5",
+   "source": "日経ビジネス電子版",
+   "published": "2026-10-28T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "076cc836dcdd220e",
+   "title": "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWjZob3FTRzRLaXZVQTh0aVoxVlpZeUFuMU9RWFZHaWtscEtzR1gzdDh3VTBxaW5jS0wxWUJoNW84ZllNQmVZRV9NeEJXUkxNNDB4QWdSVFNDM2o1UzU4dlZR?oc=5",
+   "source": "日経ビジネス電子版",
+   "published": "2026-10-28T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "38c9a351f4d4431f",
+   "title": "【動画】永野芽郁「取材でキャバクラに…」舞台あいさつの様子",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RNXpOTGQ5Y3dUc1NXMVZFMWhEY0lCcGk2d1NnNHdsRkNWYzZuVGtfdGhNN2RpMlMyNk1OSlNVaVNtXzkzTXkxMHJ6YTdqaXc?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T04:40:33+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ce61c96e1e449313",
+   "title": "特殊詐欺Gの「かけ子」2人をUAEから移送し逮捕 「幸平一家」組員をリーダーとするグループか…被害総額は約5億7000万円とみられる 警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84RUlYWU1VbmpFemlCWWZpNndub1ZiZ0JjQWh0anBYTG1hNlMyVjd3S3BuMVRfNUF6MUZwSGhUb3VsMG1WaG44bFZzT181b1FKTWJIcHRvaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T04:39:27+09:00",
+   "keywords": []
+  },
+  {
+   "id": "79063691e170ed0b",
+   "title": "【波浪警報】北海道・石狩市に発表 04:18時点",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclozOEJwSUJ5VGdXcTQ1cmE0THlta05FaXN3QktqN21sLVhGMWM2OWhwYndmQ1d5cnh4ckFFanZfYi0wYm9RWkNabnoxelBjSU1XbEppWWVNb3ZJRGw0bnlBbDdPMGRyRWhvNDFCWlc4RkI1cnJsbHRTUHI1R0lzM1NB0gF0QVVfeXFMTmszcTZoVEVrWXV0VmZ4OUpybVVselNuSzdZbFJJZ2Z0NzJCVDhiQXBLbzhTSnJsVm10NV9KQ0ZNTUJfaklzcTFpUlNWbGZHMlZhYVRVeTBnU1l5MTJyRk9ZUmV4czljSVVIM1dEWGhRZkV1STI?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-28T04:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d611ef308f36dd0e",
+   "title": "GMO不正アクセス ハッカー特定に懸賞金1億5000万円 顧客へ見舞金支払いも発表（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFZrU3pMN0RxYU1HNFpTWFJEN09vYzg5ekVRcjhnQk1SS1ZFNGEwcnNpQmM1VDVCN1YtSk9FYm4wU2xTZGhuTmxBMF9qTjVjNUREQmo4QzFtWUZYOTNjamcwbEdabFd0Z2NWQ0w0a3lnM1RjZGI5dGtGcnI1Nzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T04:25:13+09:00",
+   "keywords": [
+    "GMO",
+    "GMO不正アクセス",
+    "懸賞",
+    "支払い",
+    "顧客"
+   ]
+  },
+  {
+   "id": "0b2c7df35bcfd3e9",
+   "title": "【波浪警報】北海道・石狩市に発表 04:18時点（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNzVsNDk3blEtQVdrU010Qk15d3NjSi1tbXZkTmlqUFNFNHpfN1Z1OEJlcTJFWmdObURRR1RQamxLR21pdGpiWExXS0xUb05XSzBaWFI2czViRWh1M3ZiV19ORjQ0ZjhWNGQzeFhKUmpZd0ZleFRWaWt1Si13MXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T04:25:11+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e123fe3b16a92a10",
+   "title": "【波浪警報】北海道・稚内市、豊富町、礼文町などに発表 04:05時点（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sRnJrTE9QNDllbk5aZFc2a1c2NTk3eHBNZF9zOU5FMWt5T0pRRVhyVERuQ0hpRXpoOFVubnplSWQ2eGxuVDBlaXdiTElYTGNPN2xaczUzVlhkVVNfX1dOVEY3aXVvd0E5U3dvTmxyLUY0a3FEZ3BTamVJTE51aGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-28T04:08:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4d8ecb1d2dbd63c9",
+   "title": "草間リチャード敬太、舞台復帰「ド緊張」も自信 屋良朝幸は「リチャード一択」と太鼓判",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5td0RxcDhKdUtJXzNRR1R3cEpFQlk1RFA4dkdscnBzNHIyRG9pWXZlUnUtWU9FdnBYT0J3Q1p4M2NvdUp6bXNXcTByeDdEQjVTa1JlNTVmYnd5TmNmZ3FBUXpoRHV4ZWF5MGQyVmxBY0M?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T04:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "226d1bfd9ff9228d",
+   "title": "通天閣開業70周年、古希祝い 大阪・新世界、訪日客で盛況",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MWWt5NGpBbHlzWWFvUFp2ZEFUXzdzTTFBNnpoR3BJYkRMRFlRb1YxOG8wQkE2b0FYMTZWMGhJa0EzNzRYUld1OS1KNA?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-28T03:58:33+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c23afd3999a7f943",
+   "title": "米テック企業、20歳のF1ドライバー後押し 最年少総合優勝へ王手",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ickhYQWhSNWx3dlhnN1FiZzRaVDhjTUk0OFB2Z2tpNTM3aGhuN2RudFBIaWRmdmhUa0ZPSmJBX3FERHpTNWRTYW1MMndlVGNJUEIycUlJbS0xWWVQbmdwX0tlQWFNQmlDdXJqZw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-28T03:49:16+09:00",
+   "keywords": []
+  },
+  {
+   "id": "50ab316321857c45",
+   "title": "震度2 熊本県天草・芦北地方 2026年10月28日03:32ごろ 地震詳細",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaFZaUXlHcDdsb2VBWjZBMzZ4N1haeGx1RXhjX2xNRjYzVzRxSm1ucUM0MnpFSUY1ZGo1S0lyaHppaXJlckx4SHVNREpxS0NGemN2V2RmOXlGcW1QdG5qM0VJYmtCek5FQUFfaWJEMFNpaWtJZkxIUUlMTThVTEFsRzFB?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T03:43:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5ab38b7d905a34fc",
+   "title": "5歳でデビューした元子役・村山輝星（16）、成長した姿に反響「昔も今も変わらずかわいいです」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoZHNYZ0dtNTNISjBGSUh2V0UyTElWRVowcEM4VDJIdWo2M2FQWnZ3dVREMWsyWkh3RWpndjVxZUZ5VFV1WGZaNHMteGwyYUZoNktCMWxnU2Z5RUZCVzg1cFNqVGpLMVZPN2cwOWhKWVI?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T03:15:44+09:00",
+   "keywords": []
+  },
+  {
+   "id": "fbf92a657f4c0ab3",
+   "title": "パックン、妻・芽衣さんが46歳の若さで死去 初公表しさまざまな反響「どれほどつらかったか…」「とてもお美しい奥様ですね」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HbVlpRUtYbXV6WHI4OU9INXRoa0VkUTloRjAtbkxuMkl2TlZJaXhac0h2OExhZktmWkNzcWZYRWY4aWtSQXpWRW51T0NKeHJQNHQ0SEhLX3p4NkpZelVUbGdienJpN2RHN2R0NDcyOXE?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T03:11:21+09:00",
+   "keywords": []
+  },
   {
    "id": "3de4ac7c2cfe1937",
    "title": "為替相場　　28日（日本時間　3時）",
@@ -1749,6 +2522,16 @@
    "keywords": []
   },
   {
+   "id": "efcee863993e1e0a",
+   "title": "【動画】セキュリティーの改善遅れる GMO社長「隙を突かれた」",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQbnpxNW5vZU1pOXNjSmpTTUJIY2gtQy1UTEVfMTVBa3NNdTJ4UEYwNHl0RjBBb2dCOFdqTkdWX3pkTTIzMHREUE96QjlPYVE?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T02:22:24+09:00",
+   "keywords": [
+    "GMO"
+   ]
+  },
+  {
    "id": "47ec6f5f73bc989c",
    "title": "「どちらにも賛同できない」“分断”で行き場失う票も…迫る中間選挙“MAGA”の本音は",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoV2VoY2hDVjIwN0ZwTmFBOXBEODZycEk0LV9fUEFqQ2pWdXJvekQ4cWhya0JrMXVsT1h4V1RnYXBSOVdLczQ5ZF9vQ2FSQmNNa2VVb2Qxc1d4NkZDOGRUX2ROblowS0poTExnZ3MzUXhMTEl3Rl9ZNEpR?oc=5",
@@ -1757,19 +2540,35 @@
    "keywords": []
   },
   {
+   "id": "9f2596d480e255af",
+   "title": "小田急線の線路を軽乗用車が約200ｍ走行…車の高齢女性1人死亡 乗客乗員にけがなし 28日の運転計画は「決まり次第お知らせ」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NZEExTkdIZk9nSDZWamh0VmRJYlJfUkZmOHZxZDhyVmVJVTB5QWw2UnY2RGR4bGNvYVMybmk3OE84T04wQnFjMGo2Nk91dGRJMVM3RGhsMA?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-28T02:02:25+09:00",
+   "keywords": [
+    "走行"
+   ]
+  },
+  {
    "id": "cdb229575dcf3513",
    "title": "アンソロピック、企業向け従量課金で8割稼ぐ OpenAIの逆張りで成長",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TklOT0JsT3gxQUplT005Yno1eVJNbXdpdjdUbFBzbEwyc01FellMQ2plRmlWMlZTSUJjRk04eXRxOFptZFpWbFAySUhwNHVwRERGeXVPWFlXa3pWdjctTE9rR0ItaGlTcUNzTg?oc=5",
    "source": "日本経済新聞",
    "published": "2026-10-28T02:00:00+09:00",
-   "keywords": [
-    "アンソロピック"
-   ]
+   "keywords": []
   },
   {
    "id": "e235fc809c673742",
    "title": "アシックス・ユーハイム…神戸企業、AIで飛躍 川崎重工は発電支える",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUDdLUHJhd0xrbE1Zb292R0FLZGg4M1lLM2pOUnh2QnlKQ2FOUXVDekp0cTN0ajFZR1k4Vks1TzZGV0lTSVoxZTlSdjR4bVAzMm9WWE56T2VuRFVmcTBxQXZMcXNxazBJVHhMZQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-28T02:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7414233b24db9a51",
+   "title": "大成建設、｢無借金｣の経営を転換 攻めの調達、有利子負債は3年で倍",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iN0ZQTWlNa2RKMXM0cWNUMzdOSXVzd3ZfYmVPUExPMkVpU2VieGVXSUF4bi1MX3dvMi02XzY5RlZVMTN6NDBHT1VlTEwzZEh6ZEo1ZFZYNlBBdzExQlN3anBzZEZVSS15aXBWbw?oc=5",
    "source": "日本経済新聞",
    "published": "2026-10-28T02:00:00+09:00",
    "keywords": []
@@ -1783,6 +2582,14 @@
    "keywords": [
     "ジョー"
    ]
+  },
+  {
+   "id": "7a7b1485723b4b7c",
+   "title": "9月の米新築住宅販売、0．6％減の67．6万戸＝商務省(時事通信)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUQxZS1SWGJjdlFKV2ppVW1Vc1V6ZUw1TFRMM1F1SUwtR3R2NlN2VGxTMmlJVnQ4b1FLWENDVGV6ME9PRXk4LUlTUS1YMExaUURtS1Jaa3UzTjJtbnhrdHNYbGVUal96NHBsM3YxbjBjd1ZnVHVwMkNoZm84b2swRkRXdHdVT3M?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-10-28T01:46:12+09:00",
+   "keywords": []
   },
   {
    "id": "5d4b421c9c139326",
@@ -1810,7 +2617,8 @@
    "published": "2026-10-28T01:38:20+09:00",
    "keywords": [
     "イスラエル",
-    "ネタニヤフ"
+    "ネタニヤフ",
+    "投票"
    ]
   },
   {
@@ -1830,7 +2638,10 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PRE9haHN2R3ZPZkFpdjF6U0JRRXk0R2hrYm5vRlFDd2ZrLXBwb1lzdXMtUVZZUmVJN3ZmYnJBa2swVFJ5Q0VpUnlRRWJ3V3V2U2R1MGJUVQ?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-28T01:21:25+09:00",
-   "keywords": []
+   "keywords": [
+    "GMO",
+    "懸賞"
+   ]
   },
   {
    "id": "9da552a71bb3b9a6",
@@ -1905,7 +2716,10 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS3lhbEN4ZjZBUUVPaUVJdFhOQlZUdjlaTHprN2w5OGtqT2NXUmVqRnJ0djVXTGVBQXBYWWgzMFZ1V2VRdzMtcjJ4eTIxQTYxYUtFOHVyRTN4UkVJcWZ5Rjd1UTUtcm5yUjgzQlFONWc0RkRaZFFZTWxxbm1jSFE?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-28T00:33:37+09:00",
-   "keywords": []
+   "keywords": [
+    "ユニクロ",
+    "一転"
+   ]
   },
   {
    "id": "6d1c3b338f42974e",
@@ -1914,6 +2728,7 @@
    "source": "Yahoo!ニュース",
    "published": "2026-10-28T00:33:37+09:00",
    "keywords": [
+    "GMO",
     "GMO攻撃"
    ]
   },
@@ -1923,7 +2738,10 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uV3U1QzlsY1Z0WEpKczZ4UjRtOVJoSnRmTGJianBITjVQY0hNVnhLRVVOZG1nN0Z4ZmtZdmhad3dnd3J5M2EyVHl6bTlfMFZYNkxjSkVnMA?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-28T00:32:21+09:00",
-   "keywords": []
+   "keywords": [
+    "ユニクロ",
+    "一転"
+   ]
   },
   {
    "id": "578818712cbd30b5",
@@ -1939,6 +2757,22 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tb2Y0RVNUT1BFNlRXVVRQbWttQ1hGSWZKUEt1S0hjZEtKS2E5Ni1wTHlZc0Nsa2s5VkxBTzVkY21Bd25EclZZRjdkR1VpdFBrTUdfVmswQQ?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-28T00:31:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c5742d6b835265a6",
+   "title": "【地震】福島県内で震度2 福島県沖を震源とする最大震度2の地震が発生 津波の心配なし",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15QThQVjZMWEF2VUx5OHR3VENsVEJHckRFcEJZRTdPXzFOZzRIMTNQZlQ0T3hHRGtvb2d3b3N6bEt1M3I5NG5DVVVodGY5Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-28T00:31:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2b1492616c03154e",
+   "title": "吉田栄作の妻・内山理名、野菜をたくさん入れた手料理を披露「カラフルになってしまいました」",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHZxakx2OFZwd1VPTEVUR2xQMmE4cDY3UV9DOW9OWGJjUEZWZE5NRXAzbkJfTllIVW9BbmtVRU41NGZDTS1nZUZLZll6ZlJJd19lLVdNbms2NG9fZ2luSnkwbWZ0M3M4dFVTWUlOR0tqZk16RmJXOWgyaVEtbVM0M3JR?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-28T00:30:00+09:00",
    "keywords": []
   },
   {
@@ -2024,10 +2858,26 @@
    ]
   },
   {
+   "id": "43678982120f1914",
+   "title": "「商品デザイン」のIP化でヒット連発 貝印の差別化担う専門組織",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDBkZWNQQ3Ziam1uajJYbVRpSzA2UGozS3JZOUw3NzhDTnNMS3UyQmstNDZIeXk4N3pORDZTeXZKamVyZWRpNkZTUzJqLTdSOWpRNkx3eGJaMFdzeENsOUVRTUdGektfNXdmZnZZZzhLb3RmOU1ROXlfalFmclkwNWFISTBqX0txRWU1MA?oc=5",
+   "source": "日経クロストレンド",
+   "published": "2026-10-28T00:01:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "cd5c159176317de8",
    "title": "「ビックリマン」の売り上げを10倍に ロッテ“IP活用の達人”のコラボ術",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1Z6ay1GNDE3WXpadlJWZTMwdkxURDlkUlR1Z0J2WjdULVpuTmFMSURfUjNiVk9RVUVRMWo5a3BpN0ZCODNLSGhwM1hZa1EwMXQxOVk5clRuaGlRRFlsbWFyTlhtbmNFeTlyNDBIUHY5MFNrQnJyenpIa1NUamk0Ql8xckZQb01pOHBJ?oc=5",
    "source": "日経クロストレンド",
+   "published": "2026-10-28T00:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "79f78c383747f1f3",
+   "title": "北川悠仁の妻・高島彩（47）、彩り鮮やかな子ども弁当披露「お弁当生活スタート」",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQejZVQ2lYM05CaWlVNnBNUHYwS29Zd3lSSVZFa1I5VTlYVjhhT1FYSFV0bml5TTJlZy1GNWNZeWdXQXNIV1dWcEkxejFneV82dVhFQ3BBOWtDeXJHZXkwUnpEcWJXTWJIay04YmlFY1pXbXBxZW1tX0JQSHlrRXZ0UVpB?oc=5",
+   "source": "テレ朝NEWS",
    "published": "2026-10-28T00:00:00+09:00",
    "keywords": []
   },
@@ -2064,6 +2914,14 @@
    "keywords": []
   },
   {
+   "id": "190333c3dea66d99",
+   "title": "川栄李奈（31）、子どもたちとハロウィーンを楽しむ様子を公開 4月に俳優・廣瀬智紀との離婚発表",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ya1FKeERYV2F0QlY5bFMzYk1ZS2x0X2I4b2FEclV4cGdobDc0Yk5TY0JOVFNhMWpPa3ZsMDlyd0puXzVGSUNOcVMybFlWNlBHelpIM0h0bnZnSUNOS05GUXdlTkVOWFpXUGVBSzJVd1E?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-27T23:45:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "97338380dd1f31f1",
    "title": "自転車2人乗りの規則見直し 都内で安全性を検討する会議",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66691",
@@ -2090,7 +2948,8 @@
    "keywords": [
     "イスラエル",
     "ネタニヤフ",
-    "ネタニヤフ首相"
+    "ネタニヤフ首相",
+    "投票"
    ]
   },
   {
@@ -2119,6 +2978,7 @@
    "published": "2026-10-27T23:36:15+09:00",
    "keywords": [
     "イスラエル",
+    "投票",
     "続投"
    ]
   },
@@ -2147,868 +3007,6 @@
    "keywords": [
     "アンモニア"
    ]
-  },
-  {
-   "id": "cdce3c869d4aaa5a",
-   "title": "駐ロシア大使が北海道新聞の記者の即時解放を改めて求める ロシア外務次官と会談（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVndlTE15SzFoTTdnNmc3WXE2S0U3M2kwWnBtMmEyOTBGbzNyNFZKdU9PZGZSaVo2cnFyTGVFSnNFamQ2WFlydEx5cktQNXBWLUxVSklpanNPVElER1pLc2RFSmh1YTBWNnZNM0ZEM281WUhQOHJROUktbkV3WHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T23:27:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "81dce5604d2d0511",
-   "title": "GMO不正アクセス 警視庁が捜査",
-   "url": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-27T23:14:04+09:00",
-   "keywords": [
-    "GMO不正アクセス"
-   ]
-  },
-  {
-   "id": "edc80f081e0770f6",
-   "title": "新東名で原付バイクと車が衝突 原付に乗っていた高齢とみられる男性死亡 新東名に進入した経路など調べる方針",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TUENnWVBHZkw5NUZPTlBBUUd0NXZoWXBPZ21mRDFIVWlLNU9aX043LVhtaUxYVTd5aGhuR3EyQ2ZjTkFnVkNZajZ4a21GUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T23:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "371367824af7545f",
-   "title": "「法のあるべき解釈適用を深く考えたい」最高裁・山元新判事 就任会見で",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01NVJvTFJvb05rc2l4a0tPNnN3VHZmcHdJejBkaGlocU5wR0s0dTRnNjNCWHIteWRrNXVzUEJCWjY2TG1DWldTYmJpc2oyd0RhV2hxbXdGODhJWkk0bzBSUloycFhKcDNxRXVUalY5eE5rQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T23:08:52+09:00",
-   "keywords": []
-  },
-  {
-   "id": "fd51cb4174bf3b09",
-   "title": "散歩中に「たばこをくれ」断ったら刺される 刺した男は逃走中 東京・江戸川区",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82UHNCVVllQWdRVDBJaTJXX2FJMEMxTWRRSnhnazN4Qml2anlSYVUtN0FSTEo5VjZoSm1IYmx1TFRVdW52SXV6UzhrRV9uOXpVeGxjaTh0RjIwQnpNT0VUTDdsVk5FVmNwOEZ3MnpqS2Y3Zw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T23:07:35+09:00",
-   "keywords": []
-  },
-  {
-   "id": "440e7d07e0744a87",
-   "title": "NY株、小動きで始まる",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCcXFvaDhsSl8xcXFyMWhkVGtkWWZkWUZPVzVhT0hIckg3RWs4TjIwUndlWjF1dUR2eU10QTdDcWlvb19XamVNMXBLaWRWc0JlN0Z5QkdHZGZZR09JY05QT3JTVQ?oc=5",
-   "source": "nippon.com",
-   "published": "2026-10-27T22:54:03+09:00",
-   "keywords": []
-  },
-  {
-   "id": "51bd3b6e9f0cf88a",
-   "title": "ＮＹ株、小動きで始まる",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jNFBFS0UyTHdnbHA4UmE5ZGVLdlNBanlpSmN4dVRaX1NybE5veWJMTWlLY2ZrX2ZNZzk3RXBzQkFiRlZDbk9uaTRGYUpUeWF0RUtRdlRqTEcyWndYMlE?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-27T22:53:38+09:00",
-   "keywords": []
-  },
-  {
-   "id": "01fa3cc521eba594",
-   "title": "「日々研鑽に努めたい」最高裁判事に就任した山元裕史氏が会見で抱負語る 検察官出身（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aVNyQU9SLUhySHhSdVc1LTd5ZVNKeUZoY1pTcnBiQVF3UTNtTnltNXdHb2dsMjJreXlmNGdETERaVnlCMWppTzFUNl80YzJwUEo1RDNXcFBKNnRidFlxbmZfNG1vVmF0UGdaSVh2NGJRV1RadkI5YTl0UkhGQWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T22:51:44+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5c91d540e69b063b",
-   "title": "北九州市の小学校でタブレット端末が異常発熱 女子児童1人やけど 市内全ての小中学校などで使用を一時停止 福岡",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfb1FuS1UxZVBhdVJPd00zbTFjR3lhZlExX3EyV29QSFJFYkFzcC1RM2FWZ0VtY0NpM293NVNlejl4Q3oyazZSSWpqS0dMUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T22:50:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3a70727522841687",
-   "title": "GMO、身代金1.5億円を拒否 攻撃者は顧客1人の情報公開か",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Zd0hhWEYxT1luOEtHWTVkUkpIR2JiVzFDLWo1My1ibHJSd3dQMUhpY2pmTGwyT2tmeTljeWJyXy1wbFR0blE5QVh0OA?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-27T22:48:00+09:00",
-   "keywords": [
-    "情報公開",
-    "顧客"
-   ]
-  },
-  {
-   "id": "d88e0f7cac375e6f",
-   "title": "日商、アニメのインド進出支援",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xbjhVeUpCNEhwM1FvOUhLOGlYSVh3emdULVlyd2FTdE00dUdWOUtjbWJqWjJiMDVkMWttUjdSRk5lOUVOSEVVOE5kR211emg3c1pSRGhEQzZCdF95QmpLSkNmb1dsODdu?oc=5",
-   "source": "カナロコ",
-   "published": "2026-10-27T22:33:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3aef38b56ce01f92",
-   "title": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66670",
-   "source": "NHK 経済",
-   "published": "2026-10-27T22:29:53+09:00",
-   "keywords": [
-    "顧客"
-   ]
-  },
-  {
-   "id": "4e462a81bc486435",
-   "title": "福田元総理の遺族に習主席が弔電 「日中友好とアジアの協力促進に貢献」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwakdVTm4teVBDUXZIbW50N3MxUWdpVmM0d0NMMG5GbllEMC0zVUgzVkttZFpVd2FzeUZaYmhqa09KZ1FZR0xFMU9EUzJrVzlnQ2VKa2tXNzV0Y3h5VkxXYTVZMXVGU1owZUVObUk4TGgxRG9aVDJBb2xR?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T22:28:42+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a9459c56bc1082d2",
-   "title": "農相の関連団体 計85万円の不記載",
-   "url": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
-   "source": "Yahoo 国内",
-   "published": "2026-10-27T22:26:11+09:00",
-   "keywords": []
-  },
-  {
-   "id": "cd842ab87f4f6523",
-   "title": "車横転し死亡 定員乗車に潜む危険",
-   "url": "https://news.yahoo.co.jp/pickup/6600347?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-27T22:22:24+09:00",
-   "keywords": []
-  },
-  {
-   "id": "dc79898013cf39a8",
-   "title": "25歳店長自殺 スマホに残した動画",
-   "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-27T22:17:18+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9d537938c355df63",
-   "title": "熊本県で最大震度2の地震 熊本県・水俣市（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNWZiVk5aeS1FU3l4LU5YNzM4MnBBOUI0WFVvWXNBYWt3MDhtUnN0ckFCZUlFX3QtN193NkwwRGxqems1ZW9nLWJzdXNzUWluc1pPaGVYNkQtRkg1WE1MZW1lS0cxMHpnejlVUmEtSklyZzBhei1COXJGcGJ1TEk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T22:15:31+09:00",
-   "keywords": [
-    "水俣"
-   ]
-  },
-  {
-   "id": "1055014ace61181f",
-   "title": "熊本県で最大震度2の地震 熊本県・水俣市（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40SEZoTlZxNmNiUWl3OFhhc3lVQXN6cVBEYjJUcFdFYS1nTlotS0ItcUhBaXFaR0xFcGVPaDRNcldnXy1pR0VXb2RJdXg4UGxpaEZOcGw4RmdadDRKbEx6bzFLLVZHbHJ0Vjd3dzloNWlTZndlYWwxTkZGaFJtd0U?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T22:13:18+09:00",
-   "keywords": [
-    "水俣"
-   ]
-  },
-  {
-   "id": "92437988f233357c",
-   "title": "熊本県で最大震度2の地震 熊本県・水俣市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lM1QtUndCNjNDUkNRUVpzYlZRUl81Wm9McVJhM2JPYXZnZzBRTkZpck81UmJ1eTRhamNsbUxLRnBfSmtlRmVGc0c5TXVOMDZ2NjlXVWZjSQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T22:13:00+09:00",
-   "keywords": [
-    "水俣"
-   ]
-  },
-  {
-   "id": "35d71d9a5eba10c5",
-   "title": "北村一輝「家族で見られる作品に」主演「猫侍」復活 新作企画発案、脚本にも参加",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaS0dwT2NCVU9Fc0tBTFJHZ2NTUTJPZEpxUUZVT3lnRmQ4WmdJa3lpSHZYRlV4b01WUzBfVVpYdHhVQWhsRFo0Z1ptZUtmcmtpNGpHLWVJZXFzaGYxUEs2MG5ybVRTVXZYN0tEVjRlTkw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T22:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "20512b88ce0ba4de",
-   "title": "自衛隊員や家族の支援体制強化を 自民議連が小泉防衛大臣に提言",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91TGF6YXFUeGpNZGJZeHFZNkFaeFVQbU4tZWQyT1Q3Q3M0YlNrZThfT3Y2Q0pWV2cyQ2std1V5bXBsa21IWWRJQUxmekdSYl81ZlJMQWlldkdqY2FPZkhIUnBKdllSRzlsbHB3RmI4a1E5TWs?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T22:09:37+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1c852388f77bf8a4",
-   "title": "安保3文書の有識者会議“増税も選択肢として排除せず”の意見",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66665",
-   "source": "NHK 社会",
-   "published": "2026-10-27T22:05:32+09:00",
-   "keywords": [
-    "安保"
-   ]
-  },
-  {
-   "id": "df7b470f0dd5b4f2",
-   "title": "SNSで知り合った中学生にみだらな行為か タクシー運転手の男逮捕 山梨・甲府市",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZGJiNW1NSlo5dFR5eERjMDZyaEVFdFdZLWkwSEY0SnE1YkZMcUR4dTJRQms5T2xWRnpOY285YjhWeFMxSjFYNlJpVnhpZVNPUVFTeXR3R1JFSjFkUW5EMVhUdURIN3UyNnVKUm5kTmFOUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T22:01:38+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e8a68c8f34e294da",
-   "title": "将棋「王座戦」広瀬九段がタイトル奪取 伊藤二冠との接戦制す",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66666",
-   "source": "NHK 科学文化",
-   "published": "2026-10-27T22:01:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7ac08baaf82a7d21",
-   "title": "副首都 要件満たせば4道府県指定",
-   "url": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
-   "source": "Yahoo 国内",
-   "published": "2026-10-27T21:56:31+09:00",
-   "keywords": [
-    "指定",
-    "要件",
-    "道府県"
-   ]
-  },
-  {
-   "id": "e9f925727356a163",
-   "title": "「今でも忘れられません」柊太朗、誕生日に初写真集 バリ島・ウブドでの撮影を振り返る",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSS1adXdmUDZxZ1p4VlJyajhSVUphYVRlWlp2QjViQV9tYkJrZHNyamx1Q0hhTmNKcWdERjNCbXN5QnVaNDA5SVZyZHR4cmlwU0poZ2d6Qmt0U0xXRnc4TDVCM0xDbmcyLXgwTGxseHE?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T21:55:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9f7193f2e79c0dd5",
-   "title": "東電・柏崎刈羽原発6号機 原子力規制委が“30年超運転”を認可",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51VVkxdUFTU3A2bFlZWkdTdVl1VVpmWGZBUm5RUXRrdDhiQjJvRHN3LXJqSzNScEo2cEJqaWZQZGtwY3cwM2xZT0xXNG9QTU1HOEVZdHZXZHI4UC1mX0ZJR0FDLUZhV1hON0ZPY0p5RmhyUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T21:48:39+09:00",
-   "keywords": []
-  },
-  {
-   "id": "53c8ccd26f011444",
-   "title": "ＮＹ円、１５７円７４〜８４銭",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLaEFxVlJ4ZDhHMmJpTG5yWHV0MGZIcmI5eDFDdVUtOW9xNUJ2TllnN080dUotNjZfOU4wWEVmbGtuR2FkdWtLSmNpYm5yNXEzbUVRZkZGeXlPRDNHVTBnVmxZOTdiVXRO?oc=5",
-   "source": "カナロコ",
-   "published": "2026-10-27T21:48:14+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d2f0355574b61da7",
-   "title": "ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66660",
-   "source": "NHK 経済",
-   "published": "2026-10-27T21:45:13+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c08985c7ec07d1ae",
-   "title": "【波浪警報】北海道・松前町、八雲町熊石、江差町などに発表 21:39時点（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWGl3WUQ0NmN1aGhkbUs1RnJWRXdvTVFqRjRNYUZyQjhaWVRvOURueW8zcTdqaDBhbEprd05pVjhGNklESWJYcl9reXNIUFZMZzhVLXFxdVVtQkt0bE1NU1hnQkxWeXJ0cWlkeWpCTHY1WHZsWVVrV0RrWXoyVU0?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T21:41:14+09:00",
-   "keywords": []
-  },
-  {
-   "id": "64e5721812d033e4",
-   "title": "左折トラックが横断歩道の小学4年生の女児を巻き込む 全身強く打つケガ 運転手逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01V3FiTk5tSnlRLW5veFZQSFZiYlRvNFNwdkhQdWI2a2NaSzMwZ0xTZ1UzMzNsVVREdXVkc0gxTi1ScXFIQVJ0YmNaLTFtUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T21:40:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "386f75161115a3b1",
-   "title": "千葉・袖ケ浦市で違法な盛り土か 男2人再逮捕 別の盛り土は台風25号で土砂崩れ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12Y05VU2psclcwM0pIWFIySkpFQTlsbnA0SzRCbFViUWJrWEg1Y0hfc0FSTUMwcldhdDRSdXlHLW5DYUMtRFAwSElHQ3pUajdrSTRhSVV6Rzg3NmFsWWJfUVlFdWxfTTJVZnZ3UWp1bjl5UQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T21:34:55+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8170af66b8b97b4e",
-   "title": "GMO 被害者に最大300万円見舞金",
-   "url": "https://news.yahoo.co.jp/pickup/6600341?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-27T21:34:38+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d5baaad8b80cfe55",
-   "title": "【速報】「たばこをくれと声をかけられ…」 東京・江戸川区の河川敷で男性が足を刃物で刺される 刺したのは男とみられ逃走中 傷害の疑いで行方追う 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lQ1poSURMYlo2M2UteDhqX1ZYbUI1UHQ1WXBMQmhsX3FBb0h0cHJ5c3F1U0RtaDZyTEx0T1kxMzF3R1o5TWJXYVJPVHJnTVRKU242eTU3cw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T21:34:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e04f111006eab109",
-   "title": "秋の花粉症にご注意 「喉がガラっとしちゃう」ジグザグ気温の寒暖差で体調不良相次ぐ（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VEd6ZVFRTEhxRVJHc1Q5X1g4UDlGVzlqRVhGRHZLZWdxakw2UDV1VDkxN18zWmJpYmthRWJoUUxLc1lrU00zS190djVTZXk4SDNQRkV0cWN2ZGNoUVg2OTY1VHRXMllnRGRCUXVDUHBTN0hKM3k0ZmxHWXVfbjA?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T21:31:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "cc9db84701905a5f",
-   "title": "SBがサヨナラ勝ち 日本一へ王手",
-   "url": "https://news.yahoo.co.jp/pickup/6600345?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-27T21:30:32+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ae10988a2edf3c9b",
-   "title": "レジャー市場は微増 物価高の影響も レジャー白書",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14ZmxZa09SdTZXRGZSbXE4ai1kMEdDWUVwVGM1Q3U1R3lkM1ZUNGh2VkhRNVFuSVBSUWVZUW1LM0hreHZkOUJtdGVYZXlmOXZPZWNOQU54c2xhZ2RIc2Z4ZDBGRzBOMDdoMU1KVGIzVUd4dw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T21:29:56+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9e2e491e2810911b",
-   "title": "テニス大坂なおみ 日本での大会 1回戦をストレート勝ち",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66652",
-   "source": "NHK 主要",
-   "published": "2026-10-27T21:26:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "41d300d1c8c79afc",
-   "title": "北欧2カ国首脳がプーチン氏と電話会談 3カ国協議前にウクライナ侵攻終結へ意見交換",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oUEJud3pjRmxncHlJY19aUkFqSU5ydnl3WjZfRVNEakxkZndvTzkxUU9vRnM4M0VPT05wUW5mZTBKdkhhakt0LWt3b0FOMWloUDd4ZUZTbmNKN2hFZ2hkV2llaFB0OGtEWjNWa2VSUW5HVzM4QUVOc293?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T21:24:57+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1badf8b1a70f39cf",
-   "title": "【気象予報士解説】非常に強い台風31号 県内への影響は？ 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wZW4xYWliR09WV0tTeUIxaS0xc0ZucFBVZ18xZmhJUmdCTkF2d0xPZ292Zlh0V1pqd1RXSmFKQVlSU2NNcVVjUWQ0ZVQxVnJhcldSMFNsaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T21:24:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f0683e2d840287ba",
-   "title": "日本生命 元社員が診断書偽造で給付金を不正に受給",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66643",
-   "source": "NHK 主要",
-   "published": "2026-10-27T21:23:04+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a08c3f46a123c460",
-   "title": "金利上昇で価格下落の投信売却 今年度決算赤字へ JAさが",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66647",
-   "source": "NHK 経済",
-   "published": "2026-10-27T21:22:07+09:00",
-   "keywords": []
-  },
-  {
-   "id": "932b2b9f8850e908",
-   "title": "クールジャパン機構に関する中間整理 「投資の判断が不十分」",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66644",
-   "source": "NHK 経済",
-   "published": "2026-10-27T21:21:14+09:00",
-   "keywords": []
-  },
-  {
-   "id": "548c5e015d3bd1e3",
-   "title": "ユニクロ、ソックスの値上げ中止 まとめ買いも継続：時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96MVVoN0ZuMEwxVThyc1FGV1dwdUJIc3R3X0lIRWVIYWp3M2MtVzA2VVlhR29iWkJiY092QkRDaU9VbUlKLW9xYmNxMEF2a3E2dWR6RUtlN0RvS0I0NmNGMU0wRQ?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-10-27T21:17:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "18d7ff699de88cf2",
-   "title": "栗原市内で自転車がトラックにはねられる事故 60代男性意識不明の重体 宮城",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1seDVCT0w5UVU1MkV6SGg2bV9WRmczNEtXVGFuX1l4VlJFa01Ba0psd2FwQTBlSnhFYk1JM1E2bW11dDJVWUtKNVpBYXlkNjhHR0NYdHJiMXEtdXNoX0EtZzFKbUE?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T21:13:00+09:00",
-   "keywords": [
-    "自転車"
-   ]
-  },
-  {
-   "id": "fb8b4cd8467f0c71",
-   "title": "【速報・ソフトバンク】3試合連続延長戦突入！9回ウラに牧原が劇的同点タイムリー 9回ウラ終了",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NQXBRODJYNFdJWnVIWGNOYkdrVkhJOW1VXzNnN3pDSWNVN0k5UDktOHdqLVBPeWhJYTlDdXRINVQ0ai1nVlFIUEV1VVJOcnhsYTZjSE9Zbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T21:12:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6df61742d217b9b2",
-   "title": "俳優・おかやまはじめ、33歳年下の杜菜摘と結婚 「人生って何が起こるか分からない」",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0bk5IdVR0RmpPWEVuWFd4dHJNaGFFeHkzZGVBVUNOdzU1dU55VTlKUVRaUDVRUV9ReFlReWVQRG5qdzBnd3BCc1BBQnZYZWpKVm5zbFhHVzE4TWJmMGtXc01KLW5ROXZPbFpSRzkxNnI?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T21:12:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e3faca97b1d2e589",
-   "title": "【ヒグマ速報】国道沿いの橋付近を”うろつくクマ”の姿をキャッチ…町内では目撃情報相次ぐ（10月に入り15件）警察や町が注意呼びかけ＜北海道愛別町",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00Q2xwWmh5elp3eHY4dWZyLUtMZ0VsOWdETjYyWmJCM1E3Y1ZZOGNPX3FYQjU3QnhrSWdZX3puSjlCdzRyLXhOSzNGSWpvUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T21:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a339740f06f7713c",
-   "title": "金融庁長官「成長投資を拡大する段階に 海外マネーが不可欠」",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66639",
-   "source": "NHK 社会",
-   "published": "2026-10-27T21:09:29+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ff2f4c750ad83f65",
-   "title": "ＧＭＯの顧客情報公開 見舞金、最大３００万円―不正アクセス、懸賞金１．５億円",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53d21WZmxQV2JCcW9HS01WRUhNOW44UW5mbWxjSTFCZFhqa2ZZNGpmaGJjclRGV0lzN0RvX2Z1NUNHTHlCRTBVc0xvUmJaU3ZwUUZLY09YN1FTMDlDMmlnVTI2aw?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-10-27T21:04:00+09:00",
-   "keywords": [
-    "顧客"
-   ]
-  },
-  {
-   "id": "dacc96366d05920b",
-   "title": "絡める!飲める!家でも簡単アレンジも! 個性が光る「ナポリタン」の世界【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jd251MmVLTlVJc0lyUGl4aXBBVjFrWWtaNEpEY0x0b1VGeDBwOWk3VmdDYUhVU0kxcFVIRTA5b1VhU3I5RHp0MWh3T3Y0Q0phUTEwVHBza0xqUW1uODdVamg4M2IwODdNU21BbjljbzRrQ29pZDJjcXlCNmRDckU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T21:03:17+09:00",
-   "keywords": []
-  },
-  {
-   "id": "94d317b7a2441d90",
-   "title": "画像・写真：月例経済報告等に関する関係閣僚会議：時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RZkNBdzNpc1ZINGpMUzBqdlhUc2xtd28tWUpKcjNnRDRwSGVMNDZQNGd0T1VvamhBUE4xeFgxQk5GYnhrbXZjX1BROERWN25lQWd4b1IwN0lOXzlpZ1QzbnEwdDg?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-10-27T21:02:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1f12cf6d9db8abf7",
-   "title": "10月の月例経済報告 「緩やかに回復」を維持",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66635",
-   "source": "NHK 経済",
-   "published": "2026-10-27T21:01:50+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d8b75062dd1ffc8a",
-   "title": "「楽しくつながる」復興の歩み 中越地震から22年 山古志の集いに歌声と笑顔（FNNプライムオンライン）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uSVkwRzlHbFZPTWZPWWl2Q0xBT0lTMVNJZC1xSTVMU1RGQ24yVVFvdEstaXFrWUtwZ1RTRmIwbndSOXF5XzY4bWgzVFJpcG80UmpJbVFUMGhXdzQwUDNEbWFSNWdGZV9Tdzh0TkpMM19INW05Z29SbXVXRUZTNnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T21:00:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c73177ad39f83882",
-   "title": "10歳男児に軽傷負わせ逃走 ひき逃げ事件として捜査 逃走したのは乗用車か",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xVWRodll1Nmdwa1JJOWdyWDNEU0UyY3RTVzZ2WlVfSmNScnRXY2ZmZ2J2OUtlOUdWQzNVSjZ3S3RVaUpKTXZkQlhzU3hfUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T21:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "bab5e766badec4e6",
-   "title": "【会見詳報】「卑劣な行為、断じて許されるものではない」木原官房長官が非難 GMO不正アクセスで“攻撃者”が情報公開か 「被害情報を拡散するような行動は控えて」",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42eDlEUTU3cUlJNFVDNmlHUmlwTWg3UzJFanBBa2dfQXUxQXA1YUpjeV8yejBlZXJZbVRUUHNYTEFPT3kwS3dSY0oxdjdfdlN4VFc3Y0lVTnhzRzRXZ3c4T0dDT1k0Ym40dlpDU3JYN1NXM2c?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T20:59:17+09:00",
-   "keywords": [
-    "GMO不正アクセス",
-    "情報公開"
-   ]
-  },
-  {
-   "id": "ea2a665909cfa75a",
-   "title": "新宿のビル一室でポーカー賭博させた疑い 男5人を逮捕 1億2000万円荒稼ぎか 客7人も逮捕",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OSWVhQVZIZVNlQkZSSjNMVEp4Vk5LLVhYdkI5QjBBTDlhVWhqLS1iUVFBdlRBOE5Ed25FbWw0Ync5SUIwTHpSLXR6bm9STWEwdUkxM3N5R1FLWml2d2hDSF9hWnZUeUdpbjJqRHdOc25DUEVqaUlQX1RZMGM2MkE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:58:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8d7c41f9fd63cf8b",
-   "title": "震度1 千葉県北東部 2026年10月27日20:50ごろ 地震詳細",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQTlOcUFEa2hlakpBSVZFcElhcF9WdXNhem5IWEpIeFBnbUFBNy12d3BackU4TE9Ub3hKSk5QMjdvbkhfWURZMmFlaWl3UDBOSHc4YXVQWTBpUzd1d0t5N0VKNF9NN2VGclAyRnJkNHlyVTdRcmMtSkJuQTNyZDVqSVBB?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T20:57:47+09:00",
-   "keywords": []
-  },
-  {
-   "id": "755b38d0293bae44",
-   "title": "特別委でなければ審議認めず",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wS3B0MzdWUi1SSE1FOUQ4am9PdHZvbTk5WHZweXk3cUhaTGhORFd6UHZDMjN2cEdEWUszVWlaV0hTeFV5Ui1aam95WkQ4U3hmb0E?oc=5",
-   "source": "調布経済新聞",
-   "published": "2026-10-27T20:57:36+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6d2587816a98624a",
-   "title": "千葉県で最大震度1の地震 千葉県・一宮町、長南町 (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbUZGMlNyTkM5NEJtMkNVSUdtVThnbGRjSEpDVG1fUzBmQjhBYjFFV1BvZ2s3Z0ZXcWhwYVo3WVVIUlF6NDZZc1JuMlF3cFJlMldKemtPVi1jdndDQlAtSU5QZTF4eHFvYVlNVkhnTVRteVpFWmpqM3ZaZURWTHI0SDNDUHl4Y3ktWGhpb3N3?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:55:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b0daec543a6d9010",
-   "title": "千葉県で最大震度1の地震 千葉県・一宮町、長南町（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jZENDRllLSjNkVng3blNEVjhkQTcxWFljdTlLT1k0b21BRTZPclRjbDktRjM4eVZDTS1PaThvRTVCOUlEdlNqY0VSMDRoVEYtOS12VlhaMUpGMC1VSzVacTNmdHdLVy1sUUY2M3dNRTJ5WjE2OUh0RENUa1NWb0E?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:55:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4fa48a25529230e7",
-   "title": "岩井コスモ問題受け業界全体で再発防止 日本取引所グループCEO",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66636",
-   "source": "NHK 経済",
-   "published": "2026-10-27T20:55:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0a7ff5f0cb63e88c",
-   "title": "千葉県で最大震度1の地震 千葉県・一宮町、長南町（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVZEs2ekY1eHNTVlZ2NGttUzY2dGFIWE1mUExjbnZFZ1FjTnJDT3ZLMnctTWhZcEYzVHpkdmlxdUdIQTdNbEJQd3NCUnozTk9NMUt3azZFY2tfU0JuUTNnMTdEd0g0a1haaTBuR25TMmoxUGFIY2NXZWxqU1gxcXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:54:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0e43a93ca1560119",
-   "title": "千葉県で最大震度1の地震 千葉県・一宮町、長南町",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53WmFyc0luX3lyV3RRQnYyS19HdU5LUG5tRXlKOGhxOGw1Z2x0ZkNWMFFhQTNibHNwVjl3T1F3RHJvWGJJTWpuNncwZ3NGU0Y2anFteVZYQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T20:53:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5b3f8a5ad1b1df01",
-   "title": "「痛い！助けて！」女性襲撃の瞬間 刃物で刺され病院に搬送 52歳男を逮捕 「意味が分からない知らない」容疑を否認",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1seS1oWlRjUFNHRnpiTnEwa3g1T2dPTF9XUVNzaVJnRHFUMmN1SEpLY1M3UW43UllrcWcyc1JiQWl2Y0pwbTJBcWVoWl9oZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T20:52:00+09:00",
-   "keywords": [
-    "否認"
-   ]
-  },
-  {
-   "id": "1f960e9a1b28d8ca",
-   "title": "「生活費のため」廃校の小学校から蛇口・シャワーヘッド盗んだか 29歳男を逮捕 計133点272万円相当を窃盗疑い 栃木・日光市",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uZTJ5Unk1cEVtT3FKOVpXOXBYbnprN2VmRXZqem9Ic19DeXZUaXYtV2d6cU9vQTVManoxWEpkVEk3TTl2WDhmVlZMdmcyRFFrWWJzcjhTVXY1c2poN2E2X2JqYU4yVDlPeHhOdUFSc1VBejd2ajJhRWRIcXFieFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:51:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3f5bc58fc29914cd",
-   "title": "So-netなど258万件超が漏えい",
-   "url": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-27T20:46:12+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ebac32f5ac9d37e7",
-   "title": "GMO情報公開確認したユーザーに最大300万円 懸賞金総額100万ドルで情報提供も呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80ZWY3VUltYjhJNFZFQ3JJWXd4U0p1LU8wbGxncldnMks5SFcybGdHaFowZ0JwZUFiclVlYi1rb2JHRk5UOFUtMjVNQ1l0cnJYazZEQ0VHOWhWRmxyanNqMXoyTWN6UkVYR2hKM1pfSk1fZw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T20:45:13+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0cbb2dd189b224e8",
-   "title": "【独自】備蓄米10万トン追加買い戻し 27年生産目安、大幅減産へ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxYy1IRmZHdENuRzg4ZDgtUzRqdnhwaVZGckJEdkM3OURFQmFmZVJBODZBcFZvSUt6dEttSHVzVEE5MG1rcWxiMTJhTQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-27T20:45:00+09:00",
-   "keywords": [
-    "備蓄"
-   ]
-  },
-  {
-   "id": "d6b3380b8d8fc483",
-   "title": "GMO攻撃者が“利用者情報”公開 “順次毎日正午に公開へ”（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeC05SFRvbm5GMTh3ZlE0eWNPRUdNT0lPQjlUVDZRWGVPMFBUZnZTTUUwN3VGcWFHSDBSSFFLaUhWSXBNc25HNm5tck1KNkJXdVVqSHRJU2haVWs0UTVqVUc5Vlc0d3BGM1o0RVd6dkVCb0dyVG10MlhaZUlVbUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:44:19+09:00",
-   "keywords": [
-    "GMO攻撃"
-   ]
-  },
-  {
-   "id": "3444af336197fe22",
-   "title": "【速報】GMOが犯人特定に懸賞金 総額で最大約1億5000万円 28日正午から専用窓口を開く 不正アクセス問題めぐり",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWHk2ZVJIZjJYTDVET3Q3ck13WHNkODRnTHZYR0xmU3FTSVlRZ0RfYzZLZXNFMTU5NUwzMVhReU4xeUk2Yy00QzBBQTJvNWJmaHo3aTc5dw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T20:43:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "23d1854da5df1b86",
-   "title": "VIVANT 樊林杏 役【宮下今日子】穏やかな表情「シャキ城近くのカフェ」ロケ地オフショットを公開",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52OE1hVXlYdFprcUwyWEticEVOS2laVVBqOWdNTmpmVnpFb0p1TkIyTko1RnhQSm9uc2k3NFM5Z04zUkMtSVpramhjM2hibjlVYXZYSENfMjQ3c0xxOTZfVmlPREFJOFBRbW1QeXJkZ3lIT19LT0RmWEJ4cURyN00?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:43:12+09:00",
-   "keywords": []
-  },
-  {
-   "id": "705ffbf8b5241bd8",
-   "title": "ユニクロ 50色ソックス値上げ撤回",
-   "url": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
-   "source": "Yahoo 経済",
-   "published": "2026-10-27T20:42:48+09:00",
-   "keywords": []
-  },
-  {
-   "id": "74eca70f8a8e10b2",
-   "title": "千葉豪雨から2カ月もマンションで断水続く「トイレが切実」水を持って階段で毎日10階に 進まぬ復旧",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83c0VmWlBCb2RzWDFiSWZxb2NrMThNS3loRXdJOS1OVnVudElsdFJQVnpKSTJIckZ6d1U0Tmh3ME1YSGUxOUg0SnZPT1F4OUR5WW1FanRWWTN2Q3hWbkM3d1RGMVlpNDlXNl9JNUthRm5aeUJMTEVaa2xhOWpTUmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:40:31+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5245592833caac9b",
-   "title": "GMO 情報提供者に総額1.5億円",
-   "url": "https://news.yahoo.co.jp/pickup/6600337?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-27T20:39:38+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7cf32cf637fea7f6",
-   "title": "片山財務相 消費税減税の買い控えと駆け込み 関係省庁で対処",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
-   "source": "NHK 経済",
-   "published": "2026-10-27T20:39:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b615bb93bd8754d2",
-   "title": "ゴミ出しに“ネット使わない”新対策 荒らすカラスに特殊形状ワイヤーとローラで解決の一手へ 清潔でストレス軽減、早速効果も",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CdXRLb0phUUF6REhvSkdqU2duZ3RicVRmRlNxOXphS1NBZW53VU5rbktTZWJuWEo4YVlJazl2VmFaN1NFVFlGc1JCUmVONkVDa01OY2QyclVxOFBXZ24wTHhFRHVNc19UdDhKZzJNSnhWN1Rma3p6aFFEVlpmNWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:38:22+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6e2d4cdc13d55058",
-   "title": "“不適切出張”で県の昨年度決算が認定されず継続審査に 岩手県議会9月定例会閉会",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWVkNiMUpCVFM0R0dxa1VZRVRENzl4YS1nMUNKbXBaRHdEQzhKc0RrbXlDYnRKcHR6YzZQUnBNd2tkMW1vSERJYmVaaTFudw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T20:35:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "50cc37bb41ba6a8a",
-   "title": "習近平氏 福田康夫氏の遺族に弔電",
-   "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-27T20:30:45+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ec7cbc5db60c7546",
-   "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
-   "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
-   "source": "ITmedia",
-   "published": "2026-10-27T20:30:12+09:00",
-   "keywords": [
-    "IPO"
-   ]
-  },
-  {
-   "id": "ad9a0554c927d5b6",
-   "title": "大雨で床上浸水、冷凍庫も製氷機も壊れ休業余儀なくされた「たまねぎcafe」が約2カ月ぶりに営業再開",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oWlRmQzBIU1BrN2pjMHVScXhwdEVkd3RPRE9sa0NlSEdmNU1NVWJ1ci1mUTZYS2d5UTZmWk5uUWR4N0diaFctOTJoYWhzUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T20:30:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "327f447f82fdeff7",
-   "title": "【年間出演本数2本】タイムマシーン3号“暗黒期”から脱出劇！＜芸能動画＞",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15a25QbEFPVkJ0SVhMemhoRGpNd2RTY3RhcDVfN3VNOTctczduQXA2enRQT1hzT1hHaVIyWC00NTJNS0xfMDhlX0ZidTJnQlhRMUUxU05USVJFTjRDMW53T2o3S1FZS3VESDg0LXh4ZkE?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T20:23:18+09:00",
-   "keywords": []
-  },
-  {
-   "id": "caf07ae15b890612",
-   "title": "暴走3人死傷 裁判で被告の男「ごめんなさいとしか…」 遺族「言い表せない怒り」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyejljMnd5MUFZa3FlbHNCajR2OEZjcXNFNXk2aUZlRWpqdDdtMGJQRFBFTzhXVUttNFE2Z2tvQm4tQ1NXLV9ETGRlb0tDeFVDa3JkdXYyYmIwUVZBaFFjZWVkaHVkQXd3R2tBX2hLY3Nudw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T20:19:11+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4126f8e8f5cb858d",
-   "title": "“3ピン”プラグで感電→入院 “2穴”コードに接続",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4RWFIUG1RZjl6UE9fbTRCNGJFRVpHbU9IUVdScjFkRFdtMVBzanVCNXNiNUVSdXlEdkV2bE1UakQ5R3lNR1NzMi1mOV8tMUloWndFeEZRSmd5Ynp3SGJfeVZKaUZQVGd2LXhfY1ZiMzhJUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T20:18:13+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d28d299cb31b75f5",
-   "title": "「棋風は剛腕」“女性初のプロ棋士”誕生へ 快挙を成し遂げた西山朋佳女流四冠(31)の強さの秘訣【Nスタ解説】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DdzFBZG4yellCMWRSMTR1MUZaMW9HV2xFVG1Ka3dURm9QSnVjNTJnRVhVMWtPTTNZX2Q5N1E5VHhuWDUxbEZmQ1ZRQXlJWWZHS0dLY2FIMA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-27T20:15:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "524d853e1fc63f7b",
-   "title": "浜岡原発「運転差し止めの訴え」却下 静岡地裁「再稼働見込みなく具体的危険性ない」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55NlNkZk14WUFvbTJIdmJKZnJIbWFPVy0zUHF1WGxEWDk0VDJUckNpRGNlaHR6TFRlTy1VN0dieU92bm5ZanVpelAzM2Fqalk4djdJdVRHLVNvS2E1dWtiWG5NbjR2ZlI1d0VOOFFpUEk0QQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T20:11:18+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5b86c4c58976b991",
-   "title": "勾留中トルコ国籍クルド人男性死亡 遺族が賠償求め都など提訴",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66621",
-   "source": "NHK 社会",
-   "published": "2026-10-27T20:09:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3790b0f66ffba44e",
-   "title": "松井秀喜新監督がジャイアンツ球場訪問 30日からの秋季キャンプで本格始動へ",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSm9fMkVtcGlGSXZzTmNtMDJMMEdxS1JBUTV1NVNNU3lCTG9EdEVaYkg0cHdfSk1iVEplRk1JR3JnMFozLVR5LV9oVW1RQ3pRMUJxRU5tUVk0NzMtMUtkRjdlLU51a1FUckdlMTNfWGE?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T20:06:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ba134ee402d89b35",
-   "title": "俳優・おかやまはじめ 結婚を報告",
-   "url": "https://news.yahoo.co.jp/pickup/6600335?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-10-27T20:05:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "627f4c1458cfb0b9",
-   "title": "PLANT決算、減収減益 売上高は前年1.8%減の960億円 営業利益は17％減の16億円 中東情勢でガソリン販売が苦戦",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zcXNJbXJmeWNhZWhWWUtXLW5nNVowM3V3V2cwT1EzLW0wSEhZallXY0tqWl9wdWxuSjlSTlFwX1IxWENHY0FySTZIRC1UZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T20:03:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "056766d8c8796a0e",
-   "title": "【北海道初の「緊急銃猟」から1年】ヒグマ出没減少は「神様が与えてくれたチャンス」次世代の育成に追われる日々_ベテランハンターが見据える“10年先・20年先の札幌”（FNNプライムオンライン）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRVRoRTRjUXZRWTcxNDVTWXVFTmxITE5hbGxPaDc0Vm5nT25yWFYwVGdaYjUxUlo1ZTRmUG1qTXNkd2dPT3RhaENLTUZJU2Jpd3NzLVUxRHIyRzB3bzhaeUg4M21PZmJjcXlyQ1gwc2IxOFZWeEtpbm9rTDVhNWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:01:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d98fa39e0ff4c25c",
-   "title": "【東京都】10/28の天気予報 (FNNプライムオンライン（フジテレビ系）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWV1WFFnM1NoYVhGRkFwMHpPaWdPZ2Mxakx1dVItazNxY09KNFVIMkQyVXRaVzB6VmZVeFo3Wjh1eTd5VVljdk1hOFVGX3JqbnAxVFYzVkg4VzU4T1ltdkhaSTM1LUEyVnVHaUs4X1pJbkZEcWlOd1RzSjVMS3BBSXNKY2hOQkJpeU9nVHJ3?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T20:00:55+09:00",
-   "keywords": []
-  },
-  {
-   "id": "3a2c99cfc47e5593",
-   "title": "【北海道初の「緊急銃猟」から1年】ヒグマ出没減少は「神様が与えてくれたチャンス」次世代の育成に追われる日々＿ベテランハンターが見据える“10年先・20年先の札幌”",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vaUJDR0ZrcDJfSFcxejM5a2lWWE1TNXl4U1pBTk5fdjZKeWNjMU9oaTJaUW5wOTU3Yk1ILXVUTWEtTTRXSXVIS3k4VElsdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T20:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8607421f27d52316",
-   "title": "高岡市で来月から「5歳児健診」開始 県内の人口10万人以上の自治体で初、2つのサポーター病院を発表",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQ252ak9ha0kyZ3RHeGlKT3VhY2NVdHoxQVlSX3djREhrZmF5X1FzTVRRWVRubGprUGNMNUxlMUxNU3ZVaXEyV3NSUS04UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T20:00:00+09:00",
-   "keywords": [
-    "人口"
-   ]
-  },
-  {
-   "id": "8cb3f2454a929bda",
-   "title": "保護犬の頭数が20年間で9割減少 社会に浸透する意識の変化と広がる取り組み 1頭でも多くの命をつなげる 静岡",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55enFFMUx2dU5GU1pqczJpeGg0QXJVRExIamtXX29teVdHS0V4amVxcm1KRDhjSU5ZbnJxcEhvZ1l3ZU5wUEs3RVZFb1g2UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T20:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "aa0f90091f7e5eb5",
-   "title": "GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
-   "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
-   "source": "ITmedia",
-   "published": "2026-10-27T19:58:09+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a14308e9adeba2f5",
-   "title": "“性的暴行”大阪地検元トップの裁判 初公判から2年ぶり開廷 一転無罪を主張の理由は",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SkM2MEdtcnhYSjRkX3ZJMzZFWXE0Qndva2lNdVdOTVlEekpKOWQzakVUN1RlbFlHeGM2OHBBcGUxc2Jldko4bEJhd0N5ajlQdDJRT18zdmx2bjZVX0RmMWNCeVNRazBXNC02eEdmU3lrQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-27T19:57:10+09:00",
-   "keywords": [
-    "無罪"
-   ]
-  },
-  {
-   "id": "78d3121b2d0974dd",
-   "title": "副首都 4道府県を要件満たせば指定 北海道、愛知、大阪、福岡 (テレビ朝日系（ANN）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTS1CV3lfMUFsOEN6Tjg4clVQZjkyNmNFVmNNZ0h1U1NUWWo1elRNRzhCQnZ1blVjUzhzYU5TMGFoRzltWjVwN19fTk9td0tobk5FYnZFUG1rQWxHTE1QcEZQUTdXRXZYYVg1UUZ5V1loNzZUVVpNOGRxV0VOSGZONzU3a01UMlVxNGhhcEl3?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T19:57:07+09:00",
-   "keywords": [
-    "指定",
-    "要件",
-    "道府県"
-   ]
-  },
-  {
-   "id": "1f582b6f4fec3e5d",
-   "title": "副首都 4道府県を要件満たせば指定 北海道、愛知、大阪、福岡（テレビ朝日系（ANN））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NnNvNGplWVhZSFpmMWU3TXNUeFNfaF9GdnNKR2M0cWN6cF9FUFBNMDZlUzNmS20wbTQxOXlaTTBhSjV2RGNQRkdqM3I3Y1VqdWgzd1BaWDBFS2hPMTNzdnhabGRScEdwdDVkWTBpaXJyVDBnSmJuUno3RWxqMFk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-27T19:57:07+09:00",
-   "keywords": [
-    "指定",
-    "要件",
-    "道府県"
-   ]
-  },
-  {
-   "id": "fd4727355936bfa5",
-   "title": "クールジャパン機構、統廃合の方針確認＝有識者議論の中間整理公表―経産省",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sLURIMTVfdkk2ZDVGZHhiYWFxbHAxMFdlaW9xMnphc2NMQkhXSFBDNktyTTZHRWFqcmdySW5UN1J6UmFJU2hKWk01MVRFZEZDaXY1bg?oc=5",
-   "source": "時事通信ニュース",
-   "published": "2026-10-27T19:57:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1c38d046a2416718",
-   "title": "クールジャパン機構、統廃合の方針確認 有識者議論の中間整理公表―経産省",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45TlpScHVyM3hjQUloaTVBNV9uYmt2MGdiM3FfYWI3V3J6S19PRU1rNjJvOWVJRm92dktpc1lTOXczVXhBWE1ZUHZMUzlwb05nbDk4cE92WGk4TjJsU2p6RmNZVQ?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-10-27T19:57:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "cdfe4055d5085809",
-   "title": "【全都道府県の順位掲載】長野県が11年連続で全国1位 信号機のない横断歩道での車の停止率が初の9割超え 県警「素晴らしい結果、引き続き安全確認を」 全国平均は61.1％ 東京都52.9%で32位 大阪府45.8%で42位",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QTWZvSkFPeExQRGZzTmQzTGlRSTlMX0hzV3ctZkU3ZVFmVGNnRXJqNVlyUVd5UXdZbmI3ZFA1Ni1jNEZCaGQtczhpVC1PQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-27T19:56:00+09:00",
-   "keywords": []
   }
  ]
 }
