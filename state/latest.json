@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-30T23:34:08.979106+09:00",
- "new_events": 288,
+ "generated": "2026-10-31T04:43:11.781872+09:00",
+ "new_events": 138,
  "keywords": [
   {
    "kw": "日銀",
    "level": "high",
-   "d24": 36,
+   "d24": 47,
    "baseline": 1.2,
-   "ratio": 30.9,
-   "consecutive": 4,
+   "ratio": 40.3,
+   "consecutive": 5,
    "days": [
     1,
     0,
@@ -16,24 +16,67 @@
     1,
     0,
     4,
-    36
+    47
    ],
    "latest": [
-    "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5"
+    "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5"
    ],
    "samples": [
     {
-     "title": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T19:38:44+09:00"
+     "title": "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-31T01:02:20+09:00"
     },
+    {
+     "title": "「２％到達は象徴的」「利上げ、あと２回」 日銀関係・識者談話",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vajhKMkF5dHkzM3kxbjBWTWkzR25qLXdaRXJ1Yk5TZjlNRXZNVUstLUJENUQxRjhsUXZxZUVIWVNidWF2VmIzbmRFYmhHdkthc25PaVhia3NZeGxxVk5EVzc5Yw?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T20:08:00+09:00"
+    },
+    {
+     "title": "片山財務相、日銀に理解 「２％目標に整合的」判断で",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45LWpGMENDZjlQcVo2VzNVb3RPUHQ4Nm9wTHp3VkRvWmswM3YyYkIxMGFaOEwzVkN2d3JHd0NLTnhTSno5OHgxN1BLaHBQWWZKTHZPSzVHZldtajNDVGRETnBETQ?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T19:41:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "日銀総裁",
+   "level": "high",
+   "d24": 14,
+   "baseline": 0.0,
+   "ratio": 28.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    14
+   ],
+   "latest": [
+    "日銀総裁、物価2％定着へ軸足(時事通信)",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5"
+   ],
+   "samples": [
     {
      "title": "日銀総裁、物価2％定着へ軸足(時事通信)",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5",
      "source": "Yahoo!ファイナンス",
      "published": "2026-10-30T19:34:31+09:00"
+    },
+    {
+     "title": "日銀総裁、物価２％定着へ軸足",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEp0VlV4c0dCbWpINGp4bWpkdGE3WTJ0UnByWG9yN3I0SUpESl9uRXhYSzJNcEZ1SU1WSmJvVVRxdTNMUHBUeExma3NNTDhjb09QUk43b28xbGdhc3hLeWRUNGFWNzNmY2RSZGxhYjBwUEVHZU0zVmRXWklmbzRLRGg3LXF5WkZB0gGIAUFVX3lxTE1ISnRWVXhzR0Jtakg0anhtamR0YTdZMnRScHJYb3I3cjRJSkRKX25FeFhLMk1wRnVJTVZKYm9VVHF1M0xQcFR4TGZrc01MOGNvT1BSTjdvbzFsZ2FzeEt5ZFQ0YVY3M2ZjZFJkbGFiMHBQRUdlTTNWZFdaSWZvNEtEaDctcXlaRkE?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-30T19:34:00+09:00"
     },
     {
      "title": "日銀総裁、物価２％定着へ軸足＝持続・安定的な実現「まだ」―政策判断、上振れリスク意識",
@@ -43,7 +86,7 @@
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
   },
   {
    "kw": "六本木",
@@ -89,55 +132,12 @@
    "alerted_at": "2026-10-30T16:44:02.654893+09:00"
   },
   {
-   "kw": "日銀総裁",
-   "level": "high",
-   "d24": 10,
-   "baseline": 0.0,
-   "ratio": 20.0,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    10
-   ],
-   "latest": [
-    "日銀総裁、物価2％定着へ軸足(時事通信)",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "日銀総裁、物価2％定着へ軸足(時事通信)",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "published": "2026-10-30T19:34:31+09:00"
-    },
-    {
-     "title": "日銀総裁、物価２％定着へ軸足＝持続・安定的な実現「まだ」―政策判断、上振れリスク意識",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WM2xxLUhVQ0hicnh3dDRMNEFFMXFIamRIOGJUTnFPRkk0VVZ6V1NqdUZNblFESGtYbGtUeGtyQ2JLMXdSMzV5RjVZdndFWkxnakpIZA?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-30T19:29:17+09:00"
-    },
-    {
-     "title": "日銀総裁、2％目標と「おおむね整合的」 基調物価、持続的・安定的達成まだ（時事通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaUwtQmEwZHJQOVdRT21MM01CLXVYTkM2TjY0NXd6eG0xOFlOTkNiSjJsdzdaZThnSUUxZjlHcjB4b1ZZZlllR2NZV2lQVzRpbHYySFo0enp3dEoyUC1pQWc4LXg5QTB3dUUzSDcxaGVoVGlrVDJvbTl2WWN1VUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T16:31:42+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
-  },
-  {
    "kw": "富士山",
    "level": "high",
-   "d24": 10,
+   "d24": 11,
    "baseline": 0.0,
-   "ratio": 20.0,
-   "consecutive": 3,
+   "ratio": 22.0,
+   "consecutive": 4,
    "days": [
     0,
     0,
@@ -145,7 +145,7 @@
     0,
     0,
     0,
-    10
+    11
    ],
    "latest": [
     "富士山は初冠雪 見ごろの紅葉の一方“異変”も 長雨と日照不足で葉が緑のまま枯れるケース 台風31号は来週後半、関東に影響か（FNNプライムオンライン（フジテレビ系））",
@@ -169,6 +169,49 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5saWZFZzRiUGM4dTRjc0V6NEpjUWVjUnJxMUVrM25VMGRRUFpTcURIbkNsek1NQmx0YWhHakVqME5ORDVWb1pwYUZyUWZuWWRxbmtvRXR3dWpUd2JlekJEWXZxdWRXc3dvQ1ZHN2JwbHdidXY5aXl0emtxOWMxUkk?oc=5",
      "source": "Yahoo!ニュース",
      "published": "2026-10-30T12:45:39+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-30T16:44:02.654893+09:00"
+  },
+  {
+   "kw": "無印良品",
+   "level": "high",
+   "d24": 10,
+   "baseline": 0.0,
+   "ratio": 20.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    10
+   ],
+   "latest": [
+    "無印良品や松屋らアプリ被害 企業へ不正アクセス相次ぐ",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iWHktM2wxWkpULW4xUXVLNGFpeDI2d3hOWHRJSVBnME9mZXMzY3VwbldkVm9ZN3R2eUJsT0ZjcGtVTGJzaDBud2RPbw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "無印良品や松屋らアプリ被害 企業へ不正アクセス相次ぐ",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iWHktM2wxWkpULW4xUXVLNGFpeDI2d3hOWHRJSVBnME9mZXMzY3VwbldkVm9ZN3R2eUJsT0ZjcGtVTGJzaDBud2RPbw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-30T20:46:09+09:00"
+    },
+    {
+     "title": "「無印良品」で最大2700万件超の個人情報が流出か 不正アクセスでメールアドレスなど クレジットカード情報は含まれず",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuaEdBWnlCSERpMnR0bEZPa0lFVTBTbUhJUHJxS3dZWmFGc29kaUhVNUw1VTltT0tRV2xLNUlCYXBWMTItajlRMGhsdDZGUkljcU8zSEhqdTBWQXk2Zk5rcTJySmlBQ2dOZHdjem5BVUcxUHpmQlhqZW1pdTNwZWM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-30T19:40:39+09:00"
+    },
+    {
+     "title": "「無印良品」2700万件超流出か アプリの顧客情報 退会者含む",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpUm42ZVF2VHVFbmJ5LVRCcGlpZFprRnRLLVJqZWlvYTRuYVpZQmxiRnA1T2dZT21qSDlucno1bnlmNUQ1SjZwYndKUFlkbTdUb2tnVENqbGpFcEFlbGhOOVY0d25BQXk2M3BlNHlIdW5yZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T16:41:48+09:00"
     }
    ],
    "watch": false,
@@ -218,10 +261,53 @@
    "alerted_at": "2026-10-30T10:41:03.561377+09:00"
   },
   {
-   "kw": "総務",
+   "kw": "製品",
    "level": "high",
    "d24": 9,
-   "baseline": 0.3,
+   "baseline": 0.5,
+   "ratio": 18.0,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    9
+   ],
+   "latest": [
+    "エヌビディアCEOに中国の女性工作員が接触か「製品情報が中国側に」米報道 会社側「機密情報などは提供していない」",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weDVRSlE2VjE0X3c3N0RBT0hCMDFySEFIUlJzZTZBcnFFa2hQUzdRU0hWY1RZOUlBcW04dnhyQ19vNFZVMVU3cHRSbUpISnpNUlRMd1R0Z1BPT0pPMVdfSXBmOVJqZG1sWjRVMENFbnh3S01uOW5BTDI0MXFac1U?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "エヌビディアCEOに中国の女性工作員が接触か「製品情報が中国側に」米報道 会社側「機密情報などは提供していない」",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weDVRSlE2VjE0X3c3N0RBT0hCMDFySEFIUlJzZTZBcnFFa2hQUzdRU0hWY1RZOUlBcW04dnhyQ19vNFZVMVU3cHRSbUpISnpNUlRMd1R0Z1BPT0pPMVdfSXBmOVJqZG1sWjRVMENFbnh3S01uOW5BTDI0MXFac1U?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-31T00:45:12+09:00"
+    },
+    {
+     "title": "国内最古のデニム製品は静岡産 1931年商標登録 90年後の復刻（FNNプライムオンライン）",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EaThuMG9sa1BXajBiWHhIRU9oZDlORkpzSWYyZWtpZEl5Q3h6SDJFbHY0bDZWZGp3OXdkLUI0ZDdSME9ZN3Jfdmo0cnAxZ3lxT3p6blI5bkRtbU5xVkNTSFMwZktQa2xNN2dMNThiRlhfN1VWOGFVbEYtQQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-30T21:17:00+09:00"
+    },
+    {
+     "title": "国内最古のデニム製品は静岡産 1931年商標登録 90年後の復刻",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtdExHQXRBOC1KNlNiMldGTGVZM0tiLWhjZ1UwNW9zWHNXMmVfTlRudHk1amZJWXQ0QzdPN1czV1BVMlllLWp4YldMTDhTQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-30T21:17:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-16T13:32:27.978914+09:00"
+  },
+  {
+   "kw": "バイナンス",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.0,
    "ratio": 18.0,
    "consecutive": 3,
    "days": [
@@ -230,8 +316,51 @@
     0,
     0,
     0,
-    2,
+    0,
     9
+   ],
+   "latest": [
+    "バイナンス「約1兆円」の被害 暗号資産大手に“北朝鮮”関与か（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoSG1uaEJjOGtzTzNiLUZpTHBUdWhxVzM5aFFJTWlNbEk0ekJ6RWdWQUx6cjdEZjBFUGxZOXlsTnBRNEJtY01yQUpmbGZIblRvdjVLTkJ0eDYxLU5UNEtXSndIWWFRTlJzakMtcXNYX095My1GeTBXTkNmaGQwVWc?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "バイナンス「約1兆円」の被害 暗号資産大手に“北朝鮮”関与か（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoSG1uaEJjOGtzTzNiLUZpTHBUdWhxVzM5aFFJTWlNbEk0ekJ6RWdWQUx6cjdEZjBFUGxZOXlsTnBRNEJtY01yQUpmbGZIblRvdjVLTkJ0eDYxLU5UNEtXSndIWWFRTlJzakMtcXNYX095My1GeTBXTkNmaGQwVWc?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-31T00:18:47+09:00"
+    },
+    {
+     "title": "バイナンス被害 北朝鮮が関与か",
+     "url": "https://news.yahoo.co.jp/pickup/6600708?source=rss",
+     "source": "Yahoo IT",
+     "published": "2026-10-30T19:10:27+09:00"
+    },
+    {
+     "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+     "source": "NHK 主要",
+     "published": "2026-10-30T16:35:51+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
+  },
+  {
+   "kw": "総務",
+   "level": "high",
+   "d24": 8,
+   "baseline": 0.5,
+   "ratio": 16.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    8
    ],
    "latest": [
     "政府が「副首都」推進本部を設置 藤井総務大臣「東京一極集中を是正、まさに国の形を変える改革」",
@@ -261,98 +390,12 @@
    "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
-   "kw": "腕時計",
-   "level": "high",
-   "d24": 9,
-   "baseline": 0.5,
-   "ratio": 18.0,
-   "consecutive": 5,
-   "days": [
-    1,
-    0,
-    0,
-    0,
-    0,
-    2,
-    9
-   ],
-   "latest": [
-    "【独自】“容疑者とみられる男の映像”入手 「中野ブロードウェイ」高級腕時計窃盗事件 防犯カメラに写る…左手首には腕時計も 警視庁",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aRWs3V3FVX0owbnREVmdYY3N0UjU0NXpxZVRSUFhMVlNqakU4b3FkVm1OWHcxblNnVE1jS2ExaTZqMTJrUU8zWHpwVWp6UUM3VEVCaEdXdw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【独自】“容疑者とみられる男の映像”入手 「中野ブロードウェイ」高級腕時計窃盗事件 防犯カメラに写る…左手首には腕時計も 警視庁",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aRWs3V3FVX0owbnREVmdYY3N0UjU0NXpxZVRSUFhMVlNqakU4b3FkVm1OWHcxblNnVE1jS2ExaTZqMTJrUU8zWHpwVWp6UUM3VEVCaEdXdw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-30T12:40:00+09:00"
-    },
-    {
-     "title": "中野ブロードウェイでまた…4600万円相当の腕時計盗まれる“逃げる男を途中まで追いかけた男性”「黒人さんで、目だし帽」一方で流暢な日本語を喋っていた証言も…【news23】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53b3psY1B6cUVMSnd6S2VIREc5RXkzNU5Bc1l3elN1bUdJMndYRUUxc25lc0V0TkFUMEtYZUFwenlxM3pOLXJEcEc1S21ZTXJqVl83dm43RQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-30T12:10:00+09:00"
-    },
-    {
-     "title": "上りエスカレーター逆走して地下へ逃走か 4600万円相当の高級腕時計を客装い持ち去り 「中野ブロードウェイ」時計店窃盗事件",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pVzJZYjJOSEFQbDZCM0VpUkZPT0I3YUVyY3hxdnEzTlJZT2UyRGoxajI2R3g3cVZtckQxallnSElLbnc5OXA4REZxbEVmdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-30T12:06:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-30T06:56:34.997346+09:00"
-  },
-  {
-   "kw": "製品",
-   "level": "high",
-   "d24": 9,
-   "baseline": 0.3,
-   "ratio": 18.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    1,
-    0,
-    1,
-    0,
-    9
-   ],
-   "latest": [
-    "国内最古のデニム製品は静岡産 1931年商標登録 90年後の復刻（FNNプライムオンライン）",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EaThuMG9sa1BXajBiWHhIRU9oZDlORkpzSWYyZWtpZEl5Q3h6SDJFbHY0bDZWZGp3OXdkLUI0ZDdSME9ZN3Jfdmo0cnAxZ3lxT3p6blI5bkRtbU5xVkNTSFMwZktQa2xNN2dMNThiRlhfN1VWOGFVbEYtQQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "国内最古のデニム製品は静岡産 1931年商標登録 90年後の復刻（FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EaThuMG9sa1BXajBiWHhIRU9oZDlORkpzSWYyZWtpZEl5Q3h6SDJFbHY0bDZWZGp3OXdkLUI0ZDdSME9ZN3Jfdmo0cnAxZ3lxT3p6blI5bkRtbU5xVkNTSFMwZktQa2xNN2dMNThiRlhfN1VWOGFVbEYtQQ?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-30T21:17:00+09:00"
-    },
-    {
-     "title": "国内最古のデニム製品は静岡産 1931年商標登録 90年後の復刻",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtdExHQXRBOC1KNlNiMldGTGVZM0tiLWhjZ1UwNW9zWHNXMmVfTlRudHk1amZJWXQ0QzdPN1czV1BVMlllLWp4YldMTDhTQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-30T21:17:00+09:00"
-    },
-    {
-     "title": "11月12日（木）製品安全の価値と可能性を発信するイベントを開催！製品安全に取り組む優良企業・製品もご紹介します",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSzdlelFMcDJHaTBQSTFDbzFyZHFHT0tYbUZINmRKUG9oa0JqVlEyd2tBODZabks3SURvWXREMzh0ZlU1M2YwOGY5d0Fqb21rX2RUN09VVVhpWlk3NlNQWE0yd0wtak5mQWxJ?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-30T14:46:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T13:32:27.978914+09:00"
-  },
-  {
-   "kw": "無印良品",
+   "kw": "女子生徒",
    "level": "high",
    "d24": 8,
    "baseline": 0.0,
    "ratio": 16.0,
-   "consecutive": 2,
+   "consecutive": 3,
    "days": [
     0,
     0,
@@ -363,117 +406,117 @@
     8
    ],
    "latest": [
-    "「無印良品」で最大2700万件超の個人情報が流出か 不正アクセスでメールアドレスなど クレジットカード情報は含まれず",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuaEdBWnlCSERpMnR0bEZPa0lFVTBTbUhJUHJxS3dZWmFGc29kaUhVNUw1VTltT0tRV2xLNUlCYXBWMTItajlRMGhsdDZGUkljcU8zSEhqdTBWQXk2Zk5rcTJySmlBQ2dOZHdjem5BVUcxUHpmQlhqZW1pdTNwZWM?oc=5"
+    "文化祭のさなか女子生徒刺される 別の女子生徒を逮捕 東京・港区（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DallXQjZNeVI2VktDLXVSaFNyVmRtZks0SjZFeTJLb2MxdDNpMnFyUmdhVF96NGdyNXM4TzRHZ182YjBFckYxNUN4MmJ3di1mUUdyVG95YlkwS2hDZk5TOGZ6YmdxejNBVjlkSDJ0YUdKRXZrdjFpS2ZNZkdtUE0?oc=5"
    ],
    "samples": [
     {
-     "title": "「無印良品」で最大2700万件超の個人情報が流出か 不正アクセスでメールアドレスなど クレジットカード情報は含まれず",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuaEdBWnlCSERpMnR0bEZPa0lFVTBTbUhJUHJxS3dZWmFGc29kaUhVNUw1VTltT0tRV2xLNUlCYXBWMTItajlRMGhsdDZGUkljcU8zSEhqdTBWQXk2Zk5rcTJySmlBQ2dOZHdjem5BVUcxUHpmQlhqZW1pdTNwZWM?oc=5",
+     "title": "文化祭のさなか女子生徒刺される 別の女子生徒を逮捕 東京・港区（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DallXQjZNeVI2VktDLXVSaFNyVmRtZks0SjZFeTJLb2MxdDNpMnFyUmdhVF96NGdyNXM4TzRHZ182YjBFckYxNUN4MmJ3di1mUUdyVG95YlkwS2hDZk5TOGZ6YmdxejNBVjlkSDJ0YUdKRXZrdjFpS2ZNZkdtUE0?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-30T19:40:39+09:00"
+     "published": "2026-10-31T00:34:39+09:00"
     },
     {
-     "title": "無印良品で約2700万件の会員情報流出か 松屋では238万件…グッドスマイルカンパニーはセキュリティコードなど含むカード情報流出の可能性",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFN2p4eHZfemdWQ2toT3BiTXRDbHlMY0o4OVYyTGF3VU9Yemlzc05CSTdvMkVjTE05YVZJN2o5cVV6QmtYaDRLLUxIYmhQSUFUN0Z0anVHRQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-30T16:27:58+09:00"
+     "title": "六本木高校で女子生徒刺される 背中に包丁を隠し… 別の女子生徒を現行犯逮捕",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45LWtudEcxeUlIRHYxOXVBeGswVVV5VVE3ZTByZW1WNE1xNW9jWjZQQXQtQU4wTTBXRHZ1aVd6SXlqLUF5T3cydjA1THZidm5YRDJJdEkyX3ptZnFPblJGc3p6djhrSXRRSVN5R0lGUFkxUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T17:12:16+09:00"
     },
     {
-     "title": "無印良品 最大2726万件情報流出か",
-     "url": "https://news.yahoo.co.jp/pickup/6600686?source=rss",
-     "source": "Yahoo IT",
-     "published": "2026-10-30T15:30:41+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-30T16:44:02.654893+09:00"
-  },
-  {
-   "kw": "中野ブロードウェイ",
-   "level": "high",
-   "d24": 8,
-   "baseline": 0.5,
-   "ratio": 16.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    3,
-    8
-   ],
-   "latest": [
-    "【独自】“容疑者とみられる男の映像”入手 「中野ブロードウェイ」高級腕時計窃盗事件 防犯カメラに写る…左手首には腕時計も 警視庁",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aRWs3V3FVX0owbnREVmdYY3N0UjU0NXpxZVRSUFhMVlNqakU4b3FkVm1OWHcxblNnVE1jS2ExaTZqMTJrUU8zWHpwVWp6UUM3VEVCaEdXdw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【独自】“容疑者とみられる男の映像”入手 「中野ブロードウェイ」高級腕時計窃盗事件 防犯カメラに写る…左手首には腕時計も 警視庁",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aRWs3V3FVX0owbnREVmdYY3N0UjU0NXpxZVRSUFhMVlNqakU4b3FkVm1OWHcxblNnVE1jS2ExaTZqMTJrUU8zWHpwVWp6UUM3VEVCaEdXdw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-30T12:40:00+09:00"
-    },
-    {
-     "title": "中野ブロードウェイでまた…4600万円相当の腕時計盗まれる“逃げる男を途中まで追いかけた男性”「黒人さんで、目だし帽」一方で流暢な日本語を喋っていた証言も…【news23】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53b3psY1B6cUVMSnd6S2VIREc5RXkzNU5Bc1l3elN1bUdJMndYRUUxc25lc0V0TkFUMEtYZUFwenlxM3pOLXJEcEc1S21ZTXJqVl83dm43RQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-30T12:10:00+09:00"
-    },
-    {
-     "title": "上りエスカレーター逆走して地下へ逃走か 4600万円相当の高級腕時計を客装い持ち去り 「中野ブロードウェイ」時計店窃盗事件",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pVzJZYjJOSEFQbDZCM0VpUkZPT0I3YUVyY3hxdnEzTlJZT2UyRGoxajI2R3g3cVZtckQxallnSElLbnc5OXA4REZxbEVmdw?oc=5",
+     "title": "「生徒が刃物で刺された」と通報 高1女子生徒が刺されけが 同学年の16歳女子生徒を逮捕 当時は文化祭の最中 東京・六本木",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81SW1XTGlROWhjMnAyWTlvMjEyX25PeEhvdzRidlU3ZnlYZGltd0FpUWpFMDBHY01uc0VHdkRGd19rb1pabkVKMFhxV3JVZw?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-10-30T12:06:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-30T06:56:34.997346+09:00"
-  },
-  {
-   "kw": "基調",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.5,
-   "ratio": 14.0,
-   "consecutive": 2,
-   "days": [
-    1,
-    0,
-    1,
-    0,
-    0,
-    1,
-    7
-   ],
-   "latest": [
-    "千葉県の中小企業景況、3期ぶりに低下 基調判断は据え置き",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZVUhBYzlaVm95NlBobVB1TFpQNVg5WkJ1b25RSWpmOGJHZ1ZORTJJVHJZTTlBZ3Q2SVNDNFlPUTJZaHB4X3RyV25IekFDQXdGUmhKNWhldHhwUzE0ODI1b1V5MnJqT1pVdmY5dA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "千葉県の中小企業景況、3期ぶりに低下 基調判断は据え置き",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZVUhBYzlaVm95NlBobVB1TFpQNVg5WkJ1b25RSWpmOGJHZ1ZORTJJVHJZTTlBZ3Q2SVNDNFlPUTJZaHB4X3RyV25IekFDQXdGUmhKNWhldHhwUzE0ODI1b1V5MnJqT1pVdmY5dA?oc=5",
-     "source": "日本経済新聞",
-     "published": "2026-10-30T17:35:00+09:00"
-    },
-    {
-     "title": "日銀総裁、2％目標と「おおむね整合的」 基調物価、持続的・安定的達成まだ（時事通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaUwtQmEwZHJQOVdRT21MM01CLXVYTkM2TjY0NXd6eG0xOFlOTkNiSjJsdzdaZThnSUUxZjlHcjB4b1ZZZlllR2NZV2lQVzRpbHYySFo0enp3dEoyUC1pQWc4LXg5QTB3dUUzSDcxaGVoVGlrVDJvbTl2WWN1VUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T16:31:42+09:00"
-    },
-    {
-     "title": "基調物価、２％目標と概ね整合的＝日銀総裁",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0bDB6OUtqTTg5S25xNG9FZXpuS3NrVGZaalgyYzZGQTczUXhEUEN3eUtRV29wbzE3ZkxndTh4NlA3ejFLa0EyTlQwTmFxTGhQUlpoMQ?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-30T15:47:00+09:00"
+     "published": "2026-10-30T16:33:00+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-30T23:34:08.979106+09:00"
+  },
+  {
+   "kw": "目標到達",
+   "level": "high",
+   "d24": 8,
+   "baseline": 0.0,
+   "ratio": 16.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    8
+   ],
+   "latest": [
+    "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-31T01:02:20+09:00"
+    },
+    {
+     "title": "日銀、物価２％目標到達と判断 １４年越し、インフレ抑制に軸足―政策新局面、金利は据え置き",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VdkZDd2pzalNNcEIyNnM1OFpzRFJuNTZ6WmUyVmZMOXQzNHBmcDBCVmRsNUpiTWVQVm54eEhQa1pXNXJBNUktNHBMOU1pOHRXMndzb2FOeFlwaWNXc0Q3bklGSQ?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T12:56:00+09:00"
+    },
+    {
+     "title": "◎日銀、物価２％目標到達と判断",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WRXdQNHFIN3ZTa2Fra2NOXzQ2RHVtZDhLaVFRbThuVGNDNi1sVFREQ2NmSHFBbC1McWE2bTdLWDFfMV9vUU5POVF2LWIwQ0FMc1hHMw?oc=5",
+     "source": "時事通信ニュース",
+     "published": "2026-10-30T12:54:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
+  },
+  {
+   "kw": "目標",
+   "level": "high",
+   "d24": 20,
+   "baseline": 1.3,
+   "ratio": 15.0,
+   "consecutive": 3,
+   "days": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    2,
+    20
+   ],
+   "latest": [
+    "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-31T01:02:20+09:00"
+    },
+    {
+     "title": "片山財務相、日銀に理解 「２％目標に整合的」判断で",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45LWpGMENDZjlQcVo2VzNVb3RPUHQ4Nm9wTHp3VkRvWmswM3YyYkIxMGFaOEwzVkN2d3JHd0NLTnhTSno5OHgxN1BLaHBQWWZKTHZPSzVHZldtajNDVGRETnBETQ?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T19:41:00+09:00"
+    },
+    {
+     "title": "木原官房長官　「責任ある積極財政」を維持　日銀が物価目標2％に事実上到達",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2FCMzdHa0dPR0UxQ25mX2Yza3l2Yk1sT3dHSF80UWx0OGpXa3ZzWmFpWmRsVVNkajZRWVI0NkF4TUNUVjRhNThxZHBPQ1BhbXh6c29BMk85VUpUTWstblN0MUVoUml2TUU3OWZIeE5GaHluYk5yN0txWnplZFR5VGlmUmFNNm9ZR3fSAY8BQVVfeXFMT0o0aVFCekhPZ0JZOWNaQmJTOEUwbS1ZbDZETWhEWFMzZURHdm4tSTVrNDlxSHQ0XzAzVDRkelN6Y1VXaXN1RVhNa3p1ZGNLUmFRQnlrc1NXaXV0WHhsZGNmRTJQUkdhNVgwVVhSdERseE8tN2pMdXNoWUEyY1czWEQxN0RMRFFjSUpkQnVET1k?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-30T18:53:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-30T16:44:02.654893+09:00"
   },
   {
    "kw": "品目",
@@ -519,55 +562,141 @@
    "alerted_at": "2026-10-30T16:44:02.654893+09:00"
   },
   {
-   "kw": "女子生徒",
+   "kw": "到達",
    "level": "high",
-   "d24": 7,
-   "baseline": 0.0,
-   "ratio": 14.0,
-   "consecutive": 2,
+   "d24": 23,
+   "baseline": 1.7,
+   "ratio": 13.8,
+   "consecutive": 5,
    "days": [
+    1,
     0,
+    2,
     0,
-    0,
-    0,
-    0,
-    0,
-    7
+    2,
+    5,
+    23
    ],
    "latest": [
-    "六本木高校で女子生徒刺される 背中に包丁を隠し… 別の女子生徒を現行犯逮捕",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE45LWtudEcxeUlIRHYxOXVBeGswVVV5VVE3ZTByZW1WNE1xNW9jWjZQQXQtQU4wTTBXRHZ1aVd6SXlqLUF5T3cydjA1THZidm5YRDJJdEkyX3ptZnFPblJGc3p6djhrSXRRSVN5R0lGUFkxUQ?oc=5"
+    "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5"
    ],
    "samples": [
     {
-     "title": "六本木高校で女子生徒刺される 背中に包丁を隠し… 別の女子生徒を現行犯逮捕",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45LWtudEcxeUlIRHYxOXVBeGswVVV5VVE3ZTByZW1WNE1xNW9jWjZQQXQtQU4wTTBXRHZ1aVd6SXlqLUF5T3cydjA1THZidm5YRDJJdEkyX3ptZnFPblJGc3p6djhrSXRRSVN5R0lGUFkxUQ?oc=5",
+     "title": "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-31T01:02:20+09:00"
+    },
+    {
+     "title": "「２％到達は象徴的」「利上げ、あと２回」 日銀関係・識者談話",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vajhKMkF5dHkzM3kxbjBWTWkzR25qLXdaRXJ1Yk5TZjlNRXZNVUstLUJENUQxRjhsUXZxZUVIWVNidWF2VmIzbmRFYmhHdkthc25PaVhia3NZeGxxVk5EVzc5Yw?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T20:08:00+09:00"
+    },
+    {
+     "title": "植田総裁“2％到達”は「一つの節目」と評価 政策金利は維持 次回含め毎会合で検討へ",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OQU00MFBoMUhIYUczNlJQNEVtYm83UDRfMkRDSzA3RnpaaDY3UGExUnFKM2VDLW9TRWMwVjFoc2swUGJvNkdnVVB4MlBMZnlycGlQZFU5cDZfVkp5MVR2aWtVNF91d3hJSGdudnhjSXZrUQ?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-30T17:12:16+09:00"
+     "published": "2026-10-30T19:43:54+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-21T14:54:44.262054+09:00"
+  },
+  {
+   "kw": "キオクシア",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.7,
+   "ratio": 13.5,
+   "consecutive": 2,
+   "days": [
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    9
+   ],
+   "latest": [
+    "キオクシアHD中間決算 最終利益は前年同期の37倍に",
+    "https://news.web.nhk/newsweb/na/nd-20261030de68433"
+   ],
+   "samples": [
+    {
+     "title": "キオクシアHD中間決算 最終利益は前年同期の37倍に",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68433",
+     "source": "NHK 経済",
+     "published": "2026-10-30T22:37:04+09:00"
     },
     {
-     "title": "「生徒が刃物で刺された」と通報 高1女子生徒が刺されけが 同学年の16歳女子生徒を逮捕 当時は文化祭の最中 東京・六本木",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81SW1XTGlROWhjMnAyWTlvMjEyX25PeEhvdzRidlU3ZnlYZGltd0FpUWpFMDBHY01uc0VHdkRGd19rb1pabkVKMFhxV3JVZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-30T16:33:00+09:00"
+     "title": "キオクシアＨＤ、純利益２４倍に ＡＩ特需継続―２６年４～１２月期予想",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqZ3BQMGp6SnduRWQtb2hNdUpNcF9wbU0zYkhmeC0zcWVFSm5ra29XQnYzMDZzNkgxdTFwM0w0a0Y4cTNPcXFJUHdQWWQ3X2tOc1lYcEcxcjJ3TncydDRzZm1HOA?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T20:39:00+09:00"
     },
     {
-     "title": "六本木の都立高校で女子生徒が刺される 意識あり 同級生の女子生徒を殺人未遂容疑で逮捕「相手を殺して自分も死のうと…」 東京・港区（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNEIyNC1CT05ScFk4ZWtBSmx2aEx3Y2s1anB0WXYwNDdpX0tzY0hDdzM4MkxqRFRMRTV2aGcxOWNhLWhqeHRQeGlER0JkRVpCa0xUVi1pZDFYTzBYaG1KNjJPNXlnSFV0TWRSNnVFMWNvdkU2WV92UGQ4SUhyNFk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T15:58:50+09:00"
+     "title": "キオクシア 4-12月純利益24倍予想",
+     "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
+     "source": "Yahoo 経済",
+     "published": "2026-10-30T19:46:26+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-30T23:34:08.979106+09:00"
   },
   {
+   "kw": "腕時計",
+   "level": "high",
+   "d24": 9,
+   "baseline": 0.7,
+   "ratio": 13.5,
+   "consecutive": 6,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    9
+   ],
+   "latest": [
+    "また中野ブロードウェイで高級腕時計窃盗 防犯カメラに上下黒づくめの男",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5WeUo4SDdqMnA3MUc0dUFfVmtZSVZUODhfWkxTWlRFNjlJMF9Ka3dncjRCZXJWX24tSTJXNW5CQm4zUXFEY3Nwc3k0SWkyS2xlX25NS3RTSUZWclVRVnVfRld3cHpSVXdmT0NQTkVld0RaQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "また中野ブロードウェイで高級腕時計窃盗 防犯カメラに上下黒づくめの男",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WeUo4SDdqMnA3MUc0dUFfVmtZSVZUODhfWkxTWlRFNjlJMF9Ka3dncjRCZXJWX24tSTJXNW5CQm4zUXFEY3Nwc3k0SWkyS2xlX25NS3RTSUZWclVRVnVfRld3cHpSVXdmT0NQTkVld0RaQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T18:57:48+09:00"
+    },
+    {
+     "title": "中野ブロードウェイで高級腕時計窃盗 防犯カメラに走る男の姿 4600万円相当を“試着”したまま逃走",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RM2FlNEx3LVNGSjE2RkZKRkY1RXRUTFo1Y3NzbGNndEt6TkJNYXJVb2p1R281YWdhMktXVVlFR0J2ZmZzaEpLWDR1cW1xZ003WnQ5bVJQRQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-30T16:16:00+09:00"
+    },
+    {
+     "title": "【独自】“容疑者とみられる男の映像”入手 「中野ブロードウェイ」高級腕時計窃盗事件 防犯カメラに写る…左手首には腕時計も 警視庁",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aRWs3V3FVX0owbnREVmdYY3N0UjU0NXpxZVRSUFhMVlNqakU4b3FkVm1OWHcxblNnVE1jS2ExaTZqMTJrUU8zWHpwVWp6UUM3VEVCaEdXdw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-30T12:40:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-30T06:56:34.997346+09:00"
+  },
+  {
    "kw": "冠雪",
    "level": "high",
-   "d24": 10,
+   "d24": 11,
    "baseline": 0.8,
-   "ratio": 12.0,
-   "consecutive": 3,
+   "ratio": 13.2,
+   "consecutive": 4,
    "days": [
     0,
     0,
@@ -575,7 +704,7 @@
     0,
     4,
     1,
-    10
+    11
    ],
    "latest": [
     "富士山は初冠雪 見ごろの紅葉の一方“異変”も 長雨と日照不足で葉が緑のまま枯れるケース 台風31号は来週後半、関東に影響か（FNNプライムオンライン（フジテレビ系））",
@@ -616,8 +745,8 @@
     0,
     0,
     1,
-    0,
-    2,
+    1,
+    1,
     6
    ],
    "latest": [
@@ -777,7 +906,7 @@
    "alerted_at": "2026-10-30T23:34:08.979106+09:00"
   },
   {
-   "kw": "バイナンス",
+   "kw": "日本交通",
    "level": "high",
    "d24": 6,
    "baseline": 0.0,
@@ -793,101 +922,273 @@
     6
    ],
    "latest": [
-    "バイナンス被害 北朝鮮が関与か",
-    "https://news.yahoo.co.jp/pickup/6600708?source=rss"
+    "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+    "https://news.web.nhk/newsweb/na/nd-20261030de68790"
    ],
    "samples": [
     {
-     "title": "バイナンス被害 北朝鮮が関与か",
-     "url": "https://news.yahoo.co.jp/pickup/6600708?source=rss",
-     "source": "Yahoo IT",
-     "published": "2026-10-30T19:10:27+09:00"
+     "title": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68790",
+     "source": "NHK 社会",
+     "published": "2026-10-31T00:23:49+09:00"
     },
     {
-     "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
-     "source": "NHK 主要",
-     "published": "2026-10-30T16:35:51+09:00"
+     "title": "【速報】日本交通、29万人分情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Rc3ZiZXAzbngzbnJ6b3hRMm1nQTlWeVl6YzZYSlNNNmJvcUFwT0Joa3hzTzFIWXJnY2RhSXJTR1lwY3JKZ3d0VE12aw?oc=5",
+     "source": "47NEWS",
+     "published": "2026-10-30T22:50:17+09:00"
     },
     {
-     "title": "暗号資産「バイナンス」サイバー攻撃で約1兆円被害か 北朝鮮のハッキンググループが不正アクセスを行った可能性も",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3M0FDYnpjT2N6Yi11c1JsVThXdE50c0tSOVJ4U2E1M2N2YlFpaTB2Y3dvdUpLOWtVN2NKTDZqYW1yVVhTakphaHBVTnE5Z2xIdmZNcTdGQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-30T16:25:40+09:00"
+     "title": "日本交通、29万人分情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2VCWW4yQ2t6WmZxVHhaYUU1a2M4aV8zMFVtT0hZM1poV0czNE9rM2liSnVjX1hxdW5XcFdMb2ZlZHdCZGxCdzBFOTk3bV90cTM3OTZWajZmTk9uYmNDaERYVElfT0xfOWw2LUlWLWhoN2YyM1JKZmtvMy1YSDJTWm5zaGdRd2lsZ2lBR0VR0gGTAUFVX3lxTE1OSFdyMHM5RGFIcHFKVG5Rcm9BcDhhSTJmZzR2aG1leC1DQ05YdjU1QjZ1UmdxWDMyMFduTUh1MlFBR0Q5RGtuZURTVVJFVmQ5SmNHWF9kLUlKLUxqak5FcXRlVXE5TnFidDNpdUpfWTVKTVNGVWViZDdOdlZzTlc5RmJkdTR2TUgtSmVrMDRlaHdhSQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-30T22:50:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
+   "alerted_at": "2026-10-31T04:43:11.781872+09:00"
   },
   {
-   "kw": "目標到達",
+   "kw": "宮古島",
    "level": "high",
    "d24": 6,
-   "baseline": 0.0,
+   "baseline": 0.2,
    "ratio": 12.0,
-   "consecutive": 2,
+   "consecutive": 3,
    "days": [
     0,
     0,
     0,
     0,
     0,
-    0,
+    1,
     6
    ],
    "latest": [
-    "日銀、物価２％目標到達と判断 １４年越し、インフレ抑制に軸足―政策新局面、金利は据え置き",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VdkZDd2pzalNNcEIyNnM1OFpzRFJuNTZ6WmUyVmZMOXQzNHBmcDBCVmRsNUpiTWVQVm54eEhQa1pXNXJBNUktNHBMOU1pOHRXMndzb2FOeFlwaWNXc0Q3bklGSQ?oc=5"
+    "宮古島沖で船火災 行方不明の乗組員1人を発見 意識不明",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9fLXFzOU5nZkpRTzZUM3J2OHB4a2hHQnRvYjNWQU82ZDJrQ3NEWk1MTGJGX25EU2labndaLXFzbl9jMzJDQ19zVmRHazVhR1FXUTdSeVRyYVlnaTFjakdVQnoxNDhmUzM4Z0tkSkJEYThsdw?oc=5"
    ],
    "samples": [
     {
-     "title": "日銀、物価２％目標到達と判断 １４年越し、インフレ抑制に軸足―政策新局面、金利は据え置き",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VdkZDd2pzalNNcEIyNnM1OFpzRFJuNTZ6WmUyVmZMOXQzNHBmcDBCVmRsNUpiTWVQVm54eEhQa1pXNXJBNUktNHBMOU1pOHRXMndzb2FOeFlwaWNXc0Q3bklGSQ?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-30T12:56:00+09:00"
+     "title": "宮古島沖で船火災 行方不明の乗組員1人を発見 意識不明",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fLXFzOU5nZkpRTzZUM3J2OHB4a2hHQnRvYjNWQU82ZDJrQ3NEWk1MTGJGX25EU2labndaLXFzbl9jMzJDQ19zVmRHazVhR1FXUTdSeVRyYVlnaTFjakdVQnoxNDhmUzM4Z0tkSkJEYThsdw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T18:58:37+09:00"
     },
     {
-     "title": "◎日銀、物価２％目標到達と判断",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WRXdQNHFIN3ZTa2Fra2NOXzQ2RHVtZDhLaVFRbThuVGNDNi1sVFREQ2NmSHFBbC1McWE2bTdLWDFfMV9vUU5POVF2LWIwQ0FMc1hHMw?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-30T12:54:00+09:00"
-    },
-    {
-     "title": "日銀、物価2％目標到達と判断 デフレ脱却目指し14年越し実現（共同通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcUowZi1hZFBPTFVBcFotWGFiaHU4ZjRjSzJjOUJGazdVcU9pcTJpSVhXNmUtZC00UVV5bWtxUlh3cFFBaE10ZXNhMEdEblBzTFhfdXRYcHpIckFlTlB5VkRZTkR3ZEhqb3FwMTV2aU1aYUxOVGl5VHp1ZW02cVE?oc=5",
+     "title": "フィリピンへ航行中のタグボートで火災 5人救助も1人不明 沖縄・宮古島沖（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKRDhCUGUzVHp1d3BBM2hRekhVbV9rNUVDcVJDVHpMVnN3SHBzeW5uQUJGVzE1ZE9aRmtkQUM5TGZwaVFOQU5zU2k2Y2tveFhVdTlreHBra1lCdlRrQzZYSzNSck9BMm9za05RR0pDR0lrcUl5ZzdvdmREVkRWYU0?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-10-30T12:05:07+09:00"
+     "published": "2026-10-30T15:17:17+09:00"
+    },
+    {
+     "title": "「シーシャガウガウ」で交通安全願う 宮古島市",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aVzRJOGthTmVJV0haQVIzZWVtN3I1eXBJOUUtbHoxdGJiLWgyT0hqcldoRG1GQXBvWGdHZGZQaGJQaDRwYmRwNy1zR25hVG5lb1NaLXZGU0x1cndZV09Z?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-30T15:08:57+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
+   "alerted_at": "2026-10-23T05:49:56.324585+09:00"
   },
   {
-   "kw": "目標",
+   "kw": "島根",
    "level": "high",
-   "d24": 15,
-   "baseline": 1.3,
-   "ratio": 11.2,
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
    "consecutive": 2,
    "days": [
     0,
+    1,
+    1,
     0,
-    3,
+    1,
+    1,
+    7
+   ],
+   "latest": [
+    "震度2 島根県東部 2026年10月30日23:11ごろ 地震詳細",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzRQUjh0OV9LRGltZVlQRGp4UnhlV09QamQ2RTgzXzRGbWNaMWVjeEFHRjhuNGR6MkZVTEx3LXMtUG9HVmhrMUVzM3FIQmJzbkZsSUw3S1ZJQ01tb29mMGlkWXgxUEFBczNEcXRzdkdUQ09vXzFxcXNPTWNRQUxxcU9B?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "震度2 島根県東部 2026年10月30日23:11ごろ 地震詳細",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzRQUjh0OV9LRGltZVlQRGp4UnhlV09QamQ2RTgzXzRGbWNaMWVjeEFHRjhuNGR6MkZVTEx3LXMtUG9HVmhrMUVzM3FIQmJzbkZsSUw3S1ZJQ01tb29mMGlkWXgxUEFBczNEcXRzdkdUQ09vXzFxcXNPTWNRQUxxcU9B?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-30T23:27:03+09:00"
+    },
+    {
+     "title": "鳥取県、島根県で最大震度2の地震 鳥取県・米子市、鳥取南部町、島根県・安来市 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXEzdG1xVUlrZ3RvbzV4bW5paG9NY0ttYk1jMVEtU3RsVXp1TmJUR2IzZnYyR1BFWHFZc1YtbERWMVU5SkJVZUhrX0J1VXVPVnQ4dTJvUHRDMjNIczhUdEJGaV9fQW1Vd3VMSmVSYTlqa2lsT0llSGo3M3lONVJlVTJ2b2FmM3R1ZUd0RFd3?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-30T23:16:13+09:00"
+    },
+    {
+     "title": "鳥取県で最大震度2の地震 鳥取県・米子市、鳥取南部町、島根県・安来市（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVUp6Q25FOXFscnRGeHNmSFpTb2syMnp0UEExZTZUaVgyZWVfWGhmQnVKbUQ2dkRvenpyaUhnMDNLamxHWTV2XzRvd0NqQWtoN1hLZENGamRpZEJTSnc0RHZNOWpVdVV6TjU2NV9GQWp4VWw4ZXZGNUxEY2lZT0U?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-30T23:15:37+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-31T04:43:11.781872+09:00"
+  },
+  {
+   "kw": "ウィーン",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.7,
+   "ratio": 10.5,
+   "consecutive": 4,
+   "days": [
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
+    7
+   ],
+   "latest": [
+    "混雑やトラブル防止で…ハロウィーンを前に名古屋・栄の一部エリア閉鎖 オアシス21地下の「銀河の広場」など",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YV1NDT2sySFFZbURfLXFrbXZycXA0VHdGTzU1aHdxUnlJQU1EUU5XLTNPWGZJMmY5M2l0Z2ZWanFwTjUyRDA0ZnNUc1VIZw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "混雑やトラブル防止で…ハロウィーンを前に名古屋・栄の一部エリア閉鎖 オアシス21地下の「銀河の広場」など",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YV1NDT2sySFFZbURfLXFrbXZycXA0VHdGTzU1aHdxUnlJQU1EUU5XLTNPWGZJMmY5M2l0Z2ZWanFwTjUyRDA0ZnNUc1VIZw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-30T19:42:23+09:00"
+    },
+    {
+     "title": "使わないで！ハロウィーン仮装ナース服などに「赤十字マーク」",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68476",
+     "source": "NHK 社会",
+     "published": "2026-10-30T17:43:14+09:00"
+    },
+    {
+     "title": "いざという時助けを求められるように 「こども110番の家」ハロウィーンラリー",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNkR1UjBGM3daRF9oZFA3UWpvaVVQZW5jbFRtSnVOb0Q3TG4xNGlmYlZFa19wTVl1VFplZDQ4ZjJKamxWeHFTRi1peWg2NVBld3NhX0N3VQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-30T17:03:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-31T04:43:11.781872+09:00"
+  },
+  {
+   "kw": "物価",
+   "level": "high",
+   "d24": 31,
+   "baseline": 3.0,
+   "ratio": 10.3,
+   "consecutive": 9,
+   "days": [
+    1,
+    0,
+    1,
+    1,
+    0,
+    15,
+    31
+   ],
+   "latest": [
+    "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-31T01:02:20+09:00"
+    },
+    {
+     "title": "日銀総裁、物価2％定着へ軸足(時事通信)",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "published": "2026-10-30T19:34:31+09:00"
+    },
+    {
+     "title": "日銀総裁、物価２％定着へ軸足",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEp0VlV4c0dCbWpINGp4bWpkdGE3WTJ0UnByWG9yN3I0SUpESl9uRXhYSzJNcEZ1SU1WSmJvVVRxdTNMUHBUeExma3NNTDhjb09QUk43b28xbGdhc3hLeWRUNGFWNzNmY2RSZGxhYjBwUEVHZU0zVmRXWklmbzRLRGg3LXF5WkZB0gGIAUFVX3lxTE1ISnRWVXhzR0Jtakg0anhtamR0YTdZMnRScHJYb3I3cjRJSkRKX25FeFhLMk1wRnVJTVZKYm9VVHF1M0xQcFR4TGZrc01MOGNvT1BSTjdvbzFsZ2FzeEt5ZFQ0YVY3M2ZjZFJkbGFiMHBQRUdlTTNWZFdaSWZvNEtEaDctcXlaRkE?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-30T19:34:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "中野ブロードウェイ",
+   "level": "high",
+   "d24": 8,
+   "baseline": 0.8,
+   "ratio": 9.6,
+   "consecutive": 6,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    8
+   ],
+   "latest": [
+    "また中野ブロードウェイで高級腕時計窃盗 防犯カメラに上下黒づくめの男",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5WeUo4SDdqMnA3MUc0dUFfVmtZSVZUODhfWkxTWlRFNjlJMF9Ka3dncjRCZXJWX24tSTJXNW5CQm4zUXFEY3Nwc3k0SWkyS2xlX25NS3RTSUZWclVRVnVfRld3cHpSVXdmT0NQTkVld0RaQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "また中野ブロードウェイで高級腕時計窃盗 防犯カメラに上下黒づくめの男",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WeUo4SDdqMnA3MUc0dUFfVmtZSVZUODhfWkxTWlRFNjlJMF9Ka3dncjRCZXJWX24tSTJXNW5CQm4zUXFEY3Nwc3k0SWkyS2xlX25NS3RTSUZWclVRVnVfRld3cHpSVXdmT0NQTkVld0RaQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T18:57:48+09:00"
+    },
+    {
+     "title": "中野ブロードウェイで高級腕時計窃盗 防犯カメラに走る男の姿 4600万円相当を“試着”したまま逃走",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RM2FlNEx3LVNGSjE2RkZKRkY1RXRUTFo1Y3NzbGNndEt6TkJNYXJVb2p1R281YWdhMktXVVlFR0J2ZmZzaEpLWDR1cW1xZ003WnQ5bVJQRQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-30T16:16:00+09:00"
+    },
+    {
+     "title": "【独自】“容疑者とみられる男の映像”入手 「中野ブロードウェイ」高級腕時計窃盗事件 防犯カメラに写る…左手首には腕時計も 警視庁",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aRWs3V3FVX0owbnREVmdYY3N0UjU0NXpxZVRSUFhMVlNqakU4b3FkVm1OWHcxblNnVE1jS2ExaTZqMTJrUU8zWHpwVWp6UUM3VEVCaEdXdw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-10-30T12:40:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-30T06:56:34.997346+09:00"
+  },
+  {
+   "kw": "基調",
+   "level": "high",
+   "d24": 6,
+   "baseline": 0.7,
+   "ratio": 9.0,
+   "consecutive": 2,
+   "days": [
+    1,
+    0,
+    1,
+    0,
     0,
     2,
-    3,
-    15
+    6
    ],
    "latest": [
-    "木原官房長官　「責任ある積極財政」を維持　日銀が物価目標2％に事実上到達",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2FCMzdHa0dPR0UxQ25mX2Yza3l2Yk1sT3dHSF80UWx0OGpXa3ZzWmFpWmRsVVNkajZRWVI0NkF4TUNUVjRhNThxZHBPQ1BhbXh6c29BMk85VUpUTWstblN0MUVoUml2TUU3OWZIeE5GaHluYk5yN0txWnplZFR5VGlmUmFNNm9ZR3fSAY8BQVVfeXFMT0o0aVFCekhPZ0JZOWNaQmJTOEUwbS1ZbDZETWhEWFMzZURHdm4tSTVrNDlxSHQ0XzAzVDRkelN6Y1VXaXN1RVhNa3p1ZGNLUmFRQnlrc1NXaXV0WHhsZGNmRTJQUkdhNVgwVVhSdERseE8tN2pMdXNoWUEyY1czWEQxN0RMRFFjSUpkQnVET1k?oc=5"
+    "千葉県の中小企業景況、3期ぶりに低下 基調判断は据え置き",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZVUhBYzlaVm95NlBobVB1TFpQNVg5WkJ1b25RSWpmOGJHZ1ZORTJJVHJZTTlBZ3Q2SVNDNFlPUTJZaHB4X3RyV25IekFDQXdGUmhKNWhldHhwUzE0ODI1b1V5MnJqT1pVdmY5dA?oc=5"
    ],
    "samples": [
     {
-     "title": "木原官房長官　「責任ある積極財政」を維持　日銀が物価目標2％に事実上到達",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2FCMzdHa0dPR0UxQ25mX2Yza3l2Yk1sT3dHSF80UWx0OGpXa3ZzWmFpWmRsVVNkajZRWVI0NkF4TUNUVjRhNThxZHBPQ1BhbXh6c29BMk85VUpUTWstblN0MUVoUml2TUU3OWZIeE5GaHluYk5yN0txWnplZFR5VGlmUmFNNm9ZR3fSAY8BQVVfeXFMT0o0aVFCekhPZ0JZOWNaQmJTOEUwbS1ZbDZETWhEWFMzZURHdm4tSTVrNDlxSHQ0XzAzVDRkelN6Y1VXaXN1RVhNa3p1ZGNLUmFRQnlrc1NXaXV0WHhsZGNmRTJQUkdhNVgwVVhSdERseE8tN2pMdXNoWUEyY1czWEQxN0RMRFFjSUpkQnVET1k?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-30T18:53:00+09:00"
+     "title": "千葉県の中小企業景況、3期ぶりに低下 基調判断は据え置き",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZVUhBYzlaVm95NlBobVB1TFpQNVg5WkJ1b25RSWpmOGJHZ1ZORTJJVHJZTTlBZ3Q2SVNDNFlPUTJZaHB4X3RyV25IekFDQXdGUmhKNWhldHhwUzE0ODI1b1V5MnJqT1pVdmY5dA?oc=5",
+     "source": "日本経済新聞",
+     "published": "2026-10-30T17:35:00+09:00"
     },
     {
      "title": "日銀総裁、2％目標と「おおむね整合的」 基調物価、持続的・安定的達成まだ（時事通信）",
@@ -903,222 +1204,136 @@
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-30T16:44:02.654893+09:00"
+   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
   },
   {
-   "kw": "到達",
+   "kw": "物価上昇",
    "level": "high",
-   "d24": 16,
-   "baseline": 1.7,
-   "ratio": 9.6,
+   "d24": 6,
+   "baseline": 0.7,
+   "ratio": 9.0,
+   "consecutive": 3,
+   "days": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    3,
+    6
+   ],
+   "latest": [
+    "日銀総裁、物価上昇率2％超過を警戒",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmtsOVlmaVBTSUtqZk5LdEs2ZUdtVHlBdWg4NjM4T0dJQ21JaGJXcWlqemhOeElBYUJCLXVoR0prcnZUcFJRU0duSEhYRmUwblBqMS1UWmpMR3hDd25uWURtc1VuRm1OT2ZKM3B5SlhZR3lNcEpDRktqSHZuVFRCaUVFZ3FDZ0hKYmRLenN30gGTAUFVX3lxTE9ITEwwa0ozXzFKVXVDUmVsUUJUR0hUVVdBYy1lSkp1VmkzakY2MkI4NGpNWThWd0MyQWVweUw2V1A4Y2VfQjNlUm1fNkFtNW01TThmdHFZQnFScHhwZC16TzZHZ2MzdTdfRkpabmttTldtTS1weGpaNVZpZFJoYWNEeFVDSTBGZEpRcWFuV21Ia2Y2QQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "日銀総裁、物価上昇率2％超過を警戒",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmtsOVlmaVBTSUtqZk5LdEs2ZUdtVHlBdWg4NjM4T0dJQ21JaGJXcWlqemhOeElBYUJCLXVoR0prcnZUcFJRU0duSEhYRmUwblBqMS1UWmpMR3hDd25uWURtc1VuRm1OT2ZKM3B5SlhZR3lNcEpDRktqSHZuVFRCaUVFZ3FDZ0hKYmRLenN30gGTAUFVX3lxTE9ITEwwa0ozXzFKVXVDUmVsUUJUR0hUVVdBYy1lSkp1VmkzakY2MkI4NGpNWThWd0MyQWVweUw2V1A4Y2VfQjNlUm1fNkFtNW01TThmdHFZQnFScHhwZC16TzZHZ2MzdTdfRkpabmttTldtTS1weGpaNVZpZFJoYWNEeFVDSTBGZEpRcWFuV21Ia2Y2QQ?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-10-30T15:39:00+09:00"
+    },
+    {
+     "title": "日銀 政策金利1.25％程度に維持 物価上昇率「目標の2％」に到達との見解示す",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SV21YOUw3eWhaeWsyaEs4VVphbUR5UF9EN3NoSTQ5M1lhM3pySmROMm50SGM3ZFdSSWFIa2VxYXBjY2RDSDhuUDZEVVp0UzJLQXdhSzBUdVZUQkN2SWhWekFpMmhMc1VKWnB5RENEd21Ydw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T14:20:53+09:00"
+    },
+    {
+     "title": "日銀 物価上昇率“2％到達”と見解示す 目標導入の2013年以降初 政策金利は据え置き",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zc2F6WENTcFotaTNNNUpKVURFX0hmUGJYRHBUbUhjb1BBZE12N0gwdGU0ZXkzaEhoXy1yMEdaS0szMWpZTTNYMDhMTld6Sll0SlhkZkhXdkFyZVZKaFJfeU9obmdGdWM4TC1QdG5ESXBOQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T13:54:21+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-31T04:43:11.781872+09:00"
+  },
+  {
+   "kw": "政策金利",
+   "level": "high",
+   "d24": 10,
+   "baseline": 1.2,
+   "ratio": 8.6,
    "consecutive": 4,
    "days": [
     1,
     0,
-    2,
     0,
-    2,
+    0,
+    1,
     5,
-    16
+    10
    ],
    "latest": [
-    "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5"
+    "植田総裁“2％到達”は「一つの節目」と評価 政策金利は維持 次回含め毎会合で検討へ",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1OQU00MFBoMUhIYUczNlJQNEVtYm83UDRfMkRDSzA3RnpaaDY3UGExUnFKM2VDLW9TRWMwVjFoc2swUGJvNkdnVVB4MlBMZnlycGlQZFU5cDZfVkp5MVR2aWtVNF91d3hJSGdudnhjSXZrUQ?oc=5"
    ],
    "samples": [
     {
-     "title": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T19:38:44+09:00"
-    },
-    {
-     "title": "木原官房長官　「責任ある積極財政」を維持　日銀が物価目標2％に事実上到達",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2FCMzdHa0dPR0UxQ25mX2Yza3l2Yk1sT3dHSF80UWx0OGpXa3ZzWmFpWmRsVVNkajZRWVI0NkF4TUNUVjRhNThxZHBPQ1BhbXh6c29BMk85VUpUTWstblN0MUVoUml2TUU3OWZIeE5GaHluYk5yN0txWnplZFR5VGlmUmFNNm9ZR3fSAY8BQVVfeXFMT0o0aVFCekhPZ0JZOWNaQmJTOEUwbS1ZbDZETWhEWFMzZURHdm4tSTVrNDlxSHQ0XzAzVDRkelN6Y1VXaXN1RVhNa3p1ZGNLUmFRQnlrc1NXaXV0WHhsZGNmRTJQUkdhNVgwVVhSdERseE8tN2pMdXNoWUEyY1czWEQxN0RMRFFjSUpkQnVET1k?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-30T18:53:00+09:00"
-    },
-    {
-     "title": "「音だけで“ストリートファイター6”マスターランク到達」全盲eスポーツ選手・NAOYAさんの挑戦と“年収3.5倍”を実現した働き方",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fNVlyRzZ4Q2R6NmtIajFuaFoxVzlOdnFhWGNvUkZTQWtYd3RMNHdieXJka1RGMzQ0al85aDFIenVZZG1QWVd1R3Y0Yk5kejliLU5ickV6Y0JVSzlmVWJ4TVlEcjJtNEdXWVFxTFV2N09GZw?oc=5",
+     "title": "植田総裁“2％到達”は「一つの節目」と評価 政策金利は維持 次回含め毎会合で検討へ",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OQU00MFBoMUhIYUczNlJQNEVtYm83UDRfMkRDSzA3RnpaaDY3UGExUnFKM2VDLW9TRWMwVjFoc2swUGJvNkdnVVB4MlBMZnlycGlQZFU5cDZfVkp5MVR2aWtVNF91d3hJSGdudnhjSXZrUQ?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-30T18:00:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-21T14:54:44.262054+09:00"
-  },
-  {
-   "kw": "物価",
-   "level": "high",
-   "d24": 26,
-   "baseline": 2.8,
-   "ratio": 9.2,
-   "consecutive": 8,
-   "days": [
-    1,
-    0,
-    1,
-    1,
-    0,
-    14,
-    26
-   ],
-   "latest": [
-    "日銀総裁、物価2％定着へ軸足(時事通信)",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "日銀総裁、物価2％定着へ軸足(時事通信)",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "published": "2026-10-30T19:34:31+09:00"
+     "published": "2026-10-30T19:43:54+09:00"
     },
     {
-     "title": "日銀総裁、物価２％定着へ軸足＝持続・安定的な実現「まだ」―政策判断、上振れリスク意識",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WM2xxLUhVQ0hicnh3dDRMNEFFMXFIamRIOGJUTnFPRkk0VVZ6V1NqdUZNblFESGtYbGtUeGtyQ2JLMXdSMzV5RjVZdndFWkxnakpIZA?oc=5",
-     "source": "時事通信ニュース",
-     "published": "2026-10-30T19:29:17+09:00"
+     "title": "【ライブ】日銀 政策金利を据え置き 植田総裁が記者会見",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+     "source": "NHK 主要",
+     "published": "2026-10-30T16:07:00+09:00"
     },
     {
-     "title": "木原官房長官　「責任ある積極財政」を維持　日銀が物価目標2％に事実上到達",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2FCMzdHa0dPR0UxQ25mX2Yza3l2Yk1sT3dHSF80UWx0OGpXa3ZzWmFpWmRsVVNkajZRWVI0NkF4TUNUVjRhNThxZHBPQ1BhbXh6c29BMk85VUpUTWstblN0MUVoUml2TUU3OWZIeE5GaHluYk5yN0txWnplZFR5VGlmUmFNNm9ZR3fSAY8BQVVfeXFMT0o0aVFCekhPZ0JZOWNaQmJTOEUwbS1ZbDZETWhEWFMzZURHdm4tSTVrNDlxSHQ0XzAzVDRkelN6Y1VXaXN1RVhNa3p1ZGNLUmFRQnlrc1NXaXV0WHhsZGNmRTJQUkdhNVgwVVhSdERseE8tN2pMdXNoWUEyY1czWEQxN0RMRFFjSUpkQnVET1k?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-30T18:53:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
-  },
-  {
-   "kw": "キオクシア",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.7,
-   "ratio": 9.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    1,
-    1,
-    0,
-    1,
-    1,
-    6
-   ],
-   "latest": [
-    "キオクシアHD中間決算 最終利益は前年同期の37倍に",
-    "https://news.web.nhk/newsweb/na/nd-20261030de68433"
-   ],
-   "samples": [
-    {
-     "title": "キオクシアHD中間決算 最終利益は前年同期の37倍に",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68433",
-     "source": "NHK 経済",
-     "published": "2026-10-30T22:37:04+09:00"
-    },
-    {
-     "title": "キオクシアＨＤ、純利益２４倍に ＡＩ特需継続―２６年４～１２月期予想",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqZ3BQMGp6SnduRWQtb2hNdUpNcF9wbU0zYkhmeC0zcWVFSm5ra29XQnYzMDZzNkgxdTFwM0w0a0Y4cTNPcXFJUHdQWWQ3X2tOc1lYcEcxcjJ3TncydDRzZm1HOA?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-30T20:39:00+09:00"
-    },
-    {
-     "title": "キオクシア 4-12月純利益24倍予想",
-     "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
-     "source": "Yahoo 経済",
-     "published": "2026-10-30T19:46:26+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
-  },
-  {
-   "kw": "重傷",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.7,
-   "ratio": 9.0,
-   "consecutive": 5,
-   "days": [
-    3,
-    0,
-    0,
-    1,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "六本木高校生徒 複数回刺され重傷",
-    "https://news.yahoo.co.jp/pickup/6600717?source=rss"
-   ],
-   "samples": [
-    {
-     "title": "六本木高校生徒 複数回刺され重傷",
-     "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-10-30T20:44:54+09:00"
-    },
-    {
-     "title": "六本木高校で女子生徒刺され重傷 別の女子生徒“殺人未遂”で現行犯逮捕 東京・港区",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84TS1zek5MQkxnRm5ad3Vwdnptb0ZBNE5DOUFkZjRyZUJHdFZGM1ZvQ2Q0OE5qMEo0M0g4MDRReUxhMWVEYm42MlRqNHF5SG9ORGJIV0Rtcm5FcVFYNk9MT19FQnFQTjVaNTJUT1lick1XZw?oc=5",
+     "title": "日銀 政策金利1.25％程度に維持 物価上昇率「目標の2％」に到達との見解示す",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SV21YOUw3eWhaeWsyaEs4VVphbUR5UF9EN3NoSTQ5M1lhM3pySmROMm50SGM3ZFdSSWFIa2VxYXBjY2RDSDhuUDZEVVp0UzJLQXdhSzBUdVZUQkN2SWhWekFpMmhMc1VKWnB5RENEd21Ydw?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-10-30T14:23:38+09:00"
-    },
-    {
-     "title": "重傷者ら入院の病院を国王が慰問　「被害者に寄り添うことが重要」　スペイン列車事故",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblBjcnlNdFY4T2Z5aVdQNjJBX0Z2WVg3Tkw3UW5nU0REZHlkMFFYVWFXU3FPUVJTWXNnMGJNX0ZPa1VkenJMbkpJTjZFYzVsV2NxNFc2R2VYMGpWMlFnZHhlMFY1R01pVWcwWWFLLVZBT3hPU1ZPMG1UdTFCLXRldDhMSDBZZ9IBiwFBVV95cUxPLUhfeG5rZmNsaUh2aHVaZ1dEUlNienJnZmhpNUtmM09LckRRVC1ZNGNXXzdKc3Z1NnZ2a3hGRzJvcUw1dkJDMjY0a1JsOGctMlVrZGQ5RWxVcXpjektRLVE1S2JJNnk3a1NpSTlvR1RvOWZTX1NSZFRRSGU4ZVBJdmV6U2wwV2d2REx3?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-30T05:45:06+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-21T09:59:19.007555+09:00"
-  },
-  {
-   "kw": "冬日",
-   "level": "high",
-   "d24": 4,
-   "baseline": 0.5,
-   "ratio": 8.0,
-   "consecutive": 6,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    2,
-    4
-   ],
-   "latest": [
-    "「冬日」きのう全国130地点 “秋から冬へ”季節が一気に 琵琶湖に「蜃気楼」も",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE00Tnd2Y0FtT0hRZnk1WVNYUnFhaE84Mk9NZ3pMdEU0UWJlTVpnMXVicE4tWDBNZ1dBQ0FTSlVMdXpSNXVHeFlrWndnbFU3bU0yNjJlT2tTV1hjSk1HWUM5aWJDamF4eTNGTHFyYkxyRGZKdw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "「冬日」きのう全国130地点 “秋から冬へ”季節が一気に 琵琶湖に「蜃気楼」も",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00Tnd2Y0FtT0hRZnk1WVNYUnFhaE84Mk9NZ3pMdEU0UWJlTVpnMXVicE4tWDBNZ1dBQ0FTSlVMdXpSNXVHeFlrWndnbFU3bU0yNjJlT2tTV1hjSk1HWUM5aWJDamF4eTNGTHFyYkxyRGZKdw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-30T11:34:00+09:00"
-    },
-    {
-     "title": "列島各地で今季一番の冷え込み 「冬日」130地点 焼き芋に行列…（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Pbjh5QkFkaVd6dzdOcEVPcFFlMjdkMldTOFVBaEFWYmpJcFF1MkU5TVpSYUFsQWhTeDEtM3B3OVgzaTB5V0lsQ2pTRXlULV9obWM5LWJxVWg0WVJQY213TkhOSmVoT1h2Qm80R3h0SExUQXZpZkEtcDFoWjQwemM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T00:58:16+09:00"
-    },
-    {
-     "title": "『気嵐』に『蜃気楼』も 全国130地点で冬日“12月並み寒気”各地で冬景色（テレ朝NEWS）",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOREFreVBhVDFZOHlLUHc1M0FZQmkwOVJHUG1RUHBSNHNLZURXOWdscGNHVjhSTU1sUkk3Q3Jab1hRX0dBbkRhTk5BZDRWQUlpYzNFQ2I4a2d3ZGNhaTlVRExmRUtHa1pleTdqX2FRa3J0ZDhrZXU2T1ZkRDVXX2J6OXNodTRqeGs?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-29T23:53:00+09:00"
+     "published": "2026-10-30T14:20:53+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-30T16:44:02.654893+09:00"
+  },
+  {
+   "kw": "増加",
+   "level": "high",
+   "d24": 7,
+   "baseline": 0.8,
+   "ratio": 8.4,
+   "consecutive": 4,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    3,
+    7
+   ],
+   "latest": [
+    "インフルエンザ患者数わずかに増加 各自治体注意呼びかけ",
+    "https://news.web.nhk/newsweb/na/nd-20261030de68689"
+   ],
+   "samples": [
+    {
+     "title": "インフルエンザ患者数わずかに増加 各自治体注意呼びかけ",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68689",
+     "source": "NHK 科学文化",
+     "published": "2026-10-30T18:51:53+09:00"
+    },
+    {
+     "title": "法人税の申告総額3兆円余増加し過去最高 源泉所得税も 国税庁",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68515",
+     "source": "NHK 社会",
+     "published": "2026-10-30T16:58:00+09:00"
+    },
+    {
+     "title": "【画像まとめ】AIスマートグラス 不正行為で摘発者も…“細いフレーム”問い合わせ増加の理由 韓国",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaV9QZFRDa0VkNm9lNnZMRFp1SUV0YWlscU93Vi1HR0JNSTZpdE04WUlvcGdWal9fZE1yMHVnYVl2UFJzVGlGSnN0LTl6aUxmQjlMUmViQm5ZQ3dPRXAyQ1llcEQ4YkMyZHRTYUhBcFpMTjY3Z09qcjZBcmpMSWFibFNpaw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T16:34:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T16:08:34.892553+09:00"
   },
   {
    "kw": "高級腕時計",
@@ -1207,47 +1422,90 @@
    "alerted_at": "2026-10-30T16:44:02.654893+09:00"
   },
   {
-   "kw": "増加",
+   "kw": "農水省",
    "level": "high",
-   "d24": 6,
-   "baseline": 0.8,
-   "ratio": 7.2,
-   "consecutive": 3,
+   "d24": 7,
+   "baseline": 1.0,
+   "ratio": 7.0,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    0,
+    5,
+    0,
+    1,
+    7
+   ],
+   "latest": [
+    "野菜、１１月も平年より高く ダイコンやハクサイ、長雨で―農水省",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qeTJYWGE0Y0tnd0RNZTRsUzIwdFZHaUE4OWxiOVcxVlhFZmoyZ2NBNndvYk10YzZyU01MaFVwbi1MY1psX08zQUx3SVhjc3ZDRGVudUxLRmJoTUlCUElWTTNfOA?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "野菜、１１月も平年より高く ダイコンやハクサイ、長雨で―農水省",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qeTJYWGE0Y0tnd0RNZTRsUzIwdFZHaUE4OWxiOVcxVlhFZmoyZ2NBNndvYk10YzZyU01MaFVwbi1MY1psX08zQUx3SVhjc3ZDRGVudUxLRmJoTUlCUElWTTNfOA?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T20:11:00+09:00"
+    },
+    {
+     "title": "政府備蓄米 追加で買い戻す方針 農水省の審議会で正式決定",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68701",
+     "source": "NHK 経済",
+     "published": "2026-10-30T19:50:27+09:00"
+    },
+    {
+     "title": "備蓄米、保管期間の短縮検討 運用見直しを議論―農水省審議会",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41WDkwSWxXMHBqQVp5TDBuRkJtYUI2ZTJyOWpmRGk3dEVSdVhVeWxmQUo3THlEaHR4bWduQmVHQ1JKN3YwSWZMRTgyMjVWaldvVkZBWTRmMmpTYkRydEZya2VMNA?oc=5",
+     "source": "時事ドットコム",
+     "published": "2026-10-30T19:18:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
+  },
+  {
+   "kw": "スペイン列車事故",
+   "level": "high",
+   "d24": 7,
+   "baseline": 1.0,
+   "ratio": 7.0,
+   "consecutive": 5,
    "days": [
     0,
     0,
     0,
     0,
-    2,
-    3,
-    6
+    1,
+    5,
+    7
    ],
    "latest": [
-    "インフルエンザ患者数わずかに増加 各自治体注意呼びかけ",
-    "https://news.web.nhk/newsweb/na/nd-20261030de68689"
+    "スペイン列車事故 巻き込まれた外国人51人のうち23人の安否不明（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EMnNYdEl4VFozVU1kdTJkaTZpbHQwVmFZRTlseW9ydUlnaVZJUE1RNG5KOTRjR3F1WVhXWWlONEVRTGNMQlhFMG9CYmNYYTVkSmdiM3ZuVFl5WF9kYU9oenU0SnZtMmZDZWx4THh6V2NKMThUeWpIUFcxMG1MLVE?oc=5"
    ],
    "samples": [
     {
-     "title": "インフルエンザ患者数わずかに増加 各自治体注意呼びかけ",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68689",
-     "source": "NHK 科学文化",
-     "published": "2026-10-30T18:51:53+09:00"
+     "title": "スペイン列車事故 巻き込まれた外国人51人のうち23人の安否不明（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EMnNYdEl4VFozVU1kdTJkaTZpbHQwVmFZRTlseW9ydUlnaVZJUE1RNG5KOTRjR3F1WVhXWWlONEVRTGNMQlhFMG9CYmNYYTVkSmdiM3ZuVFl5WF9kYU9oenU0SnZtMmZDZWx4THh6V2NKMThUeWpIUFcxMG1MLVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-31T00:36:23+09:00"
     },
     {
-     "title": "法人税の申告総額3兆円余増加し過去最高 源泉所得税も 国税庁",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68515",
-     "source": "NHK 社会",
-     "published": "2026-10-30T16:58:00+09:00"
+     "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVkxlcGcwN1JUQjJkdVZKSkx0dGkwQW94Z3BOSDdnVGR0Smx5MTkzeHQwQTRwWm9HemE0QWdOS0VDcThUQ2ZuRHZCVHJoOXAtV3NnMmJSNFZaRlM2dmM4YVQ2cEFsckIwVE44TXFndmp0eWNmMDhJVm4yS1NHcTg?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-30T16:18:22+09:00"
     },
     {
-     "title": "AIスマートグラス 不正行為で摘発者も…“細いフレーム”問い合わせ増加の理由 韓国",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tM1lnOVp5OVk3enJMTU9LRnc1d3dqZEZGYUFHVDVQdk5GTjltdEtuczdqd0VzSUFqbjIwdXJjdGdkM0pZZkFuVW9OdXB6blBBTk1KX0YzMkV4VUF2ZTdaMGFTYnpoR05kYkw5WjFoOHhKUU1xLWJWdkJ3?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-10-30T16:34:00+09:00"
+     "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PUWt3UjJ2V215c294eDRRQlE2SXF5U24tOXBuZnRSVkNBek5QSU9oZ0NBbktSbGpHN2ljR3dFd1ByZWlvUTFReTRGUnY3UQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-10-30T16:17:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-14T16:08:34.892553+09:00"
+   "alerted_at": "2026-10-29T20:07:00.948784+09:00"
   },
   {
    "kw": "値上げ",
@@ -1338,10 +1596,10 @@
   {
    "kw": "反落",
    "level": "high",
-   "d24": 10,
+   "d24": 11,
    "baseline": 1.7,
-   "ratio": 6.0,
-   "consecutive": 5,
+   "ratio": 6.6,
+   "consecutive": 6,
    "days": [
     6,
     0,
@@ -1349,7 +1607,7 @@
     2,
     0,
     2,
-    10
+    11
    ],
    "latest": [
     "日経平均テクニカル： 4日ぶり大幅反落、5日線上向きキープ",
@@ -1379,235 +1637,20 @@
    "alerted_at": "2026-10-19T19:46:52.500804+09:00"
   },
   {
-   "kw": "スペイン列車事故",
+   "kw": "プラス",
    "level": "high",
-   "d24": 6,
-   "baseline": 1.0,
+   "d24": 8,
+   "baseline": 1.3,
    "ratio": 6.0,
    "consecutive": 4,
    "days": [
     0,
+    2,
+    2,
     0,
-    0,
-    0,
-    1,
-    5,
-    6
-   ],
-   "latest": [
-    "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVkxlcGcwN1JUQjJkdVZKSkx0dGkwQW94Z3BOSDdnVGR0Smx5MTkzeHQwQTRwWm9HemE0QWdOS0VDcThUQ2ZuRHZCVHJoOXAtV3NnMmJSNFZaRlM2dmM4YVQ2cEFsckIwVE44TXFndmp0eWNmMDhJVm4yS1NHcTg?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVkxlcGcwN1JUQjJkdVZKSkx0dGkwQW94Z3BOSDdnVGR0Smx5MTkzeHQwQTRwWm9HemE0QWdOS0VDcThUQ2ZuRHZCVHJoOXAtV3NnMmJSNFZaRlM2dmM4YVQ2cEFsckIwVE44TXFndmp0eWNmMDhJVm4yS1NHcTg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T16:18:22+09:00"
-    },
-    {
-     "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PUWt3UjJ2V215c294eDRRQlE2SXF5U24tOXBuZnRSVkNBek5QSU9oZ0NBbktSbGpHN2ljR3dFd1ByZWlvUTFReTRGUnY3UQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-10-30T16:17:00+09:00"
-    },
-    {
-     "title": "日本人2人“犠牲者の中に名前なし” スペイン列車事故で69人死亡（FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxYXliSm44d3pRYzlId09CY1BnaVhMWC1xcXoxOFlJZmtOQkxldnA5Mnd4RmVveTBYYVB0aDZjbkJTa2hXVFNtNF9IMmpNUTdsUVhndVZ1SW9rZDYxc0hkQ3k3WkNuMWtNZWlHWmloVEozZw?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-10-30T15:00:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-29T20:07:00.948784+09:00"
-  },
-  {
-   "kw": "農水省",
-   "level": "high",
-   "d24": 6,
-   "baseline": 1.0,
-   "ratio": 6.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    5,
-    0,
-    1,
-    6
-   ],
-   "latest": [
-    "野菜、１１月も平年より高く ダイコンやハクサイ、長雨で―農水省",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qeTJYWGE0Y0tnd0RNZTRsUzIwdFZHaUE4OWxiOVcxVlhFZmoyZ2NBNndvYk10YzZyU01MaFVwbi1MY1psX08zQUx3SVhjc3ZDRGVudUxLRmJoTUlCUElWTTNfOA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "野菜、１１月も平年より高く ダイコンやハクサイ、長雨で―農水省",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qeTJYWGE0Y0tnd0RNZTRsUzIwdFZHaUE4OWxiOVcxVlhFZmoyZ2NBNndvYk10YzZyU01MaFVwbi1MY1psX08zQUx3SVhjc3ZDRGVudUxLRmJoTUlCUElWTTNfOA?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-30T20:11:00+09:00"
-    },
-    {
-     "title": "政府備蓄米 追加で買い戻す方針 農水省の審議会で正式決定",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68701",
-     "source": "NHK 経済",
-     "published": "2026-10-30T19:50:27+09:00"
-    },
-    {
-     "title": "備蓄米、保管期間の短縮検討 運用見直しを議論―農水省審議会",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41WDkwSWxXMHBqQVp5TDBuRkJtYUI2ZTJyOWpmRGk3dEVSdVhVeWxmQUo3THlEaHR4bWduQmVHQ1JKN3YwSWZMRTgyMjVWaldvVkZBWTRmMmpTYkRydEZya2VMNA?oc=5",
-     "source": "時事ドットコム",
-     "published": "2026-10-30T19:18:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-30T23:34:08.979106+09:00"
-  },
-  {
-   "kw": "ベトナム",
-   "level": "high",
-   "d24": 6,
-   "baseline": 1.0,
-   "ratio": 6.0,
-   "consecutive": 6,
-   "days": [
-    0,
-    0,
-    1,
-    1,
     1,
     3,
-    6
-   ],
-   "latest": [
-    "日本人10歳男児のプール死亡事故 4年あまりを経てベトナム当局が捜査を完了 プールの設計会社の社長を起訴へ",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndGdGX2RWcDdGaU8zUzNjWnVKbVlkeXk0d1pudFVKQjQ4YVNsb2c0ZjZtU3JaaGZfVmlOSTJxSWdHQnlQNUM1N1VkWmpVZEtHZDFxSWM1UGFkVDkyT1F6TjllVWJrdXI0YkZpMnQxS3pDRzVGMzNhWlUtU1F6Y0E?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "日本人10歳男児のプール死亡事故 4年あまりを経てベトナム当局が捜査を完了 プールの設計会社の社長を起訴へ",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndGdGX2RWcDdGaU8zUzNjWnVKbVlkeXk0d1pudFVKQjQ4YVNsb2c0ZjZtU3JaaGZfVmlOSTJxSWdHQnlQNUM1N1VkWmpVZEtHZDFxSWM1UGFkVDkyT1F6TjllVWJrdXI0YkZpMnQxS3pDRzVGMzNhWlUtU1F6Y0E?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T19:23:19+09:00"
-    },
-    {
-     "title": "宇賀なつみ テレ朝退社のきっかけはベトナムの人々の暮らしぶり「急に腹落ちして。あ、会社辞めよって」（スポニチアネックス）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xRFRJVmdkOHUwYnNnb0J5YjdDREc0NEZlR003S1hPcjlhRkJlaU5SV2FBWm9IR0tHQ2czQ1ZFLXlybEF5RWtlUWxxN1BMSWYtUExwVWVHYnVocFNGelRqcS1xenVKeTZibTVJeWt1QWZJUXBHVzYyTXBjbVp1RGc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T18:45:09+09:00"
-    },
-    {
-     "title": "誤訳で“違う製品”を作りかけた？　ベトナム工場への指示書、通訳よりGeminiの方が伝わったワケ",
-     "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
-     "source": "ITmedia",
-     "published": "2026-10-30T13:00:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
-  },
-  {
-   "kw": "外務省",
-   "level": "high",
-   "d24": 9,
-   "baseline": 1.7,
-   "ratio": 5.4,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    4,
-    3,
-    0,
-    3,
-    9
-   ],
-   "latest": [
-    "外務省 不正アクセスで氏名など約3600件の個人情報流出の可能性 外交上の機密情報は含まれず",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE83T1NnZUVhRy1aYm5DWmpacmpCUlZOLS1OdmNUNXpHWUNhazZHNm9yZGtmMXB6RExFdlBMODZXUVZ0emRfTTNpRWpVMF9hMWQyR2lXaXd1X21TcmNnM0lBYW1tQmdtclo4TVJ4all3cms0TWdnbjdWNGJYM0YzUjQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "外務省 不正アクセスで氏名など約3600件の個人情報流出の可能性 外交上の機密情報は含まれず",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83T1NnZUVhRy1aYm5DWmpacmpCUlZOLS1OdmNUNXpHWUNhazZHNm9yZGtmMXB6RExFdlBMODZXUVZ0emRfTTNpRWpVMF9hMWQyR2lXaXd1X21TcmNnM0lBYW1tQmdtclo4TVJ4all3cms0TWdnbjdWNGJYM0YzUjQ?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T20:55:42+09:00"
-    },
-    {
-     "title": "外務省に不正アクセス 氏名やメール約3600件が漏えいの可能性 パスポート情報のシステムは対象外",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hOWxCUUtBRVlfOVg2MU9FTHJmSkwwQXRpcUxEdDhOMGdndU9CSzFOczZPREhHUEpyWl9ScVZHSHFCMGxYbTdEZWdERXJnS2NydFhJUmtBYXBlZlNPX0RhNmNjWTVxWmxqaHZMNVh0LUN3MVQ5M0o5Nk5nV244d2M?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T19:25:29+09:00"
-    },
-    {
-     "title": "外務省 不正アクセスで個人情報約3600件漏えいの可能性",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68694",
-     "source": "NHK 科学文化",
-     "published": "2026-10-30T18:47:03+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-15T13:38:52.049196+09:00"
-  },
-  {
-   "kw": "政策金利",
-   "level": "high",
-   "d24": 6,
-   "baseline": 1.2,
-   "ratio": 5.1,
-   "consecutive": 3,
-   "days": [
-    1,
-    0,
-    0,
-    0,
-    0,
-    6,
-    6
-   ],
-   "latest": [
-    "【ライブ】日銀 政策金利を据え置き 植田総裁が記者会見",
-    "https://news.web.nhk/newsweb/na/nd-20261030de68221"
-   ],
-   "samples": [
-    {
-     "title": "【ライブ】日銀 政策金利を据え置き 植田総裁が記者会見",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
-     "source": "NHK 主要",
-     "published": "2026-10-30T16:07:00+09:00"
-    },
-    {
-     "title": "日銀 基調的な物価上昇率“2％目標に事実上到達” 2013年の導入以来初 政策金利は1.25％据え置き",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDRmpPcXNaeVJzeWl2RlR3ZldJVmRTcGxEUHF3UGswckRWd0xnY1VEdXRYRG5KMURDRTdQLVc3RVdqTzIydnBFaU52SU10SVZIZ2x5RmRRYw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-10-30T13:22:35+09:00"
-    },
-    {
-     "title": "日銀 政策金利1.25%に据え置き",
-     "url": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
-     "source": "Yahoo 経済",
-     "published": "2026-10-30T12:37:48+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-30T16:44:02.654893+09:00"
-  },
-  {
-   "kw": "縮小",
-   "level": "high",
-   "d24": 14,
-   "baseline": 2.8,
-   "ratio": 4.9,
-   "consecutive": 6,
-   "days": [
-    3,
-    0,
-    3,
-    0,
-    4,
-    7,
-    14
+    8
    ],
    "latest": [
     "ユーロ圏GDP 7月から9月期 伸び率プラス0.4% 2期ぶり縮小",
@@ -1621,109 +1664,349 @@
      "published": "2026-10-30T22:04:45+09:00"
     },
     {
-     "title": "ユーロ圏GDP0.4％増 7～9月期、伸び率縮小",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NR0VmWTdFOGVNZmdRRm1PalY1WTJVXzcyV0JGUnZpOGRmYUJNSklod1BhYXF2UURLNUI4NmZVODc2aTQ1Z3VJel9Law?oc=5",
-     "source": "47NEWS",
-     "published": "2026-10-30T19:32:52+09:00"
-    },
-    {
-     "title": "1日で100億円の税金が…“ガソリン補助金縮小” 高市総理 決断のワケ 補助継続に予備費1.1兆円超 問われる出口戦略",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44a0xNVUlUNWpfUUs3dkFNZ0xZT0hDT0tzamYzcEpSdEhYRGRLZzBSZzEyZ3Fsc3lwTm9PaE9HeVU5bGx3blItTDl0Q1RaVk1WN253MjJfUXJRbUxUc1VHZlRRN25HM01Zek4ybnVSN2FIRmhSWHQ4MThKeklyaEE?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T19:25:49+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-30T10:41:03.561377+09:00"
-  },
-  {
-   "kw": "逃走",
-   "level": "high",
-   "d24": 15,
-   "baseline": 3.3,
-   "ratio": 4.5,
-   "consecutive": 5,
-   "days": [
-    2,
-    5,
-    2,
-    6,
-    2,
-    3,
-    15
-   ],
-   "latest": [
-    "逃走中の八田與一容疑者（30）新たな顔写真を公開 事件前25歳当時 殺人容疑などで重要指名手配 チラシには「WANTED」英文も（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTYyQkhoaVZIdG5YWFlQWG9YUXBCZDFmRE1ZNlVMVWh3b2x6Slk0V21FQWswNmJxYndhSHBLWWloUmpCSDhzMjlySWx6V0E0Y3EtQjl5VlFsNDVOc1JmNnA0QXR3S0VYNnl4VjFxZ3RYQjk1MEQ3aHYyV1RweTQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "逃走中の八田與一容疑者（30）新たな顔写真を公開 事件前25歳当時 殺人容疑などで重要指名手配 チラシには「WANTED」英文も（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTYyQkhoaVZIdG5YWFlQWG9YUXBCZDFmRE1ZNlVMVWh3b2x6Slk0V21FQWswNmJxYndhSHBLWWloUmpCSDhzMjlySWx6V0E0Y3EtQjl5VlFsNDVOc1JmNnA0QXR3S0VYNnl4VjFxZ3RYQjk1MEQ3aHYyV1RweTQ?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T21:08:22+09:00"
-    },
-    {
-     "title": "「でかいね」金庫狙う2人組侵入の瞬間 バールで破壊試みるもわずか10秒で「絶対無理」 あきらめ逃走 愛知・稲沢市",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nM3JOc05rN2Z6WVgzWVJGbkdxWWVBaFpZWUswX0t3ZFdpdGY3YUlOZ2tWcDctRzhsMEl5bjdGbXh1R2tiRW4xZktHSDJzU1Y3N05kTjZlYkFjd3dDeVp1R21uY1BPQ0dUcms4aktFUGF5UFpqMmtaYnNkdnZ4WjQ?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T20:24:23+09:00"
-    },
-    {
-     "title": "犯行後に服脱いで逃走か 「銀座SIX」スプレー噴射で逮捕の24歳中国籍の男 追跡を逃れるためか",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RVXZpczU2UC1sak5DYy0tSTlRRXEyc2lhUVU0dXhfQlZhY2RIalpMdWM4dFVLLV9iZnp2NXdFT3ZtejJkRThHUDhJTm9jaEhGR3B2VjRFR05jTTFSeC1Pcjl1bVh0QXZEblAzOEhUbHJpc3hYSU9Bby1GSUY5eGc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T19:38:19+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T10:55:08.346362+09:00"
-  },
-  {
-   "kw": "プラス",
-   "level": "high",
-   "d24": 6,
-   "baseline": 1.3,
-   "ratio": 4.5,
-   "consecutive": 3,
-   "days": [
-    0,
-    2,
-    2,
-    0,
-    0,
-    4,
-    6
-   ],
-   "latest": [
-    "ユーロ圏GDP 7月から9月期 伸び率プラス0.4% 2期ぶり縮小",
-    "https://news.web.nhk/newsweb/na/nd-20261030de68772"
-   ],
-   "samples": [
-    {
-     "title": "ユーロ圏GDP 7月から9月期 伸び率プラス0.4% 2期ぶり縮小",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68772",
-     "source": "NHK 経済",
-     "published": "2026-10-30T22:04:45+09:00"
+     "title": "ＧＤＰ４期連続プラスか",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3SmQ3bXRFb2tueW84QTJ5RlU3Q0MwNVU3MTMyMWtQT1RFN1N1UzhfN1dpNXRzaExGcVN4ZjRKenpnVmZmSHJCWXllWXotWk51UUlmenc3WkVvRVotd3VwaU1HUnRqWFlZ?oc=5",
+     "source": "カナロコ",
+     "published": "2026-10-30T18:25:53+09:00"
     },
     {
      "title": "GDP4期連続プラスか 7～9月期、AI下支え（共同通信）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lT0lwZGd2TERMdmVlblRZUHRGTlRnX2VRdlRQVEd6Q2F3ZFhGWmZPcTNlTi1NdnJGUmMwMXVWSm1GSmtkR1lYblR4WFRHUUdhc1A3VXBoU1hveWxqbmZ1OGx5RFhHMHFsQ1FMbFBNNVNzdGdjaE95NkQwZlhfOVE?oc=5",
      "source": "Yahoo!ニュース",
      "published": "2026-10-30T18:25:53+09:00"
-    },
-    {
-     "title": "鉱工業生産2.2％上昇 9月、3カ月ぶりプラス（共同通信）",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWpLZjE3UE9VbkllVnIyenB1Mi1KTGFEMWxkQzZBYzJuVnJfX2VkNTFCSTJmX2RPaGRFaDk0ME96LU9tVmtCWDB1NDZaUmltSW1kREZmUjVpQXlJM3VsbmhkNGpUNm5ySm55MEZHcU5SckRGLXV5RVpWaGJhYWkwMHFxUTJraExsX1dPYm9n?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-10-30T09:17:02+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-30T23:34:08.979106+09:00"
+  },
+  {
+   "kw": "CEO",
+   "level": "high",
+   "d24": 7,
+   "baseline": 1.2,
+   "ratio": 6.0,
+   "consecutive": 4,
+   "days": [
+    1,
+    1,
+    0,
+    2,
+    0,
+    3,
+    7
+   ],
+   "latest": [
+    "ジャングリア沖縄 再建の行方 「刀」森岡毅CEO「事業を前向きに…」（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE82MVZFakdBb0NSUG9USWl3Nmk0QktRb25NamxWb1VXMEVEWTU0SVJwZ25LY0hIY0dzT3pqbzhqZ2F2cUxXZVhiUkUyNWNRYlVlZ3g0N05ZRkpnUjNvZmE1RURRSUpiaUliLTcwQ1hzNjhFYm95bEo0RGFFV0lmSEE?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "ジャングリア沖縄 再建の行方 「刀」森岡毅CEO「事業を前向きに…」（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82MVZFakdBb0NSUG9USWl3Nmk0QktRb25NamxWb1VXMEVEWTU0SVJwZ25LY0hIY0dzT3pqbzhqZ2F2cUxXZVhiUkUyNWNRYlVlZ3g0N05ZRkpnUjNvZmE1RURRSUpiaUliLTcwQ1hzNjhFYm95bEo0RGFFV0lmSEE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-31T01:19:20+09:00"
+    },
+    {
+     "title": "エヌビディアCEOに中国の女性工作員が接触か「製品情報が中国側に」米報道 会社側「機密情報などは提供していない」",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weDVRSlE2VjE0X3c3N0RBT0hCMDFySEFIUlJzZTZBcnFFa2hQUzdRU0hWY1RZOUlBcW04dnhyQ19vNFZVMVU3cHRSbUpISnpNUlRMd1R0Z1BPT0pPMVdfSXBmOVJqZG1sWjRVMENFbnh3S01uOW5BTDI0MXFac1U?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-10-31T00:45:12+09:00"
+    },
+    {
+     "title": "米エヌビディアCEOに中国の女性工作員が接近か 中国政府に情報を流していた疑い",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wME1kMms2d3I1YTVla2E3c2V4RVRoZkxpZGFwbWE4WFMtamtnWXRBMl9HeDBEU1hPTWlYdmFuUlozM0FPUmt6MXhSWEZLOUZRTnFwNndLSnRRaFQzMGx3RDRpWVhnV3JYWmtKbDZEVXl2c3dtSmtSTTZ3?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-10-30T18:52:39+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-31T04:43:11.781872+09:00"
   }
  ],
  "events": [
+  {
+   "id": "db9c14f97a3efd8c",
+   "title": "北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261031de68820",
+   "source": "NHK 社会",
+   "published": "2026-10-31T04:39:03+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d6d4b33d921e82c1",
+   "title": "来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円！ 米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目！",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45YVR6OUVDMVhVZUJiMEJ1RGYxaWFuVzJCbWdMNEEzdHNwa2ZmSmNEV3I4cHp1RkliYnVrbW5BQmhTN1RPUHNreFdmQWE2aDV0M0sw?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "published": "2026-10-31T04:25:59+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5aa6c46536ed1ce4",
+   "title": "ロシア支配下のオレシュキに支援物資到着、住民の避難開始 トランプ氏の妻メラニアさんが停戦仲介",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMYzRtdVNQQThLY0NzU3RGTHRIYWNqNlJGcTZFNHNvMU12T2pxVVlyNTZ6OVQwWXBfcWFoaTVwVWpkcEdFSXNUY1hZeHpYNVJFcG9BRWR0Z25iWWpOWXlIZmZ0MEtmLVpKS3QxeWw2RWNmYi1pcFJaYkxuN0JNY2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T03:57:43+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b007d20c41fe4050",
+   "title": "松江市で約300人体調不良　給食で「ヒスタミン」食中毒",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0I0bHdDWnFjN3RnaWk3eENIWTV0Z25UOFpWVlRtLUpzU2tScFdRZkRwMWUwSC1SdDVfZ2Jud095M2ZGU3dFQWRWajd5UDZUS0U2RU1XZ2NhRUxubGhsNmFwc0dVQjlPTnNJZDJocUZILVdLOXc3WnJaTExBVURHNVRaX240UUHSAYwBQVVfeXFMTk4yc0tqakh5WHdRTno3RS1aMm1CckF2MjFMcEp2cHVVRnZoQW00TU1BbjQ5Q0F1VUthNDRFakdHZzVObXpWVXlyR2twRkZjS2s4RUl1dDkwY1VDSXlxdElqQ3NRMElaWW9oRGFJSmYxS0VsNjZfa3ZuMHdYOUpBQS1JVWRTQThGYlY0bGQ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-31T03:15:14+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b230d2523a624c87",
+   "title": "為替相場　　31日（日本時間　3時）",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1dBRVN1d0lYU1hjaFY3Q0hmQ0ROcXNtcW83aEZDNHlaZzNXZzFIUDNCV05QMWZOLTFOQm5PVDZrSWlWYlE5cl82OUV2VmUyQmd3QWY5NUZvT1ZrUW1iVGJPQXcxZUt1NGFrQnpVRnVNcDIyVFFyb2R3eXpSMENqOXpsRV90TndEVTBJNTNR0gGTAUFVX3lxTE5fanVBazN0VnV0cjJncnRYUjhSSlpYY2ZWMU94S19faWhDOG44OExldzg1MTlDdlV1bWlnSmt2S0dsYmNnaGxTNUxyaUlLaV9tNWJudUctMnBxcEdLUUo0SU0wUEt6djFOR1RjNnhqendmeFpXQm1LNkN0VGRwSHE3a09faTZLb2h6RHhjdWlzX2xQbw?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-31T03:09:27+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0e02df697d231f32",
+   "title": "AI、企業の「実装」説く本 最前線の活用例に学ぶ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnUXJxaHhuUFFNeVRqVnhWZHR4cElXRnUxRFpkNVVKcDV4UmV1MDQ1TmlBcVBOY0wtNjdJRTlKV0Q1WVhxSGhWTjlRUjFocDVYOWdmTEN6TlhfZDlraGJLQWxGODN6c0Q1UE5jTg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-10-31T02:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7e87c60487072f9f",
+   "title": "震度3 熊本県熊本地方 2026年10月31日01:45ごろ 地震詳細",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzFEWnJhNDBWM3ozYjNCZVN4THBVWnJuOVNHbG5vUTM1NGhyZWJFbG1FTC1Qc3hrOUladjlBSW1uTF94LUhVUGc1XzRxLVRvSHNJQXVsaHRvYVJwR3diUlZOa1UzX3JKSEQybzA1S0hvS2NaQ0lnVnFYanJZNFR2SkFB?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-31T01:54:15+09:00",
+   "keywords": []
+  },
+  {
+   "id": "25b6f332641e4bbb",
+   "title": "熊本県で最大震度3の地震 熊本県・熊本（FNNプライムオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONVlhbHBJV0p0eEhCZC1xdnMyZDI2NHcyT2dNX29KbVFiZ1d5eDIydXRQUkQxR3BHbkd3UGFFSFBJUnh5MWRoblVTcHhqTF90VEJKWW9KeWFTSzRMaXJGYmZsbmxiR1JiWHZvUlQxWW5kOXZObS05Q1lZUlRBamFmNkx3?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-31T01:52:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b061a7b246883153",
+   "title": "【地震】宮崎県内で震度2 熊本県熊本地方を震源とする最大震度3の地震が発生 津波の心配なし",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96QTdpVzFkZl9QajNkOWNXWjlzQjBsd3Z2M2FoRGxGa2xiMlFzbGNFTGVNWDRlNkx6TEtoNWs3cGtpdGEwLTJCVFFGM1dWZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-31T01:49:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "14252f647c4b5c74",
+   "title": "「日本の性教育を変えたい」助産師の挑戦 “はどめ規定”が招く現場の困惑…子どもたち自身を性暴力から守る「正しい知識」とは【news23】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fWEZzYmZ4a2hBZjdTTEFNaW5qWWZlOHhmTlZBSHV6VjB4aE1BMnoyMkhQRlh1UXVGS2xWZDdURUlHWElNMXJwTG5hZkhRT2JLbEZ4MTd2RQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-31T01:41:20+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8aac553684bc9025",
+   "title": "“砂漠の中のオアシス”に迫る水不足 地域一丸で挑む“節水対策” アメリカ・ラスベガス（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XSTd4WEMyNEROV094YXJyR0YwM0dlLVBjdm42ZE1TQUJlbEVxbk5QWTNfLS11TkJ5V1UtOV9fbHFoLWs5WUZrSXlzXzdkTWlieFdSbkxQX295TnlzNXIwUzloOFlMU3R2ZldLZzRiRWd6VnFJTTNoSUprWmc5Nmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T01:22:43+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9ffc8f5ccb3d0c5b",
+   "title": "ジャングリア沖縄 再建の行方 「刀」森岡毅CEO「事業を前向きに…」（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82MVZFakdBb0NSUG9USWl3Nmk0QktRb25NamxWb1VXMEVEWTU0SVJwZ25LY0hIY0dzT3pqbzhqZ2F2cUxXZVhiUkUyNWNRYlVlZ3g0N05ZRkpnUjNvZmE1RURRSUpiaUliLTcwQ1hzNjhFYm95bEo0RGFFV0lmSEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T01:19:20+09:00",
+   "keywords": [
+    "CEO"
+   ]
+  },
+  {
+   "id": "e0cea6a35146cb64",
+   "title": "公明・岡本代表「必ず参加すると判断を下すのが総理の責任」 高市総理のG7オンライン会議欠席を批判",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcUpOel9FYng3ZFdzeDFPQ2VBMHdfR0FfT3VhXzktTWR2UW9TM0phb2ZMeDViV05LZ2tzeE9jdmpBSEctb3VLbnUyTVhRdVEyUElrSzk2YXBZMWRJTE1rYm9ld1dWdm9qbFpEckl3eWpVdVdKVmRsbC1XcUJoS3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T01:06:25+09:00",
+   "keywords": []
+  },
+  {
+   "id": "028d666f78f4d6ec",
+   "title": "「TKP」元社員と夫に有罪判決 インサイダー取引をした罪（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbkY5dms3dFBCZFdSVTJHWGxrbm1xRlVmTFBFUFEzNGNYNlFGZHBERmFuRkFNbmE2eHV0TzEzY3RqdDhiZFJHWUxOaUo2YVhxZmpqUm55SURyZXk5NTRLWTNYcllwSy1nSzVaWUJ4eGxOUHVTc3B4UG9QRk1uUE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T01:05:07+09:00",
+   "keywords": []
+  },
+  {
+   "id": "176fa2f5cd6b96fc",
+   "title": "韓国で日本人女性殺害 30代韓国人の男を逮捕（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03NkpuVEszZHpYTHlmdGVlSy1VeEVRUkxxLWFQN2F3ZUpJeDg4MVFBeGtBaDhxOHpuZGt4REdHQzNsckV5YzEyZHRCZXNMTVB5T1A0Vjk1WDB6M2VBX3dNMnVBc1ZKWFNYejBXbDBGUTZxWTA3QjdxVndwN0o3NjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T01:04:02+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0f5fd177bf29cdbd",
+   "title": "画像・写真：日銀、物価２％目標到達と判断：時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETG9nN1ZrNmFmb0xsT2Z0REkwb1VJd0F1VFJldEFRMDMxZ2hyQU4ybU1XRDNOaTRNQk96V19VRURQY0ZhaDJ1c2p0TXVRNUQyTGJEaE93bjdfZ0hmVlFZdTZFRHU?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-31T01:02:20+09:00",
+   "keywords": [
+    "到達",
+    "日銀",
+    "物価",
+    "目標",
+    "目標到達"
+   ]
+  },
+  {
+   "id": "3b9b53c4e860ee6d",
+   "title": "プーチン政権批判の独立系新聞廃刊 当局の圧力受け11月9日に活動停止へ",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YOWt5eklBRW9xRTAxS3Z5TXJRdHZiczBOV0FUdjVuTnMzLU9LMVlETUpBLUlUbGpwSGV4Q1ZaeURGTmhQWHNvQzk2RHZBempzZ3JHejBMdG4wMzJXY1pMN2JlSHVPNi12VmNTMXhWXzVQekRFVXVjRHhn?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-31T00:57:13+09:00",
+   "keywords": []
+  },
+  {
+   "id": "00f0e0ceb6c5e2d1",
+   "title": "トランプ大統領 アイオワとカンザスで選挙演説へ 中止の方針を再転換（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByLWl1ai1GMDhmUU9qMFpQRjlWWjh1cmIwQnRJTGNJbGhLUGxtY2Fka0dFV09RMEhCbzdyVTg1TzJ0LU5PQUVGQnlvaDBCMnhtdUozOVN2dzh6REI2UEU0OGdLN0E1Z2dueUZnYnVqUWc0Si1xVVdwR2NDTW81S0k?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T00:57:10+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0b1bca3990750039",
+   "title": "【速報】阪急神戸線で一時運転見合わせ 西宮北口～武庫之荘間で人身事故",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10eElEMUJROEhVVFF4eFRzaDQ5ZjY5WjUwSDFtTUNOMVBaVDFlSEZ3a1pKMGo0SFhPLVAyUWJlaFVrZk8tZTlvOXBld01qdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-31T00:57:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "555247d36a48dcc8",
+   "title": "エヌビディアCEOに中国の女性工作員が接触か「製品情報が中国側に」米報道 会社側「機密情報などは提供していない」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weDVRSlE2VjE0X3c3N0RBT0hCMDFySEFIUlJzZTZBcnFFa2hQUzdRU0hWY1RZOUlBcW04dnhyQ19vNFZVMVU3cHRSbUpISnpNUlRMd1R0Z1BPT0pPMVdfSXBmOVJqZG1sWjRVMENFbnh3S01uOW5BTDI0MXFac1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T00:45:12+09:00",
+   "keywords": [
+    "CEO",
+    "製品"
+   ]
+  },
+  {
+   "id": "5b16b167faeaa3a1",
+   "title": "NY株、続落して始まる 前日比127.81ドル安",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWNU02QVFpaGw0bU0xVFV5OUhwT3pRcllycVFkeHFDRkxKbDlPcVp4aWJPMVFnbkw4Z2lSUG1kQUJOTWd1Q2podnN3OA?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-31T00:39:40+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3db8a1180d83d9fa",
+   "title": "スペイン列車事故 巻き込まれた外国人51人のうち23人の安否不明（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EMnNYdEl4VFozVU1kdTJkaTZpbHQwVmFZRTlseW9ydUlnaVZJUE1RNG5KOTRjR3F1WVhXWWlONEVRTGNMQlhFMG9CYmNYYTVkSmdiM3ZuVFl5WF9kYU9oenU0SnZtMmZDZWx4THh6V2NKMThUeWpIUFcxMG1MLVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T00:36:23+09:00",
+   "keywords": [
+    "スペイン列車事故"
+   ]
+  },
+  {
+   "id": "207589723e58f376",
+   "title": "「航行の自由」確保へ議論 G20外相、中東情勢悪化で",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByUHhmZjAtUzdwMzFpZWd4dEhCQXhmelIzWXRVaDRTM0ROREZGaHJKR1NZMXdQejZYNXFTOXk2QUs3VWY0b1RNM3k1OA?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-31T00:36:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b7e4b51acf509063",
+   "title": "文化祭のさなか女子生徒刺される 別の女子生徒を逮捕 東京・港区（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DallXQjZNeVI2VktDLXVSaFNyVmRtZks0SjZFeTJLb2MxdDNpMnFyUmdhVF96NGdyNXM4TzRHZ182YjBFckYxNUN4MmJ3di1mUUdyVG95YlkwS2hDZk5TOGZ6YmdxejNBVjlkSDJ0YUdKRXZrdjFpS2ZNZkdtUE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T00:34:39+09:00",
+   "keywords": [
+    "女子生徒"
+   ]
+  },
+  {
+   "id": "eab5fceef931781a",
+   "title": "【台風情報】非常に強い勢力「台風31号(インファ)」最大瞬間風速65m/s・中心気圧940hPaまで発達予想...今後の進路は？10日にかけての雨と風シミュレーション【気象庁30日21時45分発表】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mVnV5OEk1QzRYYXJ3WkYybWJ5V3NWTDNpMzlzelJfSk5rT3BRQXVmYXZXVjktZm9ldE5sN0YyMWhnSXY0a01JSlY2Si1DaDQwS2s5RFhLWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-31T00:32:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1389608f27293bd3",
+   "title": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68790",
+   "source": "NHK 社会",
+   "published": "2026-10-31T00:23:49+09:00",
+   "keywords": [
+    "日本交通"
+   ]
+  },
+  {
+   "id": "d0c2131ce624c5c6",
+   "title": "バイナンス「約1兆円」の被害 暗号資産大手に“北朝鮮”関与か（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoSG1uaEJjOGtzTzNiLUZpTHBUdWhxVzM5aFFJTWlNbEk0ekJ6RWdWQUx6cjdEZjBFUGxZOXlsTnBRNEJtY01yQUpmbGZIblRvdjVLTkJ0eDYxLU5UNEtXSndIWWFRTlJzakMtcXNYX095My1GeTBXTkNmaGQwVWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-31T00:18:47+09:00",
+   "keywords": [
+    "バイナンス"
+   ]
+  },
+  {
+   "id": "9e27fe97599e87c7",
+   "title": "愛子さまが武蔵野陵を参拝 シンガポール訪問を報告",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DNkhabFpTNGdrcWZjck5JVHh3RTNZQ0lBai1kdnBKVGs2UTFlYnpMTmRXa1Q5Y2tGeWJSRnppTEhWdHcwRmsyMnZTeGl6dG5tRXJwemV0VDVZV3dqNDZuTWxRU3BEOE5vMWk3WldWN0k1Zw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-30T23:59:41+09:00",
+   "keywords": []
+  },
+  {
+   "id": "273eefd224d06d46",
+   "title": "両親「むなしさを禁じ得ない」辺野古転覆事故から7カ月…同志社が会見",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzNjJqY1RGYmwzVjNDTFRkRzg5NnJDRkQ3WFZmT3NZYnM0V3RuYnc4LVBWRkJydGNtUWxDSkxBNWJZbm9rZlFQSnF4b3BUdTNhSktJWGpkdjVLREFsSFgxOWZGVE4tdGE1bEVWcG1LLVlhZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-30T23:55:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "2621339fe6816690",
+   "title": "【INTLOOP】経済産業省「SCS評価制度」対応に向けたサイバーセキュリティ成熟度評価・実装計画策定支援を提供開始",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80ZmwySS04bzdYM29IYWQ3OTRsUVRLYnk4MzN3Qk9kUERpUmY3bXhucnJ5MEFsbUd1VS1QOUFMSWhBQnJaX0RsanhCRm1NMk9fOWpDWHhkSG1xSzIteVQ3c3l0RkhET0gtNTVZ?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-30T23:40:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "bdc448210db41404",
+   "title": "中間選挙 民主党「赤い州」で勢い",
+   "url": "https://news.yahoo.co.jp/pickup/6600736?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-10-30T23:38:16+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c23e084686f978c5",
+   "title": "日中関係悪化の一方で…「先が見えなくても、耳を傾け続ける」22回目の中国人日本語作文コンクール",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93QTBOajJDeTI4X3pWdm1ZdnFMb1hBTUI0WVlKOU9BdTZGSHVzU3ZFV2VES3g2bTQtODA1NkpLa2lDSURSbEU4djBRX2FoWm55SWQ5Rmx5YldETWthZ1NPOFdkbTlFbHpSZmJBc2NRZmwxejljS3luMjBKMUJoQ0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-30T23:36:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7db9256ecdfc4d7a",
+   "title": "気象庁によりますと、非常に強い台風31号(インファ)はマリアナ諸島を時速30kmの速さで西北西へ進んでいます。",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVFZFRlAyR3EwcU5ZdllSQ1kwd2MwT2VXTlRlS2dQZ1JVSmlsaGxSOGwyYUxPMnlRQXRUR3RDLVdleGdseEx3RWtsRE1feXRuU0lRdENicw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-10-30T23:32:00+09:00",
+   "keywords": []
+  },
   {
    "id": "981b300d148139a3",
    "title": "デジタル庁、国会答弁の作成支援AIアプリを提供開始 政府職員の業務効率化へ",
@@ -1738,7 +2021,9 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzRQUjh0OV9LRGltZVlQRGp4UnhlV09QamQ2RTgzXzRGbWNaMWVjeEFHRjhuNGR6MkZVTEx3LXMtUG9HVmhrMUVzM3FIQmJzbkZsSUw3S1ZJQ01tb29mMGlkWXgxUEFBczNEcXRzdkdUQ09vXzFxcXNPTWNRQUxxcU9B?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-30T23:27:03+09:00",
-   "keywords": []
+   "keywords": [
+    "島根"
+   ]
   },
   {
    "id": "614abcabdd4476dd",
@@ -1757,12 +2042,24 @@
    "keywords": []
   },
   {
+   "id": "2a8df5e7cca242dd",
+   "title": "鳥取県、島根県で最大震度2の地震 鳥取県・米子市、鳥取南部町、島根県・安来市 (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXEzdG1xVUlrZ3RvbzV4bW5paG9NY0ttYk1jMVEtU3RsVXp1TmJUR2IzZnYyR1BFWHFZc1YtbERWMVU5SkJVZUhrX0J1VXVPVnQ4dTJvUHRDMjNIczhUdEJGaV9fQW1Vd3VMSmVSYTlqa2lsT0llSGo3M3lONVJlVTJ2b2FmM3R1ZUd0RFd3?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-30T23:16:13+09:00",
+   "keywords": [
+    "島根"
+   ]
+  },
+  {
    "id": "cd625d17008c8c60",
    "title": "鳥取県で最大震度2の地震 鳥取県・米子市、鳥取南部町、島根県・安来市（FNNプライムオンライン（フジテレビ系））",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVUp6Q25FOXFscnRGeHNmSFpTb2syMnp0UEExZTZUaVgyZWVfWGhmQnVKbUQ2dkRvenpyaUhnMDNLamxHWTV2XzRvd0NqQWtoN1hLZENGamRpZEJTSnc0RHZNOWpVdVV6TjU2NV9GQWp4VWw4ZXZGNUxEY2lZT0U?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-30T23:15:37+09:00",
-   "keywords": []
+   "keywords": [
+    "島根"
+   ]
   },
   {
    "id": "7c696181481f6235",
@@ -1797,12 +2094,24 @@
    "keywords": []
   },
   {
+   "id": "a305f0710983fc2c",
+   "title": "【速報】日本交通、29万人分情報流出か",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Rc3ZiZXAzbngzbnJ6b3hRMm1nQTlWeVl6YzZYSlNNNmJvcUFwT0Joa3hzTzFIWXJnY2RhSXJTR1lwY3JKZ3d0VE12aw?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-30T22:50:17+09:00",
+   "keywords": [
+    "日本交通"
+   ]
+  },
+  {
    "id": "b3f47649f5427965",
    "title": "日本交通、29万人分情報流出か",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2VCWW4yQ2t6WmZxVHhaYUU1a2M4aV8zMFVtT0hZM1poV0czNE9rM2liSnVjX1hxdW5XcFdMb2ZlZHdCZGxCdzBFOTk3bV90cTM3OTZWajZmTk9uYmNDaERYVElfT0xfOWw2LUlWLWhoN2YyM1JKZmtvMy1YSDJTWm5zaGdRd2lsZ2lBR0VR0gGTAUFVX3lxTE1OSFdyMHM5RGFIcHFKVG5Rcm9BcDhhSTJmZzR2aG1leC1DQ05YdjU1QjZ1UmdxWDMyMFduTUh1MlFBR0Q5RGtuZURTVVJFVmQ5SmNHWF9kLUlKLUxqak5FcXRlVXE5TnFidDNpdUpfWTVKTVNGVWViZDdOdlZzTlc5RmJkdTR2TUgtSmVrMDRlaHdhSQ?oc=5",
    "source": "ｄメニューニュース",
    "published": "2026-10-30T22:50:00+09:00",
-   "keywords": []
+   "keywords": [
+    "日本交通"
+   ]
   },
   {
    "id": "0ea27a4cdb27e297",
@@ -1810,7 +2119,9 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TRXdxRDJXaWxsalJoYjBQbVRMRF9TRkRZZGxUVmkwZUxKaGFCSnZjZ2FqalZKaVQwUmdJTGNzcmp1Z2ZjRDhJNjVKWGxndFdSV19Tamgxcw?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-10-30T22:45:37+09:00",
-   "keywords": []
+   "keywords": [
+    "日本交通"
+   ]
   },
   {
    "id": "c042b19893d50dd7",
@@ -1826,7 +2137,9 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zYTlMR1RpeDFJa205Xy1nYTRUX0VQUnNpdjJCMTRRMHhTOG5od05lSG9wSWo5eEhLRnhHd2U0S0hFc000QnB1bWlJb09XRjZwd254cF9vMDZoUlVVLUZ0ZjROMWlveldNNEVFOU1IRzZzYmhCeFVjWFZHUFI3anM?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-30T22:44:10+09:00",
-   "keywords": []
+   "keywords": [
+    "日本交通"
+   ]
   },
   {
    "id": "944debf9810184a7",
@@ -1887,9 +2200,16 @@
    "source": "NHK 経済",
    "published": "2026-10-30T22:04:45+09:00",
    "keywords": [
-    "プラス",
-    "縮小"
+    "プラス"
    ]
+  },
+  {
+   "id": "ac52fe1c8135ba35",
+   "title": "「ボールぶっ壊れるだろ！」怪物FWケイン、脳がバグる“衝撃の光景”「音ヤバい！」爆音すぎる“高速PK”→ブンデス史上最速100ゴール弾【バロンドール2026】",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sUTBmUk1DMXByZjdiV1NSTHUxS3N2SVlDanRmNnZnZzRpYzBOUDBBaGlJemhNTG4xamJ2dnVBQlFITi1sZEhtcGdKWGpxX25wUXBFZGRGTDk0R09HbnpBQkZhNzBqMEpjMXdyQzJ0STY?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-30T22:00:00+09:00",
+   "keywords": []
   },
   {
    "id": "132b90985640ae26",
@@ -1908,6 +2228,14 @@
    "keywords": [
     "値上げ"
    ]
+  },
+  {
+   "id": "5e9a5c4e34c491a3",
+   "title": "ＮＹ円、１５７円台前半",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92aW9vWEVyVnlfaWt1am9aNW1lUUpyVjhnZlZCbUF6a2YxSmNRX0U2V0xWMDhXbVNfUkxyTGF2SzlXdVVWd0hDUWd5WkFyQV8wd0RSQVQwdHZnUGdpWVBzemRTbmdDWDVW?oc=5",
+   "source": "カナロコ",
+   "published": "2026-10-30T21:56:18+09:00",
+   "keywords": []
   },
   {
    "id": "179df8fbcf384a6e",
@@ -1955,6 +2283,22 @@
    "keywords": []
   },
   {
+   "id": "920ab4907f8e7097",
+   "title": "【速報】NY円、157円09～19銭",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44U2h4X29xc2ZpVVVoY0lzT25TWWFVMkxqZkppbDhLd3Fsc2VibzdGT19zR0FoSnZta09OWjdjMTRoMlI0TDVUaTRvQQ?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-30T21:47:50+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1467e8c3c7a3443c",
+   "title": "ＮＹ円、１５７円０９〜１９銭",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aQjRTV1BEWHppek5ydHFDZDFEaUgyU2FmS2k2ZmJ5QWF5c0V0cThuYkhpVkFaZ2o0VU1rWDBZc2pDZ3lqaHBqVlN4M08wSDM0ejZadEhxeTZKTVpHcDNqOWhDTG9hbDA4?oc=5",
+   "source": "カナロコ",
+   "published": "2026-10-30T21:47:50+09:00",
+   "keywords": []
+  },
+  {
    "id": "ae70311066b28c26",
    "title": "東大次期総長選考巡り文科省などの検証要請に文書で回答",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuQU1vUGFIaXVOanp3UU9sUGNZdk9kWnlOU2xlYjdrX05Ba1dnMmY5al9SaGxJQUFKekNDUUFoYW9XZXpWX3A5SkJJaWNPVzdSQk50MVFsT2RJZ0tJTEdWcFFrTEwwckFOZFJSclc2T1d3dw?oc=5",
@@ -1968,6 +2312,22 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUmtENTVVZDNoNE9IUEZKQkM0R3FnTnVwSEs0c1VpU1dPNWVOcGFZX1lrcVA0OVVaR0RWZGVXZzVVcmJkaHQ4MVRBWUI1Mm1BbW5hVW9Hb2FrSFVJRVpjMEZuUkhaZExmQU05cjM3R0dIdld2WDNEZHB4YklqVms?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-30T21:43:13+09:00",
+   "keywords": []
+  },
+  {
+   "id": "48a9b68fbc2066b5",
+   "title": "プロ野球ドラフト会議 埼玉西武ライオンズ 育成3位指名の沼津商業の後藤幸樹選手に指名あいさつ「1日も早く西武の一員に」",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fbHJ5Wk9rWE5kOUdRV1NYaXc3c1pVcXdVczZqa2o1aTJYZFI4TVM5WThTVU80bzBiWFJuLThTdkR4cWtPdDk2dkl3amF3dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-30T21:40:39+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e6b52a46eb38c2e8",
+   "title": "ＥＶ優遇、ＥＵで協議へ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16eWxuVG9yeGFIZ2hwb29aTDNkcDhzbHdlVWlrZ1d0dDduazBQTnNvODhDa1A4S3ZTVHlsLXhYa2FGVm54TGdHOEc1a2hjb3A0dFQxTGRIOGgxRGlQdFBVMkk3VUQ2VHFo?oc=5",
+   "source": "カナロコ",
+   "published": "2026-10-30T21:39:36+09:00",
    "keywords": []
   },
   {
@@ -2038,7 +2398,19 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UbVRwNnl3Nm5WZjdiWXRBRmlTRE04ZFJnTHVHYlIxWXVHRWpSS1VQUm43VGg4WmJTeWJ0cG94b0FRTFdkR0xoQ3UzRlI0OC1qcDdiVTc1WDFacElqZjd5WXBiTQ?oc=5",
    "source": "時事ドットコム",
    "published": "2026-10-30T21:31:00+09:00",
-   "keywords": []
+   "keywords": [
+    "島根"
+   ]
+  },
+  {
+   "id": "a979a02209206c10",
+   "title": "島根２号機、４０年超運転へ＝中国電社長が意向",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzB1amRiZU45Smk0UkJ4SDMxTy05U1RYZGRCWldVSzY3S1REeW9iUGQyY3BEVHZlbjBQdXFWVDJNemNRYWpST28za0VhM1VNTFVVYjhuV3hBNGdFQThiRndHVXBrcW5Cb01MV01qcHMwYUViOUNoRUZSdHVDNDdqbkh30gGCAUFVX3lxTE9LMHVqZGJlTjlKaTRSQnhIMzFPLTlTVFhkZEJaV1VLNjdLVER5b2JQZDJjcERUdmVuMFB1cVZUMk16Y1FhalJPbzNrRWEzVU1MVVViOG5XeEE0Z0VBOGJGd0dVcGtxbkJvTUxXTWpwczBhRWI5Q2hFRlJ0dUM0N2puSHc?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-30T21:31:00+09:00",
+   "keywords": [
+    "島根"
+   ]
   },
   {
    "id": "84cc0cab56a03447",
@@ -2046,6 +2418,14 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycktnRXNnaTRwODAyeUJxZmNSX216RktlR3QxejNiN1E4Y1dOQ3g3aFVkbTJMd1EwN3dQQWE3bkNpZ1N1QkxrOXdPLThMRy0tSWdGdHRERHRNU0p2TmhCUUZ3Zw?oc=5",
    "source": "時事ドットコム",
    "published": "2026-10-30T21:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "249c0d13940559db",
+   "title": "経団連、大企業は中小支援を 賃上げ「社会全体へ浸透」―春闘指針１次案",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHZU9CMXZILTlvUlRjNUczZDVuS3RLUTl3NFpXWHhlLTY1STVCSDlkYlhDcnJoWDE4MHRSN2NYcVM5UWRYVE9raDZMTG1uWmlRWDNSX3hqQXZIczBDRWF1YzJDdw?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-30T21:25:00+09:00",
    "keywords": []
   },
   {
@@ -2138,9 +2518,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTYyQkhoaVZIdG5YWFlQWG9YUXBCZDFmRE1ZNlVMVWh3b2x6Slk0V21FQWswNmJxYndhSHBLWWloUmpCSDhzMjlySWx6V0E0Y3EtQjl5VlFsNDVOc1JmNnA0QXR3S0VYNnl4VjFxZ3RYQjk1MEQ3aHYyV1RweTQ?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-30T21:08:22+09:00",
-   "keywords": [
-    "逃走"
-   ]
+   "keywords": []
   },
   {
    "id": "010c61d39ca95ad3",
@@ -2231,9 +2609,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83T1NnZUVhRy1aYm5DWmpacmpCUlZOLS1OdmNUNXpHWUNhazZHNm9yZGtmMXB6RExFdlBMODZXUVZ0emRfTTNpRWpVMF9hMWQyR2lXaXd1X21TcmNnM0lBYW1tQmdtclo4TVJ4all3cms0TWdnbjdWNGJYM0YzUjQ?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-30T20:55:42+09:00",
-   "keywords": [
-    "外務省"
-   ]
+   "keywords": []
   },
   {
    "id": "dac24866ec44d10b",
@@ -2248,6 +2624,14 @@
    "title": "岐阜でアジア最古のシカの化石 新種「ミズナミジカ」と命名",
    "url": "https://news.web.nhk/newsweb/na/nd-20261030de68743",
    "source": "NHK 科学文化",
+   "published": "2026-10-30T20:54:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3e90b5b8e942a2a0",
+   "title": "“庶民の味方”焼き鳥ピンチ 鶏もも肉が史上最高値に 飲食店から悲鳴 去年の鳥インフル影響つづき供給が不十分",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0U1VVbGxxVkJWWjI4OXI5amZSSG9waWljLUNoak8xZUZLNEhOTkQ4X1VGc01ZUV9NcThCcFBBM09tQUVxT2FzOUNldnZkUQ?oc=5",
+   "source": "FNNプライムオンライン",
    "published": "2026-10-30T20:54:00+09:00",
    "keywords": []
   },
@@ -2292,6 +2676,16 @@
    "keywords": []
   },
   {
+   "id": "5ada5e2683f639de",
+   "title": "無印良品や松屋らアプリ被害 企業へ不正アクセス相次ぐ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iWHktM2wxWkpULW4xUXVLNGFpeDI2d3hOWHRJSVBnME9mZXMzY3VwbldkVm9ZN3R2eUJsT0ZjcGtVTGJzaDBud2RPbw?oc=5",
+   "source": "47NEWS",
+   "published": "2026-10-30T20:46:09+09:00",
+   "keywords": [
+    "無印良品"
+   ]
+  },
+  {
    "id": "8b1c1a868cec3468",
    "title": "野菜やコンビニ弁当がおよそ半額に！物価高を乗り切る“お得アプリ” 人気店のドーナツも格安で買えるそのワケは？",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMFRUeUp1OFk3WUZ1aDZvT2lIMDdETXhSeGRzY3ZxaUhlZms5dzVTa0lPbWJ5M2xTc0w0M3pxbWV5SGs2aWJKX3JxeTZqQVZXdVltRTNMTlQyWmFTUTNBTG43c1hfOUdtVGpLYjhZS0RsNGgtckJ3Sm9KTDAtejA?oc=5",
@@ -2306,8 +2700,7 @@
    "source": "Yahoo 主要",
    "published": "2026-10-30T20:44:54+09:00",
    "keywords": [
-    "六本木",
-    "重傷"
+    "六本木"
    ]
   },
   {
@@ -2316,6 +2709,14 @@
    "url": "https://news.yahoo.co.jp/pickup/6600721?source=rss",
    "source": "Yahoo 経済",
    "published": "2026-10-30T20:41:55+09:00",
+   "keywords": []
+  },
+  {
+   "id": "26229f1e37b5a467",
+   "title": "八田與一容疑者の新写真公開 チラシの裏面には「WANTED」 大分ひき逃げ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TaVFfWGtPNlB3bG5rY3Rlcmh6VzBpWmdObXRZYWdvWHNiYUZzS19wcmw1YTlSRWtydGcwRlRLdlhVSlNZdWFOVy1EQ1N5c1p4X3RUUm1LMHpPSWJqbVJLeXJoYkc1OW5xeTFjcTB3TU1sdw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-30T20:40:00+09:00",
    "keywords": []
   },
   {
@@ -2345,6 +2746,14 @@
    "keywords": []
   },
   {
+   "id": "32ac9a248da9c544",
+   "title": "警察犬にも合格したシェパードの「レオン」くん 日々、訓練に打ち込む頼もしさと裏腹に…ご主人に“べったり”の甘えん坊",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xd3NKLVlOcFJoSVVZX3ZmenZwLS1kZGhYa3FmdzhhaG43RXNycjBiMXJOaUFZMzJzZ3JydjBlc0pUMW5Vbi05QnVkX2twQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-30T20:36:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "b3de5220d191eb32",
    "title": "副首都整備推進本部が発足",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jU2lteThVbkYzWjlWWjlGUHpZRDJjUVdDaEJnNExsdG9XLTIyUUZiMWdFaHhUT2FQbldfMy1KLVU4d2RsTEgwSkhBa3VBTFZJME9XUlBST21IWllCcE5KcUhSbmZBODk1RERmV0EzT19tc0k?oc=5",
@@ -2361,6 +2770,14 @@
    "keywords": []
   },
   {
+   "id": "13ea5502e6d49c36",
+   "title": "【借金返済後の夕張市－どうする再生策】財政破綻の夕張市が2027年度末に借金返済… 固定資産税を標準税率に下げ職員の給与も改善へ＿財政再生計画を市－国－道の実務者協議で確認〈北海道夕張市〉",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yR05HTk1GTXJ4ZE1WV3luSmFqM1VWWHlYbFZSVEp6aTluU0h2QUE1R09uaGRFSnowcVNEbWdEejRtWDBkeDg0LVJyYTBvdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-30T20:30:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "4ec3b410e2e349d6",
    "title": "部下への性的暴行の罪で無罪主張の元検事正 裁判所保釈認める",
    "url": "https://news.web.nhk/newsweb/na/nd-20261030de68711",
@@ -2374,9 +2791,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nM3JOc05rN2Z6WVgzWVJGbkdxWWVBaFpZWUswX0t3ZFdpdGY3YUlOZ2tWcDctRzhsMEl5bjdGbXh1R2tiRW4xZktHSDJzU1Y3N05kTjZlYkFjd3dDeVp1R21uY1BPQ0dUcms4aktFUGF5UFpqMmtaYnNkdnZ4WjQ?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-10-30T20:24:23+09:00",
-   "keywords": [
-    "逃走"
-   ]
+   "keywords": []
   },
   {
    "id": "22eeb2a764f37c0f",
@@ -2395,6 +2810,22 @@
    "keywords": []
   },
   {
+   "id": "589df375e84a0bcc",
+   "title": "【中村雅俊】急逝した妻・五十嵐淳子さんと「行ったんです」＜芸能動画＞",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3NTZVcmtycnBJQ3dUYVdibFpGclZXXzI3cHdPSWtJSEx4TVJnNjJlUEFlTzRLYldYSEpZSURRTGZQUnNJbmhaMllhZml4ZVFKSFNaZHA5VG9EYVgyMXBtVzFmVHp6YXdtSFZ5THJ2RVQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-30T20:21:41+09:00",
+   "keywords": []
+  },
+  {
+   "id": "40d624c6c89d253b",
+   "title": "400年続く武家茶道の家元、がんで“正座できない体”に…約1700坪の屋敷に生まれた新たな茶室【プラチナファミリー】",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSRjc5MkhyQ0JzY19rN2lTeXc0aHR1VlBNX1BOdGRYY2tqbDhRWGV6ZWNObF9WbXhxRFplM09jbnZ4SXk4dDZDS1VaZlN2WDdXRERkNGtFaFRZbnRUZUdocUh0Uk81MVAzUzB0TU8tMlQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-30T20:20:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "b91825d22f2e6a77",
    "title": "ユニクロ上海リニューアル",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMXlHbmktb1BuejZmZktlRVM3bnJFOUVyRVAtQjUwWVBvOV9oanpFOWdEb0lnNWlmRFRaanRHbzRiU2JCakV4VlJPU09SRWNjVVY1a0J3RmJEWnhlQWd6TUNHZFJtem5f?oc=5",
@@ -2403,11 +2834,27 @@
    "keywords": []
   },
   {
+   "id": "2e352cb720ee70cb",
+   "title": "ユニクロ上海リニューアル　店舗数拡大から選択集中へ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSU9CWEFHTmRXekUzR2o0bkhmZG9QcTNFdzMzV1hFdi1KMjE5RFJhZXVGMFlDcHJFLXlKUE5PZ3lPX2Ruajh1WHdzVEdBcmRtNV9HV0Fmc21YczBSeXNiajlRNXVQZkI4b0x1Tzl2UTF3UkhyZkd6TWZGNzYyaVdVcWtwNEdHWHdDOFNpU21fNGlQMEXSAZMBQVVfeXFMTUlPQlhBR05kV3pFM0dqNG5IZmRvUHEzRXczM1dYRXYtSjIxOURSYWV1RjBZQ3ByRS15SlBOT2d5T19kbmo4dVh3c1RHQXJkbTVfR1dBZnNtWHMwUnlzYmo5UTV1UGZCOG9MdU85dlExd1JIcmZHek1mRjc2MmlXVXFrcDRHR1h3QzhTaVNtXzRpUDBF?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-10-30T20:19:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "6d58d850aed95210",
    "title": "ユーチューバーの男性を不起訴処分 女性の下半身を触った疑いで逮捕 東京地検",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aU05CMnV6ZzE0a2p1WUdlN2tvQkk4NDRCZmNwT2VaeE5zM01yaUNvcXdodjV5RnBSSXZFbk1wRVROWk5DOFhWMUU1ZmZiNEF5Uk8xcmdCdGNtNDJqUnZrT1cxcXBxaWstUWFjNk9wZ2otdw?oc=5",
    "source": "テレ朝NEWS",
    "published": "2026-10-30T20:17:51+09:00",
+   "keywords": []
+  },
+  {
+   "id": "48a3d4c5e1a54d33",
+   "title": "【森七菜】「最近多くて…」“撮影現場あるある”に黒川想矢も共感＜芸能動画＞",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySXEyQVI5VjRvaEtCUmxLZUdnX3RZdGpFVGdQU0Jndng0LThCMWo0SERWRXJlLVFXZXo2d3dkZ0JUVmloZkoxVzRJMUk3TElRajBRNlZjU3BUZ0Jjcm54RWRYNTVfakVXVFdXNHVNTjg?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-10-30T20:17:43+09:00",
    "keywords": []
   },
   {
@@ -2435,6 +2882,14 @@
    "keywords": []
   },
   {
+   "id": "bd225d8fa75d6cbc",
+   "title": "絶景！イチョウ並木がライトアップ…10月31日～2日間「北大金葉祭」開催を前に〈北海道大学の構内全長約380ｍ70本が鮮やかに彩る―祭り期間中は歩行者天国に…グルメや縁日が楽しめる〉北海道札幌市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iLUhMeXBldERHeWV6cnVCcElHWHBVUVBLUnU4Z3JmaFpuOHpVV2Z4LU5xc2h0eVBwcmpOSTFWdm9mU0FyZC1mTTE3MzU3dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-30T20:15:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "57d974cd9a3701b0",
    "title": "政府が「副首都」推進本部を設置 藤井総務大臣「東京一極集中を是正、まさに国の形を変える改革」",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ySXZJcDNoUEg3Y2NoY1cwX3dKYmc2OFJJaHB4MzJYRnpLTFVUc3VFOUdweW9oMGR2U0RJTzUybzVRY0Q2NlJkMVh3dGdSdndFSXZpN2FPcDB0OVlkMkNyajRhb2VrZlJrQlV5d0RISXRTaWFDdVlaeGo1eTl2N3c?oc=5",
@@ -2443,6 +2898,14 @@
    "keywords": [
     "総務"
    ]
+  },
+  {
+   "id": "f90058ca845bf888",
+   "title": "「たき火の火災」32件…ほとんどが届け出なし “たき火届”提出を 飯田広域消防がオンラインで24時間受付へ「火災予防につなげていければ」 長野県内で初導入",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SYjREQTZPbllpUFhFbkhINE05QlFSbkhZVGp3Q0s0MXFtZTVhWWt1NDJFMTFEdTZxc1JBamsxek1lRjBSUGl0MDlKTjZTQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-30T20:13:00+09:00",
+   "keywords": []
   },
   {
    "id": "7eed3282d5845c44",
@@ -2495,6 +2958,25 @@
    "keywords": []
   },
   {
+   "id": "078f1279bab32e88",
+   "title": "「2年連続、全国1位に」長野の“シャインマスカットグミ” AKB48が「ご当地グミ総選挙」をPR 長野出身・久保姫菜乃さん「2連覇へ一緒に応援を」 投票は11月末まで",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vYWtIODhJelNZNGpReGpLMG9ReXlMU1B4M1pBa1gzejduOEhGcHV4a0RmM1dmc2RyWTZDYXlvMUpQZ3dvdUlyeWY2NlgxZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-10-30T20:08:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f12adca16e085d0e",
+   "title": "「２％到達は象徴的」「利上げ、あと２回」 日銀関係・識者談話",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vajhKMkF5dHkzM3kxbjBWTWkzR25qLXdaRXJ1Yk5TZjlNRXZNVUstLUJENUQxRjhsUXZxZUVIWVNidWF2VmIzbmRFYmhHdkthc25PaVhia3NZeGxxVk5EVzc5Yw?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-10-30T20:08:00+09:00",
+   "keywords": [
+    "到達",
+    "日銀"
+   ]
+  },
+  {
    "id": "51f466a1175d870d",
    "title": "給食食べ搬送 ヒスタミン中毒とは",
    "url": "https://news.yahoo.co.jp/pickup/6600714?source=rss",
@@ -2516,511 +2998,6 @@
    "url": "https://news.web.nhk/newsweb/na/nd-20261030de68714",
    "source": "NHK 経済",
    "published": "2026-10-30T20:04:34+09:00",
-   "keywords": []
-  },
-  {
-   "id": "bf5f1db6cd99c969",
-   "title": "YouTuber「ヴァンビ」で活動の男性が不起訴 六本木のクラブで20代女性の下半身触った疑いで今月逮捕 すでに所属事務所は退所（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BNkhhUks3dV9BdHAwVW9mQ1d0OG1nUi1fQlprdmcxUXd5RmVhM2lGMWtVUGFPNVdkV2Z3NXNsRGtLODhNSDZRaXl0RndTMWtFVTd5ZDZqUGxjR1VKS3FRYlVWTXR4eGliM3hCeUpTLV9uLTQ4VmxoSWR2bWJfRjg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T20:01:22+09:00",
-   "keywords": [
-    "六本木"
-   ]
-  },
-  {
-   "id": "1b791f690e09ff44",
-   "title": "赤沢経産相：業務改善命令へ手続き開始（時事通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2dy1tUFIyV1NtUkVlRnl1NVVnZnlXODBZSFVrdGZWbTBMamZyX2JTSk4zemNTSGVzYUU0bG1Zdnk1b1cxYVpqQXp0VW05NzAtVmxnTFdLREpWMXNHSXYzTl8xaG5wN2RibjYwUkMxZEJhc0Zyanc0SnQ2a3RWZ2s?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T20:01:06+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b867a2ef4223465e",
-   "title": "連続勤務を最長13日で検討 厚労省",
-   "url": "https://news.yahoo.co.jp/pickup/6600713?source=rss",
-   "source": "Yahoo 国内",
-   "published": "2026-10-30T19:59:48+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c99e3dd61651a03e",
-   "title": "政府備蓄米 追加で買い戻す方針 農水省の審議会で正式決定",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68701",
-   "source": "NHK 経済",
-   "published": "2026-10-30T19:50:27+09:00",
-   "keywords": [
-    "農水省"
-   ]
-  },
-  {
-   "id": "c16d154b2b0d0304",
-   "title": "東京メトロ 2029年3月に運賃値上げへ “値上げ幅は今後検討”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68726",
-   "source": "NHK 社会",
-   "published": "2026-10-30T19:49:26+09:00",
-   "keywords": [
-    "値上げ",
-    "東京メトロ"
-   ]
-  },
-  {
-   "id": "e0165aeca7b5ee14",
-   "title": "JR東京駅近くの工事現場で50代作業員が13階付近から転落 意識不明の重体 警視庁が事故原因を調査",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CbGpKNWRXeWt1Y2kwQkNWWXB5UUQ3alFWRXlkLXhERWhJUmNrTU1mUXZXNUpWZlZoYTYtaGF5ZEVKTUZ4dUxRdmJwVTZzdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-30T19:49:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6db73551ad06ede6",
-   "title": "「副首都」構想関連法が施行 総務相“国のかたち変える改革”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68713",
-   "source": "NHK 政治",
-   "published": "2026-10-30T19:47:50+09:00",
-   "keywords": [
-    "総務"
-   ]
-  },
-  {
-   "id": "9ba8d74cd4547803",
-   "title": "キオクシア 4-12月純利益24倍予想",
-   "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
-   "source": "Yahoo 経済",
-   "published": "2026-10-30T19:46:26+09:00",
-   "keywords": [
-    "キオクシア"
-   ]
-  },
-  {
-   "id": "3c8a4b3ccb2310ff",
-   "title": "地域未来戦略に「沖縄に医療・バイオ産業構想」高市総理に古謝知事が報告 エース級登用「推進担当官」お披露目も",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HREVfZXllTXNZdWdDcUtYbnlad1hsWWRJT19nY3Y0ME9GYzFCVVhrVkRYWEs2eWY4cnp5VDkyRl90REJHeFBndkFNMTF2Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-30T19:46:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f65c2f1799b16165",
-   "title": "東北大発の宇宙企業エレベーションスペース、ドイツ機関と研究協力",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybUp6aVVLU01US2dGVXhfanVMR1p5cU9KNFJ6OTRQNTcxNEw5dElvd0d1QlhhM2MxLWRHb3VXOVNIbnUwMEZVUGJTc1lZR3h2dlRRMHVjdFRqUGlrbk5VSHhOV2MteHNISjJHbg?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-30T19:45:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d9da23b247ccb44d",
-   "title": "AI生成曲検知 JASRACが導入検討",
-   "url": "https://news.yahoo.co.jp/pickup/6600711?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-30T19:41:11+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2e4fcb85033aba80",
-   "title": "日本交通に不正アクセス 29万人分の情報漏洩か",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iZjZBbkJrT21xREFpYXhNR3FhSGsxNjlPcEFSVGlDNHJfRmxFMS1ESDNqbVNCNmRQb0lPeHZPZ0luMkZYc0FjeWJRSHR1eUF0am5naUV0d211NW5NWFB1OUtleElfaG5iZ281SmRfWHhhUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-30T19:40:56+09:00",
-   "keywords": []
-  },
-  {
-   "id": "cb65fe2b59f6369c",
-   "title": "「無印良品」で最大2700万件超の個人情報が流出か 不正アクセスでメールアドレスなど クレジットカード情報は含まれず",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuaEdBWnlCSERpMnR0bEZPa0lFVTBTbUhJUHJxS3dZWmFGc29kaUhVNUw1VTltT0tRV2xLNUlCYXBWMTItajlRMGhsdDZGUkljcU8zSEhqdTBWQXk2Zk5rcTJySmlBQ2dOZHdjem5BVUcxUHpmQlhqZW1pdTNwZWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:40:39+09:00",
-   "keywords": [
-    "無印良品"
-   ]
-  },
-  {
-   "id": "ebeaec3e74c8bd63",
-   "title": "ロシア独立系紙「ノーバヤ・ガゼータ」当局の圧力で編集部閉鎖 ノーベル平和賞受賞編集長を輩出した新聞が活動停止へ",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzYzJrSVh0WHNIUzJudVN3U1JCanlaY2xEeWJwMGJHVkVoZG5DazZ0VU5zcVdBQ0ZIU2NVV2hZcWZCYkVHbkhFbjNmQmRZY0ctdUw0OTZFMXJCUW9jMDR1ZFZVNVdhUDVKNkhZMHNjdkJaYmdLYWxDUWYwY2kydEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:40:38+09:00",
-   "keywords": []
-  },
-  {
-   "id": "12c2027e186718cb",
-   "title": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:38:44+09:00",
-   "keywords": [
-    "到達",
-    "日銀"
-   ]
-  },
-  {
-   "id": "d5c928552ec9c16f",
-   "title": "犯行後に服脱いで逃走か 「銀座SIX」スプレー噴射で逮捕の24歳中国籍の男 追跡を逃れるためか",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RVXZpczU2UC1sak5DYy0tSTlRRXEyc2lhUVU0dXhfQlZhY2RIalpMdWM4dFVLLV9iZnp2NXdFT3ZtejJkRThHUDhJTm9jaEhGR3B2VjRFR05jTTFSeC1Pcjl1bVh0QXZEblAzOEhUbHJpc3hYSU9Bby1GSUY5eGc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:38:19+09:00",
-   "keywords": [
-    "逃走"
-   ]
-  },
-  {
-   "id": "bd3509600d82ce7d",
-   "title": "日銀総裁、物価2％定着へ軸足(時事通信)",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUlhejFubXlZR0s0eHlpM2tMcGxjNW50V1RYTm11c3o2NzFfY1ZTZ0tseHVPM1NOM1RVbmdhSXdvTVJhdlJ2cXJFcU5BcVZwaGpvMDJIa3huNU9DRll5SnZHS09HbWdDTmlaTTBQOVZvTUtVTlg3dTNLNGNxNmRjbWppS2xqVWc?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-10-30T19:34:31+09:00",
-   "keywords": [
-    "日銀",
-    "日銀総裁",
-    "物価"
-   ]
-  },
-  {
-   "id": "f532abe013ea7a9b",
-   "title": "辺野古沖転覆事故 同志社理事長が会見 “教育の中立性に問題”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68678",
-   "source": "NHK 社会",
-   "published": "2026-10-30T19:34:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "144406fcb0e9d608",
-   "title": "関連ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SkV3a2VVR19feTVkbTRjOEhRWl9NMVBrdloyc09VRGsyYnlKYUQ5QUxlcnZPaHFpWEo5azBoYnlXaDhGUHBrVFZJSDhJRy1sMWpONlFPMlZQZw?oc=5",
-   "source": "時事通信ニュース",
-   "published": "2026-10-30T19:34:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7e79e363e47c9533",
-   "title": "ユーロ圏GDP0.4％増 7～9月期、伸び率縮小",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NR0VmWTdFOGVNZmdRRm1PalY1WTJVXzcyV0JGUnZpOGRmYUJNSklod1BhYXF2UURLNUI4NmZVODc2aTQ1Z3VJel9Law?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-30T19:32:52+09:00",
-   "keywords": [
-    "縮小"
-   ]
-  },
-  {
-   "id": "b599a50ab39f9cdb",
-   "title": "【千葉県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qQ1QtbWdCaDBSZDJfMkZVTVBoY19kTHdBUHc3dkcxdFJvVTBfWHFCc3ZpZzRZWVYzNzAtMmdMUmRZX3RCdmpXdmhqZWVLV0ZENUVQSjNFYXNfS2gwMHYwSFJsX01maWxROTZJRkZLUERSMHlsR1I0MWhGdWJPNDQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:31:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "dfe76660541ea8b3",
-   "title": "【愛知県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wNmlQYmxfUkIxNHdsRmNUQ2IwV1RkZVpEaHpSUUEtMGw3MzZrc3VyeTBPNnRQS0NFdXhLV0xTZHloTklreVUzSEFDUzJiUlZwOW9sOGpTRDl5Wktrb1dTbGF3M2VjeEo0bkt4ZXZXZHdnbF9zbmI3dnR3MVlleWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:31:03+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ff495bde4ba8b79e",
-   "title": "【北海道（石狩・空知・後志地方）】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MREhtTnJ4ZFVFbkg4MVZ4cG5uSUFhcWhpc2xEYkdSQXJjSVpQZl9FOHZIUnppajVzVFl0TC1YS1Qtb3BVX29vT09MMTdPOXhhVjJVYmJ1a3VKbUI1MWIzWG9WdTFlWUEyZnlCSU16R2JLRUJJZWM3TGgwVk5UZG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:31:03+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f3a638f77f4476ce",
-   "title": "【東京都】10/31の天気予報 (FNNプライムオンライン（フジテレビ系）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm03VktTbWNaTU4tUjZtZ2VHRGFWUW52ZVdMVmZFeGhCWmxRbkEzZjNJd3pNeUFUX0xoOFlRZGhSX0ZSZkxHXzQ0U1BkeDNIZ2s4dWc5aGtHTmlIdFF4MDBBUXRxWURKWC1GYWxUc0JWNmJZdmVyc0hreFUzVHFERWYyZVBhUXBRc3U5TzdB?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:31:02+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b67c01dfbd3d1a5f",
-   "title": "【東京都】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQ0lQNTgtbmpVM1JtOWtTbENDWUxwRXpiazd1dmY5ZllqODEyY2NHRVRvemxONFJBd1hYbndHQVgxbkRlVG1yLTZsV0xzOWVRdHJCM2YwUjVSanBTY1loSUpSOGprcEpUTUtnN0dDZmJWUmhoRWpFVFFLbXhQUkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:31:02+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a0d6898325d1b6ff",
-   "title": "【大阪府】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVW1vWVJGUXJKUUJhMmFWeXVVTUZILTBwdVhmeS1lSncwQ2M4czFDQjRIMER6ODdGZTdyRDJiY2dreWtGcEJWR3FKOEY4RlJVTDF1YVB6X2RGVm84dTJoSGZyWEoweGM1QVRDLXN2Nm5OSW00NFh6YjE0NGtJNHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:30:59+09:00",
-   "keywords": []
-  },
-  {
-   "id": "080986efafe6927e",
-   "title": "【福岡県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BS0VxcnVuM1JhQ2dPU1NOY252bUdiVVNtWjBtY0xralRCZEhFWnJVc0pIdVRBcHJDNHAyR3FhQ19VSXlnWnhsRUxTOWFCYWx5NWFhV2dkTlRwRWtwLWd3S2l2Zlh5SzhkVC1pTzdhUUIxaHlwc0lkdmt0ckFFUms?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:30:58+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8b88dbe634a76b90",
-   "title": "【広島県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxajd4SS13ZlFjcll2RERsRVcxeWhVcjRLNlVacjFvUzlHeU1kLWZFU1o3WXRHNGQtOTRFNi1wMm5LdEVaQjdWV0lMeWl4MUJ0Tk5DUFdUempyREp2SEtkNUtXeHpZd3k5NDV0Wm9ZUXNoX21xYWtDQ0dyRmxpbnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:30:57+09:00",
-   "keywords": []
-  },
-  {
-   "id": "565999d62bcb0cee",
-   "title": "【埼玉県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vdld0UTBXVnQtTXNmZHpGX2JuSkhfQVNCajFRQ0stYTNwVzM0NlM1bUZOdjJPRkQxMHc1eVF4NkZzTEpOc3pUbHFfTEt2M0JZZm1zOVlOQUYzTzF1d0ZlRFNIR1ctVzROanpjVUhtdkxWaDNIQzRscUdzV19HSmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:30:42+09:00",
-   "keywords": []
-  },
-  {
-   "id": "476dc4d690a82e69",
-   "title": "【宮城県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWU81eFZoWTRIV1ZZTDZhZmxkdU1FS19OOWFoTHRJR1hCcHR2QzM1X2J1V1RVb3RkZEdyLTZXOUFFMHdHN3RKeFBSNHktNm4yUUh5V0hXZjRUZTFIRUNxeWVBYTRtVDlBRk1yQ0ZTWXhoT2I5OVhqeVVWcG1hcWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:30:40+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e4decfff3765e46c",
-   "title": "日銀総裁、物価２％定着へ軸足＝持続・安定的な実現「まだ」―政策判断、上振れリスク意識",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WM2xxLUhVQ0hicnh3dDRMNEFFMXFIamRIOGJUTnFPRkk0VVZ6V1NqdUZNblFESGtYbGtUeGtyQ2JLMXdSMzV5RjVZdndFWkxnakpIZA?oc=5",
-   "source": "時事通信ニュース",
-   "published": "2026-10-30T19:29:17+09:00",
-   "keywords": [
-    "日銀",
-    "日銀総裁",
-    "物価"
-   ]
-  },
-  {
-   "id": "acf272d10648bdb7",
-   "title": "佐賀大学 ランサムウェア被害で8万人分の個人情報流出か",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68704",
-   "source": "NHK 科学文化",
-   "published": "2026-10-30T19:28:53+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4f820daf2af724af",
-   "title": "アプリの管理システムが侵害、会員情報流出 - 松屋",
-   "url": "https://www.security-next.com/192210",
-   "source": "Security NEXT",
-   "published": "2026-10-30T19:26:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "af0c475f8505ed3a",
-   "title": "1日で100億円の税金が…“ガソリン補助金縮小” 高市総理 決断のワケ 補助継続に予備費1.1兆円超 問われる出口戦略",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44a0xNVUlUNWpfUUs3dkFNZ0xZT0hDT0tzamYzcEpSdEhYRGRLZzBSZzEyZ3Fsc3lwTm9PaE9HeVU5bGx3blItTDl0Q1RaVk1WN253MjJfUXJRbUxUc1VHZlRRN25HM01Zek4ybnVSN2FIRmhSWHQ4MThKeklyaEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:25:49+09:00",
-   "keywords": [
-    "縮小"
-   ]
-  },
-  {
-   "id": "9a6ade54a1a9bbcc",
-   "title": "外務省に不正アクセス 氏名やメール約3600件が漏えいの可能性 パスポート情報のシステムは対象外",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hOWxCUUtBRVlfOVg2MU9FTHJmSkwwQXRpcUxEdDhOMGdndU9CSzFOczZPREhHUEpyWl9ScVZHSHFCMGxYbTdEZWdERXJnS2NydFhJUmtBYXBlZlNPX0RhNmNjWTVxWmxqaHZMNVh0LUN3MVQ5M0o5Nk5nV244d2M?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:25:29+09:00",
-   "keywords": [
-    "外務省"
-   ]
-  },
-  {
-   "id": "36e46653870a4cf9",
-   "title": "「相手を殺して自分も死のうと」六本木の高校で高1女子刺す 逮捕の別の女子生徒（16）「包丁は自分で持ち込んだ」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vaEFRTlBlQ2JGWnFod0l2Y1k4UTIwRWYwaFZFcXJnYVcwNzJ2aGhHd01KU29RWElhTDhnenVhYUdtZ3VTZmlRNEl3NGNFdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-30T19:25:00+09:00",
-   "keywords": [
-    "六本木"
-   ]
-  },
-  {
-   "id": "267d09fa3a8c89e2",
-   "title": "【速報】KDDI、不正アクセスで2万件情報流出か",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90YmNpLUdoYWVqYjFWTzZzd18xZmFKU3I3VENJUS1DRHRsdFhBSWhsc2p2eTVGcmZ6T0RRLVQ4THpWb3VrbFNKaldOTQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-30T19:23:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e6162a1444302c10",
-   "title": "日本人10歳男児のプール死亡事故 4年あまりを経てベトナム当局が捜査を完了 プールの設計会社の社長を起訴へ",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndGdGX2RWcDdGaU8zUzNjWnVKbVlkeXk0d1pudFVKQjQ4YVNsb2c0ZjZtU3JaaGZfVmlOSTJxSWdHQnlQNUM1N1VkWmpVZEtHZDFxSWM1UGFkVDkyT1F6TjllVWJrdXI0YkZpMnQxS3pDRzVGMzNhWlUtU1F6Y0E?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:23:19+09:00",
-   "keywords": [
-    "ベトナム"
-   ]
-  },
-  {
-   "id": "32055cca4331adc8",
-   "title": "高級時計窃盗事件 男が事前に施設内うろつく様子 防犯カメラに",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68647",
-   "source": "NHK 社会",
-   "published": "2026-10-30T19:23:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d8c3f9418ea79d95",
-   "title": "【関東の天気】10月最終日に夏日出現 関東は晴天 次の雨は月曜日 広範囲で傘出番",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xYjY2RjhiTEJaM3RHRU5VVVJjbFVXYWJRT1JWeVhJcG1rNFhFeXM4aDBVd0RKeTF2UGU3RWlOWXB5dU95emhkaC1kUVhOTjVqbDFYOGxBb0tVMktGS21GZE1FNnlYbTdqZWR4TV9mYTdOQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-30T19:19:13+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5d446f1e8a96b889",
-   "title": "備蓄米、保管期間の短縮検討 運用見直しを議論―農水省審議会",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41WDkwSWxXMHBqQVp5TDBuRkJtYUI2ZTJyOWpmRGk3dEVSdVhVeWxmQUo3THlEaHR4bWduQmVHQ1JKN3YwSWZMRTgyMjVWaldvVkZBWTRmMmpTYkRydEZya2VMNA?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-10-30T19:18:00+09:00",
-   "keywords": [
-    "農水省"
-   ]
-  },
-  {
-   "id": "c1627ed52977a15a",
-   "title": "1人あたり月額5,000円超は金融が突出！日経BPが明かす企業のAI支出実態とAX推進度",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6Sl9PWFlrN2t2bjJCTzFkbHFTSWh1OUR1WGJDTU5mZHlNR1lvRHR3TkE5SWZFcGZuby1CcjY3LTJ6R3ZGRnJaV0FpcW8?oc=5",
-   "source": "DXマガジン",
-   "published": "2026-10-30T19:12:52+09:00",
-   "keywords": [
-    "支出"
-   ]
-  },
-  {
-   "id": "edcf087daba373da",
-   "title": "バイナンス被害 北朝鮮が関与か",
-   "url": "https://news.yahoo.co.jp/pickup/6600708?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-10-30T19:10:27+09:00",
-   "keywords": [
-    "バイナンス"
-   ]
-  },
-  {
-   "id": "bcf4368770ac087b",
-   "title": "【速報】木原官房長官、デフレ脱却宣言に慎重",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyWUlZa1AyZm11c0RTWTJVUUhFX1pvT2VDYzV5Q0QwLU5wVzF3RXJjVXc5NlJrRFpsRnlQQUFHZ2xSd3BXamVfV0NtRQ?oc=5",
-   "source": "47NEWS",
-   "published": "2026-10-30T19:06:23+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2cbf7416871edc75",
-   "title": "木原官房長官、デフレ脱却宣言に慎重",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMElkM3IxNWl1TThVcDdfYWJ6RFV5akNSSThiendwVng1U3N0SlVxc2RobVR3LVhtZWpoTm4ycFFENjJhWDV4S0ROeTdQTVphUy1DZUVySjNmVWpvSVU0ZUhrQ2Vma1dlRVNERWFQMWZjMGlHRDk0WG85b1NRR05pMHo3aGZMRmdRZTM0Y2J2dUJyMVXSAZMBQVVfeXFMUDBJZDNyMTVpdU04VXA3X2FiekRVeWpDUkk4Ynp3cFZ4NVNzdEpVcXNkaG1Udy1YbWVqaE5uMnBRRDYyYVg1eEtETnk3UE1aYVMtQ2VFckozZlVqb0lVNGVIa0NlZmtXZUVTREVhUDFmYzBpR0Q5NFhvOW9TUUdOaTB6N2hmTEZnUWUzNGNidnVCcjFV?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-30T19:06:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0d74a07dceed512b",
-   "title": "『ドクターX』に通じるテンポと爽快感で高評価“テレ朝の顔”松下奈緒主演『アナログナース』シリーズ化の可能性（SmartFLASH）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oVmV1eEtrZmI1S1RRa1NqY3FVaUR6YUc2SmRrQ25qRUZud1lrdW9zTVpDa2hiRU1lajJ5OUJ4RWw2MUYxcVpRTVVPaFVSRVNGMm1nQUtWTlp6Ym90VkMtTFh2TmU0dUI5cVBQSGh4SFRBWTBGX3NtVHQyWFRGVFk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T19:05:48+09:00",
-   "keywords": []
-  },
-  {
-   "id": "288e2964f5b61113",
-   "title": "キオクシア、１０～１２月純利益１５倍予想",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SWHF4ZnpkcHQ2U1FoRzVNcmU1X3RCMnM0RVN4dmdJTHZWT0kyV2JBT1NEbXExZzBHWDJCb2VtQmE5Ul83UVdzY05YSzI1Zk1DQnJJT1dob2JUT3huQ1E?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-10-30T19:04:48+09:00",
-   "keywords": [
-    "キオクシア"
-   ]
-  },
-  {
-   "id": "079b56f854ecfe41",
-   "title": "導入から約半年で見えた「新たな防災気象情報」の課題 線状降水帯などは予測難しい アプリやサイト活用で早めの行動を",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54Tk9zdkRKbWE5c0VSYnJRYi0tV25ObGtGQU41Y3pOanpQaS1wYjVKMWh1TFcySFM4WUpFdHRnWmZ4MHZrVWtWQlBUbEJ4QUE3c1BYVUVtMldZY0xoUy15bnI2SFM?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-10-30T19:04:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ee1b69f3d154caaf",
-   "title": "宮古島沖で船火災 行方不明の乗組員1人を発見 意識不明",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fLXFzOU5nZkpRTzZUM3J2OHB4a2hHQnRvYjNWQU82ZDJrQ3NEWk1MTGJGX25EU2labndaLXFzbl9jMzJDQ19zVmRHazVhR1FXUTdSeVRyYVlnaTFjakdVQnoxNDhmUzM4Z0tkSkJEYThsdw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-10-30T18:58:37+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9473ef766e07b0f2",
-   "title": "【10月31日 関東の天気】10月最終日来るぞ…最後の夏！（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11MWJUZE12Q2NEaGJDQWlSbGpRVVVrN0VtcXpWLXNFcDFfbDdIQkEtYzVJeUhKN3c3SElfV212RkxjSnFwSzVIRnBwQ1d0THJFak1xQlphSXQ3RjVIQkxnZElreDhQLUhWWTB1TEoyaGlGaEpfci11RjVXdFV4b2c?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T18:55:35+09:00",
-   "keywords": []
-  },
-  {
-   "id": "97391245939ff171",
-   "title": "キオクシア中間純利益が2兆1978億円",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzUwSnMxc0pGWU56SjlvTjRuV1EtLUFKUkhmZmY4SFNJQ2djZmFiYk42em5DelI2d2RQZHNpSlI2SWIxZTZLeU5wcjBQTmVLR0NoRGRuNUZEU0xYQS05cUV1UEN4MlBIRHlRTHI3WmZxYS1Nc0kwdHdpY01PRjBfWDh1dEhxejBzMUtTRnJR0gGTAUFVX3lxTE9pc0V2bEI1MjYxWXJvQjFOUGNSaFVpYmFFR04weFdNZFVsb1o5T0Zyc0Y0cS1yQlQzX1JvVWo5cFB6S09zcVJEVk9aT0c3SFpwZHRJMGN2SWFqdlhLUTFXSEhBSlZkVWwwRmphaFpMWUN4WW55ZU1VRHQyeWowcUlBVFB5UnV3Z1dzX29yWVJYcnA3dw?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-30T18:54:00+09:00",
-   "keywords": [
-    "キオクシア"
-   ]
-  },
-  {
-   "id": "9aabe1a4293f6892",
-   "title": "富士山で初冠雪を観測 列島は大気不安定で突然の雷雨も 「非常に強い」台風31号は進路東寄りの予想、関東など大雨の可能性（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54REtpVmNCQ21HZGtwbU53QWRyZEZhMG05R1pheVNIZ3JuazBsTlgxcnNUa2NVTXAyczdRMXc0WC1HazJfQnRlTUJINUc3bk9Mcjk4VE40d1g2X19ZZHBnTW1KNFZ6S0tSVU5RSFBYOVZ2clhnczdkTHJjLTcxT28?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-30T18:53:17+09:00",
-   "keywords": [
-    "不安定",
-    "冠雪",
-    "富士山"
-   ]
-  },
-  {
-   "id": "f7b8d51285fc67a0",
-   "title": "木原官房長官　「責任ある積極財政」を維持　日銀が物価目標2％に事実上到達",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2FCMzdHa0dPR0UxQ25mX2Yza3l2Yk1sT3dHSF80UWx0OGpXa3ZzWmFpWmRsVVNkajZRWVI0NkF4TUNUVjRhNThxZHBPQ1BhbXh6c29BMk85VUpUTWstblN0MUVoUml2TUU3OWZIeE5GaHluYk5yN0txWnplZFR5VGlmUmFNNm9ZR3fSAY8BQVVfeXFMT0o0aVFCekhPZ0JZOWNaQmJTOEUwbS1ZbDZETWhEWFMzZURHdm4tSTVrNDlxSHQ0XzAzVDRkelN6Y1VXaXN1RVhNa3p1ZGNLUmFRQnlrc1NXaXV0WHhsZGNmRTJQUkdhNVgwVVhSdERseE8tN2pMdXNoWUEyY1czWEQxN0RMRFFjSUpkQnVET1k?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-30T18:53:00+09:00",
-   "keywords": [
-    "到達",
-    "日銀",
-    "物価",
-    "目標"
-   ]
-  },
-  {
-   "id": "6ecef92302a76b33",
-   "title": "インフルエンザ患者数わずかに増加 各自治体注意呼びかけ",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68689",
-   "source": "NHK 科学文化",
-   "published": "2026-10-30T18:51:53+09:00",
-   "keywords": [
-    "増加"
-   ]
-  },
-  {
-   "id": "92ce797a430298cc",
-   "title": "高市首相Ｇ７欠席に「怒り」",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zc2drY0swMldrdkZ4OFprZUFCZmhXUTQtNEVwMUstbWxRNzJRNm5pbzk3UVNvUlgyc2tad01xcDFUTWV1LVY1cW1mMzhWdDNNcmg5R3ZEQ0QyZw?oc=5",
-   "source": "近江八幡経済新聞",
-   "published": "2026-10-30T18:51:37+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9666c3bf1c6b404a",
-   "title": "祭り後の“西条・新居浜”でインフルやばい １週間の１医療機関の平均８８人と突出 東中予で急増【愛媛】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10YkZjRnlHZjB2TWJyMzZ2dVFVS3lNaU5JX2tRMVhUMjRyUFlFRC0zSEt6dTN3SnJoYm1fTFFPR2ZiclJfNW1PV29QQmxTQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-30T18:51:00+09:00",
    "keywords": []
   }
  ]
