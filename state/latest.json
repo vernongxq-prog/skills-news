@@ -1,93 +1,7 @@
 {
- "generated": "2026-11-08T16:19:16.435491+09:00",
- "new_events": 158,
+ "generated": "2026-11-08T23:26:03.175049+09:00",
+ "new_events": 20,
  "keywords": [
-  {
-   "kw": "震源",
-   "level": "high",
-   "d24": 14,
-   "baseline": 0.7,
-   "ratio": 21.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    2,
-    1,
-    14
-   ],
-   "latest": [
-    "震源＝気象庁発表（８日１０時５６分）",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93UjI5Ykt5NUlQY2tsajF1Snl2ZEw3QWVyMmVKaWhrUThIeHB0bzhCdzQ2TmtIMlBGMENORTkyZTc0X2lrbW04X2Z3ZkF1c1NaWEhTeGJBaXZiOTk1REE?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "震源＝気象庁発表（８日１０時５６分）",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93UjI5Ykt5NUlQY2tsajF1Snl2ZEw3QWVyMmVKaWhrUThIeHB0bzhCdzQ2TmtIMlBGMENORTkyZTc0X2lrbW04X2Z3ZkF1c1NaWEhTeGJBaXZiOTk1REE?oc=5",
-     "source": "沖縄タイムス社",
-     "published": "2026-11-08T10:57:00+09:00"
-    },
-    {
-     "title": "【地震】高知県内で震度1 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wdWdqZWFyaVJwd21TZzJuR2c3UTNvVU8yWDEwb3FJNno0dTdNV01LVWFweGRFdVVLUEZmblZtNEV4RlBOVEd2LVFVbzlSdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T10:56:00+09:00"
-    },
-    {
-     "title": "名古屋でも震度4…愛知県で最大震度5強を観測する強い地震 静岡県西部が震源でM5.7【8日午前3時時点】",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yd3lGZGhPckROYWl5X2JHSzRnaS1taldVeTJyeklLYlFzdHRuc1JsMm9QNndoS0QtWUZjZHZDbjAybkRvcV84T1EyMERaUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T03:47:04+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
-  },
-  {
-   "kw": "盛岡",
-   "level": "high",
-   "d24": 10,
-   "baseline": 0.3,
-   "ratio": 20.0,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    1,
-    1,
-    0,
-    0,
-    10
-   ],
-   "latest": [
-    "東北新幹線 全線で運転再開 架線につるのような植物が垂れ下がっていた影響で東京～盛岡間で一時運転見合わせ",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGc3RwalZ2NjlnZHNRMkJPaXpiRE0tRkxzUXZsMjNySFNzLWt2NVF6YmJueDA3QXJsbG1NQ202bTdHcVZFMm0xbEltZGdGcmdVQ0tUaHRLRk51VDRBZjJRcEJsaEpNSy1KZ3J0c05MWmVJaTVRaWZwcV9rMU9IXzg?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "東北新幹線 全線で運転再開 架線につるのような植物が垂れ下がっていた影響で東京～盛岡間で一時運転見合わせ",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGc3RwalZ2NjlnZHNRMkJPaXpiRE0tRkxzUXZsMjNySFNzLWt2NVF6YmJueDA3QXJsbG1NQ202bTdHcVZFMm0xbEltZGdGcmdVQ0tUaHRLRk51VDRBZjJRcEJsaEpNSy1KZ3J0c05MWmVJaTVRaWZwcV9rMU9IXzg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T09:12:42+09:00"
-    },
-    {
-     "title": "東北新幹線、東京―盛岡間の運転再開",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41cHlwaTU2NGVQOFdaT3l5SjE0UEpmNGdPNV8wMGpzSF9XdEd3RkI4a25xa1VBVDdWOVpCOERYb1lHcDJnTzZiaklSWFhPaVQwb2lMMkc0REl4NEtFaXc?oc=5",
-     "source": "沖縄タイムス社",
-     "published": "2026-11-08T09:10:25+09:00"
-    },
-    {
-     "title": "【東北新幹線】つるのような植物電線に垂れ下がる 東京ー盛岡駅の間の上下線で運転見合わせ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90UkQ5RmM3S0hHdFRiS0R1OEJpRG4yM3lSazZrQWhva2tZcGZzdk5fVUVZeEpuZGxoS3F2aVpSU0RhSllkakgwejR3NlNBQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T08:11:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-08T10:07:05.899507+09:00"
-  },
   {
    "kw": "東北新幹線",
    "level": "high",
@@ -142,8 +56,8 @@
     0,
     0,
     0,
-    0,
-    2,
+    1,
+    1,
     0,
     9
    ],
@@ -175,49 +89,6 @@
    "alerted_at": "2026-11-08T06:50:47.482049+09:00"
   },
   {
-   "kw": "監禁",
-   "level": "high",
-   "d24": 9,
-   "baseline": 0.5,
-   "ratio": 18.0,
-   "consecutive": 2,
-   "days": [
-    1,
-    1,
-    0,
-    1,
-    0,
-    0,
-    9
-   ],
-   "latest": [
-    "あわら市の山中で女性の遺体見つかる 石川県の監禁事件の被害者か 逮捕・送検された広島市の男の供述基に捜索",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBObTBYWEE5VzRqM2hXTlYzLS1VWWN3MTVDYjRLQlk1SWNVQTl2NEVqRVllajY5X05XVWhXeDk1YzJEQnJKLWtDUktQOFQzZw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "あわら市の山中で女性の遺体見つかる 石川県の監禁事件の被害者か 逮捕・送検された広島市の男の供述基に捜索",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBObTBYWEE5VzRqM2hXTlYzLS1VWWN3MTVDYjRLQlk1SWNVQTl2NEVqRVllajY5X05XVWhXeDk1YzJEQnJKLWtDUktQOFQzZw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T14:25:29+09:00"
-    },
-    {
-     "title": "20代女性監禁の疑いで男逮捕 福井県の山林で遺体発見",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JV2hxX09CTDl2UFA2UDMzUG9kUVhQcnZQbkhOTTM3ME90cVdyYW54MVdSQUVUSS1BbTVSN2pWY2FNNDl5eUozWlhXY0Z2Z3RReDRaVGZEN2M3bTkxT0twbkE2dU9DN3U3RlQ0XzhfRnZmQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T12:17:06+09:00"
-    },
-    {
-     "title": "山林で女性遺体 監禁疑いで逮捕の容疑者と交際の女性か",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
-     "source": "NHK 主要",
-     "published": "2026-11-08T12:14:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-08T16:19:16.435491+09:00"
-  },
-  {
    "kw": "東海道新幹線",
    "level": "high",
    "d24": 8,
@@ -229,8 +100,8 @@
     0,
     0,
     0,
-    0,
     1,
+    0,
     8
    ],
    "latest": [
@@ -269,8 +140,8 @@
    "consecutive": 1,
    "days": [
     0,
-    0,
     1,
+    0,
     0,
     0,
     0,
@@ -390,90 +261,47 @@
    "alerted_at": "2026-11-08T06:50:47.482049+09:00"
   },
   {
-   "kw": "(チャンパカ)",
+   "kw": "盛岡",
    "level": "high",
-   "d24": 6,
-   "baseline": 0.5,
+   "d24": 8,
+   "baseline": 0.7,
    "ratio": 12.0,
-   "consecutive": 4,
+   "consecutive": 3,
    "days": [
     0,
+    1,
+    1,
     0,
     0,
-    0,
-    0,
-    3,
-    6
+    2,
+    8
    ],
    "latest": [
-    "【台風情報】台風32号（チャンパカ）9日以降勢力強め日本の南へ 小笠原諸島にも接近の見込み",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtSDRuUXhiLXBIb0dqR3Q3RmxPcTdoaDBvVVdEVlRIT1hZUXdja0JqcjhLZjg1NnRIYlp5b1lyVlc5dXV0ckVNN3Nva0N3cVVtSjFQQldDUGF1Y0J3NmVnMzRKaGQ?oc=5"
+    "東北新幹線 全線で運転再開 架線につるのような植物が垂れ下がっていた影響で東京～盛岡間で一時運転見合わせ",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGc3RwalZ2NjlnZHNRMkJPaXpiRE0tRkxzUXZsMjNySFNzLWt2NVF6YmJueDA3QXJsbG1NQ202bTdHcVZFMm0xbEltZGdGcmdVQ0tUaHRLRk51VDRBZjJRcEJsaEpNSy1KZ3J0c05MWmVJaTVRaWZwcV9rMU9IXzg?oc=5"
    ],
    "samples": [
     {
-     "title": "【台風情報】台風32号（チャンパカ）9日以降勢力強め日本の南へ 小笠原諸島にも接近の見込み",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtSDRuUXhiLXBIb0dqR3Q3RmxPcTdoaDBvVVdEVlRIT1hZUXdja0JqcjhLZjg1NnRIYlp5b1lyVlc5dXV0ckVNN3Nva0N3cVVtSjFQQldDUGF1Y0J3NmVnMzRKaGQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-08T04:33:00+09:00"
-    },
-    {
-     "title": "【台風情報】台風32号（チャンパカ）の進路予想 小笠原近海を西北西へ 中心気圧1000hPa、最大瞬間風速30m/s 12日午後9時までの予報は （FNNプライムオンライン）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvOVBUSFNOWDB4MW91ZGVpc041T1dpX2puVDBBUDhMRDhaTnh3Vkdoc2ZnUzR6emlFbzFWTkFzU2R0Y241OTJ6al9GeDV5akVDV2JuUlVscmE0YkhhR1ltdFg2V1pWMEVvLUFPdG03ZlhocG8zanhSdHRGTkdqU00?oc=5",
+     "title": "東北新幹線 全線で運転再開 架線につるのような植物が垂れ下がっていた影響で東京～盛岡間で一時運転見合わせ",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGc3RwalZ2NjlnZHNRMkJPaXpiRE0tRkxzUXZsMjNySFNzLWt2NVF6YmJueDA3QXJsbG1NQ202bTdHcVZFMm0xbEltZGdGcmdVQ0tUaHRLRk51VDRBZjJRcEJsaEpNSy1KZ3J0c05MWmVJaTVRaWZwcV9rMU9IXzg?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-11-07T23:16:20+09:00"
+     "published": "2026-11-08T09:12:42+09:00"
     },
     {
-     "title": "【台風情報】32年ぶり発生の台風32号（チャンパカ）9日ごろには暴風域伴い小笠原諸島接近か",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvUEFkQWZDLTczSmJBbXlEel9tYmI5RlpxaVZJWEZ3aGY5Y0JVQjFKTWZ3UkpzWjA2T2xmQkRKY1M1OWNOeS04c1RpVWRkQlVkMVQ3a19zQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-07T23:11:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-07T22:25:09.433353+09:00"
-  },
-  {
-   "kw": "田村",
-   "level": "high",
-   "d24": 6,
-   "baseline": 0.0,
-   "ratio": 12.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    6
-   ],
-   "latest": [
-    "体験を通じて防災学ぶイベント 田村市で「ふれあい防災」福テレ・斎藤さんトークショーも＜福島県田村市",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Uy1QX2U5c3p3TFM2VFBmQTVVekxUQW5oWk1NSy16Zkw4WGZ5U0J1RWhiTFVLbHZFZFl2ejYyaS0tVlM4dXhoZUxjbi1Wdw?oc=5"
-   ],
-   "samples": [
+     "title": "東北新幹線、東京―盛岡間の運転再開",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41cHlwaTU2NGVQOFdaT3l5SjE0UEpmNGdPNV8wMGpzSF9XdEd3RkI4a25xa1VBVDdWOVpCOERYb1lHcDJnTzZiaklSWFhPaVQwb2lMMkc0REl4NEtFaXc?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-11-08T09:10:25+09:00"
+    },
     {
-     "title": "体験を通じて防災学ぶイベント 田村市で「ふれあい防災」福テレ・斎藤さんトークショーも＜福島県田村市",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Uy1QX2U5c3p3TFM2VFBmQTVVekxUQW5oWk1NSy16Zkw4WGZ5U0J1RWhiTFVLbHZFZFl2ejYyaS0tVlM4dXhoZUxjbi1Wdw?oc=5",
+     "title": "【東北新幹線】つるのような植物電線に垂れ下がる 東京ー盛岡駅の間の上下線で運転見合わせ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90UkQ5RmM3S0hHdFRiS0R1OEJpRG4yM3lSazZrQWhva2tZcGZzdk5fVUVZeEpuZGxoS3F2aVpSU0RhSllkakgwejR3NlNBQQ?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-11-08T12:00:00+09:00"
-    },
-    {
-     "title": "福島県で最大震度1の地震 福島県・白河市、田村市、川内村、浪江町 (FNNプライムオンライン（フジテレビ系）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVFTLW1vVmd5UDR2RnlRN2xRUlUtUDFQWFZRVnpJakF5TVE0Ujkza1JWb2xOaWJDTzRFalp1V2FZcVBHeVItdDQzbFp6enVIeWhDVkl3eWNIV2M1cVkxTWNDZUR2RjJjWEJTcGlPa0d0TmRIa0xkUmFsVWFabkFxckVtMmRPVXNROWZyYlFB?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T22:53:18+09:00"
-    },
-    {
-     "title": "福島県で最大震度1の地震 福島県・白河市、田村市、川内村、浪江町（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DRXFKTWhWYncwZmFfOVpIb3huZzg3Zjd4Z2xEQ3lYTDJfS3NfYmxULWxZbDNIYThES2RzVzlfVmx0QlNGQTJFUXM1NUFwb3JDcWpidUR0TnNEOV9xUHFCN2VsSTljaUJGY2tzRHFKUU4wdV8teEdJT0VfbGZ2OTg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T22:53:18+09:00"
+     "published": "2026-11-08T08:11:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-08T16:19:16.435491+09:00"
+   "alerted_at": "2026-11-08T10:07:05.899507+09:00"
   },
   {
    "kw": "格闘技",
@@ -526,11 +354,11 @@
    "ratio": 10.5,
    "consecutive": 3,
    "days": [
+    1,
     0,
+    2,
     1,
-    1,
-    1,
-    1,
+    0,
     0,
     7
    ],
@@ -562,49 +390,6 @@
    "alerted_at": "2026-10-15T23:20:58.411186+09:00"
   },
   {
-   "kw": "愛知",
-   "level": "high",
-   "d24": 54,
-   "baseline": 5.5,
-   "ratio": 9.8,
-   "consecutive": 6,
-   "days": [
-    10,
-    10,
-    2,
-    2,
-    4,
-    5,
-    54
-   ],
-   "latest": [
-    "愛知で震度５強",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00RlpsQzNZZ2JWWS1GaEk2Mkt5cGUycnl6WEhLbE8wWk9VeHJHenVIRU1ua1ZsbkRuOE96ZjV5RGNNc25wNE5DUDlnRVpuNU9sOGNxZQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "愛知で震度５強",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00RlpsQzNZZ2JWWS1GaEk2Mkt5cGUycnl6WEhLbE8wWk9VeHJHenVIRU1ua1ZsbkRuOE96ZjV5RGNNc25wNE5DUDlnRVpuNU9sOGNxZQ?oc=5",
-     "source": "伊豆下田経済新聞",
-     "published": "2026-11-08T15:17:27+09:00"
-    },
-    {
-     "title": "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T12:10:32+09:00"
-    },
-    {
-     "title": "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlpGLXlJaDVYWndWZ1V0NUhmdjZnVGZjdVhlbHlkOXlvOE5RUUN1aWt0NmNYNE52Zkxyak1sYWdwMmNTdmZnU2g2LXlnMllhWW1HZFRSVHlmTldKWVEtcU16RVJIRUhBTEV6bGNwY2M5UQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T12:10:09+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T21:52:59.861526+09:00"
-  },
-  {
    "kw": "全線",
    "level": "high",
    "d24": 13,
@@ -615,8 +400,8 @@
     0,
     0,
     6,
-    0,
     1,
+    0,
     1,
     13
    ],
@@ -646,6 +431,49 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-14T08:08:17.917751+09:00"
+  },
+  {
+   "kw": "愛知",
+   "level": "high",
+   "d24": 53,
+   "baseline": 5.5,
+   "ratio": 9.6,
+   "consecutive": 6,
+   "days": [
+    11,
+    9,
+    2,
+    4,
+    4,
+    3,
+    53
+   ],
+   "latest": [
+    "愛知で震度５強",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00RlpsQzNZZ2JWWS1GaEk2Mkt5cGUycnl6WEhLbE8wWk9VeHJHenVIRU1ua1ZsbkRuOE96ZjV5RGNNc25wNE5DUDlnRVpuNU9sOGNxZQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "愛知で震度５強",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00RlpsQzNZZ2JWWS1GaEk2Mkt5cGUycnl6WEhLbE8wWk9VeHJHenVIRU1ua1ZsbkRuOE96ZjV5RGNNc25wNE5DUDlnRVpuNU9sOGNxZQ?oc=5",
+     "source": "伊豆下田経済新聞",
+     "published": "2026-11-08T15:17:27+09:00"
+    },
+    {
+     "title": "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T12:10:32+09:00"
+    },
+    {
+     "title": "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlpGLXlJaDVYWndWZ1V0NUhmdjZnVGZjdVhlbHlkOXlvOE5RUUN1aWt0NmNYNE52Zkxyak1sYWdwMmNTdmZnU2g2LXlnMllhWW1HZFRSVHlmTldKWVEtcU16RVJIRUhBTEV6bGNwY2M5UQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T12:10:09+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T21:52:59.861526+09:00"
   },
   {
    "kw": "トラフ",
@@ -701,8 +529,8 @@
     0,
     0,
     0,
-    3,
-    1,
+    4,
+    0,
     1,
     7
    ],
@@ -734,47 +562,47 @@
    "alerted_at": "2026-11-08T16:19:16.435491+09:00"
   },
   {
-   "kw": "心配",
+   "kw": "監禁",
    "level": "high",
-   "d24": 11,
-   "baseline": 1.3,
-   "ratio": 8.2,
-   "consecutive": 1,
+   "d24": 7,
+   "baseline": 0.8,
+   "ratio": 8.4,
+   "consecutive": 2,
    "days": [
+    2,
+    0,
     0,
     1,
     0,
-    1,
-    3,
-    3,
-    11
+    2,
+    7
    ],
    "latest": [
-    "【地震】高知県内で震度1 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wdWdqZWFyaVJwd21TZzJuR2c3UTNvVU8yWDEwb3FJNno0dTdNV01LVWFweGRFdVVLUEZmblZtNEV4RlBOVEd2LVFVbzlSdw?oc=5"
+    "あわら市の山中で女性の遺体見つかる 石川県の監禁事件の被害者か 逮捕・送検された広島市の男の供述基に捜索",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBObTBYWEE5VzRqM2hXTlYzLS1VWWN3MTVDYjRLQlk1SWNVQTl2NEVqRVllajY5X05XVWhXeDk1YzJEQnJKLWtDUktQOFQzZw?oc=5"
    ],
    "samples": [
     {
-     "title": "【地震】高知県内で震度1 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wdWdqZWFyaVJwd21TZzJuR2c3UTNvVU8yWDEwb3FJNno0dTdNV01LVWFweGRFdVVLUEZmblZtNEV4RlBOVEd2LVFVbzlSdw?oc=5",
+     "title": "あわら市の山中で女性の遺体見つかる 石川県の監禁事件の被害者か 逮捕・送検された広島市の男の供述基に捜索",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBObTBYWEE5VzRqM2hXTlYzLS1VWWN3MTVDYjRLQlk1SWNVQTl2NEVqRVllajY5X05XVWhXeDk1YzJEQnJKLWtDUktQOFQzZw?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-11-08T10:56:00+09:00"
+     "published": "2026-11-08T14:25:29+09:00"
     },
     {
-     "title": "【地震情報】愛知県で震度5強 津波の心配なし",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+     "title": "20代女性監禁の疑いで男逮捕 福井県の山林で遺体発見",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JV2hxX09CTDl2UFA2UDMzUG9kUVhQcnZQbkhOTTM3ME90cVdyYW54MVdSQUVUSS1BbTVSN2pWY2FNNDl5eUozWlhXY0Z2Z3RReDRaVGZEN2M3bTkxT0twbkE2dU9DN3U3RlQ0XzhfRnZmQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T12:17:06+09:00"
+    },
+    {
+     "title": "山林で女性遺体 監禁疑いで逮捕の容疑者と交際の女性か",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
      "source": "NHK 主要",
-     "published": "2026-11-08T03:01:55+09:00"
-    },
-    {
-     "title": "【地震】静岡県内で震度1 愛知県東部を震源とする最大震度2の地震が発生 津波の心配なし",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxa2pjZWN4cVo4MGQ0ZlllUEgtTFVMSFVfMFJFYW9MTHExSERaeWNDWkFXcTNWZl9OSWNEN0doaU1wNFd5Q3l0a19QeUVEQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T02:06:00+09:00"
+     "published": "2026-11-08T12:14:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-15T18:27:36.449317+09:00"
+   "alerted_at": "2026-11-08T16:19:16.435491+09:00"
   },
   {
    "kw": "運転見合わせ",
@@ -784,8 +612,8 @@
    "ratio": 8.2,
    "consecutive": 3,
    "days": [
-    1,
-    1,
+    2,
+    0,
     5,
     0,
     1,
@@ -820,106 +648,63 @@
    "alerted_at": "2026-10-16T18:18:50.186088+09:00"
   },
   {
-   "kw": "退席",
+   "kw": "震源",
    "level": "high",
-   "d24": 8,
-   "baseline": 1.0,
-   "ratio": 8.0,
-   "consecutive": 1,
+   "d24": 9,
+   "baseline": 1.5,
+   "ratio": 6.0,
+   "consecutive": 5,
    "days": [
     0,
     0,
     0,
-    0,
     1,
+    3,
     5,
-    8
+    9
    ],
    "latest": [
-    "自民党 消費減税法案“棄権”の4議員に処分検討 9日正午までに退席理由の説明を",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE85WkJIeVZBNURyeElEVURscEp0bG9qSHVsWFFXYTJEYS1udkxwNE81bXlvUzFOb1NaV28yV3pscG80RDdqZjNZZGxXYmZPRU9fTzBJV3lHdFV5N1VsOW9GVXhoSEhVZ3VIY1hTS1VrNnRsQm8?oc=5"
+    "震源＝気象庁発表（８日１０時５６分）",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93UjI5Ykt5NUlQY2tsajF1Snl2ZEw3QWVyMmVKaWhrUThIeHB0bzhCdzQ2TmtIMlBGMENORTkyZTc0X2lrbW04X2Z3ZkF1c1NaWEhTeGJBaXZiOTk1REE?oc=5"
    ],
    "samples": [
     {
-     "title": "自民党 消費減税法案“棄権”の4議員に処分検討 9日正午までに退席理由の説明を",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85WkJIeVZBNURyeElEVURscEp0bG9qSHVsWFFXYTJEYS1udkxwNE81bXlvUzFOb1NaV28yV3pscG80RDdqZjNZZGxXYmZPRU9fTzBJV3lHdFV5N1VsOW9GVXhoSEhVZ3VIY1hTS1VrNnRsQm8?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T14:45:13+09:00"
+     "title": "震源＝気象庁発表（８日１０時５６分）",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93UjI5Ykt5NUlQY2tsajF1Snl2ZEw3QWVyMmVKaWhrUThIeHB0bzhCdzQ2TmtIMlBGMENORTkyZTc0X2lrbW04X2Z3ZkF1c1NaWEhTeGJBaXZiOTk1REE?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-11-08T10:57:00+09:00"
     },
     {
-     "title": "小林政調会長「党議拘束重い」 消費減税法案の採決前退席巡り（共同通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12X2dqZGIxSTNkNkVjYUtiSlBkX2NmalRpNk5HZUR5c3hxeUVNYXJUcXBGX2RDZVctS3c0TEdQZnRCMnl4WmR3U01kcGZYdmFnajdQWnlXRmc0RktpVmFBbkQ4RjZQaEw1cGRBMDJZRnVaVkdFSDZQY0oyWHJUYWs?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T14:42:01+09:00"
-    },
-    {
-     "title": "“消費税減税”法案が衆議院通過 問われる「2年後」と「支援金」自民党から異例の4人退席 議論は野党が多数占める参議院へ【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRUxDdkpaNC16N04xNEpkdU1kWmFkVHpFQ21TcTZFSTk1MFNJazcxbGRIVHctLW1zd1VrcERCb2hoeUNtXzFNbWUtWWgtSDlDNndWTVp2TmxKR0VsaEgwQ0o5X1RBZTlsRV9EYnBsdlVtWDg3MkZNS3JWUk5Gcm8?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T13:53:13+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-07T22:25:09.433353+09:00"
-  },
-  {
-   "kw": "フェスティバル",
-   "level": "high",
-   "d24": 4,
-   "baseline": 0.5,
-   "ratio": 8.0,
-   "consecutive": 3,
-   "days": [
-    1,
-    0,
-    0,
-    0,
-    0,
-    2,
-    4
-   ],
-   "latest": [
-    "育てに役立つ情報を発信「子育て応援フェスティバル」 | TBS NEWS DIG",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DeW9sX2lFZDh2cFJwTl9TZXItYmkyVTNGajJGZzFzeWYwX2kweFEtYi04UXZ4UERQV0V2VjhtSnlBMEpGM2FPYld4eWttUTd0SEFOeFF1Q2JKcGk3?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "育てに役立つ情報を発信「子育て応援フェスティバル」 | TBS NEWS DIG",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DeW9sX2lFZDh2cFJwTl9TZXItYmkyVTNGajJGZzFzeWYwX2kweFEtYi04UXZ4UERQV0V2VjhtSnlBMEpGM2FPYld4eWttUTd0SEFOeFF1Q2JKcGk3?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-07T19:45:59+09:00"
-    },
-    {
-     "title": "育てに役立つ情報を発信「子育て応援フェスティバル」",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HelVWUUFiaUxubEVuZGRwVVlhR3RuZzhxeTJxX3Mwb0tLRW1yeC05ZGl4Z2FHZTZPVWdSbGZQbjAxRkVXVThWY0tGYjZiRXEtTzVYYzVRVQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-07T19:08:00+09:00"
-    },
-    {
-     "title": "「動物愛護フェスティバル」開催 保護犬・猫の致死処分ゼロ継続へ 福岡市中央区・天神中央公園",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ueEtJUmE5YkdvMlhBVjh0UkxCZjV5bnBUTl9zWE1rU1oyMVhqQWdscnpIQ2lYbjBTSFpmUkV0ekZhajJtWjZzOVBFZlBJUQ?oc=5",
+     "title": "【地震】高知県内で震度1 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wdWdqZWFyaVJwd21TZzJuR2c3UTNvVU8yWDEwb3FJNno0dTdNV01LVWFweGRFdVVLUEZmblZtNEV4RlBOVEd2LVFVbzlSdw?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-11-07T18:30:00+09:00"
+     "published": "2026-11-08T10:56:00+09:00"
+    },
+    {
+     "title": "名古屋でも震度4…愛知県で最大震度5強を観測する強い地震 静岡県西部が震源でM5.7【8日午前3時時点】",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yd3lGZGhPckROYWl5X2JHSzRnaS1taldVeTJyeklLYlFzdHRuc1JsMm9QNndoS0QtWUZjZHZDbjAybkRvcV84T1EyMERaUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T03:47:04+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-08T03:10:33.288329+09:00"
+   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
    "kw": "震度",
    "level": "high",
-   "d24": 90,
-   "baseline": 11.7,
-   "ratio": 7.7,
+   "d24": 78,
+   "baseline": 13.2,
+   "ratio": 5.9,
    "consecutive": 15,
    "days": [
-    16,
+    13,
     5,
     13,
     8,
-    7,
-    21,
-    90
+    20,
+    20,
+    78
    ],
    "latest": [
     "愛知で震度５強",
@@ -949,106 +734,63 @@
    "alerted_at": "2026-10-14T03:31:38.083820+09:00"
   },
   {
-   "kw": "通行止め",
+   "kw": "福井",
    "level": "high",
-   "d24": 6,
-   "baseline": 0.8,
-   "ratio": 7.2,
-   "consecutive": 1,
+   "d24": 7,
+   "baseline": 1.3,
+   "ratio": 5.2,
+   "consecutive": 3,
    "days": [
-    0,
     2,
     0,
-    0,
-    0,
-    3,
-    6
+    1,
+    2,
+    1,
+    2,
+    7
    ],
    "latest": [
-    "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlpGLXlJaDVYWndWZ1V0NUhmdjZnVGZjdVhlbHlkOXlvOE5RUUN1aWt0NmNYNE52Zkxyak1sYWdwMmNTdmZnU2g2LXlnMllhWW1HZFRSVHlmTldKWVEtcU16RVJIRUhBTEV6bGNwY2M5UQ?oc=5"
+    "福井の山林遺体 26歳女性と判明",
+    "https://news.yahoo.co.jp/pickup/6601841?source=rss"
    ],
    "samples": [
     {
-     "title": "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlpGLXlJaDVYWndWZ1V0NUhmdjZnVGZjdVhlbHlkOXlvOE5RUUN1aWt0NmNYNE52Zkxyak1sYWdwMmNTdmZnU2g2LXlnMllhWW1HZFRSVHlmTldKWVEtcU16RVJIRUhBTEV6bGNwY2M5UQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T12:10:09+09:00"
-    },
-    {
-     "title": "最大震度5弱の長野 震度4観測した飯田市では土砂崩れで県道が通行止め 人・建物への被害確認されず",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RkYyaW5aNE5ocGcyNkJBbmZhRE0yUG5sM1lMQ2RtTlBtSUExS2w2QkZ6R1ZBak1pMlN1VnVMT2dDOFRmclJMWUVuWXo3UFRNejQ3S1lFS2ZFMVdHQV9YNlBGOWZHdkZQT3RqYXZLWXJGakdONWRVdzlaalVwWEk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T12:00:18+09:00"
-    },
-    {
-     "title": "愛知県の高速 5つの道路で全線通行止め",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72280",
-     "source": "NHK 主要",
-     "published": "2026-11-08T02:21:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-08T16:19:16.435491+09:00"
-  },
-  {
-   "kw": "観測",
-   "level": "high",
-   "d24": 9,
-   "baseline": 1.3,
-   "ratio": 6.8,
-   "consecutive": 8,
-   "days": [
-    0,
-    0,
-    1,
-    1,
-    0,
-    6,
-    9
-   ],
-   "latest": [
-    "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T12:10:32+09:00"
-    },
-    {
-     "title": "最大震度5弱の長野 震度4観測した飯田市では土砂崩れで県道が通行止め 人・建物への被害確認されず",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RkYyaW5aNE5ocGcyNkJBbmZhRE0yUG5sM1lMQ2RtTlBtSUExS2w2QkZ6R1ZBak1pMlN1VnVMT2dDOFRmclJMWUVuWXo3UFRNejQ3S1lFS2ZFMVdHQV9YNlBGOWZHdkZQT3RqYXZLWXJGakdONWRVdzlaalVwWEk?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T12:00:18+09:00"
-    },
-    {
-     "title": "愛知県で震度5強観測 約30年ぶり",
-     "url": "https://news.yahoo.co.jp/pickup/6601732?source=rss",
+     "title": "福井の山林遺体 26歳女性と判明",
+     "url": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
      "source": "Yahoo 主要",
-     "published": "2026-11-08T07:51:32+09:00"
+     "published": "2026-11-08T21:33:34+09:00"
+    },
+    {
+     "title": "20代女性監禁の疑いで男逮捕 福井県の山林で遺体発見",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JV2hxX09CTDl2UFA2UDMzUG9kUVhQcnZQbkhOTTM3ME90cVdyYW54MVdSQUVUSS1BbTVSN2pWY2FNNDl5eUozWlhXY0Z2Z3RReDRaVGZEN2M3bTkxT0twbkE2dU9DN3U3RlQ0XzhfRnZmQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T12:17:06+09:00"
+    },
+    {
+     "title": "女性「関係絶ちたい」と警察に相談 監禁容疑で男を逮捕 男の供述から福井の山林で女性とみられる遺体発見",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOW1fcWR4d0pwUHpSUmZkYm10eVEwNDA1OGZvbnBkNzZ4Q2pvaGU4TWtDbUV3bjE4Mk1BOU52NDJaY3FDR2had0paaTExbTFPa3h5SmdhLTNPV195bm4wREZHS3c0cDJBakRGemlGT2NmRmVQN1FmR0FfVjBONGs?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T11:58:20+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
+   "alerted_at": "2026-11-08T10:07:05.899507+09:00"
   },
   {
    "kw": "最大震度",
    "level": "high",
-   "d24": 54,
-   "baseline": 8.3,
-   "ratio": 6.5,
+   "d24": 43,
+   "baseline": 9.7,
+   "ratio": 4.4,
    "consecutive": 15,
    "days": [
-    12,
+    9,
     3,
     9,
     6,
-    5,
-    15,
-    54
+    14,
+    17,
+    43
    ],
    "latest": [
     "熊本県で最大震度4 けが人などの情報なし",
@@ -1078,106 +820,63 @@
    "alerted_at": "2026-10-14T03:31:38.083820+09:00"
   },
   {
-   "kw": "福井",
+   "kw": "観測",
    "level": "high",
    "d24": 7,
-   "baseline": 1.2,
-   "ratio": 6.0,
-   "consecutive": 2,
+   "baseline": 1.7,
+   "ratio": 4.2,
+   "consecutive": 8,
    "days": [
-    1,
-    1,
-    1,
     0,
+    0,
+    1,
+    1,
     2,
-    2,
+    6,
     7
    ],
    "latest": [
-    "20代女性監禁の疑いで男逮捕 福井県の山林で遺体発見",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1JV2hxX09CTDl2UFA2UDMzUG9kUVhQcnZQbkhOTTM3ME90cVdyYW54MVdSQUVUSS1BbTVSN2pWY2FNNDl5eUozWlhXY0Z2Z3RReDRaVGZEN2M3bTkxT0twbkE2dU9DN3U3RlQ0XzhfRnZmQQ?oc=5"
+    "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5"
    ],
    "samples": [
     {
-     "title": "20代女性監禁の疑いで男逮捕 福井県の山林で遺体発見",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JV2hxX09CTDl2UFA2UDMzUG9kUVhQcnZQbkhOTTM3ME90cVdyYW54MVdSQUVUSS1BbTVSN2pWY2FNNDl5eUozWlhXY0Z2Z3RReDRaVGZEN2M3bTkxT0twbkE2dU9DN3U3RlQ0XzhfRnZmQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T12:17:06+09:00"
+     "title": "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T12:10:32+09:00"
     },
     {
-     "title": "女性「関係絶ちたい」と警察に相談 監禁容疑で男を逮捕 男の供述から福井の山林で女性とみられる遺体発見",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOW1fcWR4d0pwUHpSUmZkYm10eVEwNDA1OGZvbnBkNzZ4Q2pvaGU4TWtDbUV3bjE4Mk1BOU52NDJaY3FDR2had0paaTExbTFPa3h5SmdhLTNPV195bm4wREZHS3c0cDJBakRGemlGT2NmRmVQN1FmR0FfVjBONGs?oc=5",
+     "title": "最大震度5弱の長野 震度4観測した飯田市では土砂崩れで県道が通行止め 人・建物への被害確認されず",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RkYyaW5aNE5ocGcyNkJBbmZhRE0yUG5sM1lMQ2RtTlBtSUExS2w2QkZ6R1ZBak1pMlN1VnVMT2dDOFRmclJMWUVuWXo3UFRNejQ3S1lFS2ZFMVdHQV9YNlBGOWZHdkZQT3RqYXZLWXJGakdONWRVdzlaalVwWEk?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-11-08T11:58:20+09:00"
+     "published": "2026-11-08T12:00:18+09:00"
     },
     {
-     "title": "20代女性 福井県内で遺体で発見 監禁容疑で49歳男逮捕",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oa3pGOEltMXV6ZG04QmU1emY5dFFzY0l2SFhHWjFneXhILTJjSjJYanRJR0p6Z3IyaWR5dmZMYTZqT29TUDlTS1R5dUhxcWRrT29yQV9tX0R4eXIxM0JrVWtfbE11ejBJYjhqdUxFbEctZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T06:31:13+09:00"
+     "title": "愛知県で震度5強観測 約30年ぶり",
+     "url": "https://news.yahoo.co.jp/pickup/6601732?source=rss",
+     "source": "Yahoo 主要",
+     "published": "2026-11-08T07:51:32+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-08T10:07:05.899507+09:00"
-  },
-  {
-   "kw": "立冬",
-   "level": "high",
-   "d24": 5,
-   "baseline": 1.0,
-   "ratio": 5.0,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    5,
-    5
-   ],
-   "latest": [
-    "立冬に今季一番の寒気 北海道旭川市で初積雪 スリップ事故相次ぐ",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE53SDhBWVZSYjg4Zktvb20zdXhXNEVkaFhiS0MyNFVaUkZJQ1BKOGhoSkVISEw1OHdKWWIwbFVaM1p0YjJPVy1VbUx2dVBPc18wbjh1aG1PS3hIaXp1NmFjNkRycWhScDZ5UDIyVGlPMm53UQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "立冬に今季一番の寒気 北海道旭川市で初積雪 スリップ事故相次ぐ",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53SDhBWVZSYjg4Zktvb20zdXhXNEVkaFhiS0MyNFVaUkZJQ1BKOGhoSkVISEw1OHdKWWIwbFVaM1p0YjJPVy1VbUx2dVBPc18wbjh1aG1PS3hIaXp1NmFjNkRycWhScDZ5UDIyVGlPMm53UQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T09:28:17+09:00"
-    },
-    {
-     "title": "「立冬」のきょう 冬の嵐と秋晴れと… 短時間で一面雪景色/強風に気をもむ花火客",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12anN2N0dLQnc4SDkwZzlEWHA4cTBEZHpISklrcUlUdnhrYy1QNGtRTVY5TUtxbnItWEJZMUZHRjVnV0FVRDkybGhuT0cyeHJCZy1rNzRyMHBISmhlS2NsWXNHLWJxZmVvZ2c3d1pqb0xiZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-07T19:15:49+09:00"
-    },
-    {
-     "title": "立冬の北海道で今季初の積雪 札幌は一時10センチ ズワイガニ初競りなど各地で冬の訪れ お台場では火災に備えた防災訓練や“よさこい”も（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbHQ1aHlEQkkyUXI3SjZrRDJ2eHFtMUZmNW5taFY4SEtUTlViQ05YbWswd0tTZ194MS1Xa2ROOTZaOVVKVVc2Z1lESlZJU3hBck9FdXZvc0RySGQ4NE9sREFkNmkweG9zSkRMaXFIR2xWaV9HM2lTWG5qdEhpMDg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T18:51:25+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-07T22:25:09.433353+09:00"
+   "alerted_at": "2026-10-16T23:07:39.496671+09:00"
   },
   {
    "kw": "結婚",
    "level": "high",
-   "d24": 9,
-   "baseline": 1.8,
-   "ratio": 4.9,
+   "d24": 8,
+   "baseline": 2.0,
+   "ratio": 4.0,
    "consecutive": 1,
    "days": [
+    3,
+    0,
     1,
-    2,
-    1,
-    2,
     3,
     2,
-    9
+    3,
+    8
    ],
    "latest": [
     "のっちと結婚の渋谷 8歳から子役",
@@ -1207,190 +906,18 @@
    "alerted_at": "2026-11-08T16:19:16.435491+09:00"
   },
   {
-   "kw": "座礁",
-   "level": "high",
-   "d24": 4,
-   "baseline": 0.8,
-   "ratio": 4.8,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    4
-   ],
-   "latest": [
-    "漁船が座礁 息子と娘が海に投げ出される 乗組員2人死亡（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pMXdwd1ozT1F4b1Z3cWlnUW50T0VpbE5rN1hqVXU5VmtUZTBzak1VWXlUV3BaR19oVUFTRHd2elJReTVqT1hVbVVsU1NIbWVCS2R6cl9LQlN1NkxGdDltVWJ1b2RIVGpUNXhDSDJsV1Q0aTVDWHRRZkU3SjljT1E?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "漁船が座礁 息子と娘が海に投げ出される 乗組員2人死亡（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pMXdwd1ozT1F4b1Z3cWlnUW50T0VpbE5rN1hqVXU5VmtUZTBzak1VWXlUV3BaR19oVUFTRHd2elJReTVqT1hVbVVsU1NIbWVCS2R6cl9LQlN1NkxGdDltVWJ1b2RIVGpUNXhDSDJsV1Q0aTVDWHRRZkU3SjljT1E?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T01:08:04+09:00"
-    },
-    {
-     "title": "漁船座礁 海に転落し重体だった2人が死亡 91歳船長の息子と娘",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4ckU0R2wyMDM3bEhTSVRWclVpUDhKLXFPUm1VcEdfaXlOcTNFekJJN0RfWkdPdkZTVDh2SzRYdkFDWTRKeXRDNzhwWWpBODlYZkFBOU0wT1FCM2FRRzFERk1TTENrbzZnVWtvYmRSajRLZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-07T19:06:35+09:00"
-    },
-    {
-     "title": "【速報】茨城県北茨城市の海岸で小型漁船が座礁 海に転落した乗組員2人の死亡確認 船長は会話可能 茨城海上保安部",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDhoQU5vdEU4RXNhaGdVOXVlSWZTd3ZuSW9OTk5pSVJkNlFoLXR2OWRuXzBUTko2eFFiSC1YSDZkX0ZqVXNrcURGQmxxd1ZQYzMzdS1LUmZrTGZnREtWOTJrdzFEY2luU3hHQUc5bXUtazU3cVREZWltTGpEUzZyVE9XQWNMRTROZmZUaXhR?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T18:05:33+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-07T22:25:09.433353+09:00"
-  },
-  {
-   "kw": "追加",
-   "level": "high",
-   "d24": 11,
-   "baseline": 2.5,
-   "ratio": 4.4,
-   "consecutive": 2,
-   "days": [
-    1,
-    5,
-    1,
-    0,
-    3,
-    5,
-    11
-   ],
-   "latest": [
-    "12月追加利上げの公算＝雇用急増で物価安定を優先―米FRB(時事通信)",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWThwNlNXbDc5Zjk0RTF3WUp5UkotcnlPTHJrY0VPS2FWdXBwaFZFNnA0VnZUQ3JxN2lpSm5HaWd4dnhzTktMdjI2YmN1REdZdWR5ZEk5emdpQW5iZEJ6Zm5QLTJJOGJwTXJ0RlFUX1lPYUJacFM2RnBRSWREVHhydEVaNzQ2NTQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "12月追加利上げの公算＝雇用急増で物価安定を優先―米FRB(時事通信)",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWThwNlNXbDc5Zjk0RTF3WUp5UkotcnlPTHJrY0VPS2FWdXBwaFZFNnA0VnZUQ3JxN2lpSm5HaWd4dnhzTktMdjI2YmN1REdZdWR5ZEk5emdpQW5iZEJ6Zm5QLTJJOGJwTXJ0RlFUX1lPYUJacFM2RnBRSWREVHhydEVaNzQ2NTQ?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "published": "2026-11-08T07:00:18+09:00"
-    },
-    {
-     "title": "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T06:26:00+09:00"
-    },
-    {
-     "title": "JT現地法人3社 追加で管理下に プーチン氏 大統領令に署名（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZVJuYnlQM1BHQkJWX19fYkNjaUJfNmxFTHVGc3g2QUgyWVg5WnBwcDdROGNiX0xEdzhBbWNDenR2ZE9XczFxS1dOQVg3c0RQc09FbFE0QWlwYWRxZmltaW5fMXF4dmo1eEJvVV9nSU81RHFQVk9mb3NnWTU2aXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T01:20:26+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-20T02:20:54.347131+09:00"
-  },
-  {
-   "kw": "署名",
-   "level": "high",
-   "d24": 5,
-   "baseline": 1.2,
-   "ratio": 4.3,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    5,
-    2,
-    5
-   ],
-   "latest": [
-    "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T06:26:00+09:00"
-    },
-    {
-     "title": "JT現地法人3社 追加で管理下に プーチン氏 大統領令に署名（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZVJuYnlQM1BHQkJWX19fYkNjaUJfNmxFTHVGc3g2QUgyWVg5WnBwcDdROGNiX0xEdzhBbWNDenR2ZE9XczFxS1dOQVg3c0RQc09FbFE0QWlwYWRxZmltaW5fMXF4dmo1eEJvVV9nSU81RHFQVk9mb3NnWTU2aXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T01:20:26+09:00"
-    },
-    {
-     "title": "ロシア JT関連3社の資産を暫定管理の対象に追加 プーチン氏が大統領令に署名（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Y3Mxc2NtNy05QUZOaFVDX2ZCVllhZkd4X2ZVQXpnYWN5dE1WQVhjYk16TjA5QW5ONGFMd3EyY05mQXE4SHVmM3J1Smw5dlg5eVpkaG1kRm5KMXJsOUxtZGM5eHp0OExwM1h4RmNVZFdnY05JU2R4Q0dBclc1QTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T23:26:08+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-08T10:07:05.899507+09:00"
-  },
-  {
-   "kw": "地震",
-   "level": "high",
-   "d24": 65,
-   "baseline": 17.3,
-   "ratio": 3.8,
-   "consecutive": 25,
-   "days": [
-    20,
-    10,
-    14,
-    16,
-    18,
-    26,
-    65
-   ],
-   "latest": [
-    "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-08T12:11:07+09:00"
-    },
-    {
-     "title": "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T12:10:32+09:00"
-    },
-    {
-     "title": "震度1 熊本県天草・芦北地方 2026年11月08日11:21ごろ 地震詳細",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTdYd2FINmxIaGd6c2J6WlhNd29fOGEzYmprY0xfdHh6ZmpQRUhmem1tVHh5VFI0T3RhVmV4NmVKZHdhQm5XQjZGUm5PRlYwemxWb3FIR3k5Z3liMjBuUG9RWWdHWk1rSjVIVEhDb2RCTW1ZaTRxSG1YbHhJdmhyNFNB?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-08T11:26:44+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
-  },
-  {
    "kw": "運転再開",
    "level": "high",
    "d24": 11,
-   "baseline": 3.0,
-   "ratio": 3.7,
+   "baseline": 2.8,
+   "ratio": 3.9,
    "consecutive": 3,
    "days": [
+    2,
+    1,
+    9,
     3,
-    0,
-    10,
-    2,
-    2,
+    1,
     1,
     11
    ],
@@ -1422,20 +949,235 @@
    "alerted_at": "2026-10-14T03:31:38.083820+09:00"
   },
   {
+   "kw": "地震",
+   "level": "high",
+   "d24": 52,
+   "baseline": 18.8,
+   "ratio": 2.8,
+   "consecutive": 25,
+   "days": [
+    17,
+    10,
+    16,
+    18,
+    29,
+    23,
+    52
+   ],
+   "latest": [
+    "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T12:11:07+09:00"
+    },
+    {
+     "title": "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kd19fOGtpbGh2bWk5UW5mWUktUlF2TEVtdVdsVUNvMm1zMXAtYWZhMzlfTWRBVUtWZzRpRUswbWdlc1JPSGZ3UVFFVFJXUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T12:10:32+09:00"
+    },
+    {
+     "title": "震度1 熊本県天草・芦北地方 2026年11月08日11:21ごろ 地震詳細",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTdYd2FINmxIaGd6c2J6WlhNd29fOGEzYmprY0xfdHh6ZmpQRUhmem1tVHh5VFI0T3RhVmV4NmVKZHdhQm5XQjZGUm5PRlYwemxWb3FIR3k5Z3liMjBuUG9RWWdHWk1rSjVIVEhDb2RCTW1ZaTRxSG1YbHhJdmhyNFNB?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-08T11:26:44+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
+  },
+  {
+   "kw": "心配",
+   "level": "high",
+   "d24": 6,
+   "baseline": 2.2,
+   "ratio": 2.8,
+   "consecutive": 1,
+   "days": [
+    1,
+    0,
+    0,
+    1,
+    5,
+    6,
+    6
+   ],
+   "latest": [
+    "【地震】高知県内で震度1 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wdWdqZWFyaVJwd21TZzJuR2c3UTNvVU8yWDEwb3FJNno0dTdNV01LVWFweGRFdVVLUEZmblZtNEV4RlBOVEd2LVFVbzlSdw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【地震】高知県内で震度1 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wdWdqZWFyaVJwd21TZzJuR2c3UTNvVU8yWDEwb3FJNno0dTdNV01LVWFweGRFdVVLUEZmblZtNEV4RlBOVEd2LVFVbzlSdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T10:56:00+09:00"
+    },
+    {
+     "title": "【地震情報】愛知県で震度5強 津波の心配なし",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+     "source": "NHK 主要",
+     "published": "2026-11-08T03:01:55+09:00"
+    },
+    {
+     "title": "【地震】静岡県内で震度1 愛知県東部を震源とする最大震度2の地震が発生 津波の心配なし",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxa2pjZWN4cVo4MGQ0ZlllUEgtTFVMSFVfMFJFYW9MTHExSERaeWNDWkFXcTNWZl9OSWNEN0doaU1wNFd5Q3l0a19QeUVEQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T02:06:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-15T18:27:36.449317+09:00"
+  },
+  {
+   "kw": "通行止め",
+   "level": "high",
+   "d24": 3,
+   "baseline": 1.3,
+   "ratio": 2.2,
+   "consecutive": 1,
+   "days": [
+    0,
+    2,
+    0,
+    0,
+    2,
+    4,
+    3
+   ],
+   "latest": [
+    "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlpGLXlJaDVYWndWZ1V0NUhmdjZnVGZjdVhlbHlkOXlvOE5RUUN1aWt0NmNYNE52Zkxyak1sYWdwMmNTdmZnU2g2LXlnMllhWW1HZFRSVHlmTldKWVEtcU16RVJIRUhBTEV6bGNwY2M5UQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlpGLXlJaDVYWndWZ1V0NUhmdjZnVGZjdVhlbHlkOXlvOE5RUUN1aWt0NmNYNE52Zkxyak1sYWdwMmNTdmZnU2g2LXlnMllhWW1HZFRSVHlmTldKWVEtcU16RVJIRUhBTEV6bGNwY2M5UQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T12:10:09+09:00"
+    },
+    {
+     "title": "最大震度5弱の長野 震度4観測した飯田市では土砂崩れで県道が通行止め 人・建物への被害確認されず",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RkYyaW5aNE5ocGcyNkJBbmZhRE0yUG5sM1lMQ2RtTlBtSUExS2w2QkZ6R1ZBak1pMlN1VnVMT2dDOFRmclJMWUVuWXo3UFRNejQ3S1lFS2ZFMVdHQV9YNlBGOWZHdkZQT3RqYXZLWXJGakdONWRVdzlaalVwWEk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T12:00:18+09:00"
+    },
+    {
+     "title": "愛知県の高速 5つの道路で全線通行止め",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72280",
+     "source": "NHK 主要",
+     "published": "2026-11-08T02:21:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-08T16:19:16.435491+09:00"
+  },
+  {
+   "kw": "署名",
+   "level": "high",
+   "d24": 3,
+   "baseline": 1.5,
+   "ratio": 2.0,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    4,
+    4,
+    3
+   ],
+   "latest": [
+    "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T06:26:00+09:00"
+    },
+    {
+     "title": "JT現地法人3社 追加で管理下に プーチン氏 大統領令に署名（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZVJuYnlQM1BHQkJWX19fYkNjaUJfNmxFTHVGc3g2QUgyWVg5WnBwcDdROGNiX0xEdzhBbWNDenR2ZE9XczFxS1dOQVg3c0RQc09FbFE0QWlwYWRxZmltaW5fMXF4dmo1eEJvVV9nSU81RHFQVk9mb3NnWTU2aXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T01:20:26+09:00"
+    },
+    {
+     "title": "ロシア JT関連3社の資産を暫定管理の対象に追加 プーチン氏が大統領令に署名（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Y3Mxc2NtNy05QUZOaFVDX2ZCVllhZkd4X2ZVQXpnYWN5dE1WQVhjYk16TjA5QW5ONGFMd3EyY05mQXE4SHVmM3J1Smw5dlg5eVpkaG1kRm5KMXJsOUxtZGM5eHp0OExwM1h4RmNVZFdnY05JU2R4Q0dBclc1QTA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-07T23:26:08+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-08T10:07:05.899507+09:00"
+  },
+  {
+   "kw": "気象庁",
+   "level": "high",
+   "d24": 11,
+   "baseline": 5.8,
+   "ratio": 1.9,
+   "consecutive": 6,
+   "days": [
+    6,
+    6,
+    5,
+    5,
+    7,
+    6,
+    11
+   ],
+   "latest": [
+    "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T12:11:07+09:00"
+    },
+    {
+     "title": "【東京首都圏】９日（月）冷たい雨 クリスマス頃の寒さに【１時間ごと雨シミュレーション９日（月）／週間天気予報】気象庁予想天気図 関東のすぐ南に「低気圧」",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXLU1TOTY0S0NGLU1fekVuSzFvYmw3QkFIRkxfTEZHXzJJRUlNVkpOZXh3cEphWndfZTRIdmFBVFdPSUNsVlRBM0V4eHZTVUhmOEI5bGctdmljcDUzb0pidHMzaWM?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-08T11:44:00+09:00"
+    },
+    {
+     "title": "【画像まとめ】愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QbmxQTEQ0VlhTdmxfRmE3eDhmSEJaREVnb2VkRkl2QzdGVjVybkRLaXBvY00xcExqYThtUS05d1M2UTJqVVdwU3BkeGVVSUxmcExBUmh4cUZfLXdJaVdvM2RDMjkwRnBDS3lvM3RKVXJHRFh4bjFQYkJtQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T11:14:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T16:08:34.892553+09:00"
+  },
+  {
    "kw": "静岡",
    "level": "high",
-   "d24": 17,
-   "baseline": 4.8,
-   "ratio": 3.5,
+   "d24": 10,
+   "baseline": 5.8,
+   "ratio": 1.7,
    "consecutive": 6,
    "days": [
     2,
     4,
+    7,
     4,
     7,
-    5,
-    7,
-    17
+    11,
+    10
    ],
    "latest": [
     "愛知で未明に震度5強 静岡含め少なくとも19人けが",
@@ -1465,149 +1207,20 @@
    "alerted_at": "2026-10-15T23:20:58.411186+09:00"
   },
   {
-   "kw": "漁船",
-   "level": "high",
-   "d24": 4,
-   "baseline": 1.2,
-   "ratio": 3.4,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    0,
-    1,
-    1,
-    5,
-    4
-   ],
-   "latest": [
-    "漁船が座礁 息子と娘が海に投げ出される 乗組員2人死亡（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pMXdwd1ozT1F4b1Z3cWlnUW50T0VpbE5rN1hqVXU5VmtUZTBzak1VWXlUV3BaR19oVUFTRHd2elJReTVqT1hVbVVsU1NIbWVCS2R6cl9LQlN1NkxGdDltVWJ1b2RIVGpUNXhDSDJsV1Q0aTVDWHRRZkU3SjljT1E?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "漁船が座礁 息子と娘が海に投げ出される 乗組員2人死亡（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pMXdwd1ozT1F4b1Z3cWlnUW50T0VpbE5rN1hqVXU5VmtUZTBzak1VWXlUV3BaR19oVUFTRHd2elJReTVqT1hVbVVsU1NIbWVCS2R6cl9LQlN1NkxGdDltVWJ1b2RIVGpUNXhDSDJsV1Q0aTVDWHRRZkU3SjljT1E?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T01:08:04+09:00"
-    },
-    {
-     "title": "漁船座礁 海に転落し重体だった2人が死亡 91歳船長の息子と娘",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4ckU0R2wyMDM3bEhTSVRWclVpUDhKLXFPUm1VcEdfaXlOcTNFekJJN0RfWkdPdkZTVDh2SzRYdkFDWTRKeXRDNzhwWWpBODlYZkFBOU0wT1FCM2FRRzFERk1TTENrbzZnVWtvYmRSajRLZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-07T19:06:35+09:00"
-    },
-    {
-     "title": "【速報】茨城県北茨城市の海岸で小型漁船が座礁 海に転落した乗組員2人の死亡確認 船長は会話可能 茨城海上保安部",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDhoQU5vdEU4RXNhaGdVOXVlSWZTd3ZuSW9OTk5pSVJkNlFoLXR2OWRuXzBUTko2eFFiSC1YSDZkX0ZqVXNrcURGQmxxd1ZQYzMzdS1LUmZrTGZnREtWOTJrdzFEY2luU3hHQUc5bXUtazU3cVREZWltTGpEUzZyVE9XQWNMRTROZmZUaXhR?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T18:05:33+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-07T22:25:09.433353+09:00"
-  },
-  {
-   "kw": "プーチン",
-   "level": "high",
-   "d24": 7,
-   "baseline": 2.2,
-   "ratio": 3.2,
-   "consecutive": 1,
-   "days": [
-    0,
-    0,
-    1,
-    0,
-    9,
-    3,
-    7
-   ],
-   "latest": [
-    "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-08T06:26:00+09:00"
-    },
-    {
-     "title": "JT現地法人3社 追加で管理下に プーチン氏 大統領令に署名（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZVJuYnlQM1BHQkJWX19fYkNjaUJfNmxFTHVGc3g2QUgyWVg5WnBwcDdROGNiX0xEdzhBbWNDenR2ZE9XczFxS1dOQVg3c0RQc09FbFE0QWlwYWRxZmltaW5fMXF4dmo1eEJvVV9nSU81RHFQVk9mb3NnWTU2aXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-08T01:20:26+09:00"
-    },
-    {
-     "title": "ロシア JT関連3社の資産を暫定管理の対象に追加 プーチン氏が大統領令に署名（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Y3Mxc2NtNy05QUZOaFVDX2ZCVllhZkd4X2ZVQXpnYWN5dE1WQVhjYk16TjA5QW5ONGFMd3EyY05mQXE4SHVmM3J1Smw5dlg5eVpkaG1kRm5KMXJsOUxtZGM5eHp0OExwM1h4RmNVZFdnY05JU2R4Q0dBclc1QTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T23:26:08+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T06:36:27.583048+09:00"
-  },
-  {
-   "kw": "石破",
-   "level": "high",
-   "d24": 4,
-   "baseline": 1.5,
-   "ratio": 2.7,
-   "consecutive": 3,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    8,
-    4
-   ],
-   "latest": [
-    "石破前総理ら4人に自民執行部が文書で説明要求 回答期限は9日正午 消費減税法案採決で退席「看過できず」",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45QnhqQjcyS1dTYndlTGExa20zakk4b0NkQTRJYzF5ZmZEcDF1ZzlTalViaUduNWZMcW85Nnczd3BlN2dYLTZoNFFLLXNDQQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "石破前総理ら4人に自民執行部が文書で説明要求 回答期限は9日正午 消費減税法案採決で退席「看過できず」",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45QnhqQjcyS1dTYndlTGExa20zakk4b0NkQTRJYzF5ZmZEcDF1ZzlTalViaUduNWZMcW85Nnczd3BlN2dYLTZoNFFLLXNDQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-07T21:36:00+09:00"
-    },
-    {
-     "title": "自民 石破前総理ら消費減税法案の採決退席の4人に文書で説明求める 回答期限は9日正午",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3UUVNVGFreXpfWlF4QV9IV0h2ajZnUFNrdkJpcUQyWklnUXB5U2F2ZkNPUktiR3pfa3Bral82eVJjbFotbFpHb001U1o5X2hkVnppN2xiSQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-07T20:15:39+09:00"
-    },
-    {
-     "title": "自民、退席の石破氏らに説明要求 9日期限、減税法案採決（共同通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uZ3F1bHo4eUxUVGl4Wk1FOVpsMm56S3hzNHpLVWgtWmZEcGpDSlZqVXprWFdZb1dKYmQ0OWE1T0VKRzhSay1PTnhSbnZRVDk2a2VyY09nYUw5eHdTS1c4VjRTUlIwa0RZTkNwSVV0S1F2TjBUZWVwMXdKTlRNWjg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T16:42:19+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-07T05:36:31.891796+09:00"
-  },
-  {
    "kw": "避難",
    "level": "high",
-   "d24": 7,
-   "baseline": 2.8,
-   "ratio": 2.5,
+   "d24": 5,
+   "baseline": 3.2,
+   "ratio": 1.6,
    "consecutive": 6,
    "days": [
     0,
-    3,
+    5,
     4,
-    4,
-    4,
+    5,
     2,
-    7
+    3,
+    5
    ],
    "latest": [
     "一部地域で“断水”が発生…愛知で最大震度5強を観測した地震 避難時に転倒し骨折するなど少なくとも16人がケガ",
@@ -1637,93 +1250,642 @@
    "alerted_at": "2026-10-22T00:59:41.108663+09:00"
   },
   {
-   "kw": "動物",
+   "kw": "退席",
    "level": "high",
-   "d24": 4,
-   "baseline": 1.7,
-   "ratio": 2.4,
-   "consecutive": 4,
+   "d24": 3,
+   "baseline": 1.8,
+   "ratio": 1.6,
+   "consecutive": 1,
    "days": [
-    2,
     0,
-    1,
+    0,
+    0,
     0,
     3,
-    4,
-    4
+    8,
+    3
    ],
    "latest": [
-    "「ハロウィンカーニバル」で動物たちにご馳走をプレゼント | TBS NEWS DIG",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MThkQnNLNzVBOVFETEh2N2ZYWG1za2RPREZvcHJBQkdZbDlXNWtxanlWNG9tMHQ3OG5oVlU1M1g4ZEt0ZlpURlNmVnBkOWNuZG9SWTdyMUVpZnBV?oc=5"
+    "自民党 消費減税法案“棄権”の4議員に処分検討 9日正午までに退席理由の説明を",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE85WkJIeVZBNURyeElEVURscEp0bG9qSHVsWFFXYTJEYS1udkxwNE81bXlvUzFOb1NaV28yV3pscG80RDdqZjNZZGxXYmZPRU9fTzBJV3lHdFV5N1VsOW9GVXhoSEhVZ3VIY1hTS1VrNnRsQm8?oc=5"
    ],
    "samples": [
     {
-     "title": "「ハロウィンカーニバル」で動物たちにご馳走をプレゼント | TBS NEWS DIG",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MThkQnNLNzVBOVFETEh2N2ZYWG1za2RPREZvcHJBQkdZbDlXNWtxanlWNG9tMHQ3OG5oVlU1M1g4ZEt0ZlpURlNmVnBkOWNuZG9SWTdyMUVpZnBV?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-08T02:17:27+09:00"
-    },
-    {
-     "title": "中国から新たに貸与 ジャイアントパンダ2頭を初公開 米アトランタ動物園",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOVHc1Um5ybi1nQzRCQWY1RDhjRUtxVFJrSDZydFRTY1Mwc1VfZDRoSXlLdHdGaHdzREQ0bnI3cmNTeUtLU0xDZFhTZGpIZU81TXRXcVVJSQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-07T18:56:22+09:00"
-    },
-    {
-     "title": "中国から新たに貸与 ジャイアントパンダ2頭を初公開 米アトランタ動物園（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0UU5HbFF2UmJrT0dodC1OdFpCbEhXMklTeV80dndEMU8yNHhYQy1EcVI1b1lUWUJZYXE2bnJnNTJxRDBkMTIxc2NGRk1ScFVhUGxnZVh4OXczOXdmQzJfRUdqcGFIUmZfRkZYaGhLc3ZYNjZyOXhMR0xEQjhGUDg?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T18:52:47+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-20T19:17:55.872347+09:00"
-  },
-  {
-   "kw": "北茨城",
-   "level": "high",
-   "d24": 2,
-   "baseline": 0.8,
-   "ratio": 2.4,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    2
-   ],
-   "latest": [
-    "【速報】茨城県北茨城市の海岸で小型漁船が座礁 海に転落した乗組員2人の死亡確認 船長は会話可能 茨城海上保安部",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDhoQU5vdEU4RXNhaGdVOXVlSWZTd3ZuSW9OTk5pSVJkNlFoLXR2OWRuXzBUTko2eFFiSC1YSDZkX0ZqVXNrcURGQmxxd1ZQYzMzdS1LUmZrTGZnREtWOTJrdzFEY2luU3hHQUc5bXUtazU3cVREZWltTGpEUzZyVE9XQWNMRTROZmZUaXhR?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "【速報】茨城県北茨城市の海岸で小型漁船が座礁 海に転落した乗組員2人の死亡確認 船長は会話可能 茨城海上保安部",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDhoQU5vdEU4RXNhaGdVOXVlSWZTd3ZuSW9OTk5pSVJkNlFoLXR2OWRuXzBUTko2eFFiSC1YSDZkX0ZqVXNrcURGQmxxd1ZQYzMzdS1LUmZrTGZnREtWOTJrdzFEY2luU3hHQUc5bXUtazU3cVREZWltTGpEUzZyVE9XQWNMRTROZmZUaXhR?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-07T18:05:33+09:00"
-    },
-    {
-     "title": "海岸で小型漁船が座礁 船長の息子と娘が海に落ち意識不明 3人は救命胴衣を着用せず 北茨城市",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84Yk9QNG9xaXNtTnF1MHFsZmlicC1LZVk1MUtiQ0RvTmFlYXBXM1EwM0dkTi0ySGIxb3NXZFNGUldWWVdQRFZRTHpwRnhhUUM4RlRidktWQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-07T17:59:37+09:00"
-    },
-    {
-     "title": "【速報】北茨城市の海岸で小型漁船が座礁 乗組員2人が心肺停止",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40RWhwNjVuVEQxMEdTM2tfTnFBTG9MQTNnYXpHQ1hkWS1Hc2Vyem5GaFo1QmtCVVVyN2tWdTY3Q0l5OEpnZjRnbWxILTF5OTVlWU1YeEpoeDNJQ2JhcWZHNGhhM21iM3JCcXJyTEhxNzJBUQ?oc=5",
+     "title": "自民党 消費減税法案“棄権”の4議員に処分検討 9日正午までに退席理由の説明を",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85WkJIeVZBNURyeElEVURscEp0bG9qSHVsWFFXYTJEYS1udkxwNE81bXlvUzFOb1NaV28yV3pscG80RDdqZjNZZGxXYmZPRU9fTzBJV3lHdFV5N1VsOW9GVXhoSEhVZ3VIY1hTS1VrNnRsQm8?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-11-07T12:28:43+09:00"
+     "published": "2026-11-08T14:45:13+09:00"
+    },
+    {
+     "title": "小林政調会長「党議拘束重い」 消費減税法案の採決前退席巡り（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12X2dqZGIxSTNkNkVjYUtiSlBkX2NmalRpNk5HZUR5c3hxeUVNYXJUcXBGX2RDZVctS3c0TEdQZnRCMnl4WmR3U01kcGZYdmFnajdQWnlXRmc0RktpVmFBbkQ4RjZQaEw1cGRBMDJZRnVaVkdFSDZQY0oyWHJUYWs?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:42:01+09:00"
+    },
+    {
+     "title": "“消費税減税”法案が衆議院通過 問われる「2年後」と「支援金」自民党から異例の4人退席 議論は野党が多数占める参議院へ【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRUxDdkpaNC16N04xNEpkdU1kWmFkVHpFQ21TcTZFSTk1MFNJazcxbGRIVHctLW1zd1VrcERCb2hoeUNtXzFNbWUtWWgtSDlDNndWTVp2TmxKR0VsaEgwQ0o5X1RBZTlsRV9EYnBsdlVtWDg3MkZNS3JWUk5Gcm8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T13:53:13+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-11-07T22:25:09.433353+09:00"
+  },
+  {
+   "kw": "容疑",
+   "level": "high",
+   "d24": 7,
+   "baseline": 5.0,
+   "ratio": 1.4,
+   "consecutive": 6,
+   "days": [
+    10,
+    4,
+    3,
+    2,
+    3,
+    8,
+    7
+   ],
+   "latest": [
+    "【無銭入浴】カネもないのに温浴施設で一晩過ごし”温泉グルメ三昧”…代金6770円踏み倒す…58歳男を詐欺容疑で逮捕…逮捕時の所持金はわずか「数十円」＜北海道岩見沢市",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oNVVVaXVHOElhN1RIelNYRjM0NTRSSGZmZk1rLVNyQkxWdHpmbUR6NDQ1ZGtVclhIRjBBUGtKOGZ4SGlDY2laYXg5ejdadw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【無銭入浴】カネもないのに温浴施設で一晩過ごし”温泉グルメ三昧”…代金6770円踏み倒す…58歳男を詐欺容疑で逮捕…逮捕時の所持金はわずか「数十円」＜北海道岩見沢市",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oNVVVaXVHOElhN1RIelNYRjM0NTRSSGZmZk1rLVNyQkxWdHpmbUR6NDQ1ZGtVclhIRjBBUGtKOGZ4SGlDY2laYXg5ejdadw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T13:10:00+09:00"
+    },
+    {
+     "title": "山林で女性遺体 監禁疑いで逮捕の容疑者と交際の女性か",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
+     "source": "NHK 主要",
+     "published": "2026-11-08T12:14:00+09:00"
+    },
+    {
+     "title": "女性「関係絶ちたい」と警察に相談 監禁容疑で男を逮捕 男の供述から福井の山林で女性とみられる遺体発見",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOW1fcWR4d0pwUHpSUmZkYm10eVEwNDA1OGZvbnBkNzZ4Q2pvaGU4TWtDbUV3bjE4Mk1BOU52NDJaY3FDR2had0paaTExbTFPa3h5SmdhLTNPV195bm4wREZHS3c0cDJBakRGemlGT2NmRmVQN1FmR0FfVjBONGs?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T11:58:20+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
+  },
+  {
+   "kw": "by",
+   "level": "high",
+   "d24": 32,
+   "baseline": 25.3,
+   "ratio": 1.3,
+   "consecutive": 137,
+   "days": [
+    14,
+    12,
+    22,
+    32,
+    46,
+    26,
+    32
+   ],
+   "latest": [
+    "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:22:14+09:00"
+    },
+    {
+     "title": "VIVANT【ドラム】ドラマ最終回を前に『フィルザ役ギュルナル・ユヌソワ』とのオフショット公開 「仲良しコンビ」「特別な思い出のひとつ」（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CbllNUzFlWktTUnZxTm9aV2dHLXRNa1FudDRBdmxvRWhXUUszazYwZWJ1cG43TmRxR2pkVjFjRVpJbE55UHdLV1JVakR4UVBzNUhyS2FYRDF2X3ZOcVNtWnFWeklSdWhIM24yTFRKVHptcFRoOFVBRncyVkxRMjQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:04:13+09:00"
+    },
+    {
+     "title": "“消費税減税”法案が衆議院通過 問われる「2年後」と「支援金」自民党から異例の4人退席 議論は野党が多数占める参議院へ【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRUxDdkpaNC16N04xNEpkdU1kWmFkVHpFQ21TcTZFSTk1MFNJazcxbGRIVHctLW1zd1VrcERCb2hoeUNtXzFNbWUtWWgtSDlDNndWTVp2TmxKR0VsaEgwQ0o5X1RBZTlsRV9EYnBsdlVtWDg3MkZNS3JWUk5Gcm8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T13:53:13+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "(TBS",
+   "level": "high",
+   "d24": 20,
+   "baseline": 15.8,
+   "ratio": 1.3,
+   "consecutive": 31,
+   "days": [
+    11,
+    8,
+    14,
+    21,
+    25,
+    16,
+    20
+   ],
+   "latest": [
+    "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:22:14+09:00"
+    },
+    {
+     "title": "VIVANT【ドラム】ドラマ最終回を前に『フィルザ役ギュルナル・ユヌソワ』とのオフショット公開 「仲良しコンビ」「特別な思い出のひとつ」（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CbllNUzFlWktTUnZxTm9aV2dHLXRNa1FudDRBdmxvRWhXUUszazYwZWJ1cG43TmRxR2pkVjFjRVpJbE55UHdLV1JVakR4UVBzNUhyS2FYRDF2X3ZOcVNtWnFWeklSdWhIM24yTFRKVHptcFRoOFVBRncyVkxRMjQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:04:13+09:00"
+    },
+    {
+     "title": "“消費税減税”法案が衆議院通過 問われる「2年後」と「支援金」自民党から異例の4人退席 議論は野党が多数占める参議院へ【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRUxDdkpaNC16N04xNEpkdU1kWmFkVHpFQ21TcTZFSTk1MFNJazcxbGRIVHctLW1zd1VrcERCb2hoeUNtXzFNbWUtWWgtSDlDNndWTVp2TmxKR0VsaEgwQ0o5X1RBZTlsRV9EYnBsdlVtWDg3MkZNS3JWUk5Gcm8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T13:53:13+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
+  },
+  {
+   "kw": "Powered",
+   "level": "high",
+   "d24": 31,
+   "baseline": 25.3,
+   "ratio": 1.2,
+   "consecutive": 137,
+   "days": [
+    14,
+    12,
+    22,
+    32,
+    46,
+    26,
+    31
+   ],
+   "latest": [
+    "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:22:14+09:00"
+    },
+    {
+     "title": "VIVANT【ドラム】ドラマ最終回を前に『フィルザ役ギュルナル・ユヌソワ』とのオフショット公開 「仲良しコンビ」「特別な思い出のひとつ」（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CbllNUzFlWktTUnZxTm9aV2dHLXRNa1FudDRBdmxvRWhXUUszazYwZWJ1cG43TmRxR2pkVjFjRVpJbE55UHdLV1JVakR4UVBzNUhyS2FYRDF2X3ZOcVNtWnFWeklSdWhIM24yTFRKVHptcFRoOFVBRncyVkxRMjQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:04:13+09:00"
+    },
+    {
+     "title": "“消費税減税”法案が衆議院通過 問われる「2年後」と「支援金」自民党から異例の4人退席 議論は野党が多数占める参議院へ【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRUxDdkpaNC16N04xNEpkdU1kWmFkVHpFQ21TcTZFSTk1MFNJazcxbGRIVHctLW1zd1VrcERCb2hoeUNtXzFNbWUtWWgtSDlDNndWTVp2TmxKR0VsaEgwQ0o5X1RBZTlsRV9EYnBsdlVtWDg3MkZNS3JWUk5Gcm8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T13:53:13+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "JNN)",
+   "level": "high",
+   "d24": 31,
+   "baseline": 25.2,
+   "ratio": 1.2,
+   "consecutive": 137,
+   "days": [
+    14,
+    11,
+    22,
+    32,
+    46,
+    26,
+    31
+   ],
+   "latest": [
+    "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:22:14+09:00"
+    },
+    {
+     "title": "VIVANT【ドラム】ドラマ最終回を前に『フィルザ役ギュルナル・ユヌソワ』とのオフショット公開 「仲良しコンビ」「特別な思い出のひとつ」（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CbllNUzFlWktTUnZxTm9aV2dHLXRNa1FudDRBdmxvRWhXUUszazYwZWJ1cG43TmRxR2pkVjFjRVpJbE55UHdLV1JVakR4UVBzNUhyS2FYRDF2X3ZOcVNtWnFWeklSdWhIM24yTFRKVHptcFRoOFVBRncyVkxRMjQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T14:04:13+09:00"
+    },
+    {
+     "title": "“消費税減税”法案が衆議院通過 問われる「2年後」と「支援金」自民党から異例の4人退席 議論は野党が多数占める参議院へ【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRUxDdkpaNC16N04xNEpkdU1kWmFkVHpFQ21TcTZFSTk1MFNJazcxbGRIVHctLW1zd1VrcERCb2hoeUNtXzFNbWUtWWgtSDlDNndWTVp2TmxKR0VsaEgwQ0o5X1RBZTlsRV9EYnBsdlVtWDg3MkZNS3JWUk5Gcm8?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T13:53:13+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "追加",
+   "level": "high",
+   "d24": 4,
+   "baseline": 3.7,
+   "ratio": 1.1,
+   "consecutive": 2,
+   "days": [
+    1,
+    6,
+    0,
+    2,
+    6,
+    7,
+    4
+   ],
+   "latest": [
+    "12月追加利上げの公算＝雇用急増で物価安定を優先―米FRB(時事通信)",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWThwNlNXbDc5Zjk0RTF3WUp5UkotcnlPTHJrY0VPS2FWdXBwaFZFNnA0VnZUQ3JxN2lpSm5HaWd4dnhzTktMdjI2YmN1REdZdWR5ZEk5emdpQW5iZEJ6Zm5QLTJJOGJwTXJ0RlFUX1lPYUJacFM2RnBRSWREVHhydEVaNzQ2NTQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "12月追加利上げの公算＝雇用急増で物価安定を優先―米FRB(時事通信)",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWThwNlNXbDc5Zjk0RTF3WUp5UkotcnlPTHJrY0VPS2FWdXBwaFZFNnA0VnZUQ3JxN2lpSm5HaWd4dnhzTktMdjI2YmN1REdZdWR5ZEk5emdpQW5iZEJ6Zm5QLTJJOGJwTXJ0RlFUX1lPYUJacFM2RnBRSWREVHhydEVaNzQ2NTQ?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "published": "2026-11-08T07:00:18+09:00"
+    },
+    {
+     "title": "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T06:26:00+09:00"
+    },
+    {
+     "title": "JT現地法人3社 追加で管理下に プーチン氏 大統領令に署名（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZVJuYnlQM1BHQkJWX19fYkNjaUJfNmxFTHVGc3g2QUgyWVg5WnBwcDdROGNiX0xEdzhBbWNDenR2ZE9XczFxS1dOQVg3c0RQc09FbFE0QWlwYWRxZmltaW5fMXF4dmo1eEJvVV9nSU81RHFQVk9mb3NnWTU2aXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T01:20:26+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-20T02:20:54.347131+09:00"
+  },
+  {
+   "kw": "プーチン",
+   "level": "high",
+   "d24": 3,
+   "baseline": 2.8,
+   "ratio": 1.1,
+   "consecutive": 1,
+   "days": [
+    0,
+    0,
+    1,
+    2,
+    8,
+    6,
+    3
+   ],
+   "latest": [
+    "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "プーチン氏 大統領令に署名 JT現地法人3社 追加で管理下に",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydkNhZy1uTm9aVG5PRVo2bzI0VzdUSVh0aTgyNHF5U25aTHdtVi03WUNMUnRmcTRpWEpDYzlXUlJlUnNhOUVwUVpRNVdzQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T06:26:00+09:00"
+    },
+    {
+     "title": "JT現地法人3社 追加で管理下に プーチン氏 大統領令に署名（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZVJuYnlQM1BHQkJWX19fYkNjaUJfNmxFTHVGc3g2QUgyWVg5WnBwcDdROGNiX0xEdzhBbWNDenR2ZE9XczFxS1dOQVg3c0RQc09FbFE0QWlwYWRxZmltaW5fMXF4dmo1eEJvVV9nSU81RHFQVk9mb3NnWTU2aXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T01:20:26+09:00"
+    },
+    {
+     "title": "ロシア JT関連3社の資産を暫定管理の対象に追加 プーチン氏が大統領令に署名（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Y3Mxc2NtNy05QUZOaFVDX2ZCVllhZkd4X2ZVQXpnYWN5dE1WQVhjYk16TjA5QW5ONGFMd3EyY05mQXE4SHVmM3J1Smw5dlg5eVpkaG1kRm5KMXJsOUxtZGM5eHp0OExwM1h4RmNVZFdnY05JU2R4Q0dBclc1QTA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-07T23:26:08+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T06:36:27.583048+09:00"
+  },
+  {
+   "kw": "大統領",
+   "level": "high",
+   "d24": 16,
+   "baseline": 17.3,
+   "ratio": 0.9,
+   "consecutive": 24,
+   "days": [
+    4,
+    12,
+    17,
+    22,
+    21,
+    28,
+    16
+   ],
+   "latest": [
+    "トランプ大統領“歴史的”大敗の衝撃 “目の敵”民主党候補が次々当選 有権者の不満「物価高」「戦争」さらに「AI」めぐっても 選挙が突きつけた「NO」とは?【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xWXQ4SVk1dGo3M1RqYWhKb2t3MFBuVWtEanhqY3MwUnlBSlFzb01EN0tvTzZRaFhaNElqWHcwMVVPSGVpYkMzZG13SEMtRkt1ekotcG5HdmJNVWdvSk5TLVpNVUFjaDRSbF9XeExNeTRIbU9oWkk4Z056NVR3SHc?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "トランプ大統領“歴史的”大敗の衝撃 “目の敵”民主党候補が次々当選 有権者の不満「物価高」「戦争」さらに「AI」めぐっても 選挙が突きつけた「NO」とは?【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xWXQ4SVk1dGo3M1RqYWhKb2t3MFBuVWtEanhqY3MwUnlBSlFzb01EN0tvTzZRaFhaNElqWHcwMVVPSGVpYkMzZG13SEMtRkt1ekotcG5HdmJNVWdvSk5TLVpNVUFjaDRSbF9XeExNeTRIbU9oWkk4Z056NVR3SHc?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T13:47:13+09:00"
+    },
+    {
+     "title": "トランプ大統領 総合格闘技団体代表に報道官打診",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72412",
+     "source": "NHK 主要",
+     "published": "2026-11-08T11:03:00+09:00"
+    },
+    {
+     "title": "トランプ大統領が閣僚の一部交代を示唆 中間選挙で共和党大敗（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTGxqXzRVUVA5cGtZdkY3WXltdFBjRUE0XzdQUzB3R28zWXBoU1dMb3ItNlhSWVh1LU94UEs0Qk9MeElLdUxCUXNKMGxFWHRVekpXNXNlaHJCWGFCcWhDYUprQS1CcVNPRVhPenRYWUVFX2F4STkyNTZ4OHVvRlE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T10:46:20+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T16:08:34.892553+09:00"
+  },
+  {
+   "kw": "関連",
+   "level": "high",
+   "d24": 5,
+   "baseline": 6.7,
+   "ratio": 0.8,
+   "consecutive": 6,
+   "days": [
+    9,
+    1,
+    8,
+    9,
+    11,
+    2,
+    5
+   ],
+   "latest": [
+    "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T12:11:07+09:00"
+    },
+    {
+     "title": "震度5強 南海トラフと関連性低い",
+     "url": "https://news.yahoo.co.jp/pickup/6601764?source=rss",
+     "source": "Yahoo 国内",
+     "published": "2026-11-08T11:55:40+09:00"
+    },
+    {
+     "title": "関連ニュース",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TNlNMbjJ1QnJtWXdUOXlzYnI3MFRQclVKVENucTItT2tiVC14MTJFMG1jSE9kYkJrVzBhaDVybEcySVl3N1N5R0FzYk41VG5SR0psUFIxbmFwZw?oc=5",
+     "source": "時事通信ニュース",
+     "published": "2026-11-08T08:12:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "北海道",
+   "level": "high",
+   "d24": 11,
+   "baseline": 17.3,
+   "ratio": 0.6,
+   "consecutive": 10,
+   "days": [
+    8,
+    15,
+    15,
+    17,
+    23,
+    26,
+    11
+   ],
+   "latest": [
+    "【無銭入浴】カネもないのに温浴施設で一晩過ごし”温泉グルメ三昧”…代金6770円踏み倒す…58歳男を詐欺容疑で逮捕…逮捕時の所持金はわずか「数十円」＜北海道岩見沢市",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oNVVVaXVHOElhN1RIelNYRjM0NTRSSGZmZk1rLVNyQkxWdHpmbUR6NDQ1ZGtVclhIRjBBUGtKOGZ4SGlDY2laYXg5ejdadw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【無銭入浴】カネもないのに温浴施設で一晩過ごし”温泉グルメ三昧”…代金6770円踏み倒す…58歳男を詐欺容疑で逮捕…逮捕時の所持金はわずか「数十円」＜北海道岩見沢市",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oNVVVaXVHOElhN1RIelNYRjM0NTRSSGZmZk1rLVNyQkxWdHpmbUR6NDQ1ZGtVclhIRjBBUGtKOGZ4SGlDY2laYXg5ejdadw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-08T13:10:00+09:00"
+    },
+    {
+     "title": "きょう8日 冬型の気圧配置で北海道は雪で吹雪く所がある予想 東北・北陸の雨は次第にやむ見込み 太平洋側は晴れて強い風は次第に弱まる予想（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11dXcxQmFkMl9rZmE2dno2YVZaYkVja1ZfSEtUSDlHV28yU3dFMm5qWDhqY1QtUFEzak1pWi1WN3llR1BVdzItYm1rbFM0OTNNMThhY3dlWDVaT2ljd1BIV040UG5TRU5nVE13VE1Nc0ZCMnBtQmpJd0FoUFFDRVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-08T12:38:06+09:00"
+    },
+    {
+     "title": "立冬に今季一番の寒気 北海道旭川市で初積雪 スリップ事故相次ぐ",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53SDhBWVZSYjg4Zktvb20zdXhXNEVkaFhiS0MyNFVaUkZJQ1BKOGhoSkVISEw1OHdKWWIwbFVaM1p0YjJPVy1VbUx2dVBPc18wbjh1aG1PS3hIaXp1NmFjNkRycWhScDZ5UDIyVGlPMm53UQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-08T09:28:17+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-14T03:31:38.083820+09:00"
   }
  ],
  "events": [
+  {
+   "id": "e1cdbc40ea86930e",
+   "title": "佐賀 鳥栖 ブリヂストンの工場で火事 けが人の情報なし",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72603",
+   "source": "NHK 主要",
+   "published": "2026-11-08T23:09:32+09:00",
+   "keywords": []
+  },
+  {
+   "id": "141f6125f9bf7893",
+   "title": "RIZINで日本勢の王者消滅 6年ぶり",
+   "url": "https://news.yahoo.co.jp/pickup/6601848?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-11-08T22:53:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d6b6ccdc873c6885",
+   "title": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72609",
+   "source": "NHK 主要",
+   "published": "2026-11-08T22:28:07+09:00",
+   "keywords": []
+  },
+  {
+   "id": "519c357f48b65896",
+   "title": "商品に個体差「不揃い」バズる訳",
+   "url": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-11-08T22:24:35+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6e421f9ab0559622",
+   "title": "死産の子に産着無償提供 広がる輪",
+   "url": "https://news.yahoo.co.jp/pickup/6601845?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-11-08T22:16:47+09:00",
+   "keywords": []
+  },
+  {
+   "id": "69aef601fd99a8d6",
+   "title": "欧州右派政党 トランプ氏離れ鮮明",
+   "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-11-08T22:13:17+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b6a6e404d2278ba7",
+   "title": "競馬 フォーエバーヤング ことしかぎりで引退へ",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72599",
+   "source": "NHK 主要",
+   "published": "2026-11-08T21:43:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6d66d429548da7c9",
+   "title": "福井の山林遺体 26歳女性と判明",
+   "url": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-11-08T21:33:34+09:00",
+   "keywords": [
+    "福井"
+   ]
+  },
+  {
+   "id": "a1a239497ba8263e",
+   "title": "「VIVANT」最終回 SNSの反応",
+   "url": "https://news.yahoo.co.jp/pickup/6601836?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-11-08T21:00:49+09:00",
+   "keywords": []
+  },
+  {
+   "id": "994bff35c279758f",
+   "title": "池田勇太 尾崎将司さんに届けたV",
+   "url": "https://news.yahoo.co.jp/pickup/6601838?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-11-08T20:59:32+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d9245e1292912783",
+   "title": "飛行中のパラグライダー墜落 死亡",
+   "url": "https://news.yahoo.co.jp/pickup/6601832?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-11-08T20:40:22+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5b06d9595a8f7dc8",
+   "title": "台風発達 10日に小笠原諸島接近か",
+   "url": "https://news.yahoo.co.jp/pickup/6601829?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-11-08T20:06:47+09:00",
+   "keywords": []
+  },
+  {
+   "id": "5f74626bf26bb8a8",
+   "title": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦点",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72408",
+   "source": "NHK 主要",
+   "published": "2026-11-08T19:37:06+09:00",
+   "keywords": []
+  },
+  {
+   "id": "436dc0a0f03371b8",
+   "title": "9日は冬の寒さ 都心は1月上旬並み",
+   "url": "https://news.yahoo.co.jp/pickup/6601822?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-11-08T18:50:41+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8eedffc0d6726dfb",
+   "title": "緑茶飲料に逆風 麦茶など存在感",
+   "url": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-11-08T18:43:53+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0b318b8475d75fc9",
+   "title": "清貧であるべき? 議員語る違和感",
+   "url": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-11-08T18:25:52+09:00",
+   "keywords": []
+  },
+  {
+   "id": "264b8ef461cf859d",
+   "title": "天皇陛下と愛子さま 全日本ソフトテニス選手権大会観戦",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72529",
+   "source": "NHK 社会",
+   "published": "2026-11-08T17:53:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8ce17b1c6ed0d6f3",
+   "title": "「お砂糖」仮想空間の人間関係は",
+   "url": "https://news.yahoo.co.jp/pickup/6601816?source=rss",
+   "source": "Yahoo IT",
+   "published": "2026-11-08T17:44:59+09:00",
+   "keywords": []
+  },
+  {
+   "id": "bc2b879b641da91f",
+   "title": "MAZDA3セダン 北米で売れる理由",
+   "url": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-11-08T17:32:51+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9998fb7f091a7bb3",
+   "title": "首相 金正恩氏との首脳会談に意欲",
+   "url": "https://news.yahoo.co.jp/pickup/6601806?source=rss",
+   "source": "Yahoo 国内",
+   "published": "2026-11-08T17:02:24+09:00",
+   "keywords": []
+  },
   {
    "id": "b71b3bbbac04bb30",
    "title": "卓球・中国勢が男女とも8強で全滅",
@@ -1979,7 +2141,12 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T14:22:14+09:00",
-   "keywords": []
+   "keywords": [
+    "(TBS",
+    "JNN)",
+    "Powered",
+    "by"
+   ]
   },
   {
    "id": "bc32b2dddcbd6eb1",
@@ -2011,7 +2178,12 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CbllNUzFlWktTUnZxTm9aV2dHLXRNa1FudDRBdmxvRWhXUUszazYwZWJ1cG43TmRxR2pkVjFjRVpJbE55UHdLV1JVakR4UVBzNUhyS2FYRDF2X3ZOcVNtWnFWeklSdWhIM24yTFRKVHptcFRoOFVBRncyVkxRMjQ?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T14:04:13+09:00",
-   "keywords": []
+   "keywords": [
+    "(TBS",
+    "JNN)",
+    "Powered",
+    "by"
+   ]
   },
   {
    "id": "8def0b5ad027d34e",
@@ -2036,6 +2208,10 @@
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T13:53:13+09:00",
    "keywords": [
+    "(TBS",
+    "JNN)",
+    "Powered",
+    "by",
     "退席"
    ]
   },
@@ -2045,7 +2221,13 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xWXQ4SVk1dGo3M1RqYWhKb2t3MFBuVWtEanhqY3MwUnlBSlFzb01EN0tvTzZRaFhaNElqWHcwMVVPSGVpYkMzZG13SEMtRkt1ekotcG5HdmJNVWdvSk5TLVpNVUFjaDRSbF9XeExNeTRIbU9oWkk4Z056NVR3SHc?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T13:47:13+09:00",
-   "keywords": []
+   "keywords": [
+    "(TBS",
+    "JNN)",
+    "Powered",
+    "by",
+    "大統領"
+   ]
   },
   {
    "id": "ad758f8c77da0cff",
@@ -2127,7 +2309,10 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oNVVVaXVHOElhN1RIelNYRjM0NTRSSGZmZk1rLVNyQkxWdHpmbUR6NDQ1ZGtVclhIRjBBUGtKOGZ4SGlDY2laYXg5ejdadw?oc=5",
    "source": "FNNプライムオンライン",
    "published": "2026-11-08T13:10:00+09:00",
-   "keywords": []
+   "keywords": [
+    "北海道",
+    "容疑"
+   ]
   },
   {
    "id": "50820294c3027680",
@@ -2152,6 +2337,9 @@
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T12:55:25+09:00",
    "keywords": [
+    "JNN)",
+    "Powered",
+    "by",
     "結婚"
    ]
   },
@@ -2179,7 +2367,12 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11dXcxQmFkMl9rZmE2dno2YVZaYkVja1ZfSEtUSDlHV28yU3dFMm5qWDhqY1QtUFEzak1pWi1WN3llR1BVdzItYm1rbFM0OTNNMThhY3dlWDVaT2ljd1BIV040UG5TRU5nVE13VE1Nc0ZCMnBtQmpJd0FoUFFDRVE?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T12:38:06+09:00",
-   "keywords": []
+   "keywords": [
+    "JNN)",
+    "Powered",
+    "by",
+    "北海道"
+   ]
   },
   {
    "id": "407b714b32a97b01",
@@ -2289,6 +2482,7 @@
    "source": "NHK 主要",
    "published": "2026-11-08T12:14:00+09:00",
    "keywords": [
+    "容疑",
     "監禁"
    ]
   },
@@ -2311,7 +2505,9 @@
    "published": "2026-11-08T12:11:07+09:00",
    "keywords": [
     "トラフ",
-    "地震"
+    "地震",
+    "気象庁",
+    "関連"
    ]
   },
   {
@@ -2455,9 +2651,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Uy1QX2U5c3p3TFM2VFBmQTVVekxUQW5oWk1NSy16Zkw4WGZ5U0J1RWhiTFVLbHZFZFl2ejYyaS0tVlM4dXhoZUxjbi1Wdw?oc=5",
    "source": "FNNプライムオンライン",
    "published": "2026-11-08T12:00:00+09:00",
-   "keywords": [
-    "田村"
-   ]
+   "keywords": []
   },
   {
    "id": "97848950e5067f70",
@@ -2478,6 +2672,7 @@
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T11:58:20+09:00",
    "keywords": [
+    "容疑",
     "監禁",
     "福井"
    ]
@@ -2490,6 +2685,7 @@
    "published": "2026-11-08T11:55:40+09:00",
    "keywords": [
     "トラフ",
+    "関連",
     "震度"
    ]
   },
@@ -2531,7 +2727,9 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXLU1TOTY0S0NGLU1fekVuSzFvYmw3QkFIRkxfTEZHXzJJRUlNVkpOZXh3cEphWndfZTRIdmFBVFdPSUNsVlRBM0V4eHZTVUhmOEI5bGctdmljcDUzb0pidHMzaWM?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-11-08T11:44:00+09:00",
-   "keywords": []
+   "keywords": [
+    "気象庁"
+   ]
   },
   {
    "id": "0b7e8841e01a1d03",
@@ -2567,6 +2765,9 @@
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T11:25:26+09:00",
    "keywords": [
+    "JNN)",
+    "Powered",
+    "by",
     "地震",
     "最大震度",
     "震度"
@@ -2589,6 +2790,10 @@
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T11:19:13+09:00",
    "keywords": [
+    "(TBS",
+    "JNN)",
+    "Powered",
+    "by",
     "結婚"
    ]
   },
@@ -2611,6 +2816,7 @@
    "keywords": [
     "トラフ",
     "愛知",
+    "気象庁",
     "震度"
    ]
   },
@@ -2623,6 +2829,7 @@
    "keywords": [
     "トラフ",
     "愛知",
+    "気象庁",
     "震度"
    ]
   },
@@ -2632,7 +2839,9 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04M3JBNjZzOVd3QURud0R2VG54Vm1SOVdsTHBfbm9jTkd4a21HT2xkb2pWMmxmdDFYZEhrSkYzaC1uVWpEN3lRUXdQc2lseHV0Qnc?oc=5",
    "source": "emmary.jp",
    "published": "2026-11-08T11:11:15+09:00",
-   "keywords": []
+   "keywords": [
+    "by"
+   ]
   },
   {
    "id": "0799a1a002a17ed2",
@@ -2675,6 +2884,7 @@
    "source": "NHK 主要",
    "published": "2026-11-08T11:03:00+09:00",
    "keywords": [
+    "大統領",
     "打診",
     "格闘技"
    ]
@@ -2748,6 +2958,7 @@
    "source": "沖縄タイムス社",
    "published": "2026-11-08T10:57:00+09:00",
    "keywords": [
+    "気象庁",
     "震源"
    ]
   },
@@ -2770,6 +2981,10 @@
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T10:56:14+09:00",
    "keywords": [
+    "(TBS",
+    "JNN)",
+    "Powered",
+    "by",
     "地震",
     "最大震度",
     "震度"
@@ -2782,6 +2997,9 @@
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T10:56:14+09:00",
    "keywords": [
+    "JNN)",
+    "Powered",
+    "by",
     "地震",
     "最大震度",
     "震度"
@@ -2819,7 +3037,9 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTGxqXzRVUVA5cGtZdkY3WXltdFBjRUE0XzdQUzB3R28zWXBoU1dMb3ItNlhSWVh1LU94UEs0Qk9MeElLdUxCUXNKMGxFWHRVekpXNXNlaHJCWGFCcWhDYUprQS1CcVNPRVhPenRYWUVFX2F4STkyNTZ4OHVvRlE?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-11-08T10:46:20+09:00",
-   "keywords": []
+   "keywords": [
+    "大統領"
+   ]
   },
   {
    "id": "6feba335081e3418",
@@ -2838,7 +3058,9 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5anRYbkpWQ25leG9iNDIwMHFDaThhekFJaGpfai1WQk8taU1tWkprYWdKQUJWcTFUX2ZrUXpIbW04Mm5PbjN4WmhTZHRUQQ?oc=5",
    "source": "FNNプライムオンライン",
    "published": "2026-11-08T10:37:00+09:00",
-   "keywords": []
+   "keywords": [
+    "大統領"
+   ]
   },
   {
    "id": "e5ae603d6c9ce87a",
@@ -2900,214 +3122,6 @@
    "source": "TBS NEWS DIG",
    "published": "2026-11-08T10:11:00+09:00",
    "keywords": []
-  },
-  {
-   "id": "44c5b8d569d00ba3",
-   "title": "ジョギング中の５０代男性がクマに襲われ手足にけが クマはそのまま立ち去る 現場近くには小中学校も 山口県周南市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCaDV0SHZ5SlZHU3FlUFFoSjVQX2tHZThOUmtPempvVXNHTHZGU2UxNXFWVmRKenRQbERBQUFsd0pvSXZFbTBvcDN4Z1BtQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-08T10:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ba8d70757a3f4d1f",
-   "title": "内房線が約1カ月半ぶりに全線で再開 台風25号の影響で運転見合わせ JR東日本",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QSGx4a1QtTkd6dnlqRm1STjVyNmgzU29ubHoxM19Cc3JiOW14NWVGeGRpU09pQlVqMllwbl9GUFNqT0wtNzFEMk1aR1VLVDBmakJHNmVrM3dGdTBzblIzZW1jV04yeGhrTWFSVE41UlZCdw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-08T10:07:00+09:00",
-   "keywords": [
-    "全線",
-    "内房線",
-    "運転見合わせ"
-   ]
-  },
-  {
-   "id": "c36500da4edfb881",
-   "title": "ガザで豪雨 テント7万張が浸水と当局発表 避難民の生活さらに厳しく（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWHBxMmFzbmpBWUJ0Nm5tbmhvZlJXMU5MQjhUSFNVb0VZX0NySlYtclg3RWdzZmx2MVFPN2Y4SmlnaExyY3NOQ1o1OE9NSXFlSXk1dHdiSmZkVmFXTlhNWXVOeTBUTlhOcVBkQ0ExOXNlT0NwWXZja3BYbzZ6dlE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-08T09:55:30+09:00",
-   "keywords": [
-    "避難"
-   ]
-  },
-  {
-   "id": "9885428cf9c4ba44",
-   "title": "ガザで豪雨 テント7万張が浸水と当局発表 避難民の生活さらに厳しく (FNNプライムオンライン（フジテレビ系）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUJFTGZUX3VnaEVyUWE2cmR3WXA5Z1Z0NjNaQ3BFQTI1Ym53aWhMWV9YVmU0R3lGWUMzOVhNdmZPSzJDT0FWSFVCal9qSXduUEtISVJtU1p5SmVtLWZmeEYwaHJLR3RWa2ZrNEV0dHNxazZaamFQMGpTVWE2QWxFQk5ROHViVGMzY0xuYWtB?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-08T09:55:30+09:00",
-   "keywords": [
-    "避難"
-   ]
-  },
-  {
-   "id": "ee1d989c0adf15f4",
-   "title": "イスラエル 第2党アイゼンコット氏に組閣要請へ",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72392",
-   "source": "NHK 主要",
-   "published": "2026-11-08T09:50:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "77e8a1b8baf14649",
-   "title": "愛知県で震度5強 22人ケガ 車販売店でガラス割れる被害",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vbTA1T25rOWRfcXdWOUY3WGNCOFROOHFmVC1GUXlYcTBhNlRyLXNOa0J1R1VEREVTal9CUVcxUFB4cG1xYnVIZ3YwZTZMZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-08T09:49:04+09:00",
-   "keywords": [
-    "愛知",
-    "震度"
-   ]
-  },
-  {
-   "id": "35d001bbf2151e5f",
-   "title": "４週連続プレゼント！ドラえもん２０２７年カレンダーを今年も毎週１００名さまにプレゼントするよ！ ｜ドラドラニュース｜ドラえもん",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1akpROGJreVZUZmxZQ3hDZFB3R0JjRDdjX01oNV9KcUxuMDlpSkRtWDIzRFAyQ19UcVFzNW9IY3hrc083anEzVG0wc29sTkdrOWtwNUJ5ZU5IUQ?oc=5",
-   "source": "テレビ朝日",
-   "published": "2026-11-08T09:33:44+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ebd0b35aa8003d45",
-   "title": "「なりすまし電話」巧妙化 対策は",
-   "url": "https://news.yahoo.co.jp/pickup/6601743?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-11-08T09:33:18+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5934edc728cc4f11",
-   "title": "京成32年ぶり運賃値上げへ 普通運賃14.3％、通勤16.9％ 通学は値下げ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WckZESklOOE02cDg5d3ZQZ2pGaFJTVzA1WGRVZi14VGl2YkZrRTg2UGU0MmxfMVZYUVZLXzROcjltOTZncTNFWi02a2I5cGtXbkFBNGJnRFhVT3FzNHhlODU3VHJSLVhvaG9aZUFvZFZlQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-08T09:32:12+09:00",
-   "keywords": []
-  },
-  {
-   "id": "469166ea0cade11d",
-   "title": "台風被害のJR内房線 きょう昼ごろ全線再開へ 夕方まで一部列車に運休も",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JWVAxclVNNlhTNXdTLUlDa0NXdlBaUHlJNkNsVEJkRTBlUHFlZkZham5UOXhxMzYxNEdxSmp3aC1JU2p1ZkpLY3J2anpmemVITkc0eExEdi0tbDdmZmxDdndXZVFiMC1fUnIteDNLSWF1UQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-08T09:30:15+09:00",
-   "keywords": [
-    "全線",
-    "内房線"
-   ]
-  },
-  {
-   "id": "b343c0ae11c28ddc",
-   "title": "台風被害のJR内房線　きょう昼ごろ全線再開へ　夕方まで一部列車に運休も",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3poNGJEWVB1c0ZEVUZGcGpNZlJiOExJZFZPc1ZEYUNCYzBreFZxWnJVbzJBTzRQaDJUd01KTXdXTXctS3FyRWRydXBZa1drX2xlU0lFQm1xV080eVhrZEFTT3FiVC1tbEI2ZUVYdUZXWXZJc1Y5ODhFNzBmbloxZFZWcnIwUW_SAYwBQVVfeXFMTVV1Nkpsc0tic2RZeDN6NkdNeWxWUUJRVy1RVVdDZTRnUTQ1MWJNd0R6UjNVRGY1Z1BTblU1d01XaUdzZjJNVXBhMWJ4TXdxNjAyTFFGa0FWelZWbm1BT0Q0VG4wdTFPbllQRThDbllmQ3RSMXhLQmJtblA2cFRjMG5HaHhVSTRJbXVmSUE?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-11-08T09:30:00+09:00",
-   "keywords": [
-    "全線",
-    "内房線"
-   ]
-  },
-  {
-   "id": "cb094145c3e3dfff",
-   "title": "立冬に今季一番の寒気 北海道旭川市で初積雪 スリップ事故相次ぐ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53SDhBWVZSYjg4Zktvb20zdXhXNEVkaFhiS0MyNFVaUkZJQ1BKOGhoSkVISEw1OHdKWWIwbFVaM1p0YjJPVy1VbUx2dVBPc18wbjh1aG1PS3hIaXp1NmFjNkRycWhScDZ5UDIyVGlPMm53UQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-08T09:28:17+09:00",
-   "keywords": [
-    "立冬"
-   ]
-  },
-  {
-   "id": "b8ebf209fb41b5b9",
-   "title": "東北新幹線 全線で運転再開",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72358",
-   "source": "NHK 社会",
-   "published": "2026-11-08T09:27:08+09:00",
-   "keywords": [
-    "全線",
-    "東北新幹線",
-    "運転再開"
-   ]
-  },
-  {
-   "id": "433ec08fd8b5a4a5",
-   "title": "中山律子さん死去 桑田佳祐が追悼",
-   "url": "https://news.yahoo.co.jp/pickup/6601745?source=rss",
-   "source": "Yahoo 主要",
-   "published": "2026-11-08T09:24:56+09:00",
-   "keywords": []
-  },
-  {
-   "id": "146a776d84fd60da",
-   "title": "東京・調布 VIVANTファンで盛況",
-   "url": "https://news.yahoo.co.jp/pickup/6601742?source=rss",
-   "source": "Yahoo 経済",
-   "published": "2026-11-08T09:20:26+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0866450629f820b8",
-   "title": "東北新幹線運転再開 ダイヤは乱れ",
-   "url": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
-   "source": "Yahoo 経済",
-   "published": "2026-11-08T09:14:58+09:00",
-   "keywords": [
-    "東北新幹線"
-   ]
-  },
-  {
-   "id": "a3aabe0c60243e64",
-   "title": "東北新幹線 全線で運転再開 架線につるのような植物が垂れ下がっていた影響で東京～盛岡間で一時運転見合わせ",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGc3RwalZ2NjlnZHNRMkJPaXpiRE0tRkxzUXZsMjNySFNzLWt2NVF6YmJueDA3QXJsbG1NQ202bTdHcVZFMm0xbEltZGdGcmdVQ0tUaHRLRk51VDRBZjJRcEJsaEpNSy1KZ3J0c05MWmVJaTVRaWZwcV9rMU9IXzg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-08T09:12:42+09:00",
-   "keywords": [
-    "全線",
-    "東北新幹線",
-    "架線",
-    "盛岡",
-    "運転再開",
-    "運転見合わせ"
-   ]
-  },
-  {
-   "id": "92ddbb590433afb8",
-   "title": "東北新幹線が全線で運転再開 架線の支障物で一時運転見合わせ JR東日本",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NR2NvVnZkY0xhbEhWWFUyeFVsLUY1QVRzbXRzWFJWVlRMZS1FSWJFN0pOeE1BY001cHZWZVZrN2k0QzRCYmZFdUdRdmdlenJ2VWR6X3p2UkxqQUVEemc0ZzE3X1h0ZjRXZjM2SXBPaTlHdw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-08T09:10:40+09:00",
-   "keywords": [
-    "全線",
-    "東北新幹線",
-    "架線",
-    "運転再開",
-    "運転見合わせ"
-   ]
-  },
-  {
-   "id": "42089fd1ac89ae05",
-   "title": "東北新幹線、東京―盛岡間の運転再開",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41cHlwaTU2NGVQOFdaT3l5SjE0UEpmNGdPNV8wMGpzSF9XdEd3RkI4a25xa1VBVDdWOVpCOERYb1lHcDJnTzZiaklSWFhPaVQwb2lMMkc0REl4NEtFaXc?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-11-08T09:10:25+09:00",
-   "keywords": [
-    "東北新幹線",
-    "盛岡",
-    "運転再開"
-   ]
-  },
-  {
-   "id": "12ca53a7e3372f5a",
-   "title": "東北新幹線が全線で運転再開　架線の支障物で一時運転見合わせ　JR東日本",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1ZQRXNnX202TkxJak54aFgySEVfWHRsZU9JeDZXTFgtU0NzWThGYk5FcHoydnEzR1RZVFM0RmlDb2xvU0QwaFg0UFRvYWlDQThHalpobHVUNXRyZTQzX0VEaFg5d2d3N09iMjVSWjZYa0gweDgyNDZfOVBfU1IxTmd3b1UwWUXSAYwBQVVfeXFMTng3Y1FDYzVUcXgyODBWTklSRUZCQ3JHcmZBTzZjTXFHSGdJMnA1WTJUMHRUMTdHaC1yRnNiSFlXZ29XR21JZ2pFUGg4MWFzMW5SeVR6bHZCbXU4U3lUTmFmdmpZSmpZUWctVUNQY2FsakFsTGhQNlRPVW1kaEdDWmhUaTFxVFV5bkRwcGQ?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-11-08T09:10:00+09:00",
-   "keywords": [
-    "全線",
-    "東北新幹線",
-    "架線",
-    "運転再開",
-    "運転見合わせ"
-   ]
   }
  ]
 }
