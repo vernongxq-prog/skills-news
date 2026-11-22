@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-23T01:54:29.241672+09:00",
- "new_events": 170,
+ "generated": "2026-11-23T07:18:35.171369+09:00",
+ "new_events": 145,
  "keywords": [
   {
    "kw": "ゴルフ",
    "level": "high",
    "d24": 8,
-   "baseline": 0.3,
+   "baseline": 0.5,
    "ratio": 16.0,
-   "consecutive": 5,
+   "consecutive": 6,
    "days": [
     0,
     0,
     0,
     0,
     0,
-    2,
+    3,
     8
    ],
    "latest": [
@@ -44,92 +44,6 @@
    ],
    "watch": false,
    "alerted_at": "2026-10-26T07:04:33.443084+09:00"
-  },
-  {
-   "kw": "優勝",
-   "level": "high",
-   "d24": 15,
-   "baseline": 1.0,
-   "ratio": 15.0,
-   "consecutive": 5,
-   "days": [
-    0,
-    1,
-    1,
-    0,
-    0,
-    4,
-    15
-   ],
-   "latest": [
-    "マルク・マルケスが総合優勝　オートバイのモトGP",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzkzRUpaRS1IWDRZajBjZ09MVnNsem9ENWwwVTZJek5icU5ZbHY1WmM4LUdUdmwtZ05NVnJFS0xOWGlCWGJ1TktZY2dMQU1CdVdoMEdsLWNZcG0tQUh5S0xhWlFHNUsxb05Sa3JOZWNZUFJ2WXNqREM2SEU2R3p5Q2F3ZVBzakFTWi1V0gGQAUFVX3lxTE82cmFRU3hvNTY5dDFfZFFXaVl4eXdhRnR6QVNoUmlwbGxLMDVBWVBOT1pjaTN1WV9GTTlYaDFYbmNnWW1zYzgwenA3OC1EdmJsWkN3T0FBWEx4b0p6WVVlSlFHM1N1djR0MVNfUnljcmVKbEhma1J2TEFuek1VLVpLeVpUMHA4TXFZVzhBeUR0UA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "マルク・マルケスが総合優勝　オートバイのモトGP",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzkzRUpaRS1IWDRZajBjZ09MVnNsem9ENWwwVTZJek5icU5ZbHY1WmM4LUdUdmwtZ05NVnJFS0xOWGlCWGJ1TktZY2dMQU1CdVdoMEdsLWNZcG0tQUh5S0xhWlFHNUsxb05Sa3JOZWNZUFJ2WXNqREM2SEU2R3p5Q2F3ZVBzakFTWi1V0gGQAUFVX3lxTE82cmFRU3hvNTY5dDFfZFFXaVl4eXdhRnR6QVNoUmlwbGxLMDVBWVBOT1pjaTN1WV9GTTlYaDFYbmNnWW1zYzgwenA3OC1EdmJsWkN3T0FBWEx4b0p6WVVlSlFHM1N1djR0MVNfUnljcmVKbEhma1J2TEFuek1VLVpLeVpUMHA4TXFZVzhBeUR0UA?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-11-23T00:27:13+09:00"
-    },
-    {
-     "title": "大の里が２場所連続優勝",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51dnlua29zWHVWWlIxWTBxQUlHZUxWcU1PSk95V0Y3Y3AyUmpTSHloYkVxWnRPS3ZpSEJaUmlnTWVzYUVyWVFYajl1akFka19DclVv?oc=5",
-     "source": "豊田経済新聞",
-     "published": "2026-11-22T22:12:54+09:00"
-    },
-    {
-     "title": "パナソニック、８年ぶり優勝",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVXVYa3lKeXc2VHBsRzkwc0VwdktUQ2hHOG5KbkdnXzJ0MHQ3QV9ybTVCYllka0I2cjRxUk8ya3NCbm93QW41VFN0MFNENFZpZXc?oc=5",
-     "source": "福井経済新聞",
-     "published": "2026-11-22T21:02:07+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-25T08:46:16.036075+09:00"
-  },
-  {
-   "kw": "COP",
-   "level": "high",
-   "d24": 14,
-   "baseline": 1.0,
-   "ratio": 14.0,
-   "consecutive": 3,
-   "days": [
-    2,
-    0,
-    2,
-    0,
-    1,
-    1,
-    14
-   ],
-   "latest": [
-    "COP31が閉幕",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOW5OVEZ0VWhObE1QeWxBQkJoVmlPNVJ5UkxQNGdIb0tVMzk1ZGdMZ3g1U1QtZzh5VkFlZDhfWGxabW4wVEh3aEliZXhIOVpWa2I4SENUUVlKRUdtVl9Nd3NrYnNGMGNXUnRRVWVOUldwdm5sMFZXWEEwWjhlSlAxT0RNQTdIT2hiT0HSAY8BQVVfeXFMTm5GRjBwVUg0cTlsRlUwdTBsWEdncTZuSFU0UlUzNWlNWVlLVDFEa2lTa1N4dm5jSHFyVXBuWUJGdHBkeE1Ha3ROeE0zZlRUOHNjeHd2elBaSFVnd2xYQUZGLWVBeWJSR1ltaTFNcjNlYzNmeVVBMkxLeXo5VGZSUVFDc2dxV2FKaHJDMUEwMUE?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "COP31が閉幕",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOW5OVEZ0VWhObE1QeWxBQkJoVmlPNVJ5UkxQNGdIb0tVMzk1ZGdMZ3g1U1QtZzh5VkFlZDhfWGxabW4wVEh3aEliZXhIOVpWa2I4SENUUVlKRUdtVl9Nd3NrYnNGMGNXUnRRVWVOUldwdm5sMFZXWEEwWjhlSlAxT0RNQTdIT2hiT0HSAY8BQVVfeXFMTm5GRjBwVUg0cTlsRlUwdTBsWEdncTZuSFU0UlUzNWlNWVlLVDFEa2lTa1N4dm5jSHFyVXBuWUJGdHBkeE1Ha3ROeE0zZlRUOHNjeHd2elBaSFVnd2xYQUZGLWVBeWJSR1ltaTFNcjNlYzNmeVVBMkxLeXo5VGZSUVFDc2dxV2FKaHJDMUEwMUE?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-11-23T01:43:56+09:00"
-    },
-    {
-     "title": "COP31 反対受け合意文書採択断念 「化石燃料に言及なし」会期延長もEUが草案拒否",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XYVZXYVNkSlZ3RktVVEVHMGFWSy13VEJyeXNPVXNwcHdhZmhQYmh0RjJRWVlSTDB1ZnQxbTZoWi1xVTdSNW1sWmRVMkwycFUtQlFCMGFkV29Nc2RJN2IxbElDT1JlbC1WNGNHUFY0Zm9QMm1IeldMZ3l3?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T23:06:22+09:00"
-    },
-    {
-     "title": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
-     "source": "NHK 主要",
-     "published": "2026-11-22T22:40:47+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-23T01:54:29.241672+09:00"
   },
   {
    "kw": "玉木",
@@ -175,86 +89,86 @@
    "alerted_at": "2026-11-23T01:54:29.241672+09:00"
   },
   {
-   "kw": "孤立状態",
+   "kw": "普天間",
    "level": "high",
-   "d24": 10,
-   "baseline": 0.8,
-   "ratio": 12.0,
-   "consecutive": 6,
+   "d24": 7,
+   "baseline": 0.0,
+   "ratio": 14.0,
+   "consecutive": 3,
    "days": [
     0,
     0,
     0,
     0,
     0,
-    5,
-    10
+    0,
+    7
    ],
    "latest": [
-    "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5"
+    "「普天間」会議年内開催へ “関大臣問題”は「説明を」（FNNプライムオンライン（フジテレビ系））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WGxKS1h3elpTRlp6WEFPSllPaTRwMFBZYkJlWGRCNnBrZ1BRSmJ2VnpNTlNlY3V0LUhCLXFuTV9YVTFSRWlXVTBPR1V5OFpnTkdEMnRjcE5sdGg1dTVobGR2X3lyMWU4WE51bDl3ZjFDZWlEeUxtNzVPdkliZzA?oc=5"
    ],
    "samples": [
     {
-     "title": "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T19:09:00+09:00"
-    },
-    {
-     "title": "福島 国道459号の通行止め解除 北塩原村の孤立状態ほぼ解消",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261122de80050",
-     "source": "NHK 社会",
-     "published": "2026-11-22T18:57:00+09:00"
-    },
-    {
-     "title": "福島・北塩原村の孤立状態続く 県内8市町村2200軒で停電 国道459号線は一部の緊急車両の通行可能に",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzaFNmaG1QT0tBNk5fZEllTHkwRFlTcDJjdDlpbDBDVm0tejM0anJMOG5oWFVYYlUxNHVjZ2NFOHhwV25EZFY3OVQ4RkdpRDZoS0hwZHE4eHFuMUlGdlF4cTBHM1ZpYlp5WmhpXy1tbTFDWFNlTzVNcVVZRTlMSkE?oc=5",
+     "title": "「普天間」会議年内開催へ “関大臣問題”は「説明を」（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WGxKS1h3elpTRlp6WEFPSllPaTRwMFBZYkJlWGRCNnBrZ1BRSmJ2VnpNTlNlY3V0LUhCLXFuTV9YVTFSRWlXVTBPR1V5OFpnTkdEMnRjcE5sdGg1dTVobGR2X3lyMWU4WE51bDl3ZjFDZWlEeUxtNzVPdkliZzA?oc=5",
      "source": "Yahoo!ニュース",
-     "published": "2026-11-22T17:36:23+09:00"
+     "published": "2026-11-23T06:34:20+09:00"
+    },
+    {
+     "title": "普天間飛行場の負担軽減会議 年内開催へ",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yT3k2QjFtVENNc2VRMDNkWkg1ZENYU3NCVUFPcE9Cckozd01hdjA4eFR2Xy1TbHlRMDUyMWhjRVlWOUpmcWVDSHY3Q1BEd2w4LWI2aE1qLTl5elRESlpzZkN0Z0ZSQ053dG1XUlN3a1JMb28?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-22T19:56:51+09:00"
+    },
+    {
+     "title": "「普天間」負担軽減会議 開催へ",
+     "url": "https://news.yahoo.co.jp/pickup/6603582?source=rss",
+     "source": "Yahoo 国内",
+     "published": "2026-11-22T19:07:41+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-22T06:39:13.890378+09:00"
+   "alerted_at": "2026-11-23T07:18:35.171369+09:00"
   },
   {
-   "kw": "化石",
+   "kw": "COP",
    "level": "high",
-   "d24": 8,
-   "baseline": 0.7,
-   "ratio": 12.0,
-   "consecutive": 3,
+   "d24": 15,
+   "baseline": 1.2,
+   "ratio": 12.9,
+   "consecutive": 4,
    "days": [
-    1,
-    0,
-    1,
-    0,
+    2,
     1,
     1,
-    8
+    1,
+    1,
+    1,
+    15
    ],
    "latest": [
-    "COP31 反対受け合意文書採択断念 「化石燃料に言及なし」会期延長もEUが草案拒否",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XYVZXYVNkSlZ3RktVVEVHMGFWSy13VEJyeXNPVXNwcHdhZmhQYmh0RjJRWVlSTDB1ZnQxbTZoWi1xVTdSNW1sWmRVMkwycFUtQlFCMGFkV29Nc2RJN2IxbElDT1JlbC1WNGNHUFY0Zm9QMm1IeldMZ3l3?oc=5"
+    "COP31 合意文書採択できず閉幕",
+    "https://news.yahoo.co.jp/pickup/6603614?source=rss"
    ],
    "samples": [
     {
-     "title": "COP31 反対受け合意文書採択断念 「化石燃料に言及なし」会期延長もEUが草案拒否",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XYVZXYVNkSlZ3RktVVEVHMGFWSy13VEJyeXNPVXNwcHdhZmhQYmh0RjJRWVlSTDB1ZnQxbTZoWi1xVTdSNW1sWmRVMkwycFUtQlFCMGFkV29Nc2RJN2IxbElDT1JlbC1WNGNHUFY0Zm9QMm1IeldMZ3l3?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T23:06:22+09:00"
+     "title": "COP31 合意文書採択できず閉幕",
+     "url": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
+     "source": "Yahoo 主要",
+     "published": "2026-11-23T06:58:55+09:00"
     },
     {
-     "title": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
-     "source": "NHK 主要",
-     "published": "2026-11-22T22:40:47+09:00"
+     "title": "COP31が閉幕",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOW5OVEZ0VWhObE1QeWxBQkJoVmlPNVJ5UkxQNGdIb0tVMzk1ZGdMZ3g1U1QtZzh5VkFlZDhfWGxabW4wVEh3aEliZXhIOVpWa2I4SENUUVlKRUdtVl9Nd3NrYnNGMGNXUnRRVWVOUldwdm5sMFZXWEEwWjhlSlAxT0RNQTdIT2hiT0HSAY8BQVVfeXFMTm5GRjBwVUg0cTlsRlUwdTBsWEdncTZuSFU0UlUzNWlNWVlLVDFEa2lTa1N4dm5jSHFyVXBuWUJGdHBkeE1Ha3ROeE0zZlRUOHNjeHd2elBaSFVnd2xYQUZGLWVBeWJSR1ltaTFNcjNlYzNmeVVBMkxLeXo5VGZSUVFDc2dxV2FKaHJDMUEwMUE?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-11-23T01:43:56+09:00"
     },
     {
-     "title": "「化石燃料からの脱却」めぐり対立続き延長2日目に 気候変動対策を話し合う「COP31」で中東諸国が反対表明…去年も合意文書に明記されず（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SHY4V2NqcGM3WFNSNDgtaUtiSGxzZ08xay1fQlJ6US1CbmQ4VDd6TkJjNzZ4aFZUTEZ4YTJ1NV9fYXVjcElKY0hGbEdwa1lSRWJ0eDRNODRLbFVrb3YzUG1pbXBUakUzRFdPd0hDeWJSUUkyaFpYNWFob1BfeDQ?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T17:58:56+09:00"
+     "title": "ＣＯＰ３１が閉幕",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nX3VVU3FLYXdfbDREUzhadkpJTElXbHdGbkhWaFdXLUNUczhlb1A1MG5KM2FmcWticS13ZUxmM2xBc3pIYmRoMHFTNVgtQk1td3laeUdmU0c5X3g2QWc?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-11-23T01:36:46+09:00"
     }
    ],
    "watch": false,
@@ -390,144 +304,15 @@
    "alerted_at": "2026-11-23T01:54:29.241672+09:00"
   },
   {
-   "kw": "北塩原",
-   "level": "high",
-   "d24": 11,
-   "baseline": 1.0,
-   "ratio": 11.0,
-   "consecutive": 6,
-   "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    6,
-    11
-   ],
-   "latest": [
-    "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xcnJXQmtBRC14bElNUTlRcVk0bkRlZ1UtUDdpUlRLNVNyQmNvUVYxV3o4b2FDcTJ4dXRfODV0d0d5aDJuTGxvOWRmRXBfNmJlMVVsbEV4Y19LZDd4U25JaG1nTjNKMlRuWEhOWXZtMNIBdEFVX3lxTFBYYmRjazZDVFVPaW1NNl8yX0t2TGFRTkppZ04xNFJaNjVDYm0xbzItTlBZdDRqVFZjUGNxUmNTNzg5bC1mOGtFYWFSeUZtZkYxZGRUWDdwSVdzRTZPYk9tQzFrOGJBSl83MVYtdXh3amFlV0FF?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xcnJXQmtBRC14bElNUTlRcVk0bkRlZ1UtUDdpUlRLNVNyQmNvUVYxV3o4b2FDcTJ4dXRfODV0d0d5aDJuTGxvOWRmRXBfNmJlMVVsbEV4Y19LZDd4U25JaG1nTjNKMlRuWEhOWXZtMNIBdEFVX3lxTFBYYmRjazZDVFVPaW1NNl8yX0t2TGFRTkppZ04xNFJaNjVDYm0xbzItTlBZdDRqVFZjUGNxUmNTNzg5bC1mOGtFYWFSeUZtZkYxZGRUWDdwSVdzRTZPYk9tQzFrOGJBSl83MVYtdXh3amFlV0FF?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-11-23T00:45:19+09:00"
-    },
-    {
-     "title": "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T19:09:00+09:00"
-    },
-    {
-     "title": "福島 国道459号の通行止め解除 北塩原村の孤立状態ほぼ解消",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261122de80050",
-     "source": "NHK 社会",
-     "published": "2026-11-22T18:57:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-22T01:05:46.150460+09:00"
-  },
-  {
-   "kw": "正殿",
-   "level": "high",
-   "d24": 10,
-   "baseline": 1.0,
-   "ratio": 10.0,
-   "consecutive": 4,
-   "days": [
-    5,
-    0,
-    0,
-    0,
-    0,
-    1,
-    10
-   ],
-   "latest": [
-    "首里城正殿の完成式典 古謝知事「卓越した技と情熱が注がれた」 あすからの一般公開は事前予約制",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02M0tJVnhQaFV4UUlBYlRULXp2ZGZCZnh5aFk0eDhYS0s2LW1BZDVOV2lhalduRTFSdTBfME11empma0RJaG9mTzkzQ1o0UQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "首里城正殿の完成式典 古謝知事「卓越した技と情熱が注がれた」 あすからの一般公開は事前予約制",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02M0tJVnhQaFV4UUlBYlRULXp2ZGZCZnh5aFk0eDhYS0s2LW1BZDVOV2lhalduRTFSdTBfME11empma0RJaG9mTzkzQ1o0UQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T17:52:00+09:00"
-    },
-    {
-     "title": "【速報】古謝知事「首里城正殿は見事その姿を取り戻した」 木原長官「我が国にとって極めて重要な歴史文化遺産」「全体の復元に向けて責任を持って取り組む」【首里城正殿 復元完成式】 (テレビ朝日系（ANN）)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3M5ZVJQQmYwZVFrcHp1UmxsTHVJMWVsdE9aWFdCSUFoaE9BT3UxSHRaVjUzN2dvRkVVVUlyWVlwX01oYnItalpucnYzbVFVRFRjRWlDMDQxS1g5NzZpTTZtSy1NdFd2OUxCX2k2UVNhVjVESndRZW9COThnSHcyY2dYZ0tZcENUZDBRVE9R?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T13:57:15+09:00"
-    },
-    {
-     "title": "沖縄知事「悲しみ忘れず、正殿引き継ぐ」",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJV1NFQlV2bFdUdVpoT3NaQ0RTeEd3S0dFMElQRHJHUnlPelRLWmd5MkUwMFFSWjE0SkFyUkFCdmllNDB5VEhqU19sTkRNZUV0YWVJVHkxbHJLUFdGVWc?oc=5",
-     "source": "沖縄タイムス社",
-     "published": "2026-11-22T13:49:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-16T16:03:48.877147+09:00"
-  },
-  {
-   "kw": "夫婦",
-   "level": "high",
-   "d24": 7,
-   "baseline": 0.8,
-   "ratio": 8.4,
-   "consecutive": 4,
-   "days": [
-    1,
-    0,
-    0,
-    3,
-    1,
-    0,
-    7
-   ],
-   "latest": [
-    "西野七瀬、理想は「友達みたいな感じで接している夫婦」 いい夫婦の日に明かす",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE54YThDNHZYLVE4Z2h6QzZmRFdheHdYY3IxNkdYalhmdFNMSlZKQ3pRTGh2akZSV1ZkLXhuSHdNODhHVElyOG41cFNMRzR0dlZ4SmsxSGJ1ZnNQYUthczVMSDg1NlVPOUpxNGhuWEFad2M?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "西野七瀬、理想は「友達みたいな感じで接している夫婦」 いい夫婦の日に明かす",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54YThDNHZYLVE4Z2h6QzZmRFdheHdYY3IxNkdYalhmdFNMSlZKQ3pRTGh2akZSV1ZkLXhuSHdNODhHVElyOG41cFNMRzR0dlZ4SmsxSGJ1ZnNQYUthczVMSDg1NlVPOUpxNGhuWEFad2M?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T20:09:00+09:00"
-    },
-    {
-     "title": "3連休“中日”は行楽日和 「いい夫婦の日」夫に妻に“思いの丈”",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0temMzaG9xanlMTHZ1RER2VFkwd3UySFNpVk5nLUVjN0RrWFlEMnZ2ZHItV2lXOExFeGM2S2JWX21ESVEtbFB2R3JLaElLRC03Z0ZxWUpLYUc5Mzh2T2hDckg4dmtLSEhXNkZub0RReUFmQQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T18:16:34+09:00"
-    },
-    {
-     "title": "「いい夫婦の日」に夫婦岩で愛を叫ぶ催し 三重 伊勢",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261122de79954",
-     "source": "NHK 主要",
-     "published": "2026-11-22T16:15:12+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-11T03:29:09.956248+09:00"
-  },
-  {
-   "kw": "焼失",
+   "kw": "行方不明",
    "level": "high",
    "d24": 6,
-   "baseline": 0.8,
-   "ratio": 7.2,
-   "consecutive": 4,
+   "baseline": 0.3,
+   "ratio": 12.0,
+   "consecutive": 3,
    "days": [
-    5,
-    0,
+    1,
+    1,
     0,
     0,
     0,
@@ -535,41 +320,127 @@
     6
    ],
    "latest": [
-    "首里城 焼失7年“復元で進化” 最新技術駆使 あす一般公開",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWnAzTW0wdjdwMENoYl8yQ3JNeWNad3p4UnlRWl9CM3F6UWFFUFI3b1hvYnBPTmdQNW5uTTl5V0pfV0JkSUVQSDdKSC1aamItdmRFUjNfamI0OEJORlBWaXVkOGViZ2pCaVN5TUYyUUJVQQ?oc=5"
+    "男子中学生が行方不明 警察が情報提供呼びかけ 福島・郡山市",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRUdHVllyQ2FhMVdjeGt1Z3Fwa0xuQi1qTDFkd2duOVJoX0NrdzFFS2hHemtVVm9xZjdncllPWHNKcm5zeDNFdTZYUkdoSUxKTlNoYllSTExOeGNLc041U3FrWEdJTWotcUJudWpPQkE0QQ?oc=5"
    ],
    "samples": [
     {
-     "title": "首里城 焼失7年“復元で進化” 最新技術駆使 あす一般公開",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWnAzTW0wdjdwMENoYl8yQ3JNeWNad3p4UnlRWl9CM3F6UWFFUFI3b1hvYnBPTmdQNW5uTTl5V0pfV0JkSUVQSDdKSC1aamItdmRFUjNfamI0OEJORlBWaXVkOGViZ2pCaVN5TUYyUUJVQQ?oc=5",
+     "title": "男子中学生が行方不明 警察が情報提供呼びかけ 福島・郡山市",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRUdHVllyQ2FhMVdjeGt1Z3Fwa0xuQi1qTDFkd2duOVJoX0NrdzFFS2hHemtVVm9xZjdncllPWHNKcm5zeDNFdTZYUkdoSUxKTlNoYllSTExOeGNLc041U3FrWEdJTWotcUJudWpPQkE0QQ?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-11-22T17:53:33+09:00"
+     "published": "2026-11-23T05:57:19+09:00"
     },
     {
-     "title": "「沖縄発展に向けてともに進んで参りたい」木原官房長官が沖縄県を訪問 古謝玄太知事と意見交換 2019年焼失の首里城正殿の復元完成に謝意（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdy1mdnlfSndWeFktSG5LNHFzQ1d0S2dFZHh2SGlrakJTUTkwd0VrUHNxUkswMWFPMjh3bFRFcDBUMmhsWm1iWmtCUmZRcFR6dFN3ZUM0cXNkOVRtWEhxcGpoSGlaVXF3VUlELUlsWnR0bUl1TUFTaW9pcG9kYWs?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T13:25:18+09:00"
+     "title": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
+     "source": "NHK 主要",
+     "published": "2026-11-23T05:40:07+09:00"
     },
     {
-     "title": "よみがえった首里城正殿 まもなく完成式 焼失から7年",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yTkxnS1I0MXh1QnhXU3BzZFFGdlBlY1g5TUlsQzFrbm1aQkNXUDBJMW9hODJ1cFNfNDdoMHY5bTNkcmRnSk1oQjl6RVVXUEMzeXlQTFZXbXBWXzRBRGhjT3k1SjhjZHRPVnYySWUzSnpGZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T12:05:11+09:00"
+     "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42NFVoVGkxWE1QOVRYMG5GcVdqTEIxZEJJZ0Z6T3VrdlpkR0FuYW1sWFp5VUlKNVA2MlNxeXNRZjVxODhBYkhkRnlDeTR5bXd6emZGZHhncw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T22:49:22+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-23T01:54:29.241672+09:00"
+   "alerted_at": "2026-10-23T12:33:49.580865+09:00"
+  },
+  {
+   "kw": "優勝",
+   "level": "high",
+   "d24": 15,
+   "baseline": 1.5,
+   "ratio": 10.0,
+   "consecutive": 6,
+   "days": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    6,
+    15
+   ],
+   "latest": [
+    "マルク・マルケスが総合優勝　オートバイのモトGP",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzkzRUpaRS1IWDRZajBjZ09MVnNsem9ENWwwVTZJek5icU5ZbHY1WmM4LUdUdmwtZ05NVnJFS0xOWGlCWGJ1TktZY2dMQU1CdVdoMEdsLWNZcG0tQUh5S0xhWlFHNUsxb05Sa3JOZWNZUFJ2WXNqREM2SEU2R3p5Q2F3ZVBzakFTWi1V0gGQAUFVX3lxTE82cmFRU3hvNTY5dDFfZFFXaVl4eXdhRnR6QVNoUmlwbGxLMDVBWVBOT1pjaTN1WV9GTTlYaDFYbmNnWW1zYzgwenA3OC1EdmJsWkN3T0FBWEx4b0p6WVVlSlFHM1N1djR0MVNfUnljcmVKbEhma1J2TEFuek1VLVpLeVpUMHA4TXFZVzhBeUR0UA?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "マルク・マルケスが総合優勝　オートバイのモトGP",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzkzRUpaRS1IWDRZajBjZ09MVnNsem9ENWwwVTZJek5icU5ZbHY1WmM4LUdUdmwtZ05NVnJFS0xOWGlCWGJ1TktZY2dMQU1CdVdoMEdsLWNZcG0tQUh5S0xhWlFHNUsxb05Sa3JOZWNZUFJ2WXNqREM2SEU2R3p5Q2F3ZVBzakFTWi1V0gGQAUFVX3lxTE82cmFRU3hvNTY5dDFfZFFXaVl4eXdhRnR6QVNoUmlwbGxLMDVBWVBOT1pjaTN1WV9GTTlYaDFYbmNnWW1zYzgwenA3OC1EdmJsWkN3T0FBWEx4b0p6WVVlSlFHM1N1djR0MVNfUnljcmVKbEhma1J2TEFuek1VLVpLeVpUMHA4TXFZVzhBeUR0UA?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-11-23T00:27:13+09:00"
+    },
+    {
+     "title": "マルク・マルケスが総合優勝 オートバイのモトＧＰ",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PTFRFbGxuRFdxbm14WHRuMFhwU3EwQTNWVE5JNGJGcVJlOUpia3lOSGo1aEFXY21PcmlwdExzN1drWEFETFlEVlczTDF3NXRFa0ZaNkdzUV95dm5kbGc?oc=5",
+     "source": "沖縄タイムス社",
+     "published": "2026-11-23T00:22:19+09:00"
+    },
+    {
+     "title": "大の里が２場所連続優勝",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51dnlua29zWHVWWlIxWTBxQUlHZUxWcU1PSk95V0Y3Y3AyUmpTSHloYkVxWnRPS3ZpSEJaUmlnTWVzYUVyWVFYajl1akFka19DclVv?oc=5",
+     "source": "豊田経済新聞",
+     "published": "2026-11-22T22:12:54+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-25T08:46:16.036075+09:00"
+  },
+  {
+   "kw": "正殿",
+   "level": "high",
+   "d24": 12,
+   "baseline": 1.3,
+   "ratio": 9.0,
+   "consecutive": 5,
+   "days": [
+    5,
+    0,
+    0,
+    0,
+    0,
+    3,
+    12
+   ],
+   "latest": [
+    "沖縄 首里城正殿が復元 きょう正午から一般公開",
+    "https://news.web.nhk/newsweb/na/nd-20261122de80078"
+   ],
+   "samples": [
+    {
+     "title": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261122de80078",
+     "source": "NHK 主要",
+     "published": "2026-11-23T06:42:23+09:00"
+    },
+    {
+     "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYlVsbUtGSGJaWklGS2xiN0tqMEY5bEhyZ3NkT24yVlVEQnFVQ2lOcG1Ca0lJc3EyRGtuTWpLVVE0M3RiV3ZzMFY2MFBTcFloOThjSmZPek5hYWM0Tjg5aGxabDFWRHdXVVFqWHlvaFE3WnBkLXIzR1Fwa1pmVzA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-23T06:34:38+09:00"
+    },
+    {
+     "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydVJLaklSNnhpUmVPclhPeklfd0x4QmdnTEtkRWtELWgzYWZoR0ZMY01KSjRoMXdjMTNCcUh1dU85Wi1kNmMxSV9GTldlakVvNE5jXzNNME9vNTdlREhGbDhtZ2lfUU0yaGo0aGJsa2xpZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-23T05:57:18+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-16T16:03:48.877147+09:00"
   },
   {
    "kw": "国民",
    "level": "high",
    "d24": 6,
-   "baseline": 0.8,
-   "ratio": 7.2,
+   "baseline": 0.7,
+   "ratio": 9.0,
    "consecutive": 2,
    "days": [
-    1,
+    0,
     2,
     2,
     0,
@@ -605,129 +476,129 @@
    "alerted_at": "2026-10-14T03:31:38.083820+09:00"
   },
   {
-   "kw": "クイーンズ駅伝",
+   "kw": "化石",
    "level": "high",
    "d24": 7,
-   "baseline": 1.0,
-   "ratio": 7.0,
-   "consecutive": 2,
+   "baseline": 0.8,
+   "ratio": 8.4,
+   "consecutive": 3,
    "days": [
-    0,
-    0,
-    0,
     1,
     0,
-    5,
+    1,
+    1,
+    1,
+    1,
     7
    ],
    "latest": [
-    "クイーンズ駅伝 齋藤みう14人抜き",
-    "https://news.yahoo.co.jp/pickup/6603571?source=rss"
+    "COP31 反対受け合意文書採択断念 「化石燃料に言及なし」会期延長もEUが草案拒否",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XYVZXYVNkSlZ3RktVVEVHMGFWSy13VEJyeXNPVXNwcHdhZmhQYmh0RjJRWVlSTDB1ZnQxbTZoWi1xVTdSNW1sWmRVMkwycFUtQlFCMGFkV29Nc2RJN2IxbElDT1JlbC1WNGNHUFY0Zm9QMm1IeldMZ3l3?oc=5"
    ],
    "samples": [
     {
-     "title": "クイーンズ駅伝 齋藤みう14人抜き",
-     "url": "https://news.yahoo.co.jp/pickup/6603571?source=rss",
-     "source": "Yahoo 主要",
-     "published": "2026-11-22T17:29:13+09:00"
+     "title": "COP31 反対受け合意文書採択断念 「化石燃料に言及なし」会期延長もEUが草案拒否",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XYVZXYVNkSlZ3RktVVEVHMGFWSy13VEJyeXNPVXNwcHdhZmhQYmh0RjJRWVlSTDB1ZnQxbTZoWi1xVTdSNW1sWmRVMkwycFUtQlFCMGFkV29Nc2RJN2IxbElDT1JlbC1WNGNHUFY0Zm9QMm1IeldMZ3l3?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-22T23:06:22+09:00"
     },
     {
-     "title": "資生堂、47年目のラストランは24位 笑顔と涙のフィニッシュ 区間賞5度の五島莉乃は出場せず【クイーンズ駅伝】",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NNVRnQi1XY2lwdUVqX2pvcmx4czZsLWRCcUczSF8tbEk5Mm1hMGE1b09ZOU9aTXlvMHVEQ3BiM211VGVKRGlvdE9QRmV2MnJyWkt4aUh0SnlJRVcyVkVmSQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T14:43:00+09:00"
+     "title": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
+     "source": "NHK 主要",
+     "published": "2026-11-22T22:40:47+09:00"
     },
     {
-     "title": "【クイーンズ駅伝2026結果】パナソニックが8年ぶり3回目の優勝！ 18位から劇的大逆転 休部控える資生堂も完走 長崎県出身のキヤノン・水谷陽菜は1区力走【上位順位・シード権一覧】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12dk81NjQtN0ZWRjh3eFpNVDZlY2ZJZ0dzTVhZNkFqLUM2WWlETVB4UzRRZEpKeHJyT3JiVG9FYWhCMUJRalJsTklFU3NkcnJ1ei1XS3NVUQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T14:38:00+09:00"
+     "title": "「化石燃料からの脱却」めぐり対立続き延長2日目に 気候変動対策を話し合う「COP31」で中東諸国が反対表明…去年も合意文書に明記されず（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SHY4V2NqcGM3WFNSNDgtaUtiSGxzZ08xay1fQlJ6US1CbmQ4VDd6TkJjNzZ4aFZUTEZ4YTJ1NV9fYXVjcElKY0hGbEdwa1lSRWJ0eDRNODRLbFVrb3YzUG1pbXBUakUzRFdPd0hDeWJSUUkyaFpYNWFob1BfeDQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T17:58:56+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-11-23T01:54:29.241672+09:00"
   },
   {
-   "kw": "福島",
+   "kw": "インドネシア",
    "level": "high",
-   "d24": 22,
-   "baseline": 3.3,
-   "ratio": 6.6,
-   "consecutive": 6,
+   "d24": 6,
+   "baseline": 0.8,
+   "ratio": 7.2,
+   "consecutive": 3,
    "days": [
     3,
-    3,
+    0,
+    0,
+    0,
     2,
-    1,
-    3,
-    8,
-    22
+    0,
+    6
    ],
    "latest": [
-    "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xcnJXQmtBRC14bElNUTlRcVk0bkRlZ1UtUDdpUlRLNVNyQmNvUVYxV3o4b2FDcTJ4dXRfODV0d0d5aDJuTGxvOWRmRXBfNmJlMVVsbEV4Y19LZDd4U25JaG1nTjNKMlRuWEhOWXZtMNIBdEFVX3lxTFBYYmRjazZDVFVPaW1NNl8yX0t2TGFRTkppZ04xNFJaNjVDYm0xbzItTlBZdDRqVFZjUGNxUmNTNzg5bC1mOGtFYWFSeUZtZkYxZGRUWDdwSVdzRTZPYk9tQzFrOGJBSl83MVYtdXh3amFlV0FF?oc=5"
+    "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+    "https://news.web.nhk/newsweb/na/nd-20261123de80121"
    ],
    "samples": [
     {
-     "title": "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xcnJXQmtBRC14bElNUTlRcVk0bkRlZ1UtUDdpUlRLNVNyQmNvUVYxV3o4b2FDcTJ4dXRfODV0d0d5aDJuTGxvOWRmRXBfNmJlMVVsbEV4Y19LZDd4U25JaG1nTjNKMlRuWEhOWXZtMNIBdEFVX3lxTFBYYmRjazZDVFVPaW1NNl8yX0t2TGFRTkppZ04xNFJaNjVDYm0xbzItTlBZdDRqVFZjUGNxUmNTNzg5bC1mOGtFYWFSeUZtZkYxZGRUWDdwSVdzRTZPYk9tQzFrOGJBSl83MVYtdXh3amFlV0FF?oc=5",
-     "source": "ｄメニューニュース",
-     "published": "2026-11-23T00:45:19+09:00"
+     "title": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
+     "source": "NHK 主要",
+     "published": "2026-11-23T05:40:07+09:00"
     },
     {
-     "title": "通行止め解除で孤立解消 大雪影響 福島で停電続く",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xMHp2TWgyZXRCUjBjTDI0ajlyOUw5anFuMlFkVFlzR3NmVE9YRDFaQkhuMjZkYkpRYjBpVldpcUZ0OG9Demh4T3FSaklTQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-23T00:19:00+09:00"
+     "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42NFVoVGkxWE1QOVRYMG5GcVdqTEIxZEJJZ0Z6T3VrdlpkR0FuYW1sWFp5VUlKNVA2MlNxeXNRZjVxODhBYkhkRnlDeTR5bXd6emZGZHhncw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T22:49:22+09:00"
     },
     {
-     "title": "東京六大学の応援団５つが福島県富岡町に集結 町民にエール",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43a1VFSW0yMEwxN2EwTXpxS3VDVHdud29BTjhwd2Zra0NBQXhKVmd1YjJyM3RKX0YtWVgwelJoX1M3a0FGM0VqRW56ZldQUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T19:45:00+09:00"
+     "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明 (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZSaTBLUUozNUF4eXdTbzN3REJva0x3SkhfbjZyQUo5SnVwQUlYUlhNMGhBWUkyejFVOXNsRk5Ic3NCNzJBa3pnU3JUZU1iMW5JOThtd05ScUgzNmRGTTRuYXQ0QktvQVAwZldzdlJ2UUlUNm9sdWJOQk1ZTWFSTGhPQ2Z3U3hPNDd6T01R?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T22:49:07+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-16T06:48:15.012606+09:00"
+   "alerted_at": "2026-11-23T07:18:35.171369+09:00"
   },
   {
    "kw": "首里",
    "level": "high",
-   "d24": 12,
-   "baseline": 1.8,
+   "d24": 14,
+   "baseline": 2.2,
    "ratio": 6.5,
-   "consecutive": 5,
+   "consecutive": 6,
    "days": [
     5,
     1,
     1,
     0,
     0,
-    4,
-    12
+    6,
+    14
    ],
    "latest": [
-    "首里城 焼失7年“復元で進化” 最新技術駆使 あす一般公開",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWnAzTW0wdjdwMENoYl8yQ3JNeWNad3p4UnlRWl9CM3F6UWFFUFI3b1hvYnBPTmdQNW5uTTl5V0pfV0JkSUVQSDdKSC1aamItdmRFUjNfamI0OEJORlBWaXVkOGViZ2pCaVN5TUYyUUJVQQ?oc=5"
+    "沖縄 首里城正殿が復元 きょう正午から一般公開",
+    "https://news.web.nhk/newsweb/na/nd-20261122de80078"
    ],
    "samples": [
     {
-     "title": "首里城 焼失7年“復元で進化” 最新技術駆使 あす一般公開",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWnAzTW0wdjdwMENoYl8yQ3JNeWNad3p4UnlRWl9CM3F6UWFFUFI3b1hvYnBPTmdQNW5uTTl5V0pfV0JkSUVQSDdKSC1aamItdmRFUjNfamI0OEJORlBWaXVkOGViZ2pCaVN5TUYyUUJVQQ?oc=5",
+     "title": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261122de80078",
+     "source": "NHK 主要",
+     "published": "2026-11-23T06:42:23+09:00"
+    },
+    {
+     "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYlVsbUtGSGJaWklGS2xiN0tqMEY5bEhyZ3NkT24yVlVEQnFVQ2lOcG1Ca0lJc3EyRGtuTWpLVVE0M3RiV3ZzMFY2MFBTcFloOThjSmZPek5hYWM0Tjg5aGxabDFWRHdXVVFqWHlvaFE3WnBkLXIzR1Fwa1pmVzA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-23T06:34:38+09:00"
+    },
+    {
+     "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydVJLaklSNnhpUmVPclhPeklfd0x4QmdnTEtkRWtELWgzYWZoR0ZMY01KSjRoMXdjMTNCcUh1dU85Wi1kNmMxSV9GTldlakVvNE5jXzNNME9vNTdlREhGbDhtZ2lfUU0yaGo0aGJsa2xpZw?oc=5",
      "source": "テレ朝NEWS",
-     "published": "2026-11-22T17:53:33+09:00"
-    },
-    {
-     "title": "首里城正殿の完成式典 古謝知事「卓越した技と情熱が注がれた」 あすからの一般公開は事前予約制",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02M0tJVnhQaFV4UUlBYlRULXp2ZGZCZnh5aFk0eDhYS0s2LW1BZDVOV2lhalduRTFSdTBfME11empma0RJaG9mTzkzQ1o0UQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T17:52:00+09:00"
-    },
-    {
-     "title": "【詳報】首里城7年ぶり復活 沖縄「象徴」王国の朱色",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GN1BlbmlHc29TT01jVWw3RTVaR2lfNHZVZkI1WFA0cWtCN2toNkNYZEFwWFdtS3VxSGNRYUxxcWNtaTBabTJBdzFSdw?oc=5",
-     "source": "47NEWS",
-     "published": "2026-11-22T16:54:07+09:00"
+     "published": "2026-11-23T05:57:18+09:00"
     }
    ],
    "watch": false,
@@ -820,47 +691,176 @@
    "alerted_at": "2026-11-23T01:54:29.241672+09:00"
   },
   {
-   "kw": "倒木",
+   "kw": "夫婦",
    "level": "high",
-   "d24": 9,
-   "baseline": 1.7,
-   "ratio": 5.4,
-   "consecutive": 3,
+   "d24": 6,
+   "baseline": 1.2,
+   "ratio": 5.1,
+   "consecutive": 5,
    "days": [
+    1,
+    0,
+    0,
+    3,
+    1,
+    2,
+    6
+   ],
+   "latest": [
+    "「いい夫婦の日」の夜に激しい夫婦喧嘩「腹蹴った」「顎掴んで押し倒した」互いへの暴力で６３歳と５４歳の夫婦を警察逮捕 きっかけは不明、今後捜査 兵庫・赤穂市",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NMVNIU2djRDkwc2pRYlRGemxON3BGUnVPbHdVSkZvNVRaS1JzT2RNU19Xa1NnVzNILU5VMjBLaDdYVzNNc2hnSWdKcG02Zw?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「いい夫婦の日」の夜に激しい夫婦喧嘩「腹蹴った」「顎掴んで押し倒した」互いへの暴力で６３歳と５４歳の夫婦を警察逮捕 きっかけは不明、今後捜査 兵庫・赤穂市",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NMVNIU2djRDkwc2pRYlRGemxON3BGUnVPbHdVSkZvNVRaS1JzT2RNU19Xa1NnVzNILU5VMjBLaDdYVzNNc2hnSWdKcG02Zw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T02:44:00+09:00"
+    },
+    {
+     "title": "西野七瀬、理想は「友達みたいな感じで接している夫婦」 いい夫婦の日に明かす",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54YThDNHZYLVE4Z2h6QzZmRFdheHdYY3IxNkdYalhmdFNMSlZKQ3pRTGh2akZSV1ZkLXhuSHdNODhHVElyOG41cFNMRzR0dlZ4SmsxSGJ1ZnNQYUthczVMSDg1NlVPOUpxNGhuWEFad2M?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-22T20:09:00+09:00"
+    },
+    {
+     "title": "3連休“中日”は行楽日和 「いい夫婦の日」夫に妻に“思いの丈”",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0temMzaG9xanlMTHZ1RER2VFkwd3UySFNpVk5nLUVjN0RrWFlEMnZ2ZHItV2lXOExFeGM2S2JWX21ESVEtbFB2R3JLaElLRC03Z0ZxWUpLYUc5Mzh2T2hDckg4dmtLSEhXNkZub0RReUFmQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-22T18:16:34+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-11T03:29:09.956248+09:00"
+  },
+  {
+   "kw": "復元",
+   "level": "high",
+   "d24": 6,
+   "baseline": 1.2,
+   "ratio": 5.1,
+   "consecutive": 6,
+   "days": [
+    2,
+    0,
+    0,
+    0,
+    0,
+    5,
+    6
+   ],
+   "latest": [
+    "沖縄 首里城正殿が復元 きょう正午から一般公開",
+    "https://news.web.nhk/newsweb/na/nd-20261122de80078"
+   ],
+   "samples": [
+    {
+     "title": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261122de80078",
+     "source": "NHK 主要",
+     "published": "2026-11-23T06:42:23+09:00"
+    },
+    {
+     "title": "首里城 焼失7年“復元で進化” 最新技術駆使 あす一般公開",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWnAzTW0wdjdwMENoYl8yQ3JNeWNad3p4UnlRWl9CM3F6UWFFUFI3b1hvYnBPTmdQNW5uTTl5V0pfV0JkSUVQSDdKSC1aamItdmRFUjNfamI0OEJORlBWaXVkOGViZ2pCaVN5TUYyUUJVQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-22T17:53:33+09:00"
+    },
+    {
+     "title": "【速報】古謝知事「首里城正殿は見事その姿を取り戻した」 木原長官「我が国にとって極めて重要な歴史文化遺産」「全体の復元に向けて責任を持って取り組む」【首里城正殿 復元完成式】 (テレビ朝日系（ANN）)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3M5ZVJQQmYwZVFrcHp1UmxsTHVJMWVsdE9aWFdCSUFoaE9BT3UxSHRaVjUzN2dvRkVVVUlyWVlwX01oYnItalpucnYzbVFVRFRjRWlDMDQxS1g5NzZpTTZtSy1NdFd2OUxCX2k2UVNhVjVESndRZW9COThnSHcyY2dYZ0tZcENUZDBRVE9R?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T13:57:15+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-23T01:54:29.241672+09:00"
+  },
+  {
+   "kw": "焼失",
+   "level": "high",
+   "d24": 6,
+   "baseline": 1.2,
+   "ratio": 5.1,
+   "consecutive": 5,
+   "days": [
+    5,
     0,
     0,
     0,
     0,
     2,
-    8,
-    9
+    6
    ],
    "latest": [
-    "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5"
+    "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開（テレビ朝日系（ANN））",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYlVsbUtGSGJaWklGS2xiN0tqMEY5bEhyZ3NkT24yVlVEQnFVQ2lOcG1Ca0lJc3EyRGtuTWpLVVE0M3RiV3ZzMFY2MFBTcFloOThjSmZPek5hYWM0Tjg5aGxabDFWRHdXVVFqWHlvaFE3WnBkLXIzR1Fwa1pmVzA?oc=5"
    ],
    "samples": [
     {
-     "title": "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T19:09:00+09:00"
+     "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYlVsbUtGSGJaWklGS2xiN0tqMEY5bEhyZ3NkT24yVlVEQnFVQ2lOcG1Ca0lJc3EyRGtuTWpLVVE0M3RiV3ZzMFY2MFBTcFloOThjSmZPek5hYWM0Tjg5aGxabDFWRHdXVVFqWHlvaFE3WnBkLXIzR1Fwa1pmVzA?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-23T06:34:38+09:00"
     },
     {
-     "title": "倒木で道路の通行止めも発生 長野県内の一部で大雪による停電が続く 湯たんぽを入れたこたつで寒さをしのぐ住民も",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wWm5QS2ZESTgwOTFiVVctTVc0cEtkZklFS08zRGEzVkF1M2lOZzBVbUtTV2VfRy1xRHNfbEpOc2drYVZJZXVuZkZnRzdxV2haUlJZbWtQbw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T18:56:00+09:00"
+     "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydVJLaklSNnhpUmVPclhPeklfd0x4QmdnTEtkRWtELWgzYWZoR0ZMY01KSjRoMXdjMTNCcUh1dU85Wi1kNmMxSV9GTldlakVvNE5jXzNNME9vNTdlREhGbDhtZ2lfUU0yaGo0aGJsa2xpZw?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-23T05:57:18+09:00"
     },
     {
-     "title": "雪による倒木で電線切れる…岐阜県の郡上市・高山市など5つの自治体計5300戸余りで停電 中部電力が復旧急ぐ",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aUC1CaTNzSnRmcE5NNDBzRndzX0hETWRaVEhsczVzOTdhY2FZVmE4VHdlS1JpMzJLMWN1aE1tVVBSR0lQazdWdXFPYXJSQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T18:25:30+09:00"
+     "title": "首里城 焼失7年“復元で進化” 最新技術駆使 あす一般公開",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWnAzTW0wdjdwMENoYl8yQ3JNeWNad3p4UnlRWl9CM3F6UWFFUFI3b1hvYnBPTmdQNW5uTTl5V0pfV0JkSUVQSDdKSC1aamItdmRFUjNfamI0OEJORlBWaXVkOGViZ2pCaVN5TUYyUUJVQQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-22T17:53:33+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-28T10:37:20.054753+09:00"
+   "alerted_at": "2026-11-23T01:54:29.241672+09:00"
+  },
+  {
+   "kw": "福島",
+   "level": "high",
+   "d24": 19,
+   "baseline": 4.0,
+   "ratio": 4.8,
+   "consecutive": 7,
+   "days": [
+    2,
+    4,
+    1,
+    2,
+    2,
+    13,
+    19
+   ],
+   "latest": [
+    "男子中学生が行方不明 警察が情報提供呼びかけ 福島・郡山市",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRUdHVllyQ2FhMVdjeGt1Z3Fwa0xuQi1qTDFkd2duOVJoX0NrdzFFS2hHemtVVm9xZjdncllPWHNKcm5zeDNFdTZYUkdoSUxKTlNoYllSTExOeGNLc041U3FrWEdJTWotcUJudWpPQkE0QQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "男子中学生が行方不明 警察が情報提供呼びかけ 福島・郡山市",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRUdHVllyQ2FhMVdjeGt1Z3Fwa0xuQi1qTDFkd2duOVJoX0NrdzFFS2hHemtVVm9xZjdncllPWHNKcm5zeDNFdTZYUkdoSUxKTlNoYllSTExOeGNLc041U3FrWEdJTWotcUJudWpPQkE0QQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-23T05:57:19+09:00"
+    },
+    {
+     "title": "【福島県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTWJfbGVwcWJYRGRTQ19rUFFqUE4zV2dxYWVNTm9peEpoX2ROVlVfY1ZzSkQwb2p4U3FpVFgtS091Q3pGTG1PTHRFRWdDdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T05:10:00+09:00"
+    },
+    {
+     "title": "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xcnJXQmtBRC14bElNUTlRcVk0bkRlZ1UtUDdpUlRLNVNyQmNvUVYxV3o4b2FDcTJ4dXRfODV0d0d5aDJuTGxvOWRmRXBfNmJlMVVsbEV4Y19LZDd4U25JaG1nTjNKMlRuWEhOWXZtMNIBdEFVX3lxTFBYYmRjazZDVFVPaW1NNl8yX0t2TGFRTkppZ04xNFJaNjVDYm0xbzItTlBZdDRqVFZjUGNxUmNTNzg5bC1mOGtFYWFSeUZtZkYxZGRUWDdwSVdzRTZPYk9tQzFrOGJBSl83MVYtdXh3amFlV0FF?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-11-23T00:45:19+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-16T06:48:15.012606+09:00"
   },
   {
    "kw": "問責",
@@ -906,20 +906,192 @@
    "alerted_at": "2026-11-23T01:54:29.241672+09:00"
   },
   {
+   "kw": "北塩原",
+   "level": "high",
+   "d24": 7,
+   "baseline": 1.7,
+   "ratio": 4.2,
+   "consecutive": 6,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    10,
+    7
+   ],
+   "latest": [
+    "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xcnJXQmtBRC14bElNUTlRcVk0bkRlZ1UtUDdpUlRLNVNyQmNvUVYxV3o4b2FDcTJ4dXRfODV0d0d5aDJuTGxvOWRmRXBfNmJlMVVsbEV4Y19LZDd4U25JaG1nTjNKMlRuWEhOWXZtMNIBdEFVX3lxTFBYYmRjazZDVFVPaW1NNl8yX0t2TGFRTkppZ04xNFJaNjVDYm0xbzItTlBZdDRqVFZjUGNxUmNTNzg5bC1mOGtFYWFSeUZtZkYxZGRUWDdwSVdzRTZPYk9tQzFrOGJBSl83MVYtdXh3amFlV0FF?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xcnJXQmtBRC14bElNUTlRcVk0bkRlZ1UtUDdpUlRLNVNyQmNvUVYxV3o4b2FDcTJ4dXRfODV0d0d5aDJuTGxvOWRmRXBfNmJlMVVsbEV4Y19LZDd4U25JaG1nTjNKMlRuWEhOWXZtMNIBdEFVX3lxTFBYYmRjazZDVFVPaW1NNl8yX0t2TGFRTkppZ04xNFJaNjVDYm0xbzItTlBZdDRqVFZjUGNxUmNTNzg5bC1mOGtFYWFSeUZtZkYxZGRUWDdwSVdzRTZPYk9tQzFrOGJBSl83MVYtdXh3amFlV0FF?oc=5",
+     "source": "ｄメニューニュース",
+     "published": "2026-11-23T00:45:19+09:00"
+    },
+    {
+     "title": "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T19:09:00+09:00"
+    },
+    {
+     "title": "福島 国道459号の通行止め解除 北塩原村の孤立状態ほぼ解消",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261122de80050",
+     "source": "NHK 社会",
+     "published": "2026-11-22T18:57:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-22T01:05:46.150460+09:00"
+  },
+  {
+   "kw": "孤立状態",
+   "level": "high",
+   "d24": 6,
+   "baseline": 1.5,
+   "ratio": 4.0,
+   "consecutive": 6,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    9,
+    6
+   ],
+   "latest": [
+    "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T19:09:00+09:00"
+    },
+    {
+     "title": "福島 国道459号の通行止め解除 北塩原村の孤立状態ほぼ解消",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261122de80050",
+     "source": "NHK 社会",
+     "published": "2026-11-22T18:57:00+09:00"
+    },
+    {
+     "title": "福島・北塩原村の孤立状態続く 県内8市町村2200軒で停電 国道459号線は一部の緊急車両の通行可能に",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzaFNmaG1QT0tBNk5fZEllTHkwRFlTcDJjdDlpbDBDVm0tejM0anJMOG5oWFVYYlUxNHVjZ2NFOHhwV25EZFY3OVQ4RkdpRDZoS0hwZHE4eHFuMUlGdlF4cTBHM1ZpYlp5WmhpXy1tbTFDWFNlTzVNcVVZRTlMSkE?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T17:36:23+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-22T06:39:13.890378+09:00"
+  },
+  {
+   "kw": "女子",
+   "level": "high",
+   "d24": 7,
+   "baseline": 1.8,
+   "ratio": 3.8,
+   "consecutive": 9,
+   "days": [
+    0,
+    1,
+    0,
+    1,
+    2,
+    7,
+    7
+   ],
+   "latest": [
+    "吉田雪乃、女子５００で４位",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CYlM2cE9aWms3ZmFwTjF4YVF3NFNlNWNyUHc1ZkFfZVRrbFRJak1XZ0p6Q01KOU01MGNZV0M5X1ljRGN1QlhaaDhTN0hkaE40ZmpyUF80QQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "吉田雪乃、女子５００で４位",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CYlM2cE9aWms3ZmFwTjF4YVF3NFNlNWNyUHc1ZkFfZVRrbFRJak1XZ0p6Q01KOU01MGNZV0M5X1ljRGN1QlhaaDhTN0hkaE40ZmpyUF80QQ?oc=5",
+     "source": "福島経済新聞",
+     "published": "2026-11-22T20:12:45+09:00"
+    },
+    {
+     "title": "シフトプラスカップMRT中学生女子ソフトボール大会",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yOGxRanB2S0RhNGtjZi05aUFWakhYOExEMHozTlVIZHFqQVg4RnZzY0JMMjhRU1NFeFg4ajdDQ0g0ZUVERWpaZUl1a2lRNDNaSTAyYnhwR25WTmRMVE1ZWnIwWmE?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T18:37:00+09:00"
+    },
+    {
+     "title": "吉田優利がバーディーラッシュ “年間女王”へ首位と1打差の2位 米女子ゴルフ3日目（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVFJFQkU1V2kzUTMzdGZaMDg0WFVIaWN0Vl9UNHJSdlAzVFpTRS1Vbk9lczA2dEl1SjhiMzhETThCdDZfdl80MTFJemZ3aldPS2FOTzE0TEJfWWpMamM1WDJOSm1McGtjRmNBb2pLQjN6YjBoNlFDeW9IRmJLUjQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T18:21:26+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
+  },
+  {
+   "kw": "クイーンズ駅伝",
+   "level": "high",
+   "d24": 5,
+   "baseline": 1.3,
+   "ratio": 3.8,
+   "consecutive": 2,
+   "days": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    5,
+    5
+   ],
+   "latest": [
+    "クイーンズ駅伝 齋藤みう14人抜き",
+    "https://news.yahoo.co.jp/pickup/6603571?source=rss"
+   ],
+   "samples": [
+    {
+     "title": "クイーンズ駅伝 齋藤みう14人抜き",
+     "url": "https://news.yahoo.co.jp/pickup/6603571?source=rss",
+     "source": "Yahoo 主要",
+     "published": "2026-11-22T17:29:13+09:00"
+    },
+    {
+     "title": "資生堂、47年目のラストランは24位 笑顔と涙のフィニッシュ 区間賞5度の五島莉乃は出場せず【クイーンズ駅伝】",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NNVRnQi1XY2lwdUVqX2pvcmx4czZsLWRCcUczSF8tbEk5Mm1hMGE1b09ZOU9aTXlvMHVEQ3BiM211VGVKRGlvdE9QRmV2MnJyWkt4aUh0SnlJRVcyVkVmSQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T14:43:00+09:00"
+    },
+    {
+     "title": "【クイーンズ駅伝2026結果】パナソニックが8年ぶり3回目の優勝！ 18位から劇的大逆転 休部控える資生堂も完走 長崎県出身のキヤノン・水谷陽菜は1区力走【上位順位・シード権一覧】",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12dk81NjQtN0ZWRjh3eFpNVDZlY2ZJZ0dzTVhZNkFqLUM2WWlETVB4UzRRZEpKeHJyT3JiVG9FYWhCMUJRalJsTklFU3NkcnJ1ei1XS3NVUQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T14:38:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-23T01:54:29.241672+09:00"
+  },
+  {
    "kw": "通行止め",
    "level": "high",
-   "d24": 8,
-   "baseline": 2.0,
-   "ratio": 4.0,
+   "d24": 6,
+   "baseline": 2.3,
+   "ratio": 2.6,
    "consecutive": 1,
    "days": [
     1,
     1,
+    3,
+    2,
     1,
-    4,
-    1,
-    4,
-    8
+    6,
+    6
    ],
    "latest": [
     "通行止め解除で孤立解消 大雪影響 福島で停電続く",
@@ -949,54 +1121,140 @@
    "alerted_at": "2026-11-08T16:19:16.435491+09:00"
   },
   {
-   "kw": "国道",
+   "kw": "火災",
    "level": "high",
-   "d24": 10,
-   "baseline": 3.2,
-   "ratio": 3.2,
-   "consecutive": 6,
+   "d24": 15,
+   "baseline": 7.0,
+   "ratio": 2.1,
+   "consecutive": 13,
    "days": [
-    2,
-    0,
+    10,
     3,
-    0,
-    7,
-    7,
-    10
+    8,
+    4,
+    8,
+    9,
+    15
    ],
    "latest": [
-    "【タイヤ脱落】9月に業者が交換 異音がしたため増し締め、その直後に再び「ガタガタ」停車すると左前タイヤ脱落 北海道小樽市・国道5号",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBydl9DbmhzQTVHNjNHYTdqX0I5VTl0T1JCZEpnbHVPeGcyTGZHTk04TFR4eEVVN25uaTlJOFdmSmNabkhiOUVFS290YmhjSlJnYkNORWhDanJNVnZZUTZIMEtKVzg?oc=5"
+    "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+    "https://news.web.nhk/newsweb/na/nd-20261123de80121"
    ],
    "samples": [
     {
-     "title": "【タイヤ脱落】9月に業者が交換 異音がしたため増し締め、その直後に再び「ガタガタ」停車すると左前タイヤ脱落 北海道小樽市・国道5号",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBydl9DbmhzQTVHNjNHYTdqX0I5VTl0T1JCZEpnbHVPeGcyTGZHTk04TFR4eEVVN25uaTlJOFdmSmNabkhiOUVFS290YmhjSlJnYkNORWhDanJNVnZZUTZIMEtKVzg?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T20:55:00+09:00"
+     "title": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
+     "source": "NHK 主要",
+     "published": "2026-11-23T05:40:07+09:00"
     },
     {
-     "title": "軽乗用車にはねられて56歳男性が意識不明に 新潟・新発田市の国道7号",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBidjNSVTV2Y3ZBVHBoZXJPMU93dEJGUHIwZlBtZmFSWlFYQnU5OVBMSUlXeERsaGJYVlJEbFI5VzRZajZTLXBub3MyaWxvZFNPZU1TaFkzclVCQ1F5MTBmazlBaFk?oc=5",
+     "title": "「1階から煙が上がっている」住宅地で火災 一人暮らしの90代女性が遺体で見つかる 仙台市・太白区",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMVBubWJYdTdsaHRXeW52UUFyU1JFcHpaT3M1dnNhZmNmQ2l5Y2x0R1hzdUlXNzgyYlhjMU9uTGVzVTg0R1p0NUw4Q04xdmJYZlE0MXhuRQ?oc=5",
      "source": "TBS NEWS DIG",
-     "published": "2026-11-22T20:14:00+09:00"
+     "published": "2026-11-23T02:56:00+09:00"
     },
+    {
+     "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42NFVoVGkxWE1QOVRYMG5GcVdqTEIxZEJJZ0Z6T3VrdlpkR0FuYW1sWFp5VUlKNVA2MlNxeXNRZjVxODhBYkhkRnlDeTR5bXd6emZGZHhncw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T22:49:22+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "遺体",
+   "level": "high",
+   "d24": 6,
+   "baseline": 2.8,
+   "ratio": 2.1,
+   "consecutive": 9,
+   "days": [
+    3,
+    2,
+    3,
+    2,
+    3,
+    4,
+    6
+   ],
+   "latest": [
+    "「1階から煙が上がっている」住宅地で火災 一人暮らしの90代女性が遺体で見つかる 仙台市・太白区",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMVBubWJYdTdsaHRXeW52UUFyU1JFcHpaT3M1dnNhZmNmQ2l5Y2x0R1hzdUlXNzgyYlhjMU9uTGVzVTg0R1p0NUw4Q04xdmJYZlE0MXhuRQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "「1階から煙が上がっている」住宅地で火災 一人暮らしの90代女性が遺体で見つかる 仙台市・太白区",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMVBubWJYdTdsaHRXeW52UUFyU1JFcHpaT3M1dnNhZmNmQ2l5Y2x0R1hzdUlXNzgyYlhjMU9uTGVzVTg0R1p0NUw4Q04xdmJYZlE0MXhuRQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-23T02:56:00+09:00"
+    },
+    {
+     "title": "新潟市中央区沼垂東の住宅で火災 建物内から1人の遺体発見 80代女性と連絡取れず",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBScE5MQTNCaGpzS09sV2hteDR4VmE5cThfei16ZFFQclVSclJWNU5nTE1GSGN5bDZxWV9aTG5UUlNUalFfb3RaOTVMWG9ZdXR4b2ZINVNiNA?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T19:26:00+09:00"
+    },
+    {
+     "title": "「爆発音が聞こえ、車が燃えている」農道で軽自動車全焼 車内から身元不明の遺体見つかる（鳥取）",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yNXF4WEhLNFRNaXhjT0xGa1dMWlQyQl9YTFFaYlgxQ21TUnZ3M3BHbVkwVjk5SktrT21tcmZtYXpiYUJoWWU3M1Vad0VPQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-22T19:00:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-21T20:15:22.457768+09:00"
+  },
+  {
+   "kw": "倒木",
+   "level": "high",
+   "d24": 5,
+   "baseline": 2.3,
+   "ratio": 2.1,
+   "consecutive": 3,
+   "days": [
+    0,
+    0,
+    0,
+    0,
+    3,
+    11,
+    5
+   ],
+   "latest": [
+    "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5"
+   ],
+   "samples": [
     {
      "title": "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5",
      "source": "TBS NEWS DIG",
      "published": "2026-11-22T19:09:00+09:00"
+    },
+    {
+     "title": "倒木で道路の通行止めも発生 長野県内の一部で大雪による停電が続く 湯たんぽを入れたこたつで寒さをしのぐ住民も",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wWm5QS2ZESTgwOTFiVVctTVc0cEtkZklFS08zRGEzVkF1M2lOZzBVbUtTV2VfRy1xRHNfbEpOc2drYVZJZXVuZkZnRzdxV2haUlJZbWtQbw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T18:56:00+09:00"
+    },
+    {
+     "title": "雪による倒木で電線切れる…岐阜県の郡上市・高山市など5つの自治体計5300戸余りで停電 中部電力が復旧急ぐ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aUC1CaTNzSnRmcE5NNDBzRndzX0hETWRaVEhsczVzOTdhY2FZVmE4VHdlS1JpMzJLMWN1aE1tVVBSR0lQazdWdXFPYXJSQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-22T18:25:30+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-20T20:13:54.401098+09:00"
+   "alerted_at": "2026-10-28T10:37:20.054753+09:00"
   },
   {
    "kw": "連覇",
    "level": "high",
-   "d24": 4,
-   "baseline": 1.3,
-   "ratio": 3.0,
+   "d24": 3,
+   "baseline": 1.5,
+   "ratio": 2.0,
    "consecutive": 6,
    "days": [
     0,
@@ -1004,8 +1262,8 @@
     0,
     0,
     2,
-    6,
-    4
+    7,
+    3
    ],
    "latest": [
     "竜王戦から一夜明け 藤井聡太竜王が６連覇の喜び語る",
@@ -1035,106 +1293,63 @@
    "alerted_at": "2026-11-01T10:29:51.827080+09:00"
   },
   {
-   "kw": "金塊",
+   "kw": "天気予報",
    "level": "high",
-   "d24": 2,
-   "baseline": 0.7,
-   "ratio": 3.0,
-   "consecutive": 1,
+   "d24": 30,
+   "baseline": 17.0,
+   "ratio": 1.8,
+   "consecutive": 15,
    "days": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    4,
-    2
+    1,
+    15,
+    19,
+    21,
+    23,
+    23,
+    30
    ],
    "latest": [
-    "会社役員の男性宅から現金約2500万円と金塊約20キロが盗まれる 兵庫・西宮市 家のドアが壊され…当時外出中で家には誰もおらず（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZUZTZmRsRFRDaGViNktKX2lfZTBvN3NKbzZxQlBNb2MxN1VSZlhEUGhNajdIQkxEcHJnLW84cEp6QVNacDVWNXRaQ2I1aVhHcVA1UHdvT3hSRkl4T0x4eGU1ZEVLNDd5LUNvTGktamxZYUhxMm9PS1hza25ZZHc?oc=5"
+    "【北海道(宗谷地方)】11/23の天気予報",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5"
    ],
    "samples": [
     {
-     "title": "会社役員の男性宅から現金約2500万円と金塊約20キロが盗まれる 兵庫・西宮市 家のドアが壊され…当時外出中で家には誰もおらず（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZUZTZmRsRFRDaGViNktKX2lfZTBvN3NKbzZxQlBNb2MxN1VSZlhEUGhNajdIQkxEcHJnLW84cEp6QVNacDVWNXRaQ2I1aVhHcVA1UHdvT3hSRkl4T0x4eGU1ZEVLNDd5LUNvTGktamxZYUhxMm9PS1hza25ZZHc?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T11:51:32+09:00"
+     "title": "【北海道(宗谷地方)】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T05:10:00+09:00"
     },
     {
-     "title": "現金2500万円と金塊盗まれる 何者かがドア壊し住宅に…（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSmt6VmxaWFRjWmsta1ZRUzh6ay01V2RtM29uTDRsRjJ5MVA0a3JzRUNlaDNOMmRvd1llUS1qaTBOZHFtZWtveDNVRzlxZ3pOX3VHeVoxd1VVVXVIcE56aHNveHc3ZGRqQWp3VGRBdzVVdkZmY1FRNThnWjZNc1E?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T06:32:08+09:00"
+     "title": "【岩手県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fT1NjX2s2NmJCSUJrMVpBUzlhY0ppNFZob3hpODM4M1RxZmpuSV9VQS1RbnZmLWVldzlwN1ZQMXNDQV80a29nTk5Vd3NrQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T05:10:00+09:00"
     },
     {
-     "title": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261121de79776",
-     "source": "NHK 主要",
-     "published": "2026-11-22T00:03:00+09:00"
+     "title": "【福島県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTWJfbGVwcWJYRGRTQ19rUFFqUE4zV2dxYWVNTm9peEpoX2ROVlVfY1ZzSkQwb2p4U3FpVFgtS091Q3pGTG1PTHRFRWdDdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T05:10:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-22T17:51:43.828354+09:00"
-  },
-  {
-   "kw": "捜索",
-   "level": "high",
-   "d24": 5,
-   "baseline": 1.8,
-   "ratio": 2.7,
-   "consecutive": 6,
-   "days": [
-    1,
-    4,
-    1,
-    1,
-    1,
-    3,
-    5
-   ],
-   "latest": [
-    "インドネシアの人気のミルクキャンディー「ミルキタ」製造工場で大規模火災 3人死亡、36人の捜索続く",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbVVJWkJzVXpCUnZwWjlQRnJwQTVGMmdUM3BiNHlXMVAxT0VENDRBdFZQU05LUWFSX1RjeFBkcmxoUGdTdkFOWlhzc2U3MnhPR2JXZEtMZGVNVS1aaTFiQ0ZrcGRUX1hDdjN3ZEVrR2g1Ul9EdXlrWUR5QjNwY1E?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "インドネシアの人気のミルクキャンディー「ミルキタ」製造工場で大規模火災 3人死亡、36人の捜索続く",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbVVJWkJzVXpCUnZwWjlQRnJwQTVGMmdUM3BiNHlXMVAxT0VENDRBdFZQU05LUWFSX1RjeFBkcmxoUGdTdkFOWlhzc2U3MnhPR2JXZEtMZGVNVS1aaTFiQ0ZrcGRUX1hDdjN3ZEVrR2g1Ul9EdXlrWUR5QjNwY1E?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T16:50:32+09:00"
-    },
-    {
-     "title": "福島県郡山市で中学1年の男子生徒(12)行方不明 警察が捜索",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjelhnTWpnaklHbDQxWlVSdHBDQzJHNnRoRjBIRFNOdUJEUnpFRzVYcTFTbHNBWWthUzNiTFlyQ09KZS1kZmk0UTM3eVp4Qk9TUXVfeXBBcFhXZFdpSkNXTlZGSE4?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T15:00:00+09:00"
-    },
-    {
-     "title": "群馬・前橋市で不明の親グマ捜索続く パニック状態で排水路に移動か 厳戒態勢",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXNDEyNDF3c1RnVndKY3lmRC1PQmlNS3ktcUoyWGFJbktSS2xYNng2XzNTblUwLWpTUnJFcnFmdG43dWwxSzZOZVNPdGVvOU52STZXRHE1bkFIYjZhRTZnbmo3ZkxSOTQxRFJRaEhxNmFWUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T12:11:05+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-22T17:51:43.828354+09:00"
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
   },
   {
    "kw": "大雪",
    "level": "high",
-   "d24": 14,
-   "baseline": 6.5,
-   "ratio": 2.2,
+   "d24": 12,
+   "baseline": 6.7,
+   "ratio": 1.8,
    "consecutive": 7,
    "days": [
-    7,
+    6,
     4,
     2,
-    6,
-    6,
+    7,
+    7,
     14,
-    14
+    12
    ],
    "latest": [
     "福島・北塩原村の“大雪孤立”解消、一時1400人が孤立",
@@ -1164,20 +1379,63 @@
    "alerted_at": "2026-11-08T03:10:33.288329+09:00"
   },
   {
-   "kw": "乗用車",
+   "kw": "国道",
    "level": "high",
-   "d24": 5,
-   "baseline": 2.5,
-   "ratio": 2.0,
+   "d24": 7,
+   "baseline": 3.8,
+   "ratio": 1.8,
    "consecutive": 7,
    "days": [
-    3,
+    2,
     1,
     2,
     1,
+    6,
+    11,
+    7
+   ],
+   "latest": [
+    "【タイヤ脱落】9月末に業者が交換 異音がしたため増し締め、その直後に再び「ガタガタ」停車すると左前タイヤ脱落 北海道小樽市・国道5号",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VM1RqaXBaN3JmUGtCN2ZySXVFTjZYNnljdlFtWkVrbU15NHRVOGg5NGNhRWxQVy1OMExvNWhyQlVfRWhMSGxfRmwzMHFubC1Zb2ZoSjRGd1hNWlk2a0M1Vg?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【タイヤ脱落】9月末に業者が交換 異音がしたため増し締め、その直後に再び「ガタガタ」停車すると左前タイヤ脱落 北海道小樽市・国道5号",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VM1RqaXBaN3JmUGtCN2ZySXVFTjZYNnljdlFtWkVrbU15NHRVOGg5NGNhRWxQVy1OMExvNWhyQlVfRWhMSGxfRmwzMHFubC1Zb2ZoSjRGd1hNWlk2a0M1Vg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T20:55:00+09:00"
+    },
+    {
+     "title": "【タイヤ脱落】9月に業者が交換 異音がしたため増し締め、その直後に再び「ガタガタ」停車すると左前タイヤ脱落 北海道小樽市・国道5号",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBydl9DbmhzQTVHNjNHYTdqX0I5VTl0T1JCZEpnbHVPeGcyTGZHTk04TFR4eEVVN25uaTlJOFdmSmNabkhiOUVFS290YmhjSlJnYkNORWhDanJNVnZZUTZIMEtKVzg?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T20:55:00+09:00"
+    },
+    {
+     "title": "軽乗用車にはねられて56歳男性が意識不明に 新潟・新発田市の国道7号",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBidjNSVTV2Y3ZBVHBoZXJPMU93dEJGUHIwZlBtZmFSWlFYQnU5OVBMSUlXeERsaGJYVlJEbFI5VzRZajZTLXBub3MyaWxvZFNPZU1TaFkzclVCQ1F5MTBmazlBaFk?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T20:14:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-20T20:13:54.401098+09:00"
+  },
+  {
+   "kw": "乗用車",
+   "level": "high",
+   "d24": 4,
+   "baseline": 2.5,
+   "ratio": 1.6,
+   "consecutive": 7,
+   "days": [
+    2,
+    1,
+    2,
+    2,
     1,
     7,
-    5
+    4
    ],
    "latest": [
     "軽乗用車にはねられて56歳男性が意識不明に 新潟・新発田市の国道7号",
@@ -1207,179 +1465,7 @@
    "alerted_at": "2026-10-18T23:50:58.614182+09:00"
   },
   {
-   "kw": "火災",
-   "level": "high",
-   "d24": 13,
-   "baseline": 6.8,
-   "ratio": 1.9,
-   "consecutive": 12,
-   "days": [
-    11,
-    3,
-    8,
-    4,
-    7,
-    8,
-    13
-   ],
-   "latest": [
-    "インドネシアの菓子工場で火災 3人死亡30人超行方不明（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iTm1hUEV2RXRIaTVGeDI2cGplTzRLVlpDQS1GMFNObi1FVDZua3BZdDhCNzZULURhT2RCekQ5ZEJpbEFEQWIxNHNqVG9JdV9qaGN2X01RbmcyWER5V0tFOUxzNlZ2bHNMX3RrNEl2bWVfYUx4aXZEcUhaOHQzems?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iTm1hUEV2RXRIaTVGeDI2cGplTzRLVlpDQS1GMFNObi1FVDZua3BZdDhCNzZULURhT2RCekQ5ZEJpbEFEQWIxNHNqVG9JdV9qaGN2X01RbmcyWER5V0tFOUxzNlZ2bHNMX3RrNEl2bWVfYUx4aXZEcUhaOHQzems?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T22:49:07+09:00"
-    },
-    {
-     "title": "新潟市中央区沼垂東の住宅で火災 建物内から1人の遺体発見 80代女性と連絡取れず",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBScE5MQTNCaGpzS09sV2hteDR4VmE5cThfei16ZFFQclVSclJWNU5nTE1GSGN5bDZxWV9aTG5UUlNUalFfb3RaOTVMWG9ZdXR4b2ZINVNiNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T19:26:00+09:00"
-    },
-    {
-     "title": "関東で火災相次ぐ 死者も 広い範囲に乾燥注意報",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMXlQOFRkaXUxZWhnclpXUG1WQ1d1aGl5NkV6dEJaSVd1VEU2OXJRdWxIN0Y3MVZmT2pEa05qWDJmSU5ZSU5YVTlLc0daOXhxWTk2VFNsR19CLUdjMG1jY2R2STRJemdmWUFNelpVYUdydw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T18:02:25+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
-  },
-  {
-   "kw": "体験",
-   "level": "high",
-   "d24": 5,
-   "baseline": 2.7,
-   "ratio": 1.9,
-   "consecutive": 6,
-   "days": [
-    1,
-    1,
-    6,
-    2,
-    2,
-    4,
-    5
-   ],
-   "latest": [
-    "映画「薬屋のひとりごと」ＰＲも 「くすりのまちとやま巡りフェスタ2026」開催 薬研体験など薬都とやまを知る 富山",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RbTZUZk00RFgybk5CaVFzWGR6VXhFT3ZzVkJyS0RYNlloYkZHZmVxblZBYmktSHprT0pidXBuMmgzWjNIbUxRT3N1SFZkQjhPX2tYZnRGZw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "映画「薬屋のひとりごと」ＰＲも 「くすりのまちとやま巡りフェスタ2026」開催 薬研体験など薬都とやまを知る 富山",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RbTZUZk00RFgybk5CaVFzWGR6VXhFT3ZzVkJyS0RYNlloYkZHZmVxblZBYmktSHprT0pidXBuMmgzWjNIbUxRT3N1SFZkQjhPX2tYZnRGZw?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T12:25:00+09:00"
-    },
-    {
-     "title": "名古屋医専の学生による視力検査も…「中日健康フェア」始まる 最先端医療や健康に関する講演会や体験型展示など",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YQ3pYdk1wT3EzYWpfamN3NU45eFNPQnRFSjZZWWhVVFRUV3VSQWp5OGVqWGZkTm5hZHV4Q3k4dzZEVm9yY3VrUmxPVGsxdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T12:17:42+09:00"
-    },
-    {
-     "title": "警視庁が採用説明会を実施 白バイの走行訓練や騎馬隊の乗馬体験",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tSG9qT3hrMW45SHQzOXA4WS0zVjZWQW1STmtvZy1jMUQzRTZGNnhpb1lvbjZTUXRJcTM3c3hoZzVFZ0o3SVNXRlVfRC1obXZsZ0V3RFhZMGNZXzF5SWxHNmdlYzZsQTVQZkZzcElNSXFjdw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T07:24:58+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-14T19:57:40.870532+09:00"
-  },
-  {
-   "kw": "クマ",
-   "level": "high",
-   "d24": 12,
-   "baseline": 7.7,
-   "ratio": 1.6,
-   "consecutive": 6,
-   "days": [
-    4,
-    12,
-    7,
-    8,
-    9,
-    6,
-    12
-   ],
-   "latest": [
-    "排水路“潜むクマ”無人カメラ投入 住宅街に新たな爪痕跡を確認 母グマの行方",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE80M08tZXFKR1ZqTndCTzJZdVJINncxclJXWVAwUDhYaE5FZTROUjhHTkZjbnNqcFlZdGZWVzVDU2pzYXI1Mmh6bEpfVjYzYWg1cE8ySUpiVXhWSnQ5VXViNGdUZEVxcG01Vy01b09lVlJDZw?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "排水路“潜むクマ”無人カメラ投入 住宅街に新たな爪痕跡を確認 母グマの行方",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80M08tZXFKR1ZqTndCTzJZdVJINncxclJXWVAwUDhYaE5FZTROUjhHTkZjbnNqcFlZdGZWVzVDU2pzYXI1Mmh6bEpfVjYzYWg1cE8ySUpiVXhWSnQ5VXViNGdUZEVxcG01Vy01b09lVlJDZw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-23T01:46:16+09:00"
-    },
-    {
-     "title": "住宅街で体長80センチのクマ1頭目撃 付近には学校も 仙台・太白区",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82RHJxUDc5RUM0dlhTd2hva2tWQWt1VXFUMGdhVUpUVVUzN3J2Mk9qQ1ppd0J0V3puaWVhcmtZVU8xQnRIMDVldFVBSVNsbVFyc1pJSmdPSQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T22:28:00+09:00"
-    },
-    {
-     "title": "前橋市でのクマ出没めぐり マンホールから暗きょ内に無人カメラを投入 居場所特定へ 暗きょの出入り口や一部を塞ぎクマの“通り道”を限定（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVFFLYUZoUXMwZkJFOThyeXhlaGM4RnpfWnJrTFotaHN5Z3BkRk9PRFR6NFdJaUhaOXZOSVYycl95OGVkcmxoS0JxQXJ4dkMxS29UX1RyUzc4RXJzYmxIU21XYW84WHM1cG5ienlhR2xMbkxNLVF2b2c0aWVLak0?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T18:00:44+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T19:51:04.178820+09:00"
-  },
-  {
-   "kw": "前橋",
-   "level": "high",
-   "d24": 9,
-   "baseline": 5.8,
-   "ratio": 1.5,
-   "consecutive": 6,
-   "days": [
-    0,
-    11,
-    7,
-    7,
-    5,
-    5,
-    9
-   ],
-   "latest": [
-    "前橋市でのクマ出没めぐり マンホールから暗きょ内に無人カメラを投入 居場所特定へ 暗きょの出入り口や一部を塞ぎクマの“通り道”を限定（TBS NEWS DIG Powered by JNN）",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVFFLYUZoUXMwZkJFOThyeXhlaGM4RnpfWnJrTFotaHN5Z3BkRk9PRFR6NFdJaUhaOXZOSVYycl95OGVkcmxoS0JxQXJ4dkMxS29UX1RyUzc4RXJzYmxIU21XYW84WHM1cG5ienlhR2xMbkxNLVF2b2c0aWVLak0?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "前橋市でのクマ出没めぐり マンホールから暗きょ内に無人カメラを投入 居場所特定へ 暗きょの出入り口や一部を塞ぎクマの“通り道”を限定（TBS NEWS DIG Powered by JNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVFFLYUZoUXMwZkJFOThyeXhlaGM4RnpfWnJrTFotaHN5Z3BkRk9PRFR6NFdJaUhaOXZOSVYycl95OGVkcmxoS0JxQXJ4dkMxS29UX1RyUzc4RXJzYmxIU21XYW84WHM1cG5ienlhR2xMbkxNLVF2b2c0aWVLak0?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T18:00:44+09:00"
-    },
-    {
-     "title": "群馬・前橋市で不明の親グマ捜索続く パニック状態で排水路に移動か 厳戒態勢",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXNDEyNDF3c1RnVndKY3lmRC1PQmlNS3ktcUoyWGFJbktSS2xYNng2XzNTblUwLWpTUnJFcnFmdG43dWwxSzZOZVNPdGVvOU52STZXRHE1bkFIYjZhRTZnbmo3ZkxSOTQxRFJRaEhxNmFWUQ?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T12:11:05+09:00"
-    },
-    {
-     "title": "水しぶきをあげながら…クマが猛スピードで川を泳ぐ様子に「かなりパニック状態なので危険」専門家が警鐘 群馬・前橋市",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CZnJxbVN1MG02X3lLeHZIelBhV1dvdmZrWk1hR19jb3MtSXFsVTF0R3UwMVQyNFk3cFRxZW0tbDRQTEE2WExxbkxSTUp5U0ZHNG1pcVB6dWMzZlkwWmxyUzZwaUMtRW9JRkkwMnRsQU83dw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T09:00:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-17T17:49:42.574054+09:00"
-  },
-  {
-   "kw": "住民",
+   "kw": "発生",
    "level": "high",
    "d24": 5,
    "baseline": 3.3,
@@ -1387,18 +1473,24 @@
    "consecutive": 6,
    "days": [
     4,
-    6,
     1,
     2,
-    1,
-    6,
+    5,
+    5,
+    3,
     5
    ],
    "latest": [
-    "倒木で道路の通行止めも発生 長野県内の一部で大雪による停電が続く 湯たんぽを入れたこたつで寒さをしのぐ住民も",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wWm5QS2ZESTgwOTFiVVctTVc0cEtkZklFS08zRGEzVkF1M2lOZzBVbUtTV2VfRy1xRHNfbEpOc2drYVZJZXVuZkZnRzdxV2haUlJZbWtQbw?oc=5"
+    "【地震】宮崎県内で震度1 熊本県天草・芦北地方を震源とする最大震度3の地震が発生 津波の心配なし",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MZFZSOGN0QWl1WF8wLXNXN3VZeGR5ejFGN0w3LWhmWE9iYmxvMWJ1SWtqTlB4ZHVkR1Jwa2E2N0MxQVNmckxmWkE3M2V4UQ?oc=5"
    ],
    "samples": [
+    {
+     "title": "【地震】宮崎県内で震度1 熊本県天草・芦北地方を震源とする最大震度3の地震が発生 津波の心配なし",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MZFZSOGN0QWl1WF8wLXNXN3VZeGR5ejFGN0w3LWhmWE9iYmxvMWJ1SWtqTlB4ZHVkR1Jwa2E2N0MxQVNmckxmWkE3M2V4UQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T02:49:00+09:00"
+    },
     {
      "title": "倒木で道路の通行止めも発生 長野県内の一部で大雪による停電が続く 湯たんぽを入れたこたつで寒さをしのぐ住民も",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wWm5QS2ZESTgwOTFiVVctTVc0cEtkZklFS08zRGEzVkF1M2lOZzBVbUtTV2VfRy1xRHNfbEpOc2drYVZJZXVuZkZnRzdxV2haUlJZbWtQbw?oc=5",
@@ -1406,333 +1498,1143 @@
      "published": "2026-11-22T18:56:00+09:00"
     },
     {
-     "title": "「声掛け火事の時も生かせた」 大規模火災の佐賀関 地域住民が参加し防災訓練 大分",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iM1B4N29nZ1JqRnJvekxkV0RiSXM4WldPakYyUFk2X3ZfUXpWM0RCWlhramp3S1VZNVBJbVdhQzJDbHJJXzktRkticm55UQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T18:00:00+09:00"
-    },
-    {
-     "title": "福島・北塩原村 住民や宿泊客の孤立状態続く 大雪で倒木相次ぎ「停電があって大変」",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EazhXQjhCRG40RVBXMlcwdXJyLTRvQldqMERhbDl2eXVlQUpTNHlQZ2UxdWVvcHFWcFNpNlNUbllLVGlZeWExYTJsMVZKMjMxa2NhZjJKSnNtLXpabXNnZHJNaDJWZHZ5ODB6bk0xa09adw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T12:31:13+09:00"
+     "title": "「このままだと勾留する必要がある」 ニセ警察官に言われるがまま公園内に現金420万円を置いたら持ち去られる ニセ警察詐欺事件発生＝静岡・湖西市",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBud2NUQkdFS2VCRzVNdHRLcjd1OXU2a0FnT3BaV2l4MjVrdFhJa19mSXN3eXJOeVJmbjRiRFI3S0tzM3NPMUF4bnNUUXdiM0pVLWYxSXlPZw?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T15:43:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-11-15T10:03:37.040075+09:00"
+   "alerted_at": "2026-10-14T16:08:34.892553+09:00"
   },
   {
-   "kw": "遺体",
+   "kw": "登場",
    "level": "high",
-   "d24": 5,
-   "baseline": 3.3,
+   "d24": 4,
+   "baseline": 2.7,
    "ratio": 1.5,
-   "consecutive": 8,
+   "consecutive": 7,
    "days": [
-    6,
-    2,
-    1,
-    4,
-    1,
-    6,
-    5
-   ],
-   "latest": [
-    "新潟市中央区沼垂東の住宅で火災 建物内から1人の遺体発見 80代女性と連絡取れず",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBScE5MQTNCaGpzS09sV2hteDR4VmE5cThfei16ZFFQclVSclJWNU5nTE1GSGN5bDZxWV9aTG5UUlNUalFfb3RaOTVMWG9ZdXR4b2ZINVNiNA?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "新潟市中央区沼垂東の住宅で火災 建物内から1人の遺体発見 80代女性と連絡取れず",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBScE5MQTNCaGpzS09sV2hteDR4VmE5cThfei16ZFFQclVSclJWNU5nTE1GSGN5bDZxWV9aTG5UUlNUalFfb3RaOTVMWG9ZdXR4b2ZINVNiNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T19:26:00+09:00"
-    },
-    {
-     "title": "「爆発音が聞こえ、車が燃えている」農道で軽自動車全焼 車内から身元不明の遺体見つかる（鳥取）",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yNXF4WEhLNFRNaXhjT0xGa1dMWlQyQl9YTFFaYlgxQ21TUnZ3M3BHbVkwVjk5SktrT21tcmZtYXpiYUJoWWU3M1Vad0VPQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T19:00:00+09:00"
-    },
-    {
-     "title": "「爆発音が聞こえて外を見たら車が燃えていた」農道で軽乗用車が全焼する火災…車内から1人の遺体 車の名義人の男性と連絡とれず 鳥取・鳥取市",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGY2hGaXNXMm8xbF9NaHNmS2tFc0VVUHRPLVp5bFA4TGJXWEo4N3VxWHpTNFNieDV6MHFlUUFSaXFBVERQSFBTd0pNdF9JREwxaFk4X3JEVQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T17:00:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-21T20:15:22.457768+09:00"
-  },
-  {
-   "kw": "けが人",
-   "level": "high",
-   "d24": 3,
-   "baseline": 2.3,
-   "ratio": 1.3,
-   "consecutive": 6,
-   "days": [
-    3,
-    0,
-    2,
-    1,
-    3,
-    5,
-    3
-   ],
-   "latest": [
-    "岩国の遊覧船が座礁する事故 けが人はなし 原因究明まで運航中止",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83T3g5LWlNTGtYNHdoNndaaTFqdUJxa28wVG1RNVJRT0U5R2hoU2VHa1NybV9qSlZpSFJRZ0lJcFl1X3o1UHFCcnc2R2hZUQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "岩国の遊覧船が座礁する事故 けが人はなし 原因究明まで運航中止",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83T3g5LWlNTGtYNHdoNndaaTFqdUJxa28wVG1RNVJRT0U5R2hoU2VHa1NybV9qSlZpSFJRZ0lJcFl1X3o1UHFCcnc2R2hZUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T19:21:00+09:00"
-    },
-    {
-     "title": "愛知・小牧市で火事 自動車修理の事業所 けが人なし",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPRThwRnNPUGhxWXY0dDVZTFRxMUg2S3VNcnlRRDNSOFpIYi10OGNlc240N2l1NjFWYnJHZ1h5bU5mT0p3MHc2bVpBa1NqVWJsbVBPTEstLVVSUG5SaGp3?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T12:38:00+09:00"
-    },
-    {
-     "title": "カレー店で火事 4棟に延焼 けが人や逃げ遅れなし",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwM05wVnlncHJxSWI0NUVKcnJZdGYzNHFnLUpQT3JRbzZzVkpDTG9DS0lMd1FtM1F1YTRGUzVTVTdFZ3c0Y0h2SjBsX3owQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T06:36:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-18T15:22:21.996829+09:00"
-  },
-  {
-   "kw": "六花",
-   "level": "high",
-   "d24": 2,
-   "baseline": 1.5,
-   "ratio": 1.3,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
-    0,
     4,
     0,
-    5,
-    2
-   ],
-   "latest": [
-    "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
-    "https://news.web.nhk/newsweb/na/nd-20261122de79904"
-   ],
-   "samples": [
-    {
-     "title": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
-     "source": "NHK 主要",
-     "published": "2026-11-22T14:02:00+09:00"
-    },
-    {
-     "title": "六花亭 クレカ情報8000件流出か セキュリティコードも 不正利用1件確認",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WdmxvM19mdUFkLXVWNGY3VkxtajB4cVNUUElPUnZiWUxhckVneGFvVjlOMTFZUmtNY0w2RkNzUkREazV4MlVmclNTSnNSZXNMQXlKOGRDdnFQcER4dVdxMUMxNHFvMVo4dW9jTzNUNVRIdw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T09:48:12+09:00"
-    },
-    {
-     "title": "クレカ不正利用1件確認 六花亭で流出、再発行要請",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FaFJ2SndDQ3ZCQzI2Tk1UdFN1UkdYdk8wZjNFVmxEdDI2VE1JTzl4SXBvYl9mZG5ERGFpbGdVZUFMbFJMSVBjUWxiYw?oc=5",
-     "source": "47NEWS",
-     "published": "2026-11-21T21:16:18+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-11-22T10:35:56.036854+09:00"
-  },
-  {
-   "kw": "クレカ",
-   "level": "high",
-   "d24": 2,
-   "baseline": 1.5,
-   "ratio": 1.3,
-   "consecutive": 2,
-   "days": [
-    0,
-    0,
+    6,
     0,
     2,
-    1,
-    6,
-    2
-   ],
-   "latest": [
-    "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
-    "https://news.web.nhk/newsweb/na/nd-20261122de79904"
-   ],
-   "samples": [
-    {
-     "title": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
-     "url": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
-     "source": "NHK 主要",
-     "published": "2026-11-22T14:02:00+09:00"
-    },
-    {
-     "title": "六花亭 クレカ情報8000件流出か セキュリティコードも 不正利用1件確認",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WdmxvM19mdUFkLXVWNGY3VkxtajB4cVNUUElPUnZiWUxhckVneGFvVjlOMTFZUmtNY0w2RkNzUkREazV4MlVmclNTSnNSZXNMQXlKOGRDdnFQcER4dVdxMUMxNHFvMVo4dW9jTzNUNVRIdw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T09:48:12+09:00"
-    },
-    {
-     "title": "クレカ不正利用１件確認",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKSWgzM3B4V1Z5TklTTHBkTm9kTjNXUXlLakxKbnlrcUJibWxURy1ydDVoZWt2emtNR0Y1WTM4eWd5Q3g0MEpTdTQ3T2Qxd0g4al9GQXU5ME9HeUdUNEtlcFl0SWV0Rmdo?oc=5",
-     "source": "カナロコ",
-     "published": "2026-11-21T21:16:18+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-17T15:13:48.744681+09:00"
-  },
-  {
-   "kw": "目撃",
-   "level": "high",
-   "d24": 5,
-   "baseline": 4.3,
-   "ratio": 1.2,
-   "consecutive": 9,
-   "days": [
-    5,
-    6,
-    1,
-    3,
-    6,
-    5,
-    5
-   ],
-   "latest": [
-    "住宅街で体長80センチのクマ1頭目撃 付近には学校も 仙台・太白区",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82RHJxUDc5RUM0dlhTd2hva2tWQWt1VXFUMGdhVUpUVVUzN3J2Mk9qQ1ppd0J0V3puaWVhcmtZVU8xQnRIMDVldFVBSVNsbVFyc1pJSmdPSQ?oc=5"
-   ],
-   "samples": [
-    {
-     "title": "住宅街で体長80センチのクマ1頭目撃 付近には学校も 仙台・太白区",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82RHJxUDc5RUM0dlhTd2hva2tWQWt1VXFUMGdhVUpUVVUzN3J2Mk9qQ1ppd0J0V3puaWVhcmtZVU8xQnRIMDVldFVBSVNsbVFyc1pJSmdPSQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T22:28:00+09:00"
-    },
-    {
-     "title": "広島県内のクマ目撃情報 過去５年間で最多の640件超え 県は「危険な個体の捕獲などで安全確保」",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Mek04V2ZfUU5CYmpuNTE0clo1SnE3UWNCVjdzOWJadGE4bXpjNXNra0FmcXVjcWNhbFZGenVZcTVtN1c3aGVmWWdBREVDaVN6a1V1YXpfMA?oc=5",
-     "source": "TBS NEWS DIG",
-     "published": "2026-11-22T12:17:00+09:00"
-    },
-    {
-     "title": "連日目撃のクマ 発見至らず 緊急銃猟実施へ 捜索続く",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83MGpvU29YZGl4WkVLNHVLVU5KTFJKOEk3SU5KeW9aOUtHUDQxRFhvNlpVMW9tTE5CcmYtNktuUnAyOTJnOU1qcm5walRLQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "published": "2026-11-22T06:15:00+09:00"
-    }
-   ],
-   "watch": false,
-   "alerted_at": "2026-10-21T00:17:13.999149+09:00"
-  },
-  {
-   "kw": "天気予報",
-   "level": "high",
-   "d24": 17,
-   "baseline": 15.8,
-   "ratio": 1.1,
-   "consecutive": 14,
-   "days": [
-    7,
     4,
-    16,
-    20,
+    4
+   ],
+   "latest": [
+    "カナダ・カーニー首相と記者との夕食会に“トランプ大統領”登場?",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNHQwUzMxb2M0X3lPMmJ3cXhTXzhRczkyLVFqU1k3WTJRN2hxck9rd0wtVGlLU3U3Ri1aZ0lkbmZOcDlJMXFHaWo0QjJiNHdUSjN5c1owWQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "カナダ・カーニー首相と記者との夕食会に“トランプ大統領”登場?",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNHQwUzMxb2M0X3lPMmJ3cXhTXzhRczkyLVFqU1k3WTJRN2hxck9rd0wtVGlLU3U3Ri1aZ0lkbmZOcDlJMXFHaWo0QjJiNHdUSjN5c1owWQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T19:17:20+09:00"
+    },
+    {
+     "title": "カナダ・カーニー首相と記者との夕食会に“トランプ大統領”登場? (TBS NEWS DIG Powered by JNN)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW11d3dJVHZNNGR4b1cxR1pjMnpMZzl1ZXBFZ0tZeDZFRi1vQ1hreXpjM2dzMFJSWUZ4NzctZGw3LS1qZGZtRkxhdUkyOWk1Qk9BRDZUOTJlWjNVWEpxbk5VRE1JaldPY3VSZkZINFlGVUhUckFfVi1kM3VzdjBVUHJCTkNzdzlJTzZlNVlR?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T19:16:15+09:00"
+    },
+    {
+     "title": "すっぴん?で登場【 平野ノラ 】大好きなマイケル・ジャクソンのドローンショーに大興奮「ジャクソン5の吐息が聴こえてくる」",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zcFhEY05aOF9tV3F1c1UwNDRSUzJBYUhxR0N6Rjk4dHYtZFU2b05rSDBwZFVUUlZFWEE0OU9nR1VvYjY3TEdfY0hpSnhvOU5PanhFdEFsbTZnV2lKWkRFZDBUUEpRTGJSMkRySGhLOVZZUGh1M2dwdXYxdUt6MFU?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T10:23:13+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-23T01:54:29.241672+09:00"
+  },
+  {
+   "kw": "予報",
+   "level": "high",
+   "d24": 41,
+   "baseline": 29.0,
+   "ratio": 1.4,
+   "consecutive": 20,
+   "days": [
+    12,
+    24,
+    31,
+    37,
+    36,
     34,
-    14,
-    17
+    41
    ],
    "latest": [
-    "【鳥取県】11/23の天気予報",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2THdpQjdCVy1LN3dfZXdaY0xWRnNSbnphcTdmMzZDci1RWlk4cTZLX3h0UDdiTlJVMEJ1T1Voa0pqU0hSai1LT0d3WXpuQQ?oc=5"
+    "【北海道(宗谷地方)】11/23の天気予報",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5"
    ],
    "samples": [
     {
-     "title": "【鳥取県】11/23の天気予報",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2THdpQjdCVy1LN3dfZXdaY0xWRnNSbnphcTdmMzZDci1RWlk4cTZLX3h0UDdiTlJVMEJ1T1Voa0pqU0hSai1LT0d3WXpuQQ?oc=5",
+     "title": "【北海道(宗谷地方)】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-11-22T19:30:00+09:00"
+     "published": "2026-11-23T05:10:00+09:00"
     },
     {
-     "title": "【長野県】11/23の天気予報",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Wmk1TXAyejQ2UG1LLW8yN1d1ejlqa1F0WGd0OVppd09mYkx4dTZaZ0ZmVjhzT1NjVlppT3FpQUVCWUc1VF9uRFQ4aEhvUQ?oc=5",
+     "title": "【岩手県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fT1NjX2s2NmJCSUJrMVpBUzlhY0ppNFZob3hpODM4M1RxZmpuSV9VQS1RbnZmLWVldzlwN1ZQMXNDQV80a29nTk5Vd3NrQQ?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-11-22T19:30:00+09:00"
+     "published": "2026-11-23T05:10:00+09:00"
     },
     {
-     "title": "【広島県】11/23の天気予報",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZaE11OU8xX2J3c1JFTUhYNnh3RHkzaUtxNU1FWTJpTWZqc0JwYXhyaS15SUZaWDROVFREWngweFNlOURHc2JzMllmbTR1dw?oc=5",
+     "title": "【福島県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTWJfbGVwcWJYRGRTQ19rUFFqUE4zV2dxYWVNTm9peEpoX2ROVlVfY1ZzSkQwb2p4U3FpVFgtS091Q3pGTG1PTHRFRWdDdw?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-11-22T19:30:00+09:00"
+     "published": "2026-11-23T05:10:00+09:00"
     }
    ],
    "watch": false,
    "alerted_at": "2026-10-13T20:49:50.638112+09:00"
   },
   {
-   "kw": "埼玉",
+   "kw": "鹿児島",
    "level": "high",
-   "d24": 5,
-   "baseline": 4.7,
-   "ratio": 1.1,
-   "consecutive": 12,
+   "d24": 7,
+   "baseline": 5.2,
+   "ratio": 1.4,
+   "consecutive": 7,
    "days": [
-    6,
     3,
-    0,
     3,
-    7,
     9,
-    5
+    5,
+    5,
+    6,
+    7
    ],
    "latest": [
-    "【埼玉県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hdnNCVS1yOW1XOGRsZVlqVjg1MlpZWlZtYmk0QVlkQmVmYTV1UjBOdU45WXhpN1E5ek9MSE55U3RuWkxWZ0V3aFFZRmZGaUhEYzRCMGlMWGIwY250UnJiRmVhNDFkVHYtUWxWVzY2dmhzUnB0RUVnMkVXdENVSTQ?oc=5"
+    "【鹿児島県】11/23の天気予報",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nNW1sSkV3V0lvak8zWGRkSjhMZnB5S2pUTGZyUHQ1bm1yS1ZNbndGMTcxZGhTY3BDbGVqTTlDWFpRLUF3eHJCcDE3ODZJZw?oc=5"
    ],
    "samples": [
     {
-     "title": "【埼玉県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hdnNCVS1yOW1XOGRsZVlqVjg1MlpZWlZtYmk0QVlkQmVmYTV1UjBOdU45WXhpN1E5ek9MSE55U3RuWkxWZ0V3aFFZRmZGaUhEYzRCMGlMWGIwY250UnJiRmVhNDFkVHYtUWxWVzY2dmhzUnB0RUVnMkVXdENVSTQ?oc=5",
-     "source": "Yahoo!ニュース",
-     "published": "2026-11-22T19:30:45+09:00"
-    },
-    {
-     "title": "住宅火災1人の遺体発見 32歳男性と連絡取れず 埼玉・所沢市",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oSVlKamM4c1RYdk5qN29IdTEtb055VU9sNmFyYjhVR3AtVHlidzVKOTN1Q3hlXzJQQ1JsWmlCNzh0aDNlUjR6enNGZmxIZw?oc=5",
+     "title": "【鹿児島県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nNW1sSkV3V0lvak8zWGRkSjhMZnB5S2pUTGZyUHQ1bm1yS1ZNbndGMTcxZGhTY3BDbGVqTTlDWFpRLUF3eHJCcDE3ODZJZw?oc=5",
      "source": "FNNプライムオンライン",
-     "published": "2026-11-22T12:43:00+09:00"
+     "published": "2026-11-23T05:10:00+09:00"
     },
     {
-     "title": "関東で未明に火事相次ぐ 埼玉・所沢市では1人死亡",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zWTcyaG53RE1Ncm5NQ3ZuNjZnd1BFblBhSFJUbVdHamhSWDVENnFiVnZiT3RtV1ZtUHVCMnlzcS1JUWdZVlY4NkY3Ull2YmZJUHh1S1AtYU55WUx2ZjNwaUtXSmxtYWU3akJ0NXhoeHp0Zw?oc=5",
-     "source": "テレ朝NEWS",
-     "published": "2026-11-22T12:10:07+09:00"
+     "title": "鹿児島レブナイズ ホームで香川に勝利 Bワンリーグ",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtNVhPeF9iYmJmMkwweWhld3l1bkF5eFMtRjQ5dktZTkJhV3RkdzRPUkNWbDhtb01QTmp3N2hUSm50MldTRkxiU2dYbkNLdXJFSDVwcXFEOWpSMUNxV3JkS2ZWZXk?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T18:19:00+09:00"
+    },
+    {
+     "title": "鹿児島 安納芋を使用したグルメの祭典",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KclgwdDRLd2pFbEMxZ2lfelk0WjN1WEE5Vlo0YU1maXNlRVRTLTE2TU5ncXZBVTNWRmlYbGF4ek9SQzk5VnpxR1pIVE4yZw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-22T18:02:00+09:00"
     }
    ],
    "watch": false,
-   "alerted_at": "2026-10-14T21:52:59.861526+09:00"
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
+  },
+  {
+   "kw": "捜索",
+   "level": "high",
+   "d24": 3,
+   "baseline": 2.2,
+   "ratio": 1.4,
+   "consecutive": 6,
+   "days": [
+    3,
+    2,
+    1,
+    1,
+    1,
+    5,
+    3
+   ],
+   "latest": [
+    "インドネシアの人気のミルクキャンディー「ミルキタ」製造工場で大規模火災 3人死亡、36人の捜索続く",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbVVJWkJzVXpCUnZwWjlQRnJwQTVGMmdUM3BiNHlXMVAxT0VENDRBdFZQU05LUWFSX1RjeFBkcmxoUGdTdkFOWlhzc2U3MnhPR2JXZEtMZGVNVS1aaTFiQ0ZrcGRUX1hDdjN3ZEVrR2g1Ul9EdXlrWUR5QjNwY1E?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "インドネシアの人気のミルクキャンディー「ミルキタ」製造工場で大規模火災 3人死亡、36人の捜索続く",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbVVJWkJzVXpCUnZwWjlQRnJwQTVGMmdUM3BiNHlXMVAxT0VENDRBdFZQU05LUWFSX1RjeFBkcmxoUGdTdkFOWlhzc2U3MnhPR2JXZEtMZGVNVS1aaTFiQ0ZrcGRUX1hDdjN3ZEVrR2g1Ul9EdXlrWUR5QjNwY1E?oc=5",
+     "source": "Yahoo!ニュース",
+     "published": "2026-11-22T16:50:32+09:00"
+    },
+    {
+     "title": "福島県郡山市で中学1年の男子生徒(12)行方不明 警察が捜索",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjelhnTWpnaklHbDQxWlVSdHBDQzJHNnRoRjBIRFNOdUJEUnpFRzVYcTFTbHNBWWthUzNiTFlyQ09KZS1kZmk0UTM3eVp4Qk9TUXVfeXBBcFhXZFdpSkNXTlZGSE4?oc=5",
+     "source": "TBS NEWS DIG",
+     "published": "2026-11-22T15:00:00+09:00"
+    },
+    {
+     "title": "群馬・前橋市で不明の親グマ捜索続く パニック状態で排水路に移動か 厳戒態勢",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXNDEyNDF3c1RnVndKY3lmRC1PQmlNS3ktcUoyWGFJbktSS2xYNng2XzNTblUwLWpTUnJFcnFmdG43dWwxSzZOZVNPdGVvOU52STZXRHE1bkFIYjZhRTZnbmo3ZkxSOTQxRFJRaEhxNmFWUQ?oc=5",
+     "source": "テレ朝NEWS",
+     "published": "2026-11-22T12:11:05+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-11-22T17:51:43.828354+09:00"
+  },
+  {
+   "kw": "天気",
+   "level": "high",
+   "d24": 42,
+   "baseline": 33.5,
+   "ratio": 1.3,
+   "consecutive": 24,
+   "days": [
+    21,
+    29,
+    35,
+    38,
+    44,
+    34,
+    42
+   ],
+   "latest": [
+    "【北海道(宗谷地方)】11/23の天気予報",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5"
+   ],
+   "samples": [
+    {
+     "title": "【北海道(宗谷地方)】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T05:10:00+09:00"
+    },
+    {
+     "title": "【岩手県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fT1NjX2s2NmJCSUJrMVpBUzlhY0ppNFZob3hpODM4M1RxZmpuSV9VQS1RbnZmLWVldzlwN1ZQMXNDQV80a29nTk5Vd3NrQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T05:10:00+09:00"
+    },
+    {
+     "title": "【福島県】11/23の天気予報",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTWJfbGVwcWJYRGRTQ19rUFFqUE4zV2dxYWVNTm9peEpoX2ROVlVfY1ZzSkQwb2p4U3FpVFgtS091Q3pGTG1PTHRFRWdDdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "published": "2026-11-23T05:10:00+09:00"
+    }
+   ],
+   "watch": false,
+   "alerted_at": "2026-10-13T20:49:50.638112+09:00"
   }
  ],
  "events": [
+  {
+   "id": "8e45a0e3e839db04",
+   "title": "たまごっち30周年「復活」の歴史",
+   "url": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
+   "source": "Yahoo 経済",
+   "published": "2026-11-23T07:11:46+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8f3209bdf68119c6",
+   "title": "「たまごっち」苦境乗り越え３０年 人気は世界へ―バンダイ：時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0aDA1dnFBYlJjZ1MydVFkSkoycjlwWTRBWXlLR2JQMFg4RHFOQ3hlSlhxV2w5NkF4anJnQ1pJdmV1MzRHZjUtbWxFWkVyaUNPdGYxS19fczRubHF1RWtpUTM5dw?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-11-23T07:04:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "494eea6c0e6b9d5a",
+   "title": "｢場合によっては死なせて…｣｢運転して逃げた｣捜査段階の自白を｢信用性が高い｣認定 57歳女性が大型トラックにはねられ即死【判決詳報･後編】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KTVdQWUdSVXlYa2dHNk1LRmpHTDBsUlptalpKb1Nqa0t3ZjRBSzhGbzFhYzdQVkh1bWI2YmFBNFdOYmtyOXg2Y3Y0MndPd19FY2tlcURtQnZibVV4T2FzMC1DMnI?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T07:01:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "d541228d51282c68",
+   "title": "「これ勝たなきゃ意味ないぞ！」17年ぶりJ1千葉ダービー、ロッカールームの激昂と選手証言で紐解くジェフ千葉勝利の舞台裏【KICK OFF! J】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yYVdtQllZSi1LcXlCOUswT0pKMjg2dVI5SjY1MWh6WUJtaEhyaDZFQXhpanVYa0NncFY3bDRZbUZXZTBBZVF1ejJadjFuTUxsU095enBZaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9234c289915e4dea",
+   "title": "青信号の横断歩道上にいた57歳女性が大型トラックにはねられ即死 右折中だった48歳トラック運転手\"ひき逃げ\"無罪を主張【判決詳報･前編】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yRG1FTUIwQlNyQTlJdU1YRVJrTjkxQXVRZk5VanhpLUdwYnlsVEcydGR6WDVBak41YmViYjBrVmN0cWNQTVFVTWc3Zjk5OWVWd3M2ZHlySkY4VnUxTlQ1N3RGM3Y?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4ff6ed30713deac4",
+   "title": "「やられちゃった」とケガの写真を見せ…古いケガも混在、ホテルでのトラブルも 元『egg』モデル殺害事件、悲劇に至るまでの“数々の予兆”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HYXYyZnIxR2NpNlNhMDllcjA3YnNJMEdjZW0ycmdjaDJqQkJCb3R5YTFyNjRwV2xTUzY0QVE4THJhTnFSbUd1M2JVbFIyOUtmcnE3ZTREcklmMmxFOUlZc05WcFpKY2Rybjloa3I1R2p0UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-11-23T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c7fbd41ca26fbafa",
+   "title": "日本代表MFの“一撃必殺キラーパス”が「えぐい」「キレキレやん」背後のチャージも“腰を落として”無力化「良い潤滑油」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TY21iZFZ6djBvcURaVkZPMnJySVA2M2t5bFhyaElLTWJhQWs0TU5zN2JENG02SUhBM1BKNkZsWThGdXFGd0RwQlFtd20xOWZiaXl0RElXNmJfMnV1QU5PT3ExZlk1eWhDUGdYVEZOaHg?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-11-23T07:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9cf9069bf803ffb9",
+   "title": "COP31 合意文書採択できず閉幕",
+   "url": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
+   "source": "Yahoo 主要",
+   "published": "2026-11-23T06:58:55+09:00",
+   "keywords": [
+    "COP"
+   ]
+  },
+  {
+   "id": "8c1f1c8d54d576ce",
+   "title": "リビアでロシア軍艦が爆発 ウクライナの水上ドローンが攻撃か",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mQmZKMG9iZUZpMUFjcHZJSUJhZVNIblZEb2FIX0Rpc3hVejRNTU1uQ0ZJd3NmMURnNE1hdDZvUXlENmUweWcybTd4R2tsMzFlMW9HdGRPOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T06:48:25+09:00",
+   "keywords": []
+  },
+  {
+   "id": "595e8d85a738325d",
+   "title": "「トクリュウ」報道授賞式 極秘アプリ独自入手・解析",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWV01fbUkxaERVTjdRRnVldTVwYmNYaFJfak9hN1JrUDZjX1lpR01wbGtsMHp5VkNCMkFfbHhZNFhNQjNkd290bEsyLTBhUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T06:46:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a65a7d4d219f14e2",
+   "title": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261122de80078",
+   "source": "NHK 主要",
+   "published": "2026-11-23T06:42:23+09:00",
+   "keywords": [
+    "復元",
+    "正殿",
+    "首里"
+   ]
+  },
+  {
+   "id": "62216d1e3c60fd86",
+   "title": "リビア停泊中のロシア軍艦が爆発炎上10人負傷 ウクライナのドローンによる長距離攻撃か",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pQ3NIZXBEa0xjTVdHbEVUVTNLbjF4SGE4WkNpZGtpVjdiZXNwNko4YW40cWR2WlVuN2hEX201TGV3SWRmWUJSbjFGa29zRXhIOFQzSC1vbk1WcFZPRkExVWY4clBCekh0eFZ2RXY2bXRNVlllcHZNQU91OXNwTFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T06:38:53+09:00",
+   "keywords": []
+  },
+  {
+   "id": "ea03539f045f2ea8",
+   "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYlVsbUtGSGJaWklGS2xiN0tqMEY5bEhyZ3NkT24yVlVEQnFVQ2lOcG1Ca0lJc3EyRGtuTWpLVVE0M3RiV3ZzMFY2MFBTcFloOThjSmZPek5hYWM0Tjg5aGxabDFWRHdXVVFqWHlvaFE3WnBkLXIzR1Fwa1pmVzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T06:34:38+09:00",
+   "keywords": [
+    "正殿",
+    "焼失",
+    "首里"
+   ]
+  },
+  {
+   "id": "5b72feb4894b2ab5",
+   "title": "「普天間」会議年内開催へ “関大臣問題”は「説明を」（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WGxKS1h3elpTRlp6WEFPSllPaTRwMFBZYkJlWGRCNnBrZ1BRSmJ2VnpNTlNlY3V0LUhCLXFuTV9YVTFSRWlXVTBPR1V5OFpnTkdEMnRjcE5sdGg1dTVobGR2X3lyMWU4WE51bDl3ZjFDZWlEeUxtNzVPdkliZzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T06:34:20+09:00",
+   "keywords": [
+    "普天間"
+   ]
+  },
+  {
+   "id": "11483995c63684a1",
+   "title": "【動画】Pickup NEWS（11月23日）",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261122de80066",
+   "source": "NHK 社会",
+   "published": "2026-11-23T06:31:24+09:00",
+   "keywords": []
+  },
+  {
+   "id": "6f461116c6a50219",
+   "title": "「舐めすぎだろw」新怪物・オリーセが挑発？ 相手の目の前で“まさかの行動”「遊んでるやん」相手2人を翻弄する“余裕の足技”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tVFBKaHVVNkkxQ3h2cWdGWEhkVFZBbUdmeDJ3QjBCOExMNktUcndrMlNkb3FzR1VkaFhVdUdpZmZkT09rRV9rdlZ4WEtIS2Z0WGVISEJnbEhJTGZqMGZMcVpTSnc3QnBpVGt2T1hadkk?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-11-23T06:30:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "fa3839873f0dddb7",
+   "title": "為替相場 23日（日本時間 6時）（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rVlNfRXhDS1FNTW9icm1pV0RfS25MQllRNzBrX2dKNVpsWDNKNzBZZEh1R09OVnQ3OERRUWU1YWlfZUthS2pETFZ1SXlhVTQ4aldhM01yanNEVFNrTERMQzFJbVRzdGtLd1VZVmhIR0JSMGV2TlcyeHRWRFJ5Nk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T06:29:21+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f3aec2fefd231f68",
+   "title": "衝突事故で女性が死亡　子ども3人乗車　男を逮捕　香川・高松市",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1hRUG9HaWJWVmtaajczQWZDRUJqcHN4UDRfek9VWHFDYlk4UzNhSENwWV94Um1VTWZualpmTWh5R2hXVG1nX2lVMmJEVXBwUDhac252ZW93QkhGZnhabHJ2dTE4Q2pfUnpKY3RMNkNaeHlEbWx5TnpheWdoY2lWejFmLTdnUVHSAYwBQVVfeXFMT1RYUHlhbnpucnRYVU44QUhHelNhMVRDNnhabmViUzBHclhsNEpJODEtV24weFhIMFJCUkFLY0ZhMTJ5bkIwazc5MDRoeUxhMjNqRGIxQllpSmZDdTNUMjJPd25BbGtPbV9sc29vaVpKSHNqOXBvbWd4cVdDWFNFaWpMZDMxTWJGMnFDeks?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-11-23T06:28:04+09:00",
+   "keywords": []
+  },
+  {
+   "id": "db2c9fcb764b4093",
+   "title": "「米中経済安全保障レビュー委員会報告書」の台湾の項を読む（前編）",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YNXo3VzdfNHhkV29tQnpMODF4Q2daYkxSRXRVWE9zblBtdmN0QlFXbUV5UUdUd1d1aGphRVFYVE1HZEh4Y1ZQTzFGM19ITUs4WXhPTC1oeTJhaDg?oc=5",
+   "source": "アゴラ 言論プラットフォーム",
+   "published": "2026-11-23T06:20:40+09:00",
+   "keywords": []
+  },
+  {
+   "id": "76ef9fc20040efb8",
+   "title": "野党 関文科相辞任求める声強まる 木原官房長官“説明が重要”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80109",
+   "source": "NHK 主要",
+   "published": "2026-11-23T06:18:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "79d80a9ce4ff9cd8",
+   "title": "けさが寒さの底 東京都心で今季一番の冷え込み 日中は東・西日本で広く行楽日和",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GZnRBb0R2MEJUQ2MtbnpZcVlDa29CV0xTeVZwSnpQMEozSS15OFJkbVhSVE4tTmFjODR1bUxhYjMyX0xSc2YtQ0t4R2w1ZjhLYTRWVVNMcw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T06:05:32+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e0b3b8e6961b0655",
+   "title": "「このチームはこれで終わるけど…」通算113試合77勝“歴代最強”の森保一監督が最後の円陣で語ったこと、そして「日本サッカーの希望」【KICK OFF! J】（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03X0RRbGhBX1pzTEFxRHFCQkRsdEstcVpNVkU0d0Y3TUZaeWlwb3FDT3N6dlhzMUV3cnl5NHNRMHVPV1NWc193MkpCb3hYSEtKQm5ZX1BsZjk2MjlpalJETE1POWpBalpvSE45NDNRWXlPRGdPVDNsS0hGZU5lSWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T06:04:02+09:00",
+   "keywords": []
+  },
+  {
+   "id": "cf64622db0fa999d",
+   "title": "住宅街にクマ出没の前橋 地下水路に潜んでいる可能性 警戒続く",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261122de80089",
+   "source": "NHK 主要",
+   "published": "2026-11-23T06:01:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c3457c4351088098",
+   "title": "11/23(祝・月)宮崎県内の交通取り締まり情報",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sZW9XX0d5UEdrUDE3VFkxbU15Vk9QbXNpNlNMODdZaGRVYW8xTk1hZ3lmOXBqQXQtQjEyei1qR2Z5Y01BYWZXd0d6ZFF3THhyVmFDMzFjbw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "594c19cd71ca0a29",
+   "title": "「このチームはこれで終わるけど…」通算113試合77勝“歴代最強”の森保一監督が最後の円陣で語ったこと、そして「日本サッカーの希望」【KICK OFF! J】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCLUhGc2xIU0NtV0NfLWpKQ3dld3dsamdGOHk1cm5pWlMta1U1M3NRazNta3VQcnN1MjlfdTBpcEJXLU1SVjJMTmkwd1hyU1l0bzZ1UENzTQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4c5f38cffd1b76ff",
+   "title": "「リストラ告げる側」から人事のプロへ、We Are The People社長",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSbmwxcFpyS3Z5ZzJCeEJkeVBvVVpDSzI1azZDc3lUeHFlMUdLVXJwSkFzUmVuZ2xBaGdpOTVsRkkxdmwzUTlydFpoaFlLcDlYcWJ2Z0V3RnE4Mi1CY2J6OWI2UmZITWFKYWxhcg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f833e465b6df5681",
+   "title": "為替相場　　23日（日本時間　6時）",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemRCOU5saTdpT2tpeDBzenFwMVJIdDBxbjU5Ui1WOGphQ0RGeEVGNkgyREozYUJNUDZyLVoxbG1TT0JWcng5dGc2U0E1QUxRblBFUmRHWmpkUmpaQVFwTFE1b1JheWR1Y2Q4TXcwdG5XSDJqYmJQZHhyejgxR0pXOWloQ3hoUWhOLUVvLVpCUUhVbDTSAZMBQVVfeXFMUHpkQjlObGk3aU9raXgwc3pxcDFSSHQwcW41OVItVjhqYUNERnhFRjZIMkRKM2FCTVA2ci1aMWxtU09CVnJ4OXRnNlNBNUFMUW5QRVJkR1pqZFJqWkFRcExRNW9SYXlkdWNkOE13MHRuV0gyamJiUGR4cno4MUdKVzlpaEN4aFFoTi1Fby1aQlFIVWw0?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-11-23T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "58981cdf6afd1249",
+   "title": "【Ｔｏｋｙｏ とことこ散歩】石畳の路地と江戸情緒、そしてアルパカ 多文化が溶け合う神楽坂を歩く",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zQUMtYVVuUUJwb1A4b1FJZTF4THhuVE81WlJtTzlUa0FBSU4tZFltemdzOVo5aDYxRkx0ZEhSbUtSM0lxRGJpa2lrOA?oc=5",
+   "source": "47NEWS",
+   "published": "2026-11-23T06:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b539396e6e35fb30",
+   "title": "男子中学生が行方不明 警察が情報提供呼びかけ 福島・郡山市",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRUdHVllyQ2FhMVdjeGt1Z3Fwa0xuQi1qTDFkd2duOVJoX0NrdzFFS2hHemtVVm9xZjdncllPWHNKcm5zeDNFdTZYUkdoSUxKTlNoYllSTExOeGNLc041U3FrWEdJTWotcUJudWpPQkE0QQ?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-11-23T05:57:19+09:00",
+   "keywords": [
+    "福島",
+    "行方不明"
+   ]
+  },
+  {
+   "id": "84477002d250f4bc",
+   "title": "焼失から7年…「沖縄の誇り」 首里城正殿きょうから一般公開",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydVJLaklSNnhpUmVPclhPeklfd0x4QmdnTEtkRWtELWgzYWZoR0ZMY01KSjRoMXdjMTNCcUh1dU85Wi1kNmMxSV9GTldlakVvNE5jXzNNME9vNTdlREhGbDhtZ2lfUU0yaGo0aGJsa2xpZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-11-23T05:57:18+09:00",
+   "keywords": [
+    "正殿",
+    "焼失",
+    "首里"
+   ]
+  },
+  {
+   "id": "9cf561d8d2ff7c0a",
+   "title": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
+   "source": "NHK 主要",
+   "published": "2026-11-23T05:40:07+09:00",
+   "keywords": [
+    "インドネシア",
+    "火災",
+    "行方不明"
+   ]
+  },
+  {
+   "id": "b30d7261fe725c81",
+   "title": "【大分県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mSXp3NnBUTFg0aDhhaHk1V1pUdjE1YjEyTkJub0dCWWE4R3Z1QkFVWWprQS1uU2xyS2Y1RGhFSHpTTVRmbm5MX1pUXzB0UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "5458160ceb083188",
+   "title": "【大阪府】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wSDA5RjREcUluUHQtTHdoT29TWlM2eTREaWFEaXYzaG0wZ1BNZU54Z3NMcC1TSzhPYkdjZVZVXzFod1g5WWMwSU1RVGkzQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "0a47a91a83e1e910",
+   "title": "【岡山県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWUVEY3VDaklwMWt5RzdNUUdudmk3NExxZXFDRXlfdWxXWmFJNlJJamJiWm13YWNSYlU2VjFlN3lxZno5c2JoeDJlLVd5dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "7ba132e4c2ccd36b",
+   "title": "【佐賀県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuWkh3NzgyTWxlZ3o0MFNUay1McU5Kd3lSZFJ6UzIzNzRaUGZJWjk2YmtrQW5STzNqTTlzWnBDeTBZV3hhR1UwZUZ4LW1qZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "5f87a9357e247ad4",
+   "title": "【福岡県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhVHFJbHNLQ3YyQ1duY3NNeHBMX3R5MlBNMW9DLUkxNzhDRjU2dmU5dkw5MDEyNzR3Y2V4bkRWVmtLbE9sUVB2Z3RSdFBYQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "b7a0337af28852aa",
+   "title": "【群馬県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxWnJYdWpSV0FvR2ZjeEpzN0cyWnc2WlBkVmw3cUJXdThKMEpwaDdULXpiWlRXX0pOWW5ES1hqWkppcXdWelRBTWc0MERMZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "c128e2502d96c413",
+   "title": "【香川県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SRWd6c21DdTA3ckU4TW05Tmg1cUg2YzZZWDd0YWtIUV9kV2twNTV4Z0ZjeWFuczFvZEUyM1FISnNENWFTNVRRRk9TY2NHdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "5506c3103b23ad7d",
+   "title": "【京都府】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCUkdNVVN4bnpzM0VET1VkQlc4RUxLbGx3UmFuZnQtT2E2ck5YandmSEdtUEhNdHhMQlZjQUFQeTRrMjVLQVYzbEpxSnVuUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "932e0ddd9f0db323",
+   "title": "【富山県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qR2JELWswamNBZU5jbFhSaHhpMFhEc1k5YjFJRlZyeVNZQ2hIMmhnZ2lzVnZma2dIZnRCVWgzbTJ3ZV9qOG9zNnlsWTA5QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "38f6348167ac4c3f",
+   "title": "【山口県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PalVGVjN0OXBOcVlOSHA3NTlidThXSFEyM1NRVzg0dHhzdDc2RHRFbDNqNHk5S2VhQjZmYUNoclE3cGxDZkVZRFZweVFvUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "2ccfa7f76379a56e",
+   "title": "【宮崎県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43VzVvVnhJTlkyMGlkclh5UUVwMzJCVHBaYVlrcTVxUE05V1MxTWZzRGsxTTJFbGJKbC1pNjhYX3h2c2xHZjZHazNfTEVMUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "7b7d64b1d7376197",
+   "title": "【山梨県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xc3BtaWFKbE1zejIxeDhTRm5ZQWZMb3JSMFBBeU5xU09mTVdBNjlIazE5dGNLM2Foc1JHVUZHa3VrOWstVEF4eXN5RUlOQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "9ced92f49ddc7bdf",
+   "title": "【新潟県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LNkxoWUROR1RwX3pNSDhNUjBoNWpYTFhnYVJvX0pRcGdPcFVERVRHSUgzM3oyQlQ1YWRvYUphU3piTVNyQ1A2TzNpTWNxdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "3dc2f574650449aa",
+   "title": "【沖縄県(宮古島地方)】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xMTR2aUcycDVUOWp1SkU5b2JLUTdrU250N29Bb2w4bzJyOUZrX3lQQktMNWlzMjZiX0dpUDNiTXJCSl9kd1NQVXIzbWZsUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "80cc8d97b7ce86f4",
+   "title": "【福井県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aYmdoUzFyeWtsbFVUbDNrenQtQUlUQ0FJV2kxZld3RHVVTW4zV29nQ21NN1hraDJpc1d6MlZxZVRUMjlQdmdHMlZnXzNkUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "744afbc10422c035",
+   "title": "【熊本県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PMjV6SW91ZF9zbEUwVDctREZOSldSX1ZlN2NHVktkV0RkNzhQSTFGZFdzSGNDb1VVUkdBODdvMTJoXy15TEdtRUpjN3Ridw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "62fdf94e32619079",
+   "title": "【徳島県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1COVdDckU5Q2JHT0JSU3NrQlRyTE1rbS1zZHRqYi1YT2JneUd3MGphWEZlOE5oNWg2Y19MSTJjb0lsS2JIdjlxRTdiaEJYUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "cb9664cc461d2796",
+   "title": "【秋田県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xVlNneERoOExsdFdzYVdWcFVMNWhzclplQUtOWWJRNkF6REFTZzREQU1PWS1rbWZzX2xXV3dBZ3RQTzFnT3RhY1A2TXBLdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "441f3bdaf7cc786c",
+   "title": "【愛媛県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Dd3hJX0NNcGlDcHk0WVZmbjlsNEFzTzFKUGhBVFN0MkVzTnBqX1dFVEZXQy1TQkVFVW9FTkM3YS1FVmxDNmtzUC1zOVRMUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "c1c0674f7bff88bb",
+   "title": "【三重県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lZXhvTXFva1hJdGMybWVnczBhZktWXzI3QnZqN3pNVmhFSHNMNFRZRlZwcnh4NzVNbXhFZEszQ0hzcDNTX3dUU3ExckpKZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "9883c56cfb9fa88f",
+   "title": "【岐阜県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Cck9XT3g5SFBkX2JzX2hIdm5lbzBoS0kzZG1FZGtUTnlaSE92eWNveGtGMmdQU0lRcko1dzFtRmhVdWk4a0wtazJOY1hTQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "af9bb9487e9be18e",
+   "title": "【島根県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xWGVnS3kzcXJKT2N2Vk53d080SFllVUZRb3hOdFl6WXV0Zk44cFhXaEdYNTF1M2NnbnVaSVRkNjhmeDZDNVNlWXZpTllaZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "048d41a1a9a6d67c",
+   "title": "【鹿児島県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nNW1sSkV3V0lvak8zWGRkSjhMZnB5S2pUTGZyUHQ1bm1yS1ZNbndGMTcxZGhTY3BDbGVqTTlDWFpRLUF3eHJCcDE3ODZJZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報",
+    "鹿児島"
+   ]
+  },
+  {
+   "id": "19bc14c7cd5b6c81",
+   "title": "【福島県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTWJfbGVwcWJYRGRTQ19rUFFqUE4zV2dxYWVNTm9peEpoX2ROVlVfY1ZzSkQwb2p4U3FpVFgtS091Q3pGTG1PTHRFRWdDdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報",
+    "福島"
+   ]
+  },
+  {
+   "id": "2e723dd34a68258a",
+   "title": "【岩手県】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fT1NjX2s2NmJCSUJrMVpBUzlhY0ppNFZob3hpODM4M1RxZmpuSV9VQS1RbnZmLWVldzlwN1ZQMXNDQV80a29nTk5Vd3NrQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "c34ca677cc67d0eb",
+   "title": "【北海道(宗谷地方)】11/23の天気予報",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jaEI0dTVRV2ppRlkxenI2S182UjBrcFF1R180ajlBUnNDdTZ6UGxFd2pDT29LejJmM0FxVk9tWDR4V1N3NkhMd3lINUxyUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
+  },
+  {
+   "id": "1e5aa50e2b98dbd5",
+   "title": "皇の国（21）|皇の国・暁の風",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MelU0SlVZaUhMdWVjUFR3NXdNWkNwT1NYdEI3VWdGUGhNdVdmUlBOWkdXY0xweTZUVHB0VXE3MnhkODlFLVB0UjhKWG9rVHI5SE80RWFCWTlsNWh0V2NwM2NuX0lnbFpWZk5EVVVBV2UxMnJV?oc=5",
+   "source": "神戸新聞",
+   "published": "2026-11-23T05:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8e3acbaa4727aba8",
+   "title": "所得1億円超、10年で倍増 24年3万8千人、格差拡大（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GdEVUQTdDamtzUV9SOExWSlBSWWpXdTNCdU1YYjMwai13UUVfLUlXay05QkpJRHk2VEo2SkJYbHV0RkN6d2lvTmw5bnU4eDRoRnRHcHdnXzZfMk5UQnNqbkJpZko3WjVRTU9iTW9UbE1jNmJ4YU9idGRyQ28zNVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T05:03:28+09:00",
+   "keywords": []
+  },
+  {
+   "id": "f8aa4de5e34747af",
+   "title": "所得1億円超、10年で倍増 24年3万8千人、格差拡大",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FS21RaWx5V1RXUHp2V2JQenhnMV9WcnczRWZLUGVsaDhjSmhEUm9FN1dZTFBtTnN4eGdOMUltcHFHcF90bWVPV0VOczZteFVSb0VKVmtRQ01OZ3QzaW83QVJvZ054MzVfQ1dtMFVid3k?oc=5",
+   "source": "Excite エキサイト",
+   "published": "2026-11-23T05:02:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c48ca44a35ed872d",
+   "title": "「ここで置いて行ったら死んでしまうかもしれない」部活帰りの高校1年生3人の\"とっさの判断\" 見ず知らずの高齢女性に寄り添う",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vcHZUc1lxWlNRS1NjdVFRT0p3SkVhdVZIeUtZZWpJbkJJemlkVHJkS1FSWVFsQ0VlaDI1VU9jVTAxdFlvdURQNTh6a1YxSGE5UmN5ZWVYSQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7da24f6f34b84f82",
+   "title": "アンソロピックのClaude、日本の導入企業10倍に IPO資金でアジア開拓",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUUF3blJLNDBIR1VIVXhZRTNUc0E5ZnJvTGZiNzhKeW1vUHlrMkFFR2tsMGdVODRDUjhUejh0djNOcEFBZkZDbzh0QVBacjRzQklDSHVnNmpMbGhnNFV3dnVHU0N6RkpfdWhTeQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "43f0fbc664cd6bf4",
+   "title": "ベトナムの消費関連企業、海外展開続々 出遅れ挽回へ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hYnVhNktjbWJHTTFJaVZqQjF0QUZPWTdLM2xPMkNhaG1MS0RoX1UzZXNScFRaYjBiMzA2X1ZoMEs5V0RhZHlTMlJYNkZJVEZhb0o4M19feURfeXhaZ1NQUVAtT0ZONVprY2JEbg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8887eb02f4247316",
+   "title": "熊本企業の和牛輸出、イスラム圏狙う すき焼きやしゃぶしゃぶも提案",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JV2tqZVFJdFJhSDFVTTFybmthTXVRbDRHaXI4SndvRUU5TEJnLW45NDltVl9XNi14a0swT3JtMjFqLVBBUU9ESEZvS21seHRLRlVUMnRmOEd0MEdfX3JyeE1kVm54dzQ0c3dIbg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0a5d253558da678c",
+   "title": "金利が動く世界、銀行・証券・地銀に迫るビジネスモデルの転換",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NGVtbWdieGNJWmtXdVo4QUlVM0Z1S2xjazl2RXFCSkNINnhHQUF6Z0dxQ0x6NmV5Q0xUQktCZlRKeG0xRGRlbDRUTWI3QjAwSXpQelJqV080aEJsei0xS21Yb0x6Z2FkSndUeA?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dd8123f90fe65235",
+   "title": "魁力屋や月桂冠、海外展開を加速 京の「食」を世界へ発信",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ja21XQWZRRUJLT254LWd5MDVqeGZjc0ZONkpWSVJtaTBBUDhuV0QzU2ticERLTE9SX2FwUS1iWjVWc1RZdlg2LWNvMmpydlpiaUl5OWp0dXFaeVhnel9tNG53bDVZV3JZVVNITw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dff5d5e1b1c25a85",
+   "title": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPWV9PNzVPTlAtZnlENWFVVXNaUnkzeG9ZckJ0Z0FYMjgxQ25qaDJOdmUwMUFkbl9sN05pYWNsS21MbU1SOTJKNlNpRHU4S0lPZVlF?oc=5",
+   "source": "オリコンニュース",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "12b2ea64e9ea7af9",
+   "title": "投資に役立つ日経電子版 株価・検索ランキングで新たな銘柄発見",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51ZUpEdi0zZERpVk9QN1BPV0hlcVFKTy1BTTUzb3NyOG1CMElPVkJKbFRXTGY1T0hjTWt2VDNvZEdwZ1BDQ3VNYzFtd2ROVGtsWjByYk9INHZBYXhhdTF3dXBZNDE2aEJlOERfWA?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b6cc83dc86871b54",
+   "title": "資生堂の採用責任者が求める人材「自分らしい感性で問い続ける人」",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPV2pjNHBXQ1J0aDNQVUE2aVIwelVobHU5LW1BdHNJN2ZpUWU5b0FldFdQRGl0MkVJWnRtZTQ5VXlJRWZVTWJqMmVBbnp4YzFoZmNlRmc5dFFzUlJfZnNLY3pHc2xlRHJZSWQyRQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "c46a532a0c29b9e7",
+   "title": "名門パナソニック野球部、76年の歴史に幕 岐路に立つ社会人野球",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yaGl0MjlQRjkwdGdfelFOQ1NfN3VfVi1NQUtJa1gxYmp5OXVNZUNvYUlQVTNwQnVSZ2c1U3RpVDI3cWd4UWZZNTJINndua093emc1TUFrTFYwUmxuMkY5TmtQNFRGZk1DVFVBVQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "40a2a89661b221d2",
+   "title": "相次ぐ情報流出、「自衛」アイテムに脚光 パスワード帳は品薄に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CRzhZeG5PemZrUVhudlVkM2ctS3c5eU5ZblNmb3JYRk14bk5KT2xzM1d1R3lySlBDalY1cTA5THV0TW1TSWdkbjViV0J2WW1HdlNEV0d2QzRKTUNCamx5d3g2bTR1dlRsZ1Nfaw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e8b8c0cf7bf3a6b7",
+   "title": "スポーツファン、視線は海外 MLBファン増加でもプロ野球は7%減 好きな選手は1位大谷翔平、2位山本由伸",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QQk5sYUdwM0w5Qmp6X0I5bUNFSjJaM0dpZEZ0SUZQQXZiV0xCdkcyMGJNanJIclV2WnFVZkdGRmNlRHJDRzBzaGF3UmhsWmJxakRXTEJpT3JzMU9RVnJhLW1RLTA3d0J5TTU0VQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "dc499b5b22cfd547",
+   "title": "美容系新興のMD、ヘアケアが台湾のドラッグ店でヒット OEMも強化",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TMjB6NkNfa19QMDJVYjVoRElnY1J1dEZORTNLN3BvWlMtcmlCRngyMmdfQ3pEUG1OLWhvYml4cjNqQy0wc0JGaFFyYzNVbG5reFRwN1JFanNkQUVGa1FpeHNpQU1HdlZhakR5MA?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T05:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "48462be6207ab38a",
+   "title": "プーチン氏「友人」トランプ氏の大量投稿が波紋 首脳会談で「ノーベル平和賞」話題に（テレ朝NEWS）",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRC1sNEs2TjB6V1dNc25fakZIbHlFQzVDNWN3b05jRERnNFl2LUFiQm44YVBGVFZWcVpON05Mdmhyc25oWld0bk5JSTlURkxVMHViTy1JeDkxUjVfOWp5cHh0SEpOTjVMN0JSZ19QbWd5NTcwMlNlbEhRWG9fQU5USWFEclU3Zw?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-11-23T04:59:22+09:00",
+   "keywords": []
+  },
+  {
+   "id": "e9d8b6b540c921f4",
+   "title": "モープラＦＴ【AI時代に読まれる企業のIR情報とは／週明け株価を展望】",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGpjT2pWbDV3MkQ0QXoyUFJ6SHJnanI5RlJnTk8ySU9DZlkxLTBuOUNtMzhYMmtodGFSMGRKa3gxZkJBdzdJS3NCOTIwYUctSlNqaGVMdTdZZTd3M0JPdnlhOWJDVUlFSGxfV2dZWnJxREJUY01aR3ZDMlF2ejNaelQtNlI?oc=5",
+   "source": "www.bs-tvtokyo.co.jp",
+   "published": "2026-11-23T04:57:20+09:00",
+   "keywords": []
+  },
+  {
+   "id": "b14be8d5b89a43d6",
+   "title": "長崎県で最大震度1の地震 長崎県・雲仙市、熊本県・熊本南区、八代市、宇城市、上天草市",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4NVIxcm1KOHZ2Z3JHOUE0SEo0TUpyWkRNMEdhNkwtVDhhcWpSZXo0U3pBMkpxcW4wN0RzYjNHNjJrc0pnSGxlYm5vNkZhYkdiYWlfRm9heGdoOERzVWNBMjN0WUQzakNtX196UlphVkZxdllEVDMweFlLeVhkWTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T04:42:23+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7b841a7de133c87b",
+   "title": "震度1 鳥取県東部 2026年11月23日04:32ごろ 地震詳細",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUh3eWI0dDBFMXBoaVZKSHRNOU1rUFpja25IVkU5OWVHMVRjQTlGdVA1WUpjdXJXMWYwWHZYSHROeFc0SU80QzVPTXNQVXVtSGsydVljOFpNQnh6cW9lS3FyTUhCSm5Ga3BOYTVzUGlJandzbTJDbTJSQTJMZjdkM05R?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T04:38:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "469ae180816a471a",
+   "title": "米財務長官 エヌビディア前CEOの復帰には「責任の所在の見極めが必要」 復帰を求めるトランプ大統領との立場に違い",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05M2tJOHRUaGZvLWhsekJyMmozSUJrbGFBR1cydkh3d3dBR3JGWUZ4V2tLY3VyTnA1X29faHFWTFFmTGpjbTdqdWZ4WTY4VGZsczhuV3NpemJsM0FRcDRBWk80NEdYQzA1ZUlYTGZqR3NTalQ5WVRNNWpjUEQ4MDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T03:45:10+09:00",
+   "keywords": []
+  },
+  {
+   "id": "af4b3b9a6eea3e2b",
+   "title": "岐阜県飛騨地方を震源 王滝村で震度1（23日午前3時19分ごろ）",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlSFNqTWgtYjF1R1dDSkkzTlR2cGg1Q01JSm80ZUY2S254dGVyN3VSdDc1RUNacWNhNTBIeW1sMS1GWFh6TWRkMG52cHhyWmlHalZzcnFpcHhkdkp1LVFLVW8teUg?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T03:44:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "4981b5afcf90bd7f",
+   "title": "長野県で最大震度1の地震 長野県・王滝村、岐阜県・下呂市（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QVElraUdlRW40eUhiR3JUZW9iYWVfRjBzaHo3eDBVUTlCeWlRclp5SFRJWTZTcTVIcEU5eS0xTHRSRGlmajZyWkVLcmJlbFBJODlxaDZsYkM4ODZRMnVlYlNfem9KaVpFWFJxNURtUTVlanJXblZCMllPZEROa1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T03:34:33+09:00",
+   "keywords": []
+  },
+  {
+   "id": "61bb7fc1dee00118",
+   "title": "長野県、岐阜県で最大震度1の地震 長野県・王滝村、岐阜県・下呂市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DSE1wdzlzMFI0bDFlREhvcTVja0NiUDlZTTlaTlR6ZjRCMlAtLXV2NGlOZHU5Z3JjaUwyVi0zWmpMd1M4VlhHOVZ5MUFZQlVIWjJFY01WQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T03:21:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1fbe53965baf9770",
+   "title": "熊本県で最大震度1の地震 熊本県・八代市（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFOGFWTVhxQ3otVExzYkJKM216LS14dS15OWoxdW82SmxpbDVtVE1UeHlqQmFNZUlBdl9VM1FaUVkza0NkbXBCQmVXcF9qSm5TdkZEOXRVRF9hTnV6RWxsbzFBX2s3c3hvdUxaQWlOaHBncDBmQzlDdmRnREZ4QjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T03:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7829c5d3f76318c4",
+   "title": "熊本県で最大震度1の地震 熊本県・八代市",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91UlNGSlo2Y0hxZ1lpc0VzVy1iaEhxQ1VFSW5lVGZnbWVId2Z2M0JyMEt0V0k2RkFwY2F0dC16ZGlGZ19INk96NlF2dTJjblVTUkgxb2pQd1VjRVMxUE94UUtLU3E?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T03:06:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "92e3f17c1a6c6001",
+   "title": "「1階から煙が上がっている」住宅地で火災 一人暮らしの90代女性が遺体で見つかる 仙台市・太白区",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMVBubWJYdTdsaHRXeW52UUFyU1JFcHpaT3M1dnNhZmNmQ2l5Y2x0R1hzdUlXNzgyYlhjMU9uTGVzVTg0R1p0NUw4Q04xdmJYZlE0MXhuRQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T02:56:00+09:00",
+   "keywords": [
+    "火災",
+    "遺体"
+   ]
+  },
+  {
+   "id": "3c7175aae4a2dbad",
+   "title": "熊本県で最大震度3の地震 熊本県・八代市、球磨村、上天草市、天草市、芦北町（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41bkQ3QTRuZUUyMDhQMDgtY3ZHYVo0ZlVERGZWSnRXX2NyRFpObzRSWlMtcW1GR2d5NkNhbXhZcmVXdGJKaTZ1N3hfU185VEw3eUlSanlhd2dMTU1qWC01OXZhVGh2Uklpb19uekppVVl1QzFsRzJHWjc4M2RLZGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-23T02:52:31+09:00",
+   "keywords": []
+  },
+  {
+   "id": "0677eb411007dc2f",
+   "title": "熊本県で最大震度2の地震 熊本県・八代市、上天草市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lM2FwN0FTazlwTFVwWmxUbVZvdzFNcVJrcWhCemxDUTZPblVNUGNCeXliTkdhRS16dlcyamJPLXktX0FuQm8zZVBPbnZCd1RSRHdvd3hZUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T02:52:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7637cf5989b2b4fb",
+   "title": "震源・震度＝気象庁発表（２３日２時４９分）",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zQUl4MnBYS2NCVGp1dGNDSWpKR1BaR1ZXVnFkMXV0b210NlAtWHhWOF9rMVFhX09BSmRfT1VTSHFadGR5aGJicDN5RGhCYm1qcTlXRllQMndta0RHY0E?oc=5",
+   "source": "沖縄タイムス社",
+   "published": "2026-11-23T02:50:01+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8ae10e1f2a6a11da",
+   "title": "【地震】宮崎県内で震度1 熊本県天草・芦北地方を震源とする最大震度3の地震が発生 津波の心配なし",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MZFZSOGN0QWl1WF8wLXNXN3VZeGR5ejFGN0w3LWhmWE9iYmxvMWJ1SWtqTlB4ZHVkR1Jwa2E2N0MxQVNmckxmWkE3M2V4UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T02:49:00+09:00",
+   "keywords": [
+    "発生"
+   ]
+  },
+  {
+   "id": "eaefd68c1c395a10",
+   "title": "「いい夫婦の日」の夜に激しい夫婦喧嘩「腹蹴った」「顎掴んで押し倒した」互いへの暴力で６３歳と５４歳の夫婦を警察逮捕 きっかけは不明、今後捜査 兵庫・赤穂市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NMVNIU2djRDkwc2pRYlRGemxON3BGUnVPbHdVSkZvNVRaS1JzT2RNU19Xa1NnVzNILU5VMjBLaDdYVzNNc2hnSWdKcG02Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "published": "2026-11-23T02:44:00+09:00",
+   "keywords": [
+    "夫婦"
+   ]
+  },
+  {
+   "id": "468dc118ea046c85",
+   "title": "日本最大級の映像技術展が開幕音に合わせて香りが変わる技術も",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VLUJJWE8ySWRhVnF6SXlCTHBBemJkS2FPRUd0TGZhb1E4RWRCR0J5dzFVUTNiMEpGcW5UR2d2akZacmRhN1NNbmdfZWZFM0x0QzN2VGpnVGI4M3czRUZiRWN3Tzd3aTA?oc=5",
+   "source": "朝日放送",
+   "published": "2026-11-23T02:41:54+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a48e43cc868479ca",
+   "title": "オリコ、海外への情報発信強化のため企業情報サイトに WOVN.io を導入",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54X1VqOWtxZGRYbTBta2d2Q0hRMzRRWlh2cGF6UVZpSHRwejVIV1dSQUdtSmVNN1NqUFRwU21KSV9oeEo4QUZfTGgxcTljdlVyWTZfTkJZY2NCb2NzbW1tUnJuUnRQMVFHUGNHbG1NcTkwdw?oc=5",
+   "source": "Infoseek",
+   "published": "2026-11-23T02:10:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "1e6c5e9fd34ce63f",
+   "title": "為替変動と企業の行動（1）15年で変わった経済の風景",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GRFlEbkVjQUV6Q3FkZ0JmU1FrUVFmV01HeU1VcThrNkJabDIwNzE0YXRTQktnQXRPZFN4MjdKSnpkQ3MyNWRfU094TlZIQUVhcF9mTGk2N09FYlpYN0lSaTNjNWl0SEdDVlRacw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T02:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "3c811053bc2ae776",
+   "title": "米アンソロピックの目論見書に基づくAI安全性スタートアップ市場",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QUZiSmt3VXFaNDlHY29EMHJKSVV2TUotdEh0dDMtWFgtZjVJdWFPbHAyU0JpMUxnVWtxbDdxanZxNHEzcHJoaGl2dFJFcnVUbjRtVEUzN2hGQ3RCMFVuRlp6MERnT09ndlN6bg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T02:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "8a1bd903b5d6011a",
+   "title": "不正アクセス、パッチ適用は数時間で ブレット・ゴールドスタイン氏",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UFZaRnJJNUdvRUY2eUptQzJya1RUX0s1bHRKXzNOSDNuSkVrUFJMVlRGeW5mWGRyZHN6VE02LUhGakR0YURCdmdnM0VoaVQ3NThSQV9xM2tvMzB4c1NHcEdfTVpGWmNvOTBfaQ?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T02:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "fc34b8f1ec9b0797",
+   "title": "重要鉱物の政府備蓄、放出額が尖閣危機の4倍超 中国規制で取り崩し",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4T0M1QmxWVUJTNzlBXzBLOUdrYk1KcHBaR1AxbWdmQ0I1d1c5TUtNV2piQXpqdU1tekdkUXRpdzJDQkFTbk1iaWN3VHRfTzRMNUhrckNxbmlXUmVmbzFtRHlBNndLaGFIakdiYg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T02:00:00+09:00",
+   "keywords": []
+  },
+  {
+   "id": "34857574cf9f0e84",
+   "title": "子どものメンタルヘルス支えるオーストラリアの教育",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZXRUWXYtTkZrOHhmTHFrZUg0Sl9vNkxBQTJDYXZQNUJtWXkxYU1VTWhmZ2U5bTFFMS0yVFhwdHotNkhjQzJ0VDRXRVVEeTNIMnBtZWpXc0FUVk9xZEszWXFQSHhJT0E4bzM3bw?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-23T02:00:00+09:00",
+   "keywords": []
+  },
   {
    "id": "f5c1b6ecb16366e0",
    "title": "排水路“潜むクマ”無人カメラ投入 住宅街に新たな爪痕跡を確認 母グマの行方",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80M08tZXFKR1ZqTndCTzJZdVJINncxclJXWVAwUDhYaE5FZTROUjhHTkZjbnNqcFlZdGZWVzVDU2pzYXI1Mmh6bEpfVjYzYWg1cE8ySUpiVXhWSnQ5VXViNGdUZEVxcG01Vy01b09lVlJDZw?oc=5",
    "source": "テレ朝NEWS",
    "published": "2026-11-23T01:46:16+09:00",
-   "keywords": [
-    "クマ"
-   ]
+   "keywords": []
   },
   {
    "id": "71a09b86eb4528db",
@@ -1751,6 +2653,24 @@
    "keywords": [
     "COP"
    ]
+  },
+  {
+   "id": "b7ccc72f2278f053",
+   "title": "ＣＯＰ３１が閉幕",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nX3VVU3FLYXdfbDREUzhadkpJTElXbHdGbkhWaFdXLUNUczhlb1A1MG5KM2FmcWticS13ZUxmM2xBc3pIYmRoMHFTNVgtQk1td3laeUdmU0c5X3g2QWc?oc=5",
+   "source": "沖縄タイムス社",
+   "published": "2026-11-23T01:36:46+09:00",
+   "keywords": [
+    "COP"
+   ]
+  },
+  {
+   "id": "fc14df1aa7fb7404",
+   "title": "リビア停泊中のロシア軍艦に攻撃 ウクライナのドローンによる長距離攻撃の指摘も",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aLXZMWXRmakFPYzZGcHVKV2J5NldubGZIOE1aRWpSM3ZRRG1XbENwLWtKZXM4X1dURS01MURtZUxTNnFhQVBoejRubW8wT0t0aEdtVzk3NVZDQkdEa2diOWF0ZGl5VGh5QXdmOFdWNExqQTZLV2NCbWpn?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-11-23T01:29:07+09:00",
+   "keywords": []
   },
   {
    "id": "da7d975bc61be42e",
@@ -1778,6 +2698,14 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aaGo4ZE4yNDJZOGo4cmN6dTJOLThqbzFYalNCOFpSeUdBNXZQR0ppa0VWanBsZzBkbVJmaGEyUm1TaVNqSGhqVVZFYjRTUXMyWWdEUzV1UQ?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-11-23T01:06:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "9910909ff27c1423",
+   "title": "群馬・前橋市のクマ 暗きょにラジコンで動かせる無人カメラ投入も発見には至らず、担当者「歩いたりした状況確認できず」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pNThQZ3Yycjd2OEhkZWJiMTd4amRVOV9IeVdXZDBubGF0TDZKR1dobzI0dThLMURBWGZaTV9SUUo2XzZnMENsUU13SDY5YTcyQmNGMTZoRQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-23T00:57:24+09:00",
    "keywords": []
   },
   {
@@ -1814,6 +2742,16 @@
    ]
   },
   {
+   "id": "dfcbc378c607bfce",
+   "title": "マルク・マルケスが総合優勝 オートバイのモトＧＰ",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PTFRFbGxuRFdxbm14WHRuMFhwU3EwQTNWVE5JNGJGcVJlOUpia3lOSGo1aEFXY21PcmlwdExzN1drWEFETFlEVlczTDF3NXRFa0ZaNkdzUV95dm5kbGc?oc=5",
+   "source": "沖縄タイムス社",
+   "published": "2026-11-23T00:22:19+09:00",
+   "keywords": [
+    "優勝"
+   ]
+  },
+  {
    "id": "9888c53026e5534f",
    "title": "通行止め解除で孤立解消 大雪影響 福島で停電続く",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xMHp2TWgyZXRCUjBjTDI0ajlyOUw5anFuMlFkVFlzR3NmVE9YRDFaQkhuMjZkYkpRYjBpVldpcUZ0OG9Demh4T3FSaklTQQ?oc=5",
@@ -1825,6 +2763,14 @@
     "福島",
     "通行止め"
    ]
+  },
+  {
+   "id": "718c9d9c3184c86e",
+   "title": "BAKUTANの顧問に元アクセンチュアの太田昂志氏が就任 人事AI事業を強化",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WUHF0bkVmdnFvLVRaazVGQWhYR0hnMFc2cU80eXJhSDRkRmpMS0NEbDhoYVdNUzBTNTN0N0RGVVNZNTl5a3c?oc=5",
+   "source": "Dellows News",
+   "published": "2026-11-23T00:11:15+09:00",
+   "keywords": []
   },
   {
    "id": "eed9a1bfd7f2c669",
@@ -1872,6 +2818,14 @@
    "keywords": []
   },
   {
+   "id": "7e6386bfab6e7fd3",
+   "title": "アルペンW杯、ハウガンが初勝利 男子回転、相原と小山は途中棄権",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjbU9IRHlvc3NiZlhxMFdiWW9mUkRpTXZ4MnBlbk1aWWNUaTVrSXljUTVhN2VXaWE4dVhLcTF2ZlJhTjdyTV83eUFyZw?oc=5",
+   "source": "47NEWS",
+   "published": "2026-11-22T23:03:00+09:00",
+   "keywords": []
+  },
+  {
    "id": "cfd85464a27d748b",
    "title": "なんだそのブロックは！？ フライブルク守護神・長田澪、頭で…“まさかの展開”「すげえええ！」「これ止める？」驚異の反射神経→衝撃の“スーパービッグセーブ”",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03V0tORHBiUW96aGJ4V3VvTzY0RVNFNFFUMmZsbkY4Y3dpb3hueXlTR0N5di0tbUVrSnduTWJmdk51TUd4UnVRY0w2M3dvOTN3LW9naE1kSVgtT3NieXBFa2ZveG9hdFVqZHNPY19hdlA?oc=5",
@@ -1888,13 +2842,38 @@
    "keywords": []
   },
   {
+   "id": "fb644985ced9cfb3",
+   "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42NFVoVGkxWE1QOVRYMG5GcVdqTEIxZEJJZ0Z6T3VrdlpkR0FuYW1sWFp5VUlKNVA2MlNxeXNRZjVxODhBYkhkRnlDeTR5bXd6emZGZHhncw?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-22T22:49:22+09:00",
+   "keywords": [
+    "インドネシア",
+    "火災",
+    "行方不明"
+   ]
+  },
+  {
    "id": "851f13eedc121184",
    "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明（TBS NEWS DIG Powered by JNN）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iTm1hUEV2RXRIaTVGeDI2cGplTzRLVlpDQS1GMFNObi1FVDZua3BZdDhCNzZULURhT2RCekQ5ZEJpbEFEQWIxNHNqVG9JdV9qaGN2X01RbmcyWER5V0tFOUxzNlZ2bHNMX3RrNEl2bWVfYUx4aXZEcUhaOHQzems?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-11-22T22:49:07+09:00",
    "keywords": [
+    "インドネシア",
     "火災"
+   ]
+  },
+  {
+   "id": "93569eaacf798f2a",
+   "title": "インドネシアの菓子工場で火災 3人死亡30人超行方不明 (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZSaTBLUUozNUF4eXdTbzN3REJva0x3SkhfbjZyQUo5SnVwQUlYUlhNMGhBWUkyejFVOXNsRk5Ic3NCNzJBa3pnU3JUZU1iMW5JOThtd05ScUgzNmRGTTRuYXQ0QktvQVAwZldzdlJ2UUlUNm9sdWJOQk1ZTWFSTGhPQ2Z3U3hPNDd6T01R?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-22T22:49:07+09:00",
+   "keywords": [
+    "インドネシア",
+    "火災",
+    "行方不明"
    ]
   },
   {
@@ -1941,6 +2920,30 @@
    "keywords": []
   },
   {
+   "id": "bea8cc8c9d538f3c",
+   "title": "【中小企業奮闘記】グロースの翼 ～備前発条（岡山市）",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTG5keTk4OEJFTHoyZmM3MzhkbThJNEpHbkI0dzBILU5CbGdTbXZqdTVEUVNXb3RKQjRIRlpqOEtabjlxZERDd19MZTVkTTNvd0hyUFRaeDdFdk5KWjd3RHlUQjVQVy0yS1BnMGlCaW1kUk1fZG1wT1BNMFk1aS1QRnFpLThMb1FIUEVEVzZIa29KZkE?oc=5",
+   "source": "www.tv-tokyo.co.jp",
+   "published": "2026-11-22T22:38:26+09:00",
+   "keywords": []
+  },
+  {
+   "id": "a2470733aefa9844",
+   "title": "東京都で最大震度1の地震 東京都・東京千代田区 (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajRYeDktZkZ2Q2FLLTM4d0hJZDU5T2hMekxnWnVGQVVnU1dDQ00yUm1NcEtaU3NIQ3R1Tzh6NVNOZHZ4MG5BUnduSUc2VU9FbmlZaGdCeWVnTEc2UHYxOUF1V2E5a2p4cFBxWVduVEotNHBVVTFxNnB4UUxUUnRKVko0S2JiZElxS0VWZlJR?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-22T22:38:12+09:00",
+   "keywords": []
+  },
+  {
+   "id": "7c74c16dc9311518",
+   "title": "東京都で最大震度1の地震 東京都・東京千代田区 (FNNプライムオンライン（フジテレビ系）)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdE1DdTlwMnRYRlJMdkN2cFdHWGRaeTJsTFFOTHhPMU9IT3pPMUxNc2VTMjlSNGR3R0FUc2JmZGxnWS1XRklhX0JPaDlEMS1adHNnS3JUUy1TVGx5LWp4ZTNiUHN6MVVwLXJIQzAtZzRUOXpiTWpuWGJGNXJMaWFNRm13Xzl3SEZybWRIeEVn?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-22T22:37:18+09:00",
+   "keywords": []
+  },
+  {
    "id": "6b7047c2f7b02fbb",
    "title": "熊本県で最大震度2の地震 熊本県・球磨村（TBS NEWS DIG Powered by JNN）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XaHk4LTRGaFdmNTFzMmNWWGFhSDJsdnNOb083OHBmOHpXYXF5MUpWX2wtNGVGZmVwY1BxSXhKSENDUklMMlJ0MC1FMFVRYW9LMEo4VEVKcmM0eHNIWXFpWjBMM29ra0dLT3pSX2ZrX0JVUEdwVVRTN2lEenRBb2M?oc=5",
@@ -1978,10 +2981,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82RHJxUDc5RUM0dlhTd2hva2tWQWt1VXFUMGdhVUpUVVUzN3J2Mk9qQ1ppd0J0V3puaWVhcmtZVU8xQnRIMDVldFVBSVNsbVFyc1pJSmdPSQ?oc=5",
    "source": "TBS NEWS DIG",
    "published": "2026-11-22T22:28:00+09:00",
-   "keywords": [
-    "クマ",
-    "目撃"
-   ]
+   "keywords": []
   },
   {
    "id": "3020c08a36f51f89",
@@ -2010,6 +3010,14 @@
    "keywords": [
     "COP"
    ]
+  },
+  {
+   "id": "d8e90195bf68cbcd",
+   "title": "〝白組・演歌枠ゼロ〟紅白落選に言及【 三山ひろし 】「時代の流れもある」「信じた道・芸道を極めていく」 大みそかは紅白休みも〝歌＆けん玉〟? (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGZ3dXdvRHNqZHNWZDdaN3BJMjNHNDVnV1YxdDh5ZzRlcmpYVmtkTmxlQW1YRkN0XzVlWmtTRkttSFZJR0hGY2ZSdzRyeXpkYkM4Wnk0SDJGUDlDazV1b04ycms3SDBrQjdFby0tVDFRTmM5OUVPWWF2MnhIYl9Gc3Iwem1zV0ZTOUpZRkt3?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-22T21:55:24+09:00",
+   "keywords": []
   },
   {
    "id": "14d9e6ddb6d0bf59",
@@ -2062,12 +3070,32 @@
    "keywords": []
   },
   {
+   "id": "40e9050b31eca2af",
+   "title": "災害時の対応を関係機関が確認 沖縄県総合防災訓練",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWE5qaGtUeUxVSDlDOFpGZFlnbFlHR3VVRXpIN1NfYWpYbkg5M253UENuQjZyZXFkQ21VZkoyODlaNkJBTjR2alpqbmN1WEdBNmEtNUJZR2lXYURTTk44?oc=5",
+   "source": "TBS NEWS DIG",
+   "published": "2026-11-22T21:12:15+09:00",
+   "keywords": []
+  },
+  {
    "id": "e91fd54c965c826c",
    "title": "「黒煙が出ている」と通報…住宅1階の倉庫部分が焼ける火事 2階にいた68歳男性が一酸化炭素中毒で死亡",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rQnplNkZuaENVdm9pdFJ5UE5PVm5fdllmVEx3MlUwc1czOU10UkZ5TnZjQTNjUm90VUVaSy1RUVlDVVdHZ1M2LWdrUV9sUQ?oc=5",
    "source": "FNNプライムオンライン",
    "published": "2026-11-22T21:08:24+09:00",
    "keywords": []
+  },
+  {
+   "id": "95df54c4c57587b9",
+   "title": "【東京都】11/23の天気予報 (FNNプライムオンライン（フジテレビ系）)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTEyclFRODZxRWVCaFlwbWRZUnRSM29NTEVJUlJLQlNIVXlZdzVGa3otaHpDVTI4V0xGeTZTUWZXTmpfUUtQN2w5SFJOcUhyWTlnS0txTkdYNWtRWjh2bi0yX0psdGpnWFNfTDU1VExEZVBnaWZ1YmJKZER6R3J6dFBMZjhhR2lLQldCbG9R?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-22T21:07:51+09:00",
+   "keywords": [
+    "予報",
+    "天気",
+    "天気予報"
+   ]
   },
   {
    "id": "9d0c3e0bdd395248",
@@ -2088,1004 +3116,6 @@
    "published": "2026-11-22T21:02:07+09:00",
    "keywords": [
     "優勝"
-   ]
-  },
-  {
-   "id": "2c01c78a2c7c060c",
-   "title": "トラックとの綱引きも！ トラック業界の魅力PR 宮崎市でトラックフェスティバル",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pS1liQW15bTdTMEV3VlhRb1RvVDhSNEVOTGJfdzY2LTJsZ01UX1dwcWNHcGEwVEttejROaDFRTEF3SWVqNmxVU2R0bHJlQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T21:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "1fedf65c8e6009c2",
-   "title": "【タイヤ脱落】9月に業者が交換 異音がしたため増し締め、その直後に再び「ガタガタ」停車すると左前タイヤ脱落 北海道小樽市・国道5号",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBydl9DbmhzQTVHNjNHYTdqX0I5VTl0T1JCZEpnbHVPeGcyTGZHTk04TFR4eEVVN25uaTlJOFdmSmNabkhiOUVFS290YmhjSlJnYkNORWhDanJNVnZZUTZIMEtKVzg?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T20:55:00+09:00",
-   "keywords": [
-    "国道"
-   ]
-  },
-  {
-   "id": "127f8e707beb4741",
-   "title": "「ベイエリア経済」が世界経済の発展に持つ意義とは",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1RxUjFpM2JNdGI5dFJwdXc5MjhNWUNEeEt3TEpRWlhCaHh2cW5ETmhZdEpEcmRvcWFWZTJnbWlDcm9PZlcyT09rLW94NXBDUHBoRW5GaDlTWEIwbDRsS0RFd3FkeTZCRmFlZXloQV9QMk0yR01VcTRrdVpUMnFHVnlPMi01RXdYNVhV0gGQAUFVX3lxTE1DN0lEOTh4Q05rTU5sQkp3Q1BHaTFtc20zRWFkcVNzUkF6emtSUEYyWGlDQUh5R0dIYUpBOUgweUJCWHJYS1FnTmR3RWhpbEwxZzFwNEtjSGsxYmJ3QUw5ODQtWVNhN2lRSUVZZllDVDJqdnV6UHNBX1Zmdm5YUFk4QWVnMHRGUmJ4VFlpLXg2cg?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-11-22T20:43:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0ef51cbd6b7e4018",
-   "title": "【速報】COP31、合意文書案採択断念",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OU2dQNVJxSGx5R0ItZ3NuYm1QQ2RCZXNDVmFFeTREUlN3NmhzWnNsbFctc0JUYlUySUhnU01zTVJ6MzhqbmVWWEZPaw?oc=5",
-   "source": "47NEWS",
-   "published": "2026-11-22T20:39:00+09:00",
-   "keywords": [
-    "COP"
-   ]
-  },
-  {
-   "id": "965a4a3976aa13d7",
-   "title": "「ダイブじゃね？」U-17日本代表を襲った“疑惑のPK”にファン紛糾！映像判定でも覆らず「わざと足絡めにきてる」「コンタクトできないじゃん」",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14TjZEeVVTaGxIOWE0WWQ3OGhxMnlaalo5TXU1UDZsNkVfS1FJLXR4R09HSTU4akVqdHdoNkxUVEtoZUNsdDhTclZUN3RsQkRaVnpyWm5SQUJhTktPenh3cGlHaUczdEVaWm9XSzctNWE?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T20:30:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0d7140f12d9e859a",
-   "title": "堀米、白井、吉沢ら決勝へ スケボー・ストリートＷ杯（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UTkRPNTJ5OGFrd2NLOW9wWE1tQWFZZUZyTDROS3YtX09kMWpkWndGaUs1SWpZQXM3V1k4X3FJRWF2OW9Hejl2OUZSTjJmNzg?oc=5",
-   "source": "熊本日日新聞社",
-   "published": "2026-11-22T20:24:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "48fe235faf89eb0a",
-   "title": "韓国 大学入試 スマートグラスなどの対策で混乱 教育相が辞意",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de80041",
-   "source": "NHK 主要",
-   "published": "2026-11-22T20:21:50+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6ce3232df5216ffc",
-   "title": "連続企業爆破事件の死刑囚が死亡 ７４年三菱重工は８人犠牲",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Bd2hncDg3S1VhMFA2ZFVrOXROQUJZc0E5TlhKejlVZkpJQ1hNcVRZZl80a1lPZ0ZxOEpQQXNEOHQtdDRsZ0RoUlZaU05WQXAzN3JNWk9zeGxoRjRrWkdUTVY3eGM1VkdxYjJ4c3BrSl83bmJLNi1SSnZB?oc=5",
-   "source": "神戸新聞",
-   "published": "2026-11-22T20:17:00+09:00",
-   "keywords": [
-    "死刑"
-   ]
-  },
-  {
-   "id": "d3c755e252d33e67",
-   "title": "旧帝大､早稲田､MARCHより｢一流企業｣に入りやすい…偏差値50台なのに｢就職実績\"最強\"の私立大学｣の名前【202",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhV0JnY2lUekl1a0g5MkNjalRxY3ZZZEhFd1hmYXQtcFJSMmpxRVdlWTFEb1RvZWVXSE5RTzIwaVBSNEZJbmpfelRET0lBSmhaekt6bzZVdHBXQVk0SGNlbXMzMml0TDFuR0lObGtrV2NBaFk?oc=5",
-   "source": "ニコニコニュース",
-   "published": "2026-11-22T20:15:12+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0accfe8a9d169855",
-   "title": "軽乗用車にはねられて56歳男性が意識不明に 新潟・新発田市の国道7号",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBidjNSVTV2Y3ZBVHBoZXJPMU93dEJGUHIwZlBtZmFSWlFYQnU5OVBMSUlXeERsaGJYVlJEbFI5VzRZajZTLXBub3MyaWxvZFNPZU1TaFkzclVCQ1F5MTBmazlBaFk?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T20:14:00+09:00",
-   "keywords": [
-    "乗用車",
-    "国道"
-   ]
-  },
-  {
-   "id": "0a3a82ade870aa7c",
-   "title": "【石田純一】72歳まだまだ現役！2026年は始まりの年にすぎない？＜芸能動画＞",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR3RaUHBEYzNNaFZ2NkE4VGxLRE0wSnpRQkFibDNUYUlaNUFzajUzMHd4RWhGa0N6ZlZOUDVfdFhGYVpNeld3aFZJRnhZNlhSUjJpMlVGSEFLa2NVMFZwenZsRWpGanNXR0t0VHdKQ2I?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T20:13:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f63cefcd3ca10ae4",
-   "title": "吉田雪乃、女子５００で４位",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CYlM2cE9aWms3ZmFwTjF4YVF3NFNlNWNyUHc1ZkFfZVRrbFRJak1XZ0p6Q01KOU01MGNZV0M5X1ljRGN1QlhaaDhTN0hkaE40ZmpyUF80QQ?oc=5",
-   "source": "福島経済新聞",
-   "published": "2026-11-22T20:12:45+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5b49eeea6e13f235",
-   "title": "「サイバー保険」に加入 企業増加",
-   "url": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
-   "source": "Yahoo 経済",
-   "published": "2026-11-22T20:11:10+09:00",
-   "keywords": []
-  },
-  {
-   "id": "97b602a110146116",
-   "title": "西野七瀬、理想は「友達みたいな感じで接している夫婦」 いい夫婦の日に明かす",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54YThDNHZYLVE4Z2h6QzZmRFdheHdYY3IxNkdYalhmdFNMSlZKQ3pRTGh2akZSV1ZkLXhuSHdNODhHVElyOG41cFNMRzR0dlZ4SmsxSGJ1ZnNQYUthczVMSDg1NlVPOUpxNGhuWEFad2M?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T20:09:00+09:00",
-   "keywords": [
-    "夫婦"
-   ]
-  },
-  {
-   "id": "953dec706e81ca4f",
-   "title": "松前ひろ子、三山ひろしと恒例ディナーショー開催 今春大腸がん公表「異常なく元気」",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPbUtjNXE4SThrUjhtQWVNYmhTRmF1YkkxVGVaLXdXeXpIZEF0YTloVlh0aXlULXlkbERkdEJySjZ3N2pkMjNhbDU4ektjZDF2bzFCUTRLdzM4VUV6dElZdDU0OHhBZ2ZqV0lYbnhZc3Y?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T20:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8de3770b7586c771",
-   "title": "酒酔い運転で女性はねた疑い 50歳の男を危険運転致傷で現行犯逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wdFUzbTNmd214b1B2bDY5NTBZRjFtUklFWk1xdW0tVEhuR0YtSVNxZElEbTVKalQxMHg3cFYzN0VBeDNmZFJvdjN0THNqQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T20:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b56c7996de13521f",
-   "title": "普天間飛行場の負担軽減会議 年内開催へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yT3k2QjFtVENNc2VRMDNkWkg1ZENYU3NCVUFPcE9Cckozd01hdjA4eFR2Xy1TbHlRMDUyMWhjRVlWOUpmcWVDSHY3Q1BEd2w4LWI2aE1qLTl5elRESlpzZkN0Z0ZSQ053dG1XUlN3a1JMb28?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T19:56:51+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5e37f165565d33ee",
-   "title": "韓国教育相が辞任 入試でAI不正「事前準備が不十分だった責任取る」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0ZUVSODhHOXlycC1Cb1lPN0JUS2JDSDFjMjllVHFpekJtVkV2RW5XVmZXaE1TQnF5aFdhTkg2TW0zTzd1Rko4aTlvTDRtUHFoTFNzYXAxcXZHS2Z5Y2FYSlp6Sk1SNGFmcmxVNl96X0UyYXB6UGE1a2NR?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T19:50:38+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2027ca86210a27bd",
-   "title": "東京六大学の応援団５つが福島県富岡町に集結 町民にエール",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43a1VFSW0yMEwxN2EwTXpxS3VDVHdud29BTjhwd2Zra0NBQXhKVmd1YjJyM3RKX0YtWVgwelJoX1M3a0FGM0VqRW56ZldQUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:45:00+09:00",
-   "keywords": [
-    "福島"
-   ]
-  },
-  {
-   "id": "acae289bd97e9671",
-   "title": "タワーレコード 1100万件情報流出",
-   "url": "https://news.yahoo.co.jp/pickup/6603588?source=rss",
-   "source": "Yahoo IT",
-   "published": "2026-11-22T19:41:54+09:00",
-   "keywords": []
-  },
-  {
-   "id": "cd6fe809d0d61b96",
-   "title": "福島県郡山市の中学生が行方不明 警察が情報提供を呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mR0J1NjEzZnZqLTJ3bzNscTF1UXd1cjlzZVhtTzNHSEt6RUxoR21IOG82TzVDdV9XbFQ4cXdPTmxnaGRnamxpVjE1QV9jZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:40:00+09:00",
-   "keywords": [
-    "福島"
-   ]
-  },
-  {
-   "id": "69fbe1931a1f588a",
-   "title": "西田敏行さんのメモリアルコーナー開設 長年撮影したカメラマンが思い出語る 福島・郡山市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6OXFOdmMxQm9IdVdFUFJwQVE5dURvTUxlWDBWLTVsbGNLUFA2eHpDNU4ydy1nWXFfa3V6SG15elZOTHBiZEZhQm8yZDRvcTZJVUtsRHVzaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T19:34:00+09:00",
-   "keywords": [
-    "福島"
-   ]
-  },
-  {
-   "id": "9975fe25ad25f0b7",
-   "title": "福島の大雪、孤立状態解消 車両通行、停電は続く（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaVkdDQWlHZlJlMWZ5eFQ2UkNlR1RZWktxZFBGQy1tR0hzUUZaT0xZekVITnVsWW9uTlNOeW80U3RaVS0wYnc3YXdpLS1YWmM?oc=5",
-   "source": "熊本日日新聞社",
-   "published": "2026-11-22T19:31:00+09:00",
-   "keywords": [
-    "停電",
-    "大雪",
-    "福島"
-   ]
-  },
-  {
-   "id": "c4ed20bf6afe1d7d",
-   "title": "【愛知県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2eVFZbkI0dE1nOUhqVzNPWVducDljenNIU0V4d05rZlBFMkswTlFPcW96bDE0cXFaS0pKWmVfb0VxOU1qa29jTU5wQUxFS0VjU0poYXR5b0U2UENMX3B0R0hGUUcyMGFfakJnVGJzOEVJeHQ0ODFMWHNualJaVmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:51+09:00",
-   "keywords": []
-  },
-  {
-   "id": "39ad65229544d16d",
-   "title": "【北海道（石狩・空知・後志地方）】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZ0NXNV9oRUdOZkF0Zm50WjJfdHQ0UDdad25YQzFGX09KNFNxclZ1MUFNOGp6dVVRYy1vaWtXU2o2NVd2R1huRm9xVFhPck01eE54RldKQjBEVzJGMkJ2UmpxU2pvMURfX0JBNzFuVWo0SDNTMWM4R2VEMmFSbzQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:50+09:00",
-   "keywords": []
-  },
-  {
-   "id": "059aba6848b2710f",
-   "title": "【福岡県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wSnJ4LTFHOGlnaGp2MVhBY2xHcnd1aHJ3TlFzemdEU203WUZMa3BMWkF1dlJNdXRRY1dnY05RZkMwTXF4ZERuTFNBeS1EeG04WERjdGVjUW52eGRndW9HWUx4UHJZR2x4c0RTTEpWNVA0ZnQ5dDNOaC1WcTFwalU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:49+09:00",
-   "keywords": []
-  },
-  {
-   "id": "284143add9d6e45d",
-   "title": "【千葉県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wRDNEc3laaEMtWkRzTE1CWl9UR3czd0ZzVVZxVVZtQ0xqVDdxQU5zekZtU2IwS0ZLZElJeEZydFZBUUtLTEQwZ2dSeENPQ0hnMGlVZjhpeXJpR2hfSTNiQjhuTEJaT05nMmw2THk0dm51N3h0UVoyMk5QcjIyREE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:48+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6119bde756c130cb",
-   "title": "【東京都】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BRDk1NVFMM1dpTnluMGpodGlfc0d4TDJMendqckZXakFrU091Z2xITEtNUnNHb0lVa1JhNFBqVFhPMGFsUkVGWktaZnlIa1hwQmNMZXczWm0wNW0tSGl0Sk90X3lBSDJrYmJqTGtKbGlfSEpLY2p1endlcDNMWVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:46+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e276c6b682ede4de",
-   "title": "【埼玉県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hdnNCVS1yOW1XOGRsZVlqVjg1MlpZWlZtYmk0QVlkQmVmYTV1UjBOdU45WXhpN1E5ek9MSE55U3RuWkxWZ0V3aFFZRmZGaUhEYzRCMGlMWGIwY250UnJiRmVhNDFkVHYtUWxWVzY2dmhzUnB0RUVnMkVXdENVSTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:45+09:00",
-   "keywords": [
-    "埼玉"
-   ]
-  },
-  {
-   "id": "4385c8a957a2f5a8",
-   "title": "【大阪府】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iRmpxbXdiYVE0QnQtNlRhbDJQNDFqREJYQmttTEtGUlpDMGdhdXFWUTRyZUJmNFBvUXJXaldoSV9JS2dMbnZETjFXV3B4eERCVl9kcWsyUGk5Wkw5bE5OcW5YdkZVbEpQWjJUMGhmbDU1UjkwNGxjOWM5Uk5NdVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:44+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8d74ce98988fab76",
-   "title": "【宮城県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTlI5WC1BbC1FOHJLYWYyVGJ2am5vOFdYTncyNVZic3RISkVIOXp4SDQ3WTlabnN2NVgxWkQ3YmlTUUlqR1BDcDBfcFE1ckM1VFhOOVZfVC1xc3dtM3NiV0szb3ozbW9vNjFZbzYxNjhTSC1UR2ZwUW9kOE5YTXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:43+09:00",
-   "keywords": []
-  },
-  {
-   "id": "720e1caaf4dd9ae6",
-   "title": "【神奈川県】11/23の天気予報（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2bEtZR2dySG1SQk9GZlFaQnJ6T1otelVTeHFGRGJaRThGZGppMnhtSE1WTDBFMHZmTVRKSUlLQ2ZybGxoLVpaemRWcDRyYkdqTW40UjFrNjFvc05Bdm95OE0wajNDd09FTS1xVmJQUG0tVFY4aEpZQVBMZEluV28?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:30:42+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8266203c9d101eda",
-   "title": "【広島県】11/23の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZaE11OU8xX2J3c1JFTUhYNnh3RHkzaUtxNU1FWTJpTWZqc0JwYXhyaS15SUZaWDROVFREWngweFNlOURHc2JzMllmbTR1dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:30:00+09:00",
-   "keywords": [
-    "天気予報"
-   ]
-  },
-  {
-   "id": "24d7dd674d435a05",
-   "title": "【長野県】11/23の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Wmk1TXAyejQ2UG1LLW8yN1d1ejlqa1F0WGd0OVppd09mYkx4dTZaZ0ZmVjhzT1NjVlppT3FpQUVCWUc1VF9uRFQ4aEhvUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:30:00+09:00",
-   "keywords": [
-    "天気予報"
-   ]
-  },
-  {
-   "id": "0a0ef42ec51e3526",
-   "title": "【鳥取県】11/23の天気予報",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2THdpQjdCVy1LN3dfZXdaY0xWRnNSbnphcTdmMzZDci1RWlk4cTZLX3h0UDdiTlJVMEJ1T1Voa0pqU0hSai1LT0d3WXpuQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:30:00+09:00",
-   "keywords": [
-    "天気予報"
-   ]
-  },
-  {
-   "id": "f6cd9ead4eaae53e",
-   "title": "新潟市中央区沼垂東の住宅で火災 建物内から1人の遺体発見 80代女性と連絡取れず",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBScE5MQTNCaGpzS09sV2hteDR4VmE5cThfei16ZFFQclVSclJWNU5nTE1GSGN5bDZxWV9aTG5UUlNUalFfb3RaOTVMWG9ZdXR4b2ZINVNiNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T19:26:00+09:00",
-   "keywords": [
-    "火災",
-    "遺体"
-   ]
-  },
-  {
-   "id": "c4a8a1b16c34b1e4",
-   "title": "岩国の遊覧船が座礁する事故 けが人はなし 原因究明まで運航中止",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83T3g5LWlNTGtYNHdoNndaaTFqdUJxa28wVG1RNVJRT0U5R2hoU2VHa1NybV9qSlZpSFJRZ0lJcFl1X3o1UHFCcnc2R2hZUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:21:00+09:00",
-   "keywords": [
-    "けが人"
-   ]
-  },
-  {
-   "id": "19b47fbab69ba00b",
-   "title": "カナダ・カーニー首相と記者との夕食会に“トランプ大統領”登場?",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNHQwUzMxb2M0X3lPMmJ3cXhTXzhRczkyLVFqU1k3WTJRN2hxck9rd0wtVGlLU3U3Ri1aZ0lkbmZOcDlJMXFHaWo0QjJiNHdUSjN5c1owWQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T19:17:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "52f0af68f5655291",
-   "title": "益永利明死刑囚が死亡、三菱重工など連続企業爆破事件に関与",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42M3g1Vmd6Mk03YnBpVEp4VkdYMVRnUXNMUVk3VnV1ckl4S2V5c0FiWTNETnhITzdHMk5OYUg2dU83V2lfOHVfcG1YbXZLMU5CbEhvaHdVdGlOaG85dmZtaUpIeUlSR2Q1XzJ3YQ?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-11-22T19:15:37+09:00",
-   "keywords": [
-    "死刑"
-   ]
-  },
-  {
-   "id": "aa36f6cef9e2c5fa",
-   "title": "大の里が二場所連続優勝 九州場所の優勝決定戦で若元春を破る",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNFFDNzdfMEc3WnFTalhCRVJZaHREYjNHbFJQeGdXZUFQclIyUGdCWlZKYUNGUWpvaHdmWGdnd0dXVDhGWE1CZGlpdWdxUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:15:00+09:00",
-   "keywords": [
-    "優勝"
-   ]
-  },
-  {
-   "id": "01136d09a9228527",
-   "title": "輪島市で香箱ガニのカニ汁を無料提供 1500杯限定、1匹丸ごと入り",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00dWl6OU1jdU9pd2NBa2hhYzVFN3VTRXBrblJWbkE1OVZmd1NtZ2dqVVcyZ0FrQTdQQzNGajdFMjNBUEM3QS16azhSTkxGUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:15:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "847e6abbb227b3f3",
-   "title": "「アイオケ」が行徳警察署の広報大使に就任 採用試験を前に警察官の魅力をアピール 千葉県警",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZlJQMkZTRXNqTnNYMUxhVERtTnJBSkg2bl9HYjlmOVp6VU45MFFoZ2VxQ3FHd2s2QldteDhwLXp1aHNCb09BTjM2QmM0NUxwbk5YV1Rhc3ZtRE41dXJGaURrZHZGWWdyOXMwQm1MRW5mdU5STUppTzBPQTVXdVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:13:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "730c7537ee7206f6",
-   "title": "横綱大の里が７度目Ｖ",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zbEpXV1lWRmU0SFV5UkhSYmxxM18tNDFQSnRUMGQ3aG1aZ2pzQXVuR0U5MEJFY0E3MnZ2MF9TRFFhQzM1RUszTE5sZU5LTW1kSHBz?oc=5",
-   "source": "豊田経済新聞",
-   "published": "2026-11-22T19:12:49+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c82865576c0e8b47",
-   "title": "【速報】COP31で電化目標の合意文書案",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ka0hBQ0JoaGd0NVNRMUhxOVpsd1YzaThvaUJVRnpqSGcwX0pZdjVDem0wSUt0LVk4Qmk2RVljeVI5Wkx3U2ZWQ2VCZw?oc=5",
-   "source": "47NEWS",
-   "published": "2026-11-22T19:11:55+09:00",
-   "keywords": [
-    "COP"
-   ]
-  },
-  {
-   "id": "46f2aaf7979b5346",
-   "title": "ＣＯＰ３１で電化目標の合意文書案",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xZ09wQ0YtSHdIVU1zSUpwX0xTektKeUtEZlAzeGJsMHRHaWZDRjg2U3VFWFNuUFhJUUtjT3p3NHJISy02RmtKRHd5WGRuelRwV0pQM1oyZ25aOWNYM1E?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-11-22T19:11:55+09:00",
-   "keywords": [
-    "COP"
-   ]
-  },
-  {
-   "id": "350d7044632d7842",
-   "title": "改めて見たら「不合格」で発覚…名古屋市立大が入試の不合格者にも誤って2次試験案内を通知 発表直後の“1秒間”表示",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80ZmFORUx1bWFkUFYzc0hZdGFVaVhGaUg5RzkwbkJ2a1dDbFB0UWg1c0FsUXotUU1BTkRDYkttME8ydDlrd01xNDI2Z05Xdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:11:31+09:00",
-   "keywords": []
-  },
-  {
-   "id": "69469ff70e461e72",
-   "title": "木原官房長官“関文科相の説明重要 人事は総理が決めること”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de80043",
-   "source": "NHK 政治",
-   "published": "2026-11-22T19:09:11+09:00",
-   "keywords": []
-  },
-  {
-   "id": "33108005f75dd28e",
-   "title": "大雪のため国道で倒木相次ぎ一時孤立状態 除雪で通行止め解除33時間ぶり孤立状態解消 福島・北塩原村",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySGZHaDRXM3k0T1JBTmNBcDZIN0RqUkxXUVpwTk1mWUtWTmdLcmxzdUtxa2J4VnozbEtkZzFPTlB4R3ktZEVCdmdjdmlNNE5GMmZzZ0tYVTBONGxEeG9TU1lhUHM?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T19:09:00+09:00",
-   "keywords": [
-    "倒木",
-    "北塩原",
-    "国道",
-    "大雪",
-    "孤立状態",
-    "福島",
-    "通行止め"
-   ]
-  },
-  {
-   "id": "2ccc7ca14f58181e",
-   "title": "国民・玉木代表「事実と異なる説明、問責に値する」 関文科大臣の政治資金パーティーをめぐる問題で",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hQ3ZrRWlNLVRDOG0tR0phSThrSGc4dFF6RGUtNzhieXpUYjdCNnk2bjAtaTFrTTNXU24ycU9TWVhmSExtLUpaWG1rU1RhMWZmQzZVazg0azg3aUdHYlZxcE5MVUlVOGtMS3ZzUGRFeXpqYmUwSjFRdHh3cHUyejg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T19:08:12+09:00",
-   "keywords": [
-    "問責",
-    "国民",
-    "玉木"
-   ]
-  },
-  {
-   "id": "83783a00e09293d9",
-   "title": "「普天間」負担軽減会議 開催へ",
-   "url": "https://news.yahoo.co.jp/pickup/6603582?source=rss",
-   "source": "Yahoo 国内",
-   "published": "2026-11-22T19:07:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "5173f351cb8a1ca7",
-   "title": "横綱・大の里が2場所連続優勝に地元からも喜びの声…大相撲九州場所・千秋楽",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oOGsyN0JvUXp6bzFTUDI5TnVrXzRZa1BzZVREeEpsTkF2OGFFcmIwMDEtVFdLZ0V0LW9SV3FsSUd0aWFscHBHN2JsLVB2XzFSUVAyOTQydw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T19:07:00+09:00",
-   "keywords": [
-    "優勝"
-   ]
-  },
-  {
-   "id": "6884afaf636e995e",
-   "title": "中小企業サイトの脆弱性診断、価格3分の1 日本エンター3日で判定",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQVNlaE96UVU1clRBSXgyUE8zbE5wNHZUQk1ETEJpVzNhZ3ByZmRiWDFKd3dHWlhKcl84dE5VTS1Ia1VickpuT2xhbnlyd1pjaXpuRWhUNm11d1NjTm5PQkt5X0V2SmtYX0lxaA?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-11-22T19:02:17+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d12dd6bb2ca4e2ad",
-   "title": "小さく生まれた”リトルベビー”写真展",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nMHhuejFlQkRLOWhJZDJZdTJlRGE1M2wtYWU5bHRTYmlReHhtNkNaVkRvV0FCQ0hZM1YzSEZDcDIzanpTa1NLQlZGVkU5UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:02:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b5e310e040b038f2",
-   "title": "卵1パック312円で過去最高…それでも“食べ放題”継続のラーメン店 負担は月2万6000円増 鳥インフルでさらなる値上がり懸念も",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51dUxXNXBQS0h6Vmo0MmdHaERzSU9NMURqcWt4V2tBSFh0V3kxU3EzT255WDZGMkpla3IxUEdpT0h1eUxzT3RkVXhNNW1ZZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c0fd5f2ca82c2bbf",
-   "title": "「爆発音が聞こえ、車が燃えている」農道で軽自動車全焼 車内から身元不明の遺体見つかる（鳥取）",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yNXF4WEhLNFRNaXhjT0xGa1dMWlQyQl9YTFFaYlgxQ21TUnZ3M3BHbVkwVjk5SktrT21tcmZtYXpiYUJoWWU3M1Vad0VPQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T19:00:00+09:00",
-   "keywords": [
-    "遺体"
-   ]
-  },
-  {
-   "id": "31615e85a8c2d78b",
-   "title": "福島 国道459号の通行止め解除 北塩原村の孤立状態ほぼ解消",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de80050",
-   "source": "NHK 社会",
-   "published": "2026-11-22T18:57:00+09:00",
-   "keywords": [
-    "北塩原",
-    "国道",
-    "孤立状態",
-    "福島",
-    "通行止め"
-   ]
-  },
-  {
-   "id": "e1c02129c96d2000",
-   "title": "倒木で道路の通行止めも発生 長野県内の一部で大雪による停電が続く 湯たんぽを入れたこたつで寒さをしのぐ住民も",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wWm5QS2ZESTgwOTFiVVctTVc0cEtkZklFS08zRGEzVkF1M2lOZzBVbUtTV2VfRy1xRHNfbEpOc2drYVZJZXVuZkZnRzdxV2haUlJZbWtQbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T18:56:00+09:00",
-   "keywords": [
-    "住民",
-    "倒木",
-    "停電",
-    "大雪",
-    "通行止め"
-   ]
-  },
-  {
-   "id": "69c1fef156cc500e",
-   "title": "幕下の漣は負けて2勝5敗に 大相撲九州場所千秋楽 郷土力士結果",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWeXRtN0pBelpUcXRfdDczbVBxMVlHUldIaFVlaVNMTDhqMTZIRWNzbGFMUUFsZEJCNFJRU3VYelZWR29mSEJiWnZkS0lPZ0l3ME5zSFpqNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T18:53:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "69e24e6ddceefb4f",
-   "title": "なぜイチョウで“黄色のじゅうたん”が？ 秘密は「葉のつき方」と葉の水分 東京･明治神宮外苑のイチョウ並木が見ごろ【SUNトピ】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aWVpuM2x6UHphZjU2UzlUc01La3dpcUx4bWJMUEdzQnQzN2lmMGpDX082cElEUWxEZ2RZbGFyYWlfb21BWm5pQVoxTnB5RXM3dy1wR1gwVQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T18:50:33+09:00",
-   "keywords": []
-  },
-  {
-   "id": "278deaacfc3536e3",
-   "title": "社員の男性を車などに監禁か 中国籍の社長ら4人逮捕 警視庁（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PN01HUnI3WFlZeEpUY3JyY0d4d2Rpb2xJM20weWNEVjZOUng0aUJlSFlSN0duRmpHVVFwMVhGRWlPdjlac0NHQk5EVDhoeGR5SlREbXhDZkZtVmxiUjBHcmdFdC1wbUxqcGhwbGRsbHk2cTNWeWU4TFEtRzM3bzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:47:47+09:00",
-   "keywords": []
-  },
-  {
-   "id": "2d7d2ea7cf0b228a",
-   "title": "社員の男性を車などに監禁か 中国籍の社長ら4人逮捕 警視庁 (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1hpUThrX0FaTFhhbVRLVnB5TnJhWm51dmpvMGdNRC1oNUVCWlIwYzJidE9KTmVlb1d1SnpTT3BHeTJVNTFXdllTU3dqaUVrdXlXRVV5QjZqY3VXbGExMDVKMTBBdlRsYmt2eVMtYkdEMm5VMkVMSjZhaEJKMzNkZE1aazNKRlRRYWs0Z25n?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:47:47+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8d15279db71561af",
-   "title": "コドモもオトナも街あそび!大街道・銀天街がまるごと遊び場に「Mフェス」開催 愛媛",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCX3RLYlpRVXJITWtjeHQ1U0JuelVqSzd3ZGNOWjJ4NnRYQlVWS3d1MjVHNlJzNEJUZnF0NmhmN3BmVlRLdVlTVW5uSE5HaVJXR2lVSGE1Zw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T18:43:36+09:00",
-   "keywords": []
-  },
-  {
-   "id": "01004de472cc1fc0",
-   "title": "木原官房長官 普天間負担軽減の推進会議 年内にも開催の方針",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de80018",
-   "source": "NHK 社会",
-   "published": "2026-11-22T18:36:58+09:00",
-   "keywords": []
-  },
-  {
-   "id": "19a3c765475b4923",
-   "title": "【大相撲九州場所千秋楽】御嶽海（長野県上松町出身）は友風に勝利 ６勝９敗で場所を終える",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xR2EwRjFJbldhVjdjd2tZQktzYVJxQXpIc09vX3BuOHp0NzlkTy1JTXhDOThhaGhGVTNnTzItSFhWcENWTW9nRkRXMGx1NU8xdkVxS3RYc19qbUhsc3dKYVEweDg?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T18:35:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "78363776f25bc1d7",
-   "title": "竜王戦から一夜明け 藤井聡太竜王が６連覇の喜び語る",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03UjlOQ1VZazh0SHo3czJtbF9LMHVaOWtkNTdoMFhkeVdZbi1zcEZ2SExpWGxDbXhfTHNsblRHWlg3Nkl3YjJmLTVMVmVBeHFBSGZ6TTI1MA?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T18:32:00+09:00",
-   "keywords": [
-    "連覇"
-   ]
-  },
-  {
-   "id": "49eae7c64154d9e1",
-   "title": "プレミアリーグで日本人対決 坂元達裕 強烈ミドル",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhLMWxQdTU5d19QT015UTlJWVhIazlTUjVLQWdpMkotU2NDS2hFSXdVWjRLUzY5Tm43SG85OGxwQ3pXNlZqN0R2d0xDS0RlSzNVRDdZNENTSEJsZWcxaGthZ0xUXzFqSEVzVURUYXM?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T18:26:32+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0b6637ea1887c253",
-   "title": "島田麻央がグランプリファイナル進出 “圧巻V” シニア1年目で2戦2勝 (FNNプライムオンライン（フジテレビ系）)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUtpWU1FaWJ3eS14Y3k3a3NRQlBicmRoVnkwSURseUlsbjI0UDRnZjdISjJPNmV5T0xHME5pRWhlM2hqY3EyaV9SMFl1RXVQVUVRQkR0XzZVVVNzNFBrYWMzOTFNZm1ROUI4Um9HbWhZQkdYdWJVSy02VGFTQmJYQnRocTdwMHRUVmRqX3J3?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:26:21+09:00",
-   "keywords": []
-  },
-  {
-   "id": "78cab82a331e5c30",
-   "title": "プレミアリーグで日本人対決　坂元達裕 強烈ミドル",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVNTVXZzSk9JYUpFX2tQU3hFZ0RDVkdITW5Oa1NWaENRQkFZaWxHVkpUU1BYVWhQUWt2aUthZE9PcnF3VTkzcUM1dnAxSEpndVFHUlJLZnpSVDZSNm5vRHhha3NxN0l3bzVTNWZldnF5UXJXdmJYeDR1WWJPSXNHQnZHS0xBc2J4X3BvZtIBjAFBVV95cUxQSVNTVXZzSk9JYUpFX2tQU3hFZ0RDVkdITW5Oa1NWaENRQkFZaWxHVkpUU1BYVWhQUWt2aUthZE9PcnF3VTkzcUM1dnAxSEpndVFHUlJLZnpSVDZSNm5vRHhha3NxN0l3bzVTNWZldnF5UXJXdmJYeDR1WWJPSXNHQnZHS0xBc2J4X3BvZg?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-11-22T18:26:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7d0ff2527455a045",
-   "title": "雪による倒木で電線切れる…岐阜県の郡上市・高山市など5つの自治体計5300戸余りで停電 中部電力が復旧急ぐ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aUC1CaTNzSnRmcE5NNDBzRndzX0hETWRaVEhsczVzOTdhY2FZVmE4VHdlS1JpMzJLMWN1aE1tVVBSR0lQazdWdXFPYXJSQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:25:30+09:00",
-   "keywords": [
-    "倒木",
-    "停電"
-   ]
-  },
-  {
-   "id": "373f1a167d7902f1",
-   "title": "ダンロップフェニックス最終日 J.J.スポーン選手が優勝",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90Z1F4VGhpRG9WV2RxNUZUSk85QTN2SUVZbzJHYVlLMk1yZm9leHNqQXVUQWxreVdhRW56WHlyYWh1OWNDZFIwZXF2TnhNVlNUdEtmYUViOS1wcENMQ0VlWEh1TTU?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T18:23:00+09:00",
-   "keywords": [
-    "優勝"
-   ]
-  },
-  {
-   "id": "edab8ed43a684354",
-   "title": "吉田優利がバーディーラッシュ “年間女王”へ首位と1打差の2位 米女子ゴルフ3日目（FNNプライムオンライン（フジテレビ系））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVFJFQkU1V2kzUTMzdGZaMDg0WFVIaWN0Vl9UNHJSdlAzVFpTRS1Vbk9lczA2dEl1SjhiMzhETThCdDZfdl80MTFJemZ3aldPS2FOTzE0TEJfWWpMamM1WDJOSm1McGtjRmNBb2pLQjN6YjBoNlFDeW9IRmJLUjQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:21:26+09:00",
-   "keywords": [
-    "ゴルフ"
-   ]
-  },
-  {
-   "id": "6e958effebe010e4",
-   "title": "吉田優利がバーディーラッシュ “年間女王”へ首位と1打差の2位 米女子ゴルフ3日目",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hWVBKSTlMUElXSUg5clVyWFFla2VXMUJQVVE5SUl0M05ReWVHbnpvRmYyX2pnNkNpRmNaLVNvaW9fdlNPTGxYeHdkYXY2QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:21:00+09:00",
-   "keywords": [
-    "ゴルフ"
-   ]
-  },
-  {
-   "id": "9f74873de52f1ee8",
-   "title": "【速報】作業中の男性が倒れてきたガラスの下敷きになり死亡 新潟・柏崎刈羽原発",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHdGkwalZiYWphcXJGRWxaSExhWmRTSFB5UkpKYV9pWEV2WXZ4Nl9ZRFFoS3FKbUhJaDhoRjNNdnB3YmpOVUI4eWlsRV9VMUVKV3N5bUQxa1hZRnZDUXAySU91eXVOOUNiNlE3cFZJbVpuQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T18:20:23+09:00",
-   "keywords": [
-    "ガラス",
-    "下敷き"
-   ]
-  },
-  {
-   "id": "bf7870853c511899",
-   "title": "投票のため海外からの“弾丸帰省”も 台湾で今週末に4年に一度の統一地方選挙 かつては不正が横行…新作映画が描く民主化への転換点「中壢事件」（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYeHN4ZVdsdTdXMGhOcG5EdlpIVzNyN3ljVlY4a1N4UlFabWdLd19WZ3VRaF9acGJyZFRaVG5mRUxfNlgxM0s2SjhYSkJnYURPVzF6Tkl5NHppUzVkZThpd2ZLNnA1bGR5OFR0REdaSXNOLXlaa3VuSDZiOVNTNVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:20:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "61671f7ddf302756",
-   "title": "被害者が追跡し110番…酒に酔って乗用車を運転し停まっていた車に衝突して逃走か 74歳男逮捕「事故起こした覚えない」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLRy1NeEJCRzhNVDJnUFpLT0lmNWEzVElFZWhtUGhHNUhWV2lSZW5sNnFmc3NwclpnV3FYc1lfbzJxdlVBc0xzVGxBSzNTZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:19:19+09:00",
-   "keywords": [
-    "乗用車"
-   ]
-  },
-  {
-   "id": "783fe66a5e36f790",
-   "title": "バスケ熊本１２勝目、徳島１５勝 Ｂリーグワン",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CX3UtZkhTYTdyd2VvNFZkZThxeXBQQXlHV2I3dWtyRW5qbDVvRVF0LWpYM3VjbGtaM3Z4M3FHQUdYemtITWVtT0FPamRqOVN5dXM1b1dZYzNkVE4tSHc?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-11-22T18:18:45+09:00",
-   "keywords": []
-  },
-  {
-   "id": "8f56a7cfe6b93afb",
-   "title": "「炎と煙が見えて爆発音も…」自動車修理工場で事務所兼倉庫が焼ける火事 定休日でケガ人や逃げ遅れた人なし",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Uci1FSFdLMC14dnB2M2ktQTdXa2VXUTg1RUZPbU9aZlBmY2xhbEFfUUZtX1cxbGF4cjBMdXVyUGpKSklLNDVReDdRMVdfdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:18:42+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0a1efad85aceac9a",
-   "title": "3連休“中日”は行楽日和 「いい夫婦の日」夫に妻に“思いの丈”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0temMzaG9xanlMTHZ1RER2VFkwd3UySFNpVk5nLUVjN0RrWFlEMnZ2ZHItV2lXOExFeGM2S2JWX21ESVEtbFB2R3JLaElLRC03Z0ZxWUpLYUc5Mzh2T2hDckg4dmtLSEhXNkZub0RReUFmQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T18:16:34+09:00",
-   "keywords": [
-    "夫婦"
-   ]
-  },
-  {
-   "id": "fb8e4dee55b79e91",
-   "title": "千葉 印旛沼の堤防決壊 コメ作りに影響 鋭いトゲのオニビシも",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de79985",
-   "source": "NHK 社会",
-   "published": "2026-11-22T18:11:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "ffd32d995b18f080",
-   "title": "佳子さま 「少年の主張全国大会」へ 中学生スピーチに熱心に耳を傾けられる",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsTGo2OTM0TnB3VXpPQlc1bDRrZVNJeWFkelBZWGo2OE9DU1FHMmdITHo1QUxETmJBN1ZwTGEzYTQ4M0x3SjVwbEl3NG5TUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:11:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c2821ef16002e401",
-   "title": "若い人に佐賀市富士町の魅力知ってほしい 大学生らがコスプレイベント【佐賀県】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NWDVCMmRyNERtMjZyX25sbjRuM3hLWDUzcE12X3VNZVpLb1FrcW1wclA2dTZJVGl3X2picTQ1UndQYndKeVdrVXhka2cxUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:10:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0d3761325e0acb4e",
-   "title": "中日と巨人がＯＢ戦 プロ野球",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQ1JxMm94OGFjVHhRbUpVUHZyN092eVI5REViX0lwcUxkc0hBZk9ZS0dlX2ZqQ0ctQm5nSHk5SUlNVk1xaUI2VVZkU3ZUNjJ4dkRmYnF3?oc=5",
-   "source": "春日部経済新聞",
-   "published": "2026-11-22T18:09:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4690c268639e2fda",
-   "title": "【関東の天気】あす朝冷え込む 今季一番の寒さ 広く乾燥に注意",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZWhrc202YzFPUS05ckI5SDRDZWppTnJRMUdRTS05bEk3Q1VCcm5ybk9KQ0tDNkJPX3FsMVI2cVM2d3o3ZnNnNU9nZ1U2TFZCZV85RVpHQXhROHlMM2Y1ajg1cTg0SU04SjZDSmtuZFBpdw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T18:07:15+09:00",
-   "keywords": []
-  },
-  {
-   "id": "9d1002a80b22a6ec",
-   "title": "トンネルの両側にミサイルなどが一面に…イランが革命防衛隊のミサイル施設を公開 幹部「力で脅威に立ち向かうことに躊躇せず」強調 アメリカへの“けん制”報道も（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nQ3RIU3NrSnJuN0FURUd1cjJTc1VqVFFiVVZWbDlkUXRGXzVXVFlubDA5ZkFFTWs1RWp1a1RBWFZmOFZpYzFXXy1LZ21mMko4aDFjNHZNY2VKdV9PWnZRYW5sN2hxTnVicXBXMnJyVE5zellSSnRnbmFwdXY2Mlk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:07:09+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d91bdcb50dfb59b7",
-   "title": "佳子さま、少年の主張大会視察 東京・渋谷",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q3NyQ2VaT2ZTRF8wZW1zby1TM095cDZId3FuYU50VjlWWG43MFZNM0JCTmtKT0lHZXM2SFFXbHdoU2toTTBMeVR2c2VQbVc5NTk3N2VRZEc2bHpONEE?oc=5",
-   "source": "沖縄タイムス社",
-   "published": "2026-11-22T18:06:19+09:00",
-   "keywords": []
-  },
-  {
-   "id": "4d603fa28add79e0",
-   "title": "ソフトバンク、新ユニホーム発表 ２００５年以来、初の刷新（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hczNYcDVtN2FiLW1SalFBR1A4SUM0ZTRnU1g2WnZhLTdtSkpOVUFSZ2p6YWdoV3FKMGlqYUQ0UEJyYmhEWEJ3MmxZenk4VWc?oc=5",
-   "source": "熊本日日新聞社",
-   "published": "2026-11-22T18:05:30+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6607d481347e8e24",
-   "title": "元宝塚娘役が結婚を発表…「これからも感謝の気持ちを忘れず、私らしく歩んでまいりたい」",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZFNvNVBLNEVwN1JjSXFzYkFleTFzQTlJTTZHNDk3Wm5EVDZ5ZWhjWW9PT2JrcGJMOEV3dzZ0MXl4cEx1N2hmMllNLXp0bWdRMHVmVXZVcXFqRXhUa3lrZW5QWnZhMl9UR1Y5Q2wyMGw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T18:05:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "bd5c587c25917a0a",
-   "title": "秋の実りに感謝する新嘗祭前にみそぎ 12月上旬並みの寒さのなか川の水を浴び身を清める 宝船に仕立てた野菜は23日奉納へ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYdnNpNEFJY04xTEpINndhd3JTbV9vYzBNNlQzd3VRSzFNM3BrZTNNMFFORzBMSWxTTHZIME5PZHAzQXlYYXN3T3ZqOWFOdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:05:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "6a0b43d4b9bac65b",
-   "title": "「あんなに高く上がると思わずびっくり」圧巻!噴き上がる源泉の湯柱 河津町で大噴湯祭り開催",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tWGdReVZ6SDVodHpsR24zZ3N0QUlFa2VfRUtJMFJyWnBtVXo3X29KSEdEZXl5Wk0tSjkyYnpFNHZjLTN5OHhIMGZseFdQQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:05:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "57d59a510791eb28",
-   "title": "関東で火災相次ぐ 死者も 広い範囲に乾燥注意報",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMXlQOFRkaXUxZWhnclpXUG1WQ1d1aGl5NkV6dEJaSVd1VEU2OXJRdWxIN0Y3MVZmT2pEa05qWDJmSU5ZSU5YVTlLc0daOXhxWTk2VFNsR19CLUdjMG1jY2R2STRJemdmWUFNelpVYUdydw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T18:02:25+09:00",
-   "keywords": [
-    "火災"
-   ]
-  },
-  {
-   "id": "9fcaa68e1ccd1284",
-   "title": "鹿児島 グリーンファームでポニーの競馬大会",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwNjc1OXdjSzF3UGhkeEFvcUg5c0RlTlFmWV8zYXRmR0pUaEJWMGJFZkhUXzBpeWp4UkR6Z0t0bHlQN0RNR3FYVmZ3WFMtQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:02:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "f05a39260296cabb",
-   "title": "鹿児島 安納芋を使用したグルメの祭典",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KclgwdDRLd2pFbEMxZ2lfelk0WjN1WEE5Vlo0YU1maXNlRVRTLTE2TU5ncXZBVTNWRmlYbGF4ek9SQzk5VnpxR1pIVE4yZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:02:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "b9faf3ef542b96bf",
-   "title": "前橋市でのクマ出没めぐり マンホールから暗きょ内に無人カメラを投入 居場所特定へ 暗きょの出入り口や一部を塞ぎクマの“通り道”を限定（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVFFLYUZoUXMwZkJFOThyeXhlaGM4RnpfWnJrTFotaHN5Z3BkRk9PRFR6NFdJaUhaOXZOSVYycl95OGVkcmxoS0JxQXJ4dkMxS29UX1RyUzc4RXJzYmxIU21XYW84WHM1cG5ienlhR2xMbkxNLVF2b2c0aWVLak0?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:00:44+09:00",
-   "keywords": [
-    "クマ",
-    "前橋"
-   ]
-  },
-  {
-   "id": "169b87c750380be1",
-   "title": "「いくらかけ放題」「本格中華1200円食べ放題」都内で人気の格安ビュッフェ あばれる君＆外国人が徹底調査【それスタ】",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03bWVHblZtSUdRSHhVN1hBWHZoMnh4ek4xSllNeHN4UFJobHppbHB5c3FHaG5maDRJVER0RERnMGFwMmtnd2N4NDcxQXRDajdhMTR1R2p6bjNlYWxYYTNXM2tNbmdrRjc0SlMyYUNOUEs4bUNaM25RV1RXOTlSTkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T18:00:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "d760df57a3544e83",
-   "title": "「声掛け火事の時も生かせた」 大規模火災の佐賀関 地域住民が参加し防災訓練 大分",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iM1B4N29nZ1JqRnJvekxkV0RiSXM4WldPakYyUFk2X3ZfUXpWM0RCWlhramp3S1VZNVBJbVdhQzJDbHJJXzktRkticm55UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T18:00:00+09:00",
-   "keywords": [
-    "住民",
-    "火災"
-   ]
-  },
-  {
-   "id": "f842744c68180ae1",
-   "title": "「化石燃料からの脱却」めぐり対立続き延長2日目に 気候変動対策を話し合う「COP31」で中東諸国が反対表明…去年も合意文書に明記されず（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SHY4V2NqcGM3WFNSNDgtaUtiSGxzZ08xay1fQlJ6US1CbmQ4VDd6TkJjNzZ4aFZUTEZ4YTJ1NV9fYXVjcElKY0hGbEdwa1lSRWJ0eDRNODRLbFVrb3YzUG1pbXBUakUzRFdPd0hDeWJSUUkyaFpYNWFob1BfeDQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T17:58:56+09:00",
-   "keywords": [
-    "COP",
-    "化石"
-   ]
-  },
-  {
-   "id": "e35f01879e9abb7c",
-   "title": "首里城 焼失7年“復元で進化” 最新技術駆使 あす一般公開",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWnAzTW0wdjdwMENoYl8yQ3JNeWNad3p4UnlRWl9CM3F6UWFFUFI3b1hvYnBPTmdQNW5uTTl5V0pfV0JkSUVQSDdKSC1aamItdmRFUjNfamI0OEJORlBWaXVkOGViZ2pCaVN5TUYyUUJVQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T17:53:33+09:00",
-   "keywords": [
-    "焼失",
-    "首里"
-   ]
-  },
-  {
-   "id": "57768c0176b4eedb",
-   "title": "大雪の影響で約1400人が一時孤立…除雪進み約33時間ぶりに孤立状態解消 福島・北塩原村 一般車両の通行止めは午後6時に解除予定",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxemJsYW5pQXUwZkljWldLYXdfMU5MYlRRNjJwNE93SUQ0NHZJZFA1RlRLVldlTWR1SkI0ZXV4eUprOFhpTG1MUXl4OVpwVVpFVHJabEVqdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "published": "2026-11-22T17:53:29+09:00",
-   "keywords": [
-    "北塩原",
-    "大雪",
-    "福島",
-    "通行止め"
-   ]
-  },
-  {
-   "id": "3cb3bedba0d42992",
-   "title": "大阪･枚方市での3歳女児死亡事件 「もっとできることはなかったのか」保育園関係者が心境語る 市と大阪府には一時保護めぐり“検証”訴え（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVVdFbldKVkx1LURDM0VWaHA2MUxrWGJidXVxa3g4WHR1aVhKa3ZfRDRKR1drTm9JUk8wQjVNOGYta1U3eFp2bU8zRHZBVE9iX3FaaVlhNlJzMGdZNGlIYWY1OC15V1l4bkZPc2ZiX0FEanhIRkswdE1SMlRiVjQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T17:53:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "52d2f9de113503f6",
-   "title": "首里城正殿の完成式典 古謝知事「卓越した技と情熱が注がれた」 あすからの一般公開は事前予約制",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02M0tJVnhQaFV4UUlBYlRULXp2ZGZCZnh5aFk0eDhYS0s2LW1BZDVOV2lhalduRTFSdTBfME11empma0RJaG9mTzkzQ1o0UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T17:52:00+09:00",
-   "keywords": [
-    "正殿",
-    "首里"
-   ]
-  },
-  {
-   "id": "43e889e8a451c968",
-   "title": "3連休最終日は晴れ間が広がる 朝から高気圧に覆われてお出かけ日和となりそう",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KNTZfVlhpT0VwNUg2NnFhcFBJeElnT3pCWGF5bDJ0czQxZjk5TEM3aHRWTkgyaVRqT3FsZ2ZBYnM1cklRSDhsR0VYVjg3dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T17:50:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "7c9c9172f3b03ce8",
-   "title": "普天間会議、年内にも開催",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wVlhLLTJfV2ZXbm5pcW1GRkJRWFBacWt5V1BuZC0xRlJtNnZibDJUaktpd0RuaFBSSWUyeXBGUEx3dTRSUFJvamZtWV9hSU04dGc?oc=5",
-   "source": "秋田経済新聞",
-   "published": "2026-11-22T17:46:47+09:00",
-   "keywords": []
-  },
-  {
-   "id": "a756cb1934df57a9",
-   "title": "釣りをしていた男性らが相次ぎ転落 40代男性は死亡、ライフジャケット着用せず 20代男性は救助 島根・松江市",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPaDNLeWU3SGd2THBiQlZCd2xZVGhTVjRGcmZzTGFVaW16cW5VTTNjZkFlSmwyWlJFRzdLeGFYaXVZcGE1czY5TVRDemdkNnZ5MllGb2lvYUV3YVZBSG5tdnJfa2ZHQ21GVU42cVNYcWk1QUZEa0RZVXRaZGJfTG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T17:46:20+09:00",
-   "keywords": []
-  },
-  {
-   "id": "e3284ed3c4444509",
-   "title": "三原則例外 被爆者「言語道断だ」",
-   "url": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
-   "source": "Yahoo 国内",
-   "published": "2026-11-22T17:45:05+09:00",
-   "keywords": []
-  },
-  {
-   "id": "62f7cd23970e429f",
-   "title": "大雪の福島 約1000人“孤立” 連休直撃 温泉宿で営業中止も",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RaC00S0o2UUVJV3NTZjhiZFVGaTZ6ajlfd3F0a3FoNFlHOEktdnRPaDZVOHk3LWtVMnJuWkRJaTFzNXZ3WC16T04zVWJwSTVDdVNBNmNjbWk5V1hBZFFNZ0hhVmc0eFBNZDZ2bzBWTnJ2dw?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T17:44:35+09:00",
-   "keywords": [
-    "大雪",
-    "福島"
-   ]
-  },
-  {
-   "id": "3c1b4981ae4424b8",
-   "title": "大相撲九州場所 大の里が7回目の優勝 横綱昇進後初の連覇",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de79989",
-   "source": "NHK 主要",
-   "published": "2026-11-22T17:43:00+09:00",
-   "keywords": [
-    "優勝",
-    "連覇"
-   ]
-  },
-  {
-   "id": "66ba18c79b3429c3",
-   "title": "沖縄訪問中の木原官房長官が沖縄発展に向けての取り組み強調 古謝知事は国と県が協議する会議の早期開催を要望「目に見える形で負担軽減を」（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qbEdGS1luM0dlYjZUZEl0LUMyUHZfMWJVTjBwenc4dl9FSnllbWVmeUxlTDVZTVZtejhkTkdpbm1pOGhLNi1GVzU2bGZtNjJwa294Um85Uk5TYUVJUUhya1pTVThIUV82VlJZdEtOeTVRSk5JcEZ6T2tHNE1BRVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-22T17:42:40+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c8dd1df993da215b",
-   "title": "朝乃山10連勝ならず10勝5敗 来場所の三役入りに地元の期待高まる",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HeW1LcEFFMFh1SmdtVElkanQ0YTJsYjlKSmxRQXVJWGVZWDNDWlZYODhnX0hkTm5PYnF4bTNDcDRDNEtwcEVSNDN1Y01tZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-11-22T17:40:00+09:00",
-   "keywords": []
-  },
-  {
-   "id": "c3c5b258c2287919",
-   "title": "「エンデ」役【鈴木浩文】が脚本担当！ 『仮面ライダーマイス 十二支十色』「十二話」は11月29日（日）より配信！！｜ニュース｜仮面ライダーマイス",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTjA4eU5mVW1LT0tPRlJjZTl4aXdtR3hIelJrZGQxS0dLV3pWRHhPc1RhNFBXTFVqMGZvZ3pZTGcwVWl0NjZKZGtiaFN2VnFiLXhGNlNB?oc=5",
-   "source": "テレビ朝日",
-   "published": "2026-11-22T17:39:41+09:00",
-   "keywords": []
-  },
-  {
-   "id": "0a4dca9a01e07b08",
-   "title": "インドネシア 菓子工場で火災 15人救助も39人行方不明",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43MWFGRE9IOTdVOWRJaml4Wm94X3dfYVRiYzd5RGJRcFJsZGVicU1udzhGZ2hGdFR0ZlJRWWwtSDRXTWR6c01RSm9Nd1VKc0tvR0NTOTZOdkl3V01LQk5yRF9hN0hKZ1JwZjNBZFZUNFV2QVVjM3FJQmR3?oc=5",
-   "source": "テレ朝NEWS",
-   "published": "2026-11-22T17:38:28+09:00",
-   "keywords": [
-    "火災"
    ]
   }
  ]
